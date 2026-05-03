@@ -1,29 +1,12 @@
 {
-  "generated_at": "2026-05-03T21:16:33.675295+00:00",
+  "generated_at": "2026-05-03T21:23:59.581889+00:00",
   "date": "2026-05-03",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 500 Server Error: Internal Server Error for url: https://www.climatechangenews.com/feed/"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
+    "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Flash Update #22 - Escalation of hostilities in Lebanon (as of 30 April 2026)",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-22-escalation-hostilities-lebanon-30-april-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Since the announcement of the ceasefire on 17 April and recent extension, hostilities continued resulting in additional loss of lives. 24 per cent of the population are projected to face acute food insecurity between April and August 2026. 103 humanitarian movements including 19 convoys were facilitated delivering urgent assistance to conflict affected and hard-to-reach a",
-      "published": "2026-05-02T12:50:40+00:00",
-      "score": 19
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Gender Alert: Anticipated Flash Floods in Northeastern Bangladesh",
-      "url": "https://reliefweb.int/report/bangladesh/gender-alert-anticipated-flash-floods-northeastern-bangladesh",
-      "summary": "Country: Bangladesh Source: Asia Pacific Gender in Humanitarian Action Working Group Please refer to the attached file. Heavy to very heavy rainfall expected between 28–30 April 2026 anti9cipated to trigger flash floods across the haor basin in northeastern Bangladesh, particularly in Sunamganj, Sylhet, Moulvibazar, Habiganj, and Netrokona. An estimated 3 million people are at risk, including 1.5 million women, young children, older persons, and women with disabilities. The floods are likely to ",
-      "published": "2026-05-03T04:19:21+00:00",
-      "score": 18
-    },
     {
       "source": "BBC World",
       "category": "Politik",
@@ -34,33 +17,6 @@
       "score": 16
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Federated States of Micronesia: Typhoon Sinlaku - Humanitarian Snapshot (as of 2 May 2026)",
-      "url": "https://reliefweb.int/report/micronesia-federated-states/federated-states-micronesia-typhoon-sinlaku-humanitarian-snapshot-2-may-2026",
-      "summary": "Country: Micronesia (Federated States of) Sources: Government of the Federated States of Micronesia, UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. SITUATION OVERVIEW Typhoon Sinlaku triggered a state‑wide humanitarian emergency in Chuuk State after remaining over the lagoon area for approximately three days (9–12 April). During this period, the system intensified from a tropical depression (29 mph) to a Category 5 super typhoon, reaching peak winds of ",
-      "published": "2026-05-03T09:42:59+00:00",
-      "score": 16
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Sudan - Site Management Funding Gap Threatens Safety and Dignity in IDP Sites",
-      "url": "https://reliefweb.int/report/sudan/sudan-site-management-funding-gap-threatens-safety-and-dignity-idp-sites",
-      "summary": "Country: Sudan Source: CCCM Cluster Please refer to the attached file. The absence of Site Management is already undermining core protective functions in IDP sites, including service gap monitoring, community feedback, inclusive governance, referral follow‑up, site safety audits, and flood and fire risk mitigation. With 4.0 million IDPs in need of Site Management support and 1.7 million targeted, the consequences of inaction include rising GBV, eviction and HLP risks, reduced accountability, and",
-      "published": "2026-05-03T09:02:57+00:00",
-      "score": 16
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Federated States of Micronesia CDEOC Situation Report No. 8 - Tropical Storm Sinlaku (Chuuk State - May 01, 2026)",
-      "url": "https://reliefweb.int/report/micronesia-federated-states/federated-states-micronesia-cdeoc-situation-report-no-8-tropical-storm-sinlaku-chuuk-state-may-01-2026",
-      "summary": "Country: Micronesia (Federated States of) Source: Government of the Federated States of Micronesia Please refer to the attached file. For three days in early April 2026, Chuuk State and two municipalities in Yap were battered by Typhoon Sinlaku as it moved NW across the Pacific. Its enormous power brought it far to the north of the Pacific where it eventually dissipated on the 20th. It reached wind speeds of up to 177 mph on April 13 near Weno and its diameter covered a vast 113 miles. The Saffi",
-      "published": "2026-05-02T05:42:52+00:00",
-      "score": 16
-    },
-    {
       "source": "The Hacker News",
       "category": "Technik",
       "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
@@ -68,33 +24,6 @@
       "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO. Trend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053. The adversarial collective is assessed to",
       "published": "2026-05-01T14:02:00+00:00",
       "score": 15
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Somalia: Radio Ergo Weekly Feedback Report, Issued: 30 Apr 2026",
-      "url": "https://reliefweb.int/report/somalia/radio-ergo-weekly-feedback-report-issued-30-apr-2026",
-      "summary": "Country: Somalia Source: Radio Ergo Please refer to the attached file. Brief Analysis There were more calls about rainfall than about drought in the audience feedback captured on Radio Ergo’s independent nationwide call-in platform in the week 23-29 April 2026. Many callers said that water resources had been replenished, temperatures dropped, and welcome signs of recovery had returned. However, there were indications that rain though heavy in some southern parts was not evenly spread and may not",
-      "published": "2026-05-01T11:37:43+00:00",
-      "score": 15
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "WFP Iraq Country Brief, April 2026 (Reporting Period: February and March 2026)",
-      "url": "https://reliefweb.int/report/iraq/wfp-iraq-country-brief-april-2026-reporting-period-february-and-march-2026",
-      "summary": "Country: Iraq Source: World Food Programme Please refer to the attached file. IN NUMBERS 45,241 people assisted in February 2026 (53.6% female) 14,779 people assisted in March 2026 (58.7% female) USD 5.3M required in the next six months (April – September 2026) KEY HIGHLIGHTS Iraq continues to face severe climate impacts, including salinization, desertification, reduced river flows, and declining rainfall, that have degraded 12 million hectares of arable land. These pressures are undermining agr",
-      "published": "2026-05-03T11:58:48+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "WFP Türkiye Country Brief, April 2026 (Reporting period: March 2026)",
-      "url": "https://reliefweb.int/report/turkiye/wfp-turkiye-country-brief-april-2026-reporting-period-march-2026",
-      "summary": "Country: Türkiye Source: World Food Programme Please refer to the attached file. KEY HIGHLIGHTS During Ramadan, WFP piloted a ready-to-eat pouch distribution for some 3,055 refugees in four refugee camps—Adana, Elazig, Nizip, and Islahiye—as well as 5,670 Syrian returnees at two border crossings in Hatay and Kilis. Produced by a contracted supplier using wheat donated by Türkiye, 28,080 pouches were provided, containing bulgur with chickpeas and vegetables (in boxes containing 20 pouches each). ",
-      "published": "2026-05-03T11:21:28+00:00",
-      "score": 14
     },
     {
       "source": "BBC World",
@@ -121,15 +50,6 @@
       "url": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
       "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions. The clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and",
       "published": "2026-05-01T14:26:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Iran: WFP Middle East Regional Escalation Emergency Response External Situation Report #9, 3 May 2026",
-      "url": "https://reliefweb.int/report/iran-islamic-republic/wfp-middle-east-regional-escalation-emergency-response-external-situation-report-9-3-may-2026",
-      "summary": "Country: Iran (Islamic Republic of) Source: World Food Programme Please refer to the attached file. N NUMBERS 650,000 displaced people assisted in Lebanon with food and cash to date. 125,274 displaced people received date bars at Syria crossings. 33,500 refugees in settlement supported with food and cash assistance in Iran . KEY HIGHLIGHTS The ripple effects of the Middle East continue to threaten millions of already food‑insecure people worldwide with further erosion of their access to nutritio",
-      "published": "2026-05-03T14:36:02+00:00",
       "score": 13
     },
     {
@@ -277,24 +197,6 @@
       "score": 10
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Pakistan Market Monitor Report (February 2026)",
-      "url": "https://reliefweb.int/report/pakistan/pakistan-market-monitor-report-february-2026",
-      "summary": "Country: Pakistan Source: World Food Programme Please refer to the attached file. In January, the Consumer Price Index (CPI)-based Annual Headline Inflation reached 5.80 percent (YoY) , up from 5.61 percent (YoY) in December. Month on Month CPI increased by 0.39 percent in January 2026 compared to December 2025. Annual food inflation increased by 3.9 percent compared to January 2025. Wheat prices rose sharply in January 2026 compared to December 2025, while subsidized wheat flour registered a sl",
-      "published": "2026-05-02T19:02:02+00:00",
-      "score": 10
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Conflict Intensity, 2 March - 30 April 2026",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-2-march-30-april-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file.",
-      "published": "2026-05-01T17:22:11+00:00",
-      "score": 10
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
       "title": "Iran says US has responded to its latest peace proposal",
@@ -410,6 +312,105 @@
       "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter. Trellix did not disclose the",
       "published": "2026-05-02T06:41:00+00:00",
       "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
+      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
+      "published": "2026-04-30T16:31:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts. \"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
+      "published": "2026-04-30T12:36:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
+      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
+      "published": "2026-05-02T05:02:14+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK's biggest ever environmental pollution claim reaches High Court",
+      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
+      "published": "2026-04-26T23:01:47+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Electricity bills targeted in planned shakeup to energy pricing",
+      "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
+      "summary": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
+      "published": "2026-04-21T11:53:27+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Real impact on the ground’ needed as Indonesia backs UN reform",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167429",
+      "summary": "Indonesia is expecting a “strengthened multilateral system that delivers real impact on the ground,” as one of the key outcomes of the ongoing reform of the United Nations, that’s according to the country’s outgoing Deputy Minister of Foreign Affairs for Multilateral Cooperation, Tri Tharyat.",
+      "published": "2026-05-01T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Nuclear fears resurface among younger generations amid global tensions",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167426",
+      "summary": "The threat of nuclear Armageddon, a constant worry for many who grew up during the tense decades of the Cold War, is becoming a cause for concern for a growing number of young people.",
+      "published": "2026-05-01T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s STORIE Mission to Tell Tale of Earth’s Ring Current",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-storie-mission-to-tell-tale-of-earths-ring-current/",
+      "summary": "Earth’s magnetic field is like a powerful trap. It lures electrically charged particles in space, near our planet, and snares them in an invisible, doughnut-shaped pen around Earth known as the ring current. This captive swarm of charged particles plays an important role in how Earth reacts to changing conditions in space, called space weather, which […]",
+      "published": "2026-05-01T15:31:08+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Space Out This Summer with Variety of NASA STEM Activities",
+      "url": "https://www.nasa.gov/learning-resources/space-out-this-summer-with-variety-of-nasa-stem-activities/",
+      "summary": "Summer is “Go” for launch, and NASA has a universe of ways to help you to jump in, explore, and create! Whether you prefer to spend this season fueling your creativity, going outdoors into nature, or daydreaming about your future, NASA offers ways to take your interests to the next level. Here are some opportunities […]",
+      "published": "2026-05-01T14:03:30+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: a new Christian phone network, and debugging LLMs",
+      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
+      "published": "2026-05-01T12:10:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Trump’s mass firing just dealt another blow to American science",
+      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
+      "published": "2026-05-01T09:00:00+00:00",
+      "score": 8
     }
   ]
 }
