@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'de' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description | escape }}">
+    <title>{% if page.title %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    {% assign archive_pages = site.pages | where_exp: "item", "item.path contains 'archive/report-'" | sort: "path" | reverse %}
+
+    <header class="site-header">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <p>{{ site.description }}</p>
+    </header>
+
+    <div class="page-shell">
+      <aside class="archive-nav" aria-label="Archiv">
+        <a class="archive-home{% if page.path == 'README.md' %} active{% endif %}" href="{{ '/' | relative_url }}">Aktuell</a>
+        <h2>Archiv</h2>
+        <nav>
+          {% for item in archive_pages %}
+            {% assign date = item.path | remove: 'archive/report-' | remove: '.md' %}
+            <a{% if page.path == item.path %} class="active"{% endif %} href="{{ item.url | relative_url }}">Moira — {{ date }}</a>
+          {% endfor %}
+        </nav>
+      </aside>
+
+      <main class="content" id="content">
+        {{ content }}
+      </main>
+    </div>
+  </body>
+</html>

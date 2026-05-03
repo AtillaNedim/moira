@@ -1,3 +1,5 @@
 title: Moira
 description: Moira beobachtet die Welt und sammelt jeden Tag Spuren menschlicher Weiterentwicklung.
 theme: minima
+sass:
+  style: compressed
