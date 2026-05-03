@@ -129,6 +129,10 @@ a {
   letter-spacing: 0;
 }
 
+.content h1 + h1 {
+  display: none;
+}
+
 .content h2 {
   margin: 44px 0 18px;
   font-size: clamp(1.55rem, 3vw, 2.35rem);
