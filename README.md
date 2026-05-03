@@ -69,4 +69,4 @@ Dieser Song passt zur Stimmung dieses Tages, weil er von einer Zeit vor einer fu
 
 ---
 
-*Erstellt am 2026-05-03 um 12:00 MEZ — [Archiv](archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-05-03 um 12:00 MEZ — [Archiv]({{ '/archive/' | relative_url }}) · © 2026 Atilla. All rights reserved.*

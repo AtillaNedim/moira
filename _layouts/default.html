@@ -18,6 +18,7 @@
     <div class="page-shell">
       <aside class="archive-nav" aria-label="Archiv">
         <a class="archive-home{% if page.path == 'README.md' %} active{% endif %}" href="{{ '/' | relative_url }}">Aktuell</a>
+        <a class="github-link" href="{{ site.github_url }}" target="_blank" rel="noopener">GitHub</a>
         <h2>Archiv</h2>
         <nav>
           {% for item in archive_pages %}

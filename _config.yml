@@ -1,5 +1,11 @@
 title: Moira
 description: Moira beobachtet die Welt und sammelt jeden Tag Spuren menschlicher Weiterentwicklung.
+github_url: https://github.com/AtillaNedim/moira
 theme: minima
 sass:
   style: compressed
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
