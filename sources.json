@@ -1,21 +1,12 @@
 {
-  "generated_at": "2026-05-03T21:23:59.581889+00:00",
-  "date": "2026-05-03",
+  "generated_at": "2026-05-04T13:16:41.425424+00:00",
+  "date": "2026-05-04",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
-      "published": "2026-05-02T23:19:27+00:00",
-      "score": 16
-    },
     {
       "source": "The Hacker News",
       "category": "Technik",
@@ -35,12 +26,21 @@
       "score": 13
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
-      "published": "2026-05-03T08:41:23+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "2026: The Year of AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
+      "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan’s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, Japan's largest internet cafe chain. When asked, the young man shared his motivation for the hack: he wanted to buy Pokémon cards. In a sense, this is a fairly conventional story.",
+      "published": "2026-05-04T11:58:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
+      "url": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
+      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities. \"Both waves followed a nearly identical",
+      "published": "2026-05-04T11:57:00+00:00",
       "score": 13
     },
     {
@@ -55,6 +55,15 @@
     {
       "source": "BBC World",
       "category": "Politik",
+      "title": "European leaders converge on Armenia as Russia looks on",
+      "url": "https://www.bbc.com/news/articles/cgkp1124y3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two European summits are being held in a country long considered Russia's closest ally in the region.",
+      "published": "2026-05-03T23:19:05+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
       "title": "Police officer lowered into crocodile-infested river to recover human remains",
       "url": "https://www.bbc.com/news/articles/cz92gk18xn4o?at_medium=RSS&at_campaign=rss",
       "summary": "Police suspect the human remains belong to a businessman swept away by floodwater last week.",
@@ -64,28 +73,37 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
-      "published": "2026-05-03T06:26:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. between April and December 2023.",
-      "published": "2026-05-01T09:56:00+00:00",
+      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
+      "url": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
+      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel. The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the",
+      "published": "2026-05-04T09:27:00+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
-      "published": "2026-05-03T20:36:34+00:00",
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+      "published": "2026-05-04T09:49:05+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "published": "2026-05-03T08:41:23+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "LIVE: 2026 World Press Freedom Day",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167417",
+      "summary": "Media freedom is not a given and its absence frequently leaves communities and vulnerable individuals in danger. To mark World Press Freedom Day, we’ll be hearing from UN agencies, along with war correspondents and reporters who face major obstacles trying to do their job. The aim is to get a better understanding about what press freedom means in practice and why it is worth defending.",
+      "published": "2026-05-04T12:00:00+00:00",
       "score": 11
     },
     {
@@ -109,118 +127,82 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\".",
-      "published": "2026-05-02T23:17:17+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Concern for jailed Iranian Nobel laureate as brother fears she is dying",
-      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
-      "published": "2026-05-03T14:44:04+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Two US service members reported missing in Morocco, officials say",
-      "url": "https://www.bbc.com/news/articles/cn7prznmllko?at_medium=RSS&at_campaign=rss",
-      "summary": "A search and rescue operation is underway for the service members, who are believed to have been involved in an accident, according to authorities.",
-      "published": "2026-05-03T17:27:21+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Attacks on media workers must end, UN urges",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167424",
-      "summary": "War in the Middle East has made Lebanon the deadliest country for media workers so far this year, but practically no country offers a safe environment in which to be a journalist, according to the UN High Commissioner for Human Rights.",
-      "published": "2026-05-01T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Middle East crisis puts aid, food, fuel further out of reach for millions already struggling – UN agencies",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167422",
-      "summary": "As the Middle East crisis continues the humanitarian fallout is worsening, with aid route disruptions and food and fuel price hikes wrecking the lives and the rights of the most vulnerable people worldwide, UN agencies warned on Friday.",
-      "published": "2026-05-01T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "MIDDLE EAST LIVE 1 May: Strain on food, fuel and aid systems continues",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167421",
-      "summary": "The strain on food, fuel and aid systems worldwide continues as the Middle East crisis deepens. Rising oil prices, supply disruptions and mounting transport costs are affecting humanitarian operations and access to essential goods far beyond the region. Stay with us this Friday for live updates.",
-      "published": "2026-05-01T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Displacement in South Sudan, fraud centres in the Philippines, new migration patterns in Latin America",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167419",
-      "summary": "In South Sudan, the UN aid coordination office [OCHA] reported on Thursday that conflict and flooding continue to drive displacement and food insecurity higher throughout the country.",
-      "published": "2026-04-30T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Hubble Spots a Starry Spiral",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-spots-a-starry-spiral/",
-      "summary": "In this new picture from NASA’s Hubble Space Telescope, a spiral galaxy glittering with star clusters is the center of attention. NGC 3137 is located 53 million light-years away in the constellation Antlia (the Air Pump). As a nearby spiral galaxy, this target offers astronomers an excellent opportunity to study the cycle of stellar birth and death, […]",
-      "published": "2026-05-01T11:48:55+00:00",
+      "title": "New alliances shakes up Nigerian political landscape",
+      "url": "https://www.bbc.com/news/articles/c0q20xzwppdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Peter Obi and Rabiu Kwankwaso, who came third and fourth respectively in the last elections, switch parties.",
+      "published": "2026-05-04T12:39:31+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
-      "url": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
-      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs. This execution gap is where most deals stall. MSPs often focus on",
-      "published": "2026-05-01T10:30:00+00:00",
+      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
+      "url": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
+      "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses. The crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal",
+      "published": "2026-05-04T05:59:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of",
-      "published": "2026-05-01T09:43:00+00:00",
+      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
+      "published": "2026-05-03T06:26:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "url": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. between April and December 2023.",
+      "published": "2026-05-01T09:56:00+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Iran says US has responded to its latest peace proposal",
-      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-      "published": "2026-05-03T20:25:25+00:00",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
+      "published": "2026-05-04T13:11:03+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Nigeria summons South African envoy over attacks on its nationals",
-      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
-      "published": "2026-05-03T10:16:01+00:00",
+      "title": "Modi's BJP conquers Bengal, one of India's toughest political frontiers",
+      "url": "https://www.bbc.com/news/articles/ce8pdvp5x5ro?at_medium=RSS&at_campaign=rss",
+      "summary": "West Bengal’s verdict could reshape not just the state’s politics, but the future trajectory of Modi’s BJP.",
+      "published": "2026-05-04T11:59:58+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Man charged with murder and sexual assault of 5-year-old Australian girl",
-      "url": "https://www.bbc.com/news/articles/cy92qennznjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The girl's death sparked an outbreak of violence in the central Australian town from where she disappeared.",
-      "published": "2026-05-03T05:52:09+00:00",
+      "title": "Antisemitism 'allowed to come into the open' says Bondi victim's daughter",
+      "url": "https://www.bbc.com/news/articles/c1m2rk209mzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sheina Gutnick was the first person to give evidence at the royal commission investigating the attack.",
+      "published": "2026-05-04T04:12:04+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Amsterdam bans public adverts for meat and fossil fuels",
+      "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local politicians say the move is in line with the Dutch capital's environmental targets.",
+      "published": "2026-05-03T23:07:44+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Three dead in suspected hantavirus infection outbreak on cruise ship: WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167431",
+      "summary": "Three people have died and three others are ill following suspected cases of hantavirus infection on a cruise ship in the Atlantic, the World Health Organization (WHO) said on Sunday.",
+      "published": "2026-05-03T12:00:00+00:00",
       "score": 9
     },
     {
@@ -230,24 +212,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167423",
       "summary": "Demining experts from around the world have been sharing their collective shock at the widespread and growing threat from unexploded ordnance, the new head of the UN Mine Action Service (UNMAS) said this week.",
       "published": "2026-05-02T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Aung San Suu Kyi released from prison, Israel’s new death penalty, Cambodia convictions, healthcare inequalities in South America",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167428",
-      "summary": "Myanmar State Counsellor Aung San Suu Kyi has been transferred from prison to house arrest, with her sentence reduced under a prisoner amnesty linked to a Buddhist holiday.",
-      "published": "2026-05-01T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Lebanon strikes deepen crisis as hunger rises and conditions worsen in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167418",
-      "summary": "At least nine people were reported to have been killed in southern Lebanon on Thursday, as ongoing hostilities continue to exact a heavy toll on civilians and drive a worsening humanitarian crisis marked by rising hunger and strained public services.",
-      "published": "2026-04-30T12:00:00+00:00",
       "score": 9
     },
     {
@@ -289,15 +253,6 @@
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "url": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
-      "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will…",
-      "published": "2026-05-01T10:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
       "title": "The Download: the North Pole’s future and humanoid data",
       "url": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treacherous trip through ice many meters thick. But last year, a research vessel…",
@@ -314,39 +269,21 @@
       "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "url": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
-      "published": "2026-04-30T16:31:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "url": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts. \"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
-      "published": "2026-04-30T12:36:00+00:00",
-      "score": 9
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
+      "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
+      "published": "2026-05-04T08:43:06+00:00",
+      "score": 8
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "'If we sleep, they bite': Rats and weasels infest camps for displaced Gazans",
-      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases.",
-      "published": "2026-05-02T05:02:14+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "UK's biggest ever environmental pollution claim reaches High Court",
-      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
-      "published": "2026-04-26T23:01:47+00:00",
+      "title": "North Korean side to make rare trip to South Korea",
+      "url": "https://www.bbc.com/sport/football/articles/cx216122kv1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A team of North Korean footballers will make a rare visit to South Korea later this month.",
+      "published": "2026-05-04T05:58:28+00:00",
       "score": 8
     },
     {
@@ -361,18 +298,27 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘Real impact on the ground’ needed as Indonesia backs UN reform",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167429",
-      "summary": "Indonesia is expecting a “strengthened multilateral system that delivers real impact on the ground,” as one of the key outcomes of the ongoing reform of the United Nations, that’s according to the country’s outgoing Deputy Minister of Foreign Affairs for Multilateral Cooperation, Tri Tharyat.",
+      "title": "Attacks on media workers must end, UN urges",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167424",
+      "summary": "War in the Middle East has made Lebanon the deadliest country for media workers so far this year, but practically no country offers a safe environment in which to be a journalist, according to the UN High Commissioner for Human Rights.",
       "published": "2026-05-01T12:00:00+00:00",
       "score": 8
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Nuclear fears resurface among younger generations amid global tensions",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167426",
-      "summary": "The threat of nuclear Armageddon, a constant worry for many who grew up during the tense decades of the Cold War, is becoming a cause for concern for a growing number of young people.",
+      "title": "Middle East crisis puts aid, food, fuel further out of reach for millions already struggling – UN agencies",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167422",
+      "summary": "As the Middle East crisis continues the humanitarian fallout is worsening, with aid route disruptions and food and fuel price hikes wrecking the lives and the rights of the most vulnerable people worldwide, UN agencies warned on Friday.",
+      "published": "2026-05-01T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "MIDDLE EAST LIVE 1 May: Strain on food, fuel and aid systems continues",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167421",
+      "summary": "The strain on food, fuel and aid systems worldwide continues as the Middle East crisis deepens. Rising oil prices, supply disruptions and mounting transport costs are affecting humanitarian operations and access to essential goods far beyond the region. Stay with us this Friday for live updates.",
       "published": "2026-05-01T12:00:00+00:00",
       "score": 8
     },
@@ -397,20 +343,74 @@
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "url": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
-      "published": "2026-05-01T12:10:00+00:00",
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "url": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico…",
+      "published": "2026-04-30T15:59:41+00:00",
       "score": 8
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "Trump’s mass firing just dealt another blow to American science",
-      "url": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
-      "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
-      "published": "2026-05-01T09:00:00+00:00",
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are",
+      "published": "2026-05-01T18:09:00+00:00",
       "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "url": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs. This execution gap is where most deals stall. MSPs often focus on",
+      "published": "2026-05-01T10:30:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
+      "url": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
+      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of",
+      "published": "2026-05-01T09:43:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 1 May 2026: Countries chart path away from fossil fuels | China’s clean-tech surge | Global forest loss slows",
+      "url": "https://www.carbonbrief.org/debriefed-1-may-2026-countries-chart-path-away-from-fossil-fuels-chinas-clean-tech-surge-global-forest-loss-slows/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 1 May 2026: Countries chart path away from fossil fuels | China’s clean-tech surge | Global forest loss slows appeared first on Carbon Brief .",
+      "published": "2026-05-01T15:28:36+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Is this the real face of Anne Boleyn?",
+      "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
+      "summary": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
+      "published": "2026-05-01T23:01:44+00:00",
+      "score": 7
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Global forest loss slows but El Niño fires could threaten progress",
+      "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss",
+      "summary": "The loss of tropical rainforests eased last year, according to new analysis, but scientists warn they are still disappearing rapidly.",
+      "published": "2026-04-29T13:26:08+00:00",
+      "score": 7
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK's biggest ever environmental pollution claim reaches High Court",
+      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
+      "published": "2026-04-26T23:01:47+00:00",
+      "score": 7
     }
   ]
 }
