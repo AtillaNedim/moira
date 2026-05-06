@@ -1,76 +1,66 @@
-# Moira — 2026-05-05
+# Moira — 2026-05-06
 
 ## 🌍 Umwelt
 
-Die internationale Staatengemeinschaft ist nach Einschätzung von Beobachtern wieder auf Kurs, um einen Rahmen zur Begrenzung der Emissionen der globalen Schifffahrt zu verabschieden. Nach einer Phase der Unsicherheit zeichnet sich ab, dass die Verhandlungen über ein Netto-Null-Ziel für die Schifffahrt wieder vorankommen. Die genauen Inhalte des Abkommens und der Zeitplan für die Umsetzung sind in den vorliegenden Quellen nicht im Detail ausgeführt, doch die Richtung scheint klar: Der Sektor, der für einen signifikanten Anteil der globalen Treibhausgasemissionen verantwortlich ist, soll eine verbindliche Klimastrategie erhalten. Die Einigung wäre ein wichtiger Schritt, da die Schifffahrt bislang in vielen nationalen Klimaplänen nur unzureichend berücksichtigt wurde.
+Der Vulkan Shiveluch auf der russischen Halbinsel Kamtschatka zeigt weiterhin nahezu konstante Aktivität. Satellitenaufnahmen dokumentieren schmelzenden Schnee auf dem Vulkan, ein saisonales Phänomen, das durch die anhaltende Wärmeabgabe des Vulkans verstärkt wird. Die genauen Auswirkungen auf die lokale Umwelt lassen sich aus den vorliegenden Quellen nicht im Detail beziffern, aber die anhaltende Aktivität dieses Stratovulkans wird seit Monaten beobachtet.
 
 ## 🔬 Wissenschaft
 
-Das Hubble-Weltraumteleskop hat eine neue Aufnahme der Spiralgalaxie NGC 3137 veröffentlicht, die 53 Millionen Lichtjahre von der Erde entfernt im Sternbild Luftpumpe liegt. Die Galaxie bietet Astronomen die Möglichkeit, den Kreislauf von Sternentstehung und -tod genauer zu untersuchen. Es handelt sich um eine Routinemessung, die jedoch das kontinuierliche wissenschaftliche Arbeiten des Teleskops belegt.
+Die NASA hat mehrere bedeutende wissenschaftliche Entwicklungen gemeldet. Eine neue Studie, veröffentlicht in Nature Communications, zeigt, dass frühes Leben auf der Erde vor mehr als drei Milliarden Jahren auf das Metall Molybdän angewiesen war, das zu jener Zeit in der Umwelt extrem selten vorkam. Dies ist der erste Nachweis, dass Molybdän von urzeitlichem Leben in dieser frühen Phase der Erdgeschichte genutzt wurde. Die Forschung wurde von der NASA finanziert und wirft neue Fragen darüber auf, wie Leben unter Bedingungen extremer Ressourcenknappheit überleben konnte.
 
-Die NASA hat bekannt gegeben, dass Irland und Malta dem Artemis-Abkommen beigetreten sind. Irland ist bereits langjähriges Mitglied der Europäischen Weltraumorganisation, Malta wurde der 65. Unterzeichnerstaat. Die Abkommen verpflichten die Unterzeichner zur verantwortungsvollen Erforschung des Weltraums. Die Beitritte zweier weiterer europäischer Staaten zeigen, dass das Abkommen weiterhin Zulauf erhält, auch wenn die konkreten rechtlichen Verpflichtungen vergleichsweise vage bleiben.
+Der Mars-Rover Perseverance hat eine umfassende 360-Grad-Panoramaaufnahme einer Region namens „Crocodile Bridge“ am Rand des Jezero-Kraters erstellt. Das Panorama besteht aus 980 Einzelbildern, die größtenteils im Dezember 2025 aufgenommen wurden. Der Rover Curiosity hatte derweil technische Schwierigkeiten: Ein Gesteinsbrocken blieb an seinem Bohrer haften, konnte aber durch Bewegung des Roboterarms und mehrmaliges Betreiben des Bohrers erfolgreich entfernt werden.
 
-Die NASA fördert zudem die Entwicklung von Technologien zur Gewinnung von Ressourcen aus dem Mondboden, darunter Wasserstoff und Helium-3. Dieses Verfahren, bekannt als In-Situ-Ressourcennutzung, soll langfristige Missionen auf dem Mond und dem Mars ermöglichen. Die Technologie befindet sich in der Entwicklungsphase, konkrete Einsatztermine sind nicht genannt.
-
-Eine Studie mit Daten des TESS-Weltraumteleskops hat mehr als zwei Dutzend Kandidaten für Exoplaneten identifiziert. Die Methode nutzt die gegenseitige Verdunkelung von Doppelsternen, um Planeten zu entdecken, die mit herkömmlichen Verfahren nicht sichtbar wären. TESS hat bislang 885 bestätigte Exoplaneten und über 7.900 Kandidaten gefunden. Die neue Methode erweitert das Suchspektrum, die Kandidaten müssen jedoch noch bestätigt werden.
-
-Die unbemannte Mondlandefähre Endurance von Blue Origin hat ihre Tests in der Vakuumkammer der NASA abgeschlossen. Es handelt sich um eine kommerzielle Demonstrationsmission im Rahmen einer öffentlich-privaten Partnerschaft. Der genaue Starttermin ist nicht genannt.
+Bemerkenswert ist auch die Meldung, dass mehr als 650 Freiwillige, die an NASA-Bürgerwissenschaftsprojekten teilgenommen haben, inzwischen als Koautoren von peer-reviewten wissenschaftlichen Arbeiten gelistet sind. Dies unterstreicht die wachsende Bedeutung von Citizen Science für die wissenschaftliche Forschung.
 
 ## ⚙️ Technik
 
-Eine Sicherheitsanalyse von über einer Million öffentlich zugänglicher KI-Dienste hat erhebliche Sicherheitslücken offengelegt. Die Untersuchung zeigt, dass Unternehmen bei der Selbstbereitstellung von KI-Infrastruktur häufig Sicherheitsstandards vernachlässigen, um schneller liefern zu können. Die Ergebnisse sind ein Hinweis darauf, dass die Geschwindigkeit der KI-Einführung zu Lasten der Sicherheit geht, ohne dass die genauen Schwachstellen im Einzelnen benannt werden.
+Mehrere kritische Sicherheitslücken wurden am heutigen Tag bekannt. Palo Alto Networks warnt vor einer aktiven Ausnutzung einer Schwachstelle in der PAN-OS-Software, die als CVE-2026-0300 geführt wird. Es handelt sich um eine Pufferüberlauf-Schwachstelle, die eine nicht authentifizierte Remote-Code-Ausführung ermöglicht und einen CVSS-Score von 9,3 erreicht, wenn das User-ID Authentication Portal aus dem Internet erreichbar ist.
 
-Die nordkoreanische Hackergruppe ScarCruft hat eine Videospielplattform kompromittiert und mit einem Schadprogramm namens BirdCall infiziert. Der Angriff zielte vermutlich auf ethnische Koreaner in China ab und betraf sowohl Android- als auch Windows-Systeme. Es handelt sich um einen Lieferkettenangriff, bei dem legitime Softwarekomponenten durch schadhafte Versionen ersetzt wurden.
+Die Apache Software Foundation hat Sicherheitsupdates für den HTTP-Server veröffentlicht, darunter eine schwerwiegende Schwachstelle mit der Kennung CVE-2026-23918. Diese betrifft die HTTP/2-Protokollverarbeitung und könnte potenziell zu Remote-Code-Ausführung führen.
 
-Das Softwareunternehmen Progress hat Sicherheitsupdates für MOVEit Automation veröffentlicht, darunter eine kritische Schwachstelle, die eine Umgehung der Authentifizierung ermöglicht. MOVEit wird in Unternehmen zur automatisierten Dateiübertragung eingesetzt. Die Schwachstelle ist behoben, eine aktive Ausnutzung wird in den Quellen nicht bestätigt.
+Eine bislang unbekannte Supply-Chain-Attacke hat die Installationsprogramme der Software DAEMON Tools kompromittiert. Laut Kaspersky-Forschern wurden die Installer von der legitimen Website der Software verteilt und waren mit gültigen digitalen Signaturen versehen, enthielten jedoch schädliche Nutzlasten.
 
-Zwei weitere kritische Sicherheitslücken werden aktiv ausgenutzt: Eine Schwachstelle im Content-Management-System MetInfo (CVE-2026-29014) mit einem CVSS-Wert von 9,8 ermöglicht die Ausführung von Code ohne Authentifizierung. Ebenfalls aktiv ausgenutzt wird eine Schwachstelle in der Unternehmenssoftware Weaver E-cology (CVE-2026-22679), ebenfalls mit einem CVSS-Wert von 9,8. Beide Lücken betreffen Systeme, die in Unternehmen weit verbreitet sind.
-
-Der Prozess zwischen Elon Musk und Sam Altman vor Gericht in Oakland, Kalifornien, hat begonnen. Musk verklagt OpenAI und wirft dem Unternehmen vor, die ursprüngliche gemeinnützige Ausrichtung verlassen zu haben. Die erste Verhandlungswoche ist abgeschlossen, ein Urteil steht noch aus. Der Fall hat grundsätzliche Bedeutung für die Frage, wie KI-Unternehmen ihre Rechtsform und ihre Gemeinnützigkeitsversprechen gestalten dürfen.
-
-Ein Beitrag des MIT Technology Review skizziert, wie KI genutzt werden könnte, um demokratische Prozesse zu stärken. Der Autor argumentiert, dass Veränderungen in der Informationsverbreitung historisch immer wieder zu neuen Regierungsformen geführt haben – vom Buchdruck über den Telegrafen bis zum Rundfunk. KI könnte demnach eine ähnliche transformierende Wirkung entfalten, wenn sie bewusst für demokratische Zwecke eingesetzt wird.
+Google hat eine erweiterte Binary-Transparency-Funktion für Android angekündigt, die den Ökosystem vor Supply-Chain-Angriffen schützen soll. Ein öffentliches Hauptbuch soll sicherstellen, dass die Google-Apps auf den Geräten der Nutzer genau dem entsprechen, was das Unternehmen entwickelt und verteilt hat.
 
 ## 🏛️ Politik
 
-Ein ukrainischer Drohnenangriff hat ein Hochhaus im vornehmen Moskauer Stadtteil getroffen, wie die BBC berichtet. Der Angriff erfolgte kurz vor den Feierlichkeiten zum russischen Siegestag. Russland hatte zuvor eine einseitige Waffenruhe für die Feierlichkeiten erklärt und mit einem massiven Angriff auf das Zentrum Kiews gedroht, falls die Ruhe gestört werde. Die Lage bleibt angespannt, die genauen Folgen des Angriffs sind nicht vollständig geklärt.
+Die Ukraine hat angekündigt, am 6. Mai eine Waffenruhe zu beginnen und sich dabei „symmetrisch“ zu verhalten, nachdem Moskau eine Feuerpause für seine Siegesparade erklärt hatte. Russische Angriffe haben nach Angaben aus Kiew in den vergangenen Tagen mehr als 20 Menschen getötet.
 
-Drei russische Diplomaten wurden aus Österreich ausgewiesen, weil sie der Spionage beschuldigt werden. Der österreichische Außenminister erklärte, die Diplomaten hätten mit einer „Wald von Antennen“ auf den Dächern diplomatischer Gebäude Informationen gesammelt. Es handelt sich um einen vergleichsweise seltenen öffentlichen Ausweisungsvorgang, der die angespannten Beziehungen zwischen Russland und Europa weiter belastet.
-
-Ein amtlicher Untersuchungsbericht zu dem Absturz einer Boeing 737 in China im Jahr 2022 hat ergeben, dass die Maschine aufgrund einer Unterbrechung der Treibstoffzufuhr abstürzte. Alle 132 Menschen an Bord kamen ums Leben. Die genaue Ursache der Treibstoffunterbrechung wird in den Quellen nicht genannt.
-
-Bei einer Explosion in einer Feuerwerksfabrik in der chinesischen Provinz Hunan sind 26 Menschen ums Leben gekommen und 61 weitere verletzt worden. Die Ursache des Unglücks ist nicht bekannt.
-
-In der deutschen Stadt Leipzig fuhr ein 33-jähriger deutscher Staatsbürger mit einem Auto in eine Menschenmenge. Zwei Menschen wurden getötet, mehrere weitere verletzt. Der Täter wurde festgenommen. Die Hintergründe der Tat sind nicht bekannt.
-
-Ein zweiter Fall von Hantavirus-Infektion wurde auf einem Kreuzfahrtschiff bestätigt. Nach Angaben des Schiffsbetreibers sind ein niederländisches Paar und ein deutscher Staatsbürger gestorben. Die Weltgesundheitsorganisation hat eine internationale Gesundheitsreaktion eingeleitet. Die Möglichkeit einer Übertragung von Mensch zu Mensch an Bord kann nicht ausgeschlossen werden, auch wenn diese selten ist.
-
-Der bekannte australische Autor Craig Silvey, Verfasser der Romane „Jasper Jones“ und „Runt“, hat sich vor Gericht der Besitzes von kinderpornografischem Material schuldig bekannt. Er war im Januar bei einer Razzia in seinem Haus in Perth festgenommen worden.
+Apple hat sich in einem Rechtsstreit um die Werbung für seine KI-Funktion Apple Intelligence bereit erklärt, Zahlungen von bis zu 95 US-Dollar an bestimmte iPhone-Käufer in den USA zu leisten. Die Sammelklage aus dem vergangenen Jahr hatte dem Unternehmen vorgeworfen, Käufer mit irreführender Werbung getäuscht zu haben.
 
 ## 🌐 Geopolitische Lage
 
-Die Vereinten Nationen haben ihre grenzüberschreitenden humanitären Operationen von der Türkei nach Syrien offiziell beendet. Die Mission dauerte elf Jahre und war eine der komplexesten Versorgungsketten in der Geschichte der Organisation. Über 65.000 lebensrettende Fahrten wurden durchgeführt. Das Ende der Operation wirft Fragen zur weiteren humanitären Versorgung in Syrien auf, die in den Quellen nicht beantwortet werden.
+Die Lage im Persischen Golf bleibt angespannt. Der chinesische Außenminister Wang Yi führt Gespräche mit dem iranischen Außenminister Araghchi, der sich auf seiner ersten Reise nach China seit Beginn des Krieges befindet. China hat dabei gefordert, die Straße von Hormus „so bald wie möglich“ wieder zu öffnen.
 
-Im Libanon wird die fragile Waffenruhe durch erneute Gewalt und wachsende humanitäre Notlagen auf die Probe gestellt. Die Vereinten Nationen berichten von anhaltender Vertreibung der Zivilbevölkerung, überlasteten öffentlichen Diensten und Kürzungen der Hilfsgelder. Die Lage bleibt instabil, konkrete Angaben zu den Kämpfen liegen nicht vor.
+Gleichzeitig gibt es Berichte über eine mögliche Einigung zwischen den USA und Iran, die zu fallenden Ölpreisen und steigenden Aktienmärkten geführt haben. US-Präsident Trump hatte zuvor eine Operation namens „Project Freedom“ in der Straße von Hormus angekündigt, die nach ihrem Beginn am Montag jedoch pausiert wurde. Der UN-Sicherheitsexperte Jeremy Bowen warnt, dass die aktuelle Pattsituation das Risiko eines erneuten Ausbruchs eines umfassenden Krieges erhöht.
 
-Die Besorgnis über den Gesundheitszustand der inhaftierten iranischen Friedensnobelpreisträgerin Narges Mohammadi wächst. Sie wird Berichten zufolge zusammen mit besonders gefährlichen Straftätern festgehalten. Die genauen Umstände ihrer Haft sind nicht unabhängig überprüfbar.
+Die Vereinten Nationen haben ihre grenzüberschreitenden humanitären Operationen von der Türkei nach Syrien offiziell beendet. Die Mission, die als eine der komplexesten Lieferketten in der Geschichte der Organisation galt, diente elf Jahre lang als Lebensader für Millionen von Menschen.
 
 ## ⚔️ Krieg
 
-Die fragile Waffenruhe im Libanon wird durch erneute Kämpfe und anhaltende Vertreibungen belastet. Die humanitäre Lage verschlechtert sich, Hilfsgelder werden gekürzt. Die genauen Frontverläufe und Opferzahlen sind in den Quellen nicht beziffert.
+Die humanitäre Lage in mehreren Konfliktregionen bleibt kritisch. In der ukrainischen Stadt Oleshky sind die Bewohner seit Monaten von frischen Lebensmittel- und Medikamentenlieferungen abgeschnitten. Zivilisten stehen vor der Entscheidung, in der belagerten Stadt zu bleiben oder die gefährliche Fluchtroute anzutreten, die als „Straße des Todes“ bekannt ist.
 
-Die Vereinten Nationen haben ihre grenzüberschreitenden Hilfslieferungen von der Türkei nach Syrien nach elf Jahren eingestellt. Die Route war eine der wichtigsten Lebensadern für die Versorgung der Bevölkerung in Nordwestsyrien. Was an ihre Stelle tritt, ist nicht bekannt.
+Im Libanon hat der am 17. April begonnene Waffenstillstand nicht zu einer Stabilisierung geführt. Tod und Zerstörung halten nach Angaben von humanitären Helfern unvermindert an, und viele Gemeinden können nicht in ihre Häuser zurückkehren. Die fragile Waffenruhe wird durch erneute Gewalt und Vertreibungen auf die Probe gestellt.
+
+In Mali verschlechtert sich die Menschenrechtslage rapide. Nach koordinierten Angriffen bewaffneter Gruppen im ganzen Land wurden Zivilisten getötet, vertrieben und von Nahrungsmittel- und Hilfslieferungen abgeschnitten, wie das UN-Menschenrechtsbüro mitteilte.
+
+Sudanesische Flüchtlinge in Ägypten stehen vor der Wahl zwischen Bildung und Nahrung, da Mittelkürzungen kritische Hilfsdienste bedrohen. Das UN-Flüchtlingshilfswerk warnt vor einem möglichen Zusammenbruch lebenswichtiger Versorgungsleistungen.
+
+Die Weltgesundheitsorganisation hat mitgeteilt, dass eine Übertragung des Hantavirus von Mensch zu Mensch auf einem Kreuzfahrtschiff im Atlantik nicht ausgeschlossen werden kann, wenngleich sie selten sei. Die Opfer könnten sich bereits vor der Einschiffung infiziert haben.
 
 ## 💬 Meinung des Tages
 
-Der 5. Mai 2026 zeigt ein Muster, das sich durch viele der heutigen Nachrichten zieht: Die Welt wird gleichzeitig sicherer und verletzlicher. Die internationale Gemeinschaft findet auf dem Papier zu Klimaabkommen für die Schifffahrt zurück, neue Staaten unterzeichnen Weltraumverträge, und die UN schließt eine humanitäre Mission nach elf Jahren ab. Gleichzeitig werden kritische Sicherheitslücken in Alltagssoftware aktiv ausgenutzt, ein Kreuzfahrtschiff wird zum Schauplatz eines seltenen Virusausbruchs, und ein Drohnenangriff trifft ein Wohnhaus in Moskau. Die Gleichzeitigkeit von Fortschritt und Gefahr ist kein neues Phänomen, aber sie verdichtet sich. Was heute auffällt, ist die Geschwindigkeit, mit der sich beide Seiten entwickeln: Die Klimadiplomatie braucht Jahre, um einen Schritt voranzukommen. Ein Hacker braucht Stunden, um eine Schwachstelle auszunutzen. Vielleicht ist die wichtigste Erkenntnis dieses Tages, dass wir gelernt haben, in beiden Geschwindigkeiten zu denken – aber noch nicht, sie miteinander zu vereinbaren.
+Der heutige Tag zeigt ein Muster, das sich in den letzten Wochen verfestigt hat: Die Welt bewegt sich gleichzeitig auf mehreren Ebenen auf prekäre Gleichgewichte zu. Im Persischen Golf deuten fallende Ölpreise und diplomatische Gespräche auf eine mögliche Deeskalation hin, während die militärischen Operationen lediglich pausiert, nicht beendet sind. In der Ukraine erklären beide Seiten Waffenruhen für unterschiedliche Anlässe, während die Kämpfe unvermindert weitergehen. Im Libanon besteht ein Waffenstillstand auf dem Papier, während die Realität vor Ort von Tod und Vertreibung geprägt ist.
+
+Diese Gleichzeitigkeit von Verhandlungen und Gewalt, von erklärten Waffenruhen und anhaltenden Angriffen, ist kein Widerspruch, sondern die typische Dynamik moderner Konflikte. Die Frage ist nicht, ob eine Seite die Wahrheit sagt, sondern welche Dynamik sich durchsetzt: die der Diplomatie oder die der Eskalation. Die heutigen Berichte über mögliche Fortschritte zwischen den USA und Iran sind vorsichtig optimistisch, aber die Quellenlage erlaubt keine sichere Prognose.
 
 ## 🎵 Song des Tages
 
-**„The Speed of Life“ von David Bowie**
+„The Sound of Silence“ von Simon & Garfunkel.
 
-Der Song passt zur Stimmung dieses Tages, weil er von der Gleichzeitigkeit von Bewegung und Stillstand handelt, von der Hektik des Alltags und der Suche nach einem ruhigen Punkt darin. Bowies ruhige, fast distanzierte Stimme über einem treibenden Beat erinnert daran, dass die Welt sich weiterdreht – mit oder ohne uns.
+Das Stück passt zur Stimmung dieses Tages, an dem vieles unausgesprochen bleibt: Waffenruhen, die keine sind, Verhandlungen, die noch kein Ergebnis haben, und eine Welt, die zwischen Krieg und Frieden schwebt. Die leise Melodie und die eindringlichen Texte über Menschen, die Stille hören, ohne wirklich zuzuhören, spiegeln die Kommunikationsmuster wider, die heute in den Nachrichten sichtbar werden.
 
 
 ---
 
-*Erstellt am 2026-05-05 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-05-06 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
