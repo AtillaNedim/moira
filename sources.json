@@ -1,73 +1,90 @@
 {
-  "generated_at": "2026-05-06T13:23:53.893206+00:00",
-  "date": "2026-05-06",
+  "generated_at": "2026-05-07T13:23:34.257073+00:00",
+  "date": "2026-05-07",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
-    "ReliefWeb: no element found: line 1, column 0"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
   ],
   "articles": [
     {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: IRC collaborates with HPE to launch Sarah: an agentic AI tool helping survivors of human trafficking rejoin the workforce and avoid re-trafficking",
+      "url": "https://reliefweb.int/report/world/irc-collaborates-hpe-launch-sarah-agentic-ai-tool-helping-survivors-human-trafficking-rejoin-workforce-and-avoid-re-trafficking",
+      "summary": "Country: World Source: International Rescue Committee New York, NY, May 7, 2026 — The International Rescue Committee (IRC) today announced the launch of Sarah , a new agentic, AI-powered career coach designed to support survivors of human trafficking and individuals at risk in building safe pathways to employment. Built in partnership with HPE, Sarah serves as an agentic AI system integrated into the IRC’s Anti-Trafficking Response platform . Sarah guides users through structured, multi-step cha",
+      "published": "2026-05-07T13:03:04+00:00",
+      "score": 17
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "url": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
+      "published": "2026-05-06T20:21:00+00:00",
+      "score": 16
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Somalia Protection Cluster: April 2026 Newsletter",
+      "url": "https://reliefweb.int/report/somalia/somalia-protection-cluster-april-2026-newsletter",
+      "summary": "Country: Somalia Sources: Norwegian Refugee Council, UN Children's Fund, UN High Commissioner for Refugees, UN Mine Action Service, United Nations Population Fund Please refer to the attached file. Key Highlights Between January and April 2026, Somalia recorded 549,985 internally displaced individuals and 12,739 protection risks, underscoring the scale and urgency of protection needs. These figures highlight the critical need to sustain frontline protection monitoring, safe referrals, case manag",
+      "published": "2026-05-07T11:55:08+00:00",
+      "score": 15
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Ukraine: Winter 2025-2026 Review - Operation of Healthcare Facilities in Frontline Regions",
+      "url": "https://reliefweb.int/report/ukraine/winter-2025-2026-review-operation-healthcare-facilities-frontline-regions",
+      "summary": "Country: Ukraine Source: Relief Coordination Centre Please refer to the attached files. The winter of 2025–2026 was a critical stress test for healthcare systems across frontline regions of Ukraine, particularly in Kharkiv, Donetsk, and Zaporizhzhia regions. Healthcare facilities operated under sustained pressure from hostilities, repeated attacks on energy infrastructure, and systemic resource shortages. Despite these challenges, medical institutions maintained continuity of care, largely due t",
+      "published": "2026-05-07T11:49:42+00:00",
+      "score": 15
+    },
+    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Research Shows Early Life Relied on Rare Metal",
-      "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-research-shows-early-life-relied-on-rare-metal/",
-      "summary": "NASA-funded scientists have discovered that life on Earth over 3 billion years ago relied on the metal molybdenum, which was incredibly scarce in the environment at the time. The study, published in Nature Communications on Tuesday, is the first to show that molybdenum was used by ancient life this far back in our planet’s history. […]",
-      "published": "2026-05-05T16:34:49+00:00",
+      "title": "NASA’s Dryden Aeronautical Test Range Supports Flight, Space Missions",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-dryden-aeronautical-test-range-supports-flight-space-missions/",
+      "summary": "NASA advances aeronautics and space technologies through experimental aircraft and flight research at the agency’s Armstrong Flight Research Center in Edwards, California. Behind those efforts is the Dryden Aeronautical Test Range (DATR), which provides the communications, tracking, and data services that enable safe and effective missions. For most NASA Armstrong research flights, the DATR supplies […]",
+      "published": "2026-05-06T20:42:35+00:00",
       "score": 14
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
-      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
-      "published": "2026-05-05T19:23:18+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Roman Poised to Transform Hunt for Elusive Neutron Stars",
+      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-poised-to-transform-hunt-for-elusive-neutron-stars/",
+      "summary": "Astronomers have long known that neutron stars, the crushed cores left behind after massive stars explode, should be scattered throughout the Milky Way galaxy. However, most of them are effectively invisible. A new study published in Astronomy and Astrophysics suggests NASA’s upcoming Nancy Grace Roman Space Telescope could spot them anyway. Using detailed simulations of […]",
+      "published": "2026-05-06T14:00:00+00:00",
+      "score": 14
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "New NASA Technology Mimics Extreme Cold of the Lunar Night",
+      "url": "https://www.nasa.gov/general/nasa-technology-mimics-extreme-lunar-night/",
+      "summary": "As NASA looks to explore the Moon, Mars, and beyond, researchers must develop materials capable of withstanding the extreme temperatures found in space and on other planets and their moons. In frigid conditions, rubber can shatter like glass, circuit boards may fail, and electrical connections can freeze and fracture. Gaining a deeper understanding of how […]",
+      "published": "2026-05-06T14:00:00+00:00",
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
-      "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
-      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
-      "published": "2026-05-06T06:14:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
-      "url": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
-      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging to DAEMON Tools developers,\" Kaspersky researchers Igor Kuznetsov, Georgy Kucherin, Leonid",
-      "published": "2026-05-05T16:07:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "url": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity is being tracked by Cisco Talos under the moniker UAT-8302, with post-exploitation involving the deployment of custom-made malware families that have been put",
-      "published": "2026-05-05T14:19:00+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan: Joint Operating Principles: Essentials and Operational Guidance [EN/AR]",
+      "url": "https://reliefweb.int/report/sudan/joint-operating-principles-essentials-and-operational-guidance-enar",
+      "summary": "Country: Sudan Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached files. Purpose & Applicability Humanitarian action in Sudan can only take place in strict adherence to the humanitarian principles of humanity , impartiality , neutrality and independence . The Joint Operating Principles (JOPs) provide a common framework to ensure principled and consistent humanitarian action, and to ensure humanitarian access to civilians in need across Sudan. The JOPs are",
+      "published": "2026-05-07T12:09:07+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-      "published": "2026-05-06T09:35:39+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
-      "published": "2026-05-06T12:54:37+00:00",
+      "title": "China announces suspended death sentences for former defence ministers",
+      "url": "https://www.bbc.com/news/articles/clypjx383j2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The announcement follows recent ousting of several top officials in China's military.",
+      "published": "2026-05-07T12:24:55+00:00",
       "score": 12
     },
     {
@@ -80,138 +97,174 @@
       "score": 12
     },
     {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Cornell Students Aid NASA with Drone Safety in Sky",
+      "url": "https://www.nasa.gov/aeronautics/usrc-cornell-drone-safety/",
+      "summary": "A team of Cornell University students are turning heads within industry and the federal government with the results of their research into creating a national air transportation management system in which thousands of drones could safely operate together. NASA is sponsoring their work through the University Student Research Challenge (USRC), which provides grants to college […]",
+      "published": "2026-05-07T10:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
+      "url": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
+      "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called ZiChatBot on Windows and Linux systems. \"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky",
+      "published": "2026-05-07T09:20:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Kenya | Recent floods and landslides - DG ECHO Daily Map | 07/05/2026",
+      "url": "https://reliefweb.int/map/kenya/kenya-recent-floods-and-landslides-dg-echo-daily-map-07052026",
+      "summary": "Country: Kenya Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
+      "published": "2026-05-07T13:17:15+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Yemen: Humanitarian Needs and Response Plan (YHNRP) 2026 - Funding Status (06 May 2026) [EN/AR]",
+      "url": "https://reliefweb.int/report/yemen/yemen-humanitarian-needs-and-response-plan-yhnrp-2026-funding-status-06-may-2026-enar",
+      "summary": "Country: Yemen Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "published": "2026-05-07T12:24:44+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "WFP Iran Country Brief, May 2026 (Reporting period: April 2026)",
+      "url": "https://reliefweb.int/report/iran-islamic-republic/wfp-iran-country-brief-may-2026-reporting-period-april-2026",
+      "summary": "Countries: Iran (Islamic Republic of), Afghanistan, Iraq Source: World Food Programme Please refer to the attached file. IN NUMBERS 34,818 people assisted in April (51% female) 321.078 mt food distributed April USD 194,506 cash transferred April USD 20.7 required in the next six months (May - October2026) KEY HIGHLIGHTS Despite the escalation in the region, WFP remains steadfast in its commitment to the people it serves. The operation in Iran continues without disruption, with teams on the groun",
+      "published": "2026-05-07T12:22:51+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+      "published": "2026-05-07T04:06:33+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Top BJP leader's aide shot dead in violence after Indian state election",
+      "url": "https://www.bbc.com/news/articles/ce8pjz7dv7ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Chandranath Rath was personal assistant to Suvendu Adhikari, front runner to become West Bengal's new chief minister.",
+      "published": "2026-05-07T08:03:55+00:00",
+      "score": 11
+    },
+    {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Global rise of cyberattacks exposes limits of technical solutions",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167439",
-      "summary": "The internet reaches into every corner of the world and is vital to everything from health systems and financial markets to public services and election organising. This intense global interconnectedness clearly comes with great benefits, but a cybercrime epidemic is putting millions of lives at risk.",
-      "published": "2026-05-04T12:00:00+00:00",
-      "score": 12
+      "title": "Gaza flotilla: Aid delivery ‘not a crime’, UN rights office tells Israel",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167450",
+      "summary": "The UN human rights office on Wednesday called on Israel to immediately release two members of the Global Sumud Flotilla detained in international waters, warning that solidarity with Palestinians and attempts to deliver humanitarian aid to Gaza “is not a crime.”",
+      "published": "2026-05-06T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Unlocking the Mystery of X-ray Dots",
+      "url": "https://www.nasa.gov/image-article/unlocking-the-mystery-of-x-ray-dots/",
+      "summary": "A new “X-ray dot” found by NASA’s Chandra X-ray Observatory – which could look like this artist’s illustration released on April 28, 2026 – could explain what the hundreds or potentially thousands of these objects are. Shortly after NASA’s James Webb Space Telescope started its science observations, reports of a new class of mysterious objects […]",
+      "published": "2026-05-06T15:07:18+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+      "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
+      "published": "2026-05-06T06:14:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Syria: Comprehensive Overview of Refugee Returns Dashboard (7 May 2026)",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/comprehensive-overview-refugee-returns-dashboard-7-may-2026",
+      "summary": "Countries: Syrian Arab Republic, Egypt, Iraq, Jordan, Lebanon, Türkiye Source: UN High Commissioner for Refugees Please refer to the attached Infographic. Key Figures Since 8 December 2024, an estimated 1,637,981 Syrians have returned. This estimate is calculated by triangulating multiple data sources, including population-movement reporting and border-monitoring data. Returns through border-crossing points make up the majority of the observed movements.",
+      "published": "2026-05-07T12:03:18+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "CAR: RCA Rapport Commission mouvement de population - 31 Mars 2026",
+      "url": "https://reliefweb.int/report/central-african-republic/rca-rapport-commission-mouvement-de-population-31-mars-2026",
+      "summary": "Country: Central African Republic Source: UN High Commissioner for Refugees Please refer to the attached file. 1. Introduction La Commission Mouvement de Population (CMP) est un mécanisme inter-organisationnel qui a pour but de fournir mensuellement des statistiques précises et d’analyser les tendances des déplacements forcés de populations en RCA. Cette tâche implique l’examen, la compilation et la consolidation des informations recueillies par les CMP locales et par les partenaires opérant dan",
+      "published": "2026-05-07T12:03:12+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'My heart is in a million pieces': Vigils in Australia for five-year-old allegedly killed in Outback",
+      "url": "https://www.bbc.com/news/articles/cdeplz29p7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Kumanjayi Little Baby was found dead after going missing from an Aboriginal town camp in Alice Springs.",
+      "published": "2026-05-07T10:37:09+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US judge releases Jeffrey Epstein's purported suicide note",
+      "url": "https://www.bbc.com/news/articles/cd7pd0rqwreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Epstein's former cellmate claims he found the note, which has not been verified by the BBC.",
+      "published": "2026-05-07T11:14:59+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
+      "published": "2026-05-06T19:58:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Shell latest oil giant to see profits surge due to Iran war impact",
+      "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
+      "published": "2026-05-07T09:38:04+00:00",
+      "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167437",
-      "summary": "Lebanon’s fragile ceasefire is being tested by renewed violence and rising humanitarian needs amid continuing civilians displacement, services under pressure and aid cuts.",
-      "published": "2026-05-04T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-      "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough calls under pressure, teams building smarter defenses, and security products that keep hunting threats 24/7 — even when it’s hard. Most of the time, this work is",
-      "published": "2026-05-06T12:03:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
-      "url": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
-      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. \"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
-      "published": "2026-05-06T08:34:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
-      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
-      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been described as a case of \"double free and possible RCE\" in the HTTP/2 protocol handling. This issue",
-      "published": "2026-05-05T16:19:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
-      "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said the operation has been paused after starting on Monday.",
-      "published": "2026-05-06T02:23:36+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
-      "published": "2026-05-06T00:15:14+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: seafloor science and military chatbots",
-      "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining Last week, two oblong neon submersibles started to descend nearly 6,000 meters into the Pacific Ocean. Throughout the rest of May, they will…",
-      "published": "2026-05-06T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
-      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said. The initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
-      "published": "2026-05-06T09:13:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security. In the wake of the",
-      "published": "2026-05-05T10:30:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "url": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the",
-      "published": "2026-05-05T09:07:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-      "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-      "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
-      "published": "2026-05-06T04:53:31+00:00",
+      "title": "More than 70 civilians killed in Ukraine in less than a week",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167454",
+      "summary": "At least 70 civilians have been killed and more than 500 injured across Ukraine since the start of May, UN human rights monitors said on Wednesday, as waves of attacks hit cities across the country and humanitarian workers struggled to reach communities near the frontline.",
+      "published": "2026-05-06T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
-      "published": "2026-05-05T11:38:03+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council holds closed-door talks following attacks on United Arab Emirates",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167453",
+      "summary": "As the crisis in the Strait of Hormuz continues, the United Nations reiterates its commitment to support efforts towards peace, UN Spokesperson Stéphane Dujarric said on Wednesday during his media briefing from New York.",
+      "published": "2026-05-06T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'I had to stick to the plan': Officer describes retrieving crocodile with human remains inside",
-      "url": "https://www.bbc.com/news/articles/cp8pqz63808o?at_medium=RSS&at_campaign=rss",
-      "summary": "DNA tests are underway to confirm whether remains found inside the crocodile match that of a missing man.",
-      "published": "2026-05-05T17:35:32+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "IS families in Syria have booked tickets home to Australia, minister says",
-      "url": "https://www.bbc.com/news/articles/cn0pyny6jk0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The four women and nine children with links to Islamic State have spent years in a Syrian camp.",
-      "published": "2026-05-06T01:47:48+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "As housing insecurity grows, global leaders push for action",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167452",
+      "summary": "“Housing is the gateway to all other rights” said actor and humanitarian Richard Gere, who has joined UN efforts to combat homelessness.",
+      "published": "2026-05-06T12:00:00+00:00",
       "score": 10
     },
     {
@@ -233,183 +286,129 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Human spread of hantavirus not ruled out on cruise ship",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167440",
-      "summary": "Hantavirus victims on a ship in the Atlantic Ocean may have been infected prior to joining the cruise and human-to-human transmission on board cannot be ruled out – although it is rare - the World Health Organization (WHO) said on Tuesday.",
-      "published": "2026-05-05T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Wallops to Host Public Information Session May 13",
+      "url": "https://www.nasa.gov/centers-and-facilities/wallops/nasa-wallops-to-host-public-information-session-may-13/",
+      "summary": "To facilitate discussion and information sharing on activities at NASA’s Wallops Flight Facility in Virginia, a public information session is being held 4–6 p.m., Wednesday, May 13, at the NASA Wallops Visitor Center. During the event, NASA will have information booths on the status on the causeway bridge construction, updates on beach replenishment, and a representative from the GLOBE program. Federal and state health experts will […]",
+      "published": "2026-05-06T19:09:23+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA eClips and GLOBE Educators Strengthen a Regional STEM Ecosystem in Coastal Virginia",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/nasa-eclips-and-globe-educators-strengthen-a-regional-stem-ecosystem-in-coastal-virginia/",
-      "summary": "Thirty-eight science educators representing seven school districts across Virginia’s Tidewater region joined forces with community organizations, such as the Elizabeth River Project, to deepen their instructional practice through a dynamic collaboration between NASA eClips and the GLOBE (Global Learning and Observation to Benefit the Environment) Program. Together, these groups are cultivating a regional STEM ecosystem […]",
-      "published": "2026-05-05T21:20:16+00:00",
+      "title": "NASA Sets Coverage for SpaceX 34th Station Resupply Launch, Arrival",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-34th-station-resupply-launch-arrival/",
+      "summary": "NASA and SpaceX are targeting 7:16 p.m. EDT Tuesday, May 12, for the next launch to deliver science, supplies, and equipment to the International Space Station. This will be the 34th SpaceX commercial resupply services mission to the orbital outpost for NASA. Carrying about 6,500 pounds of cargo, a SpaceX Dragon spacecraft will lift off […]",
+      "published": "2026-05-06T17:14:08+00:00",
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Curiosity Blog, Sols 4879-4885: Struggle at Atacama",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4879-4885-struggle-at-atacama/",
-      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, May 1, 2026 Chile’s Atacama desert is the driest mid-latitude desert in the world, receiving only 15 millimeters (0.59 inches) of precipitation per year. Only the dry valleys of Antarctica receive less precipitation. These environmental conditions have made the Atacama a […]",
-      "published": "2026-05-05T20:00:45+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "650 NASA Volunteers Have Co-Authored Scientific Papers",
-      "url": "https://science.nasa.gov/get-involved/citizen-science/650-nasa-volunteers-have-co-authored-scientific-papers/",
-      "summary": "After a recent count, NASA Citizen Science is proud to report that more than 650 people who have volunteered to participate in NASA citizen science projects have co-authored peer-reviewed research papers with scientists on those project teams. These volunteers made incredible contributions like: And all of them saw their passion and dedication translated into lasting […]",
-      "published": "2026-05-05T18:34:54+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Astronaut to Answer Questions from Students in Florida",
-      "url": "https://www.nasa.gov/general/nasa-astronaut-to-answer-questions-from-students-in-florida/",
-      "summary": "Students in Florida will hear from NASA astronaut Chris Williams as he answers prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11 a.m. EDT Friday, May 8, and will stream live on the agency’s Learn With NASA YouTube channel. This event is hosted […]",
-      "published": "2026-05-05T16:59:59+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The balcony solar boom is coming to the US",
+      "url": "https://www.technologyreview.com/2026/05/07/1136933/balcony-solar-boom/",
+      "summary": "Dozens of US states are considering legislation to allow people to install plug-in solar systems, often called balcony solar. These small arrays require little to no setup and could help cut emissions and power bills. Balcony solar is already popular in Europe, and proponents say that the systems could make solar power more accessible for…",
+      "published": "2026-05-07T10:00:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-      "url": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-      "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of governance policy controls.” Enterprise leaders can request access to the Gartner Market Guide for",
-      "published": "2026-05-06T10:57:00+00:00",
+      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
+      "summary": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff",
+      "published": "2026-05-07T11:33:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-      "url": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary code execution. \"MetInfo CMS versions 7.9, 8.0, and 8.1 contain an unauthenticated PHP code",
-      "published": "2026-05-05T11:56:00+00:00",
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+      "url": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
+      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The attack, observed by Rapid7 in early 2026, has been found to leverage social engineering techniques via Microsoft Teams to initiate the infection sequence. Although the incident",
+      "published": "2026-05-06T13:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
+      "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+      "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough calls under pressure, teams building smarter defenses, and security products that keep hunting threats 24/7 — even when it’s hard. Most of the time, this work is",
+      "published": "2026-05-06T12:03:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
+      "url": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
+      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. \"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
+      "published": "2026-05-06T08:34:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been described as a case of \"double free and possible RCE\" in the HTTP/2 protocol handling. This issue",
+      "published": "2026-05-05T16:19:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Cropped 6 May 2026: Forest loss falls | Deforestation regulations | Saving ‘India’s Galapagos’",
+      "url": "https://www.carbonbrief.org/cropped-6-may-2026-forest-loss-falls-deforestation-regulations-saving-indias-galapagos/",
+      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 6 May 2026: Forest loss falls | Deforestation regulations | Saving ‘India’s Galapagos’ appeared first on Carbon Brief .",
+      "published": "2026-05-06T15:57:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "CAR: RCA MATRICE CMP - 31 Mars 2026",
+      "url": "https://reliefweb.int/report/central-african-republic/rca-matrice-cmp-31-mars-2026",
+      "summary": "Country: Central African Republic Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
+      "published": "2026-05-07T12:03:21+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Syria: Comprehensive Overview of IDPs and IDP Returns Dashboard (7th May 2026)",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/comprehensive-overview-idps-and-idp-returns-dashboard-7th-may-2026",
+      "summary": "Country: Syrian Arab Republic Source: UN High Commissioner for Refugees Please refer to the attached Infographic. Key Figures ▪ An estimated 5.54 million IDPs remain displaced in Syria. About 76% living outside IDP sites while 24% are hosted in formal IDP sites. ▪ Between December 2024 and 7th May 2026, estimated total of 1,898,870 IDPs returned",
+      "published": "2026-05-07T12:03:15+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Vivek Ramaswamy wins Republican nomination for Ohio governor",
-      "url": "https://www.bbc.com/news/articles/c4g0xe4qlzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The staunch Trump ally emerged victorious in one of a series of closely-watched primary contests held in the US Midwest.",
-      "published": "2026-05-06T11:04:06+00:00",
+      "title": "Race to trace passengers who left hantavirus cruise ship at island",
+      "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena.",
+      "published": "2026-05-07T12:16:46+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Dressed for succession: What Kim Ju Ae's outfits tell us about North Korea",
-      "url": "https://www.bbc.com/news/articles/cy82x9wve2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kim Ju Ae's evolving fashion is one of the signs that she is being groomed as North Korea's next leader.",
-      "published": "2026-05-05T22:44:35+00:00",
+      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
+      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years.",
+      "published": "2026-05-07T12:23:45+00:00",
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "In Lebanon, the same fears and dangers persist despite ceasefire: UNHCR",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167442",
-      "summary": "Death and destruction have continued unabated in Lebanon while communities are still unable to return to their homes despite a ceasefire that began on 17 April, humanitarians said on Tuesday.",
-      "published": "2026-05-05T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "UN winds down Türkiye-Syria aid route, after more than 65,000 lifesaving journeys",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167438",
-      "summary": "The UN has formally concluded its cross-border humanitarian operations from Türkiye into Syria, marking the end of an 11-year mission that served as one of the most complex supply chains in the organization’s history.",
-      "published": "2026-05-04T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Iranian Nobel winner’s declining health, rising attacks on healthcare, debt crisis hits women, Aid to Mozambique",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167436",
-      "summary": "Concern is mounting over the health of imprisoned Iranian Nobel Peace Prize laureate Narges Mohammadi, who was reportedly being held alongside high-risk offenders.",
-      "published": "2026-05-04T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "WHO leads response to cruise ship hantavirus outbreak",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167433",
-      "summary": "An outbreak of deadly hantavirus aboard a cruise ship in the Atlantic Ocean has triggered an international public health response.",
-      "published": "2026-05-04T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Melting Snow Off Shivelyuch",
-      "url": "https://science.nasa.gov/earth/earth-observatory/melting-snow-off-shivelyuch/",
-      "summary": "Near-constant activity continues on the volcano in Russia.",
-      "published": "2026-05-06T04:01:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Perseverance Mars Rover Surveys ‘Crocodile Bridge’",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-mars-rover-surveys-crocodile-bridge/",
-      "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera system to capture this 360-degree panorama of a region nicknamed “Crocodile Bridge” on Jezero Crater’s rim. The panorama is made up of 980 images, 971 of which were taken on Dec. 18, 2025, the 1,717th Martian day, or sol, of the mission. An additional nine were […]",
-      "published": "2026-05-05T20:10:02+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Curiosity Rover Frees Its Drill From a Rock",
-      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-rover-frees-its-drill-from-a-rock/",
-      "summary": "Description This series of images shows NASA’s Curiosity Mars rover as it got a rock stuck to the drill on the end of its robotic arm and, after waving the arm and running the drill a few times, finally detached the rock. The imagery showing the entire process was captured by the black-and-white hazard cameras […]",
-      "published": "2026-05-05T17:58:42+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’S Juno Misson Captures Jupiter Moon Thebe",
-      "url": "https://science.nasa.gov/photojournal/nasas-juno-misson-captures-jupiter-moon-thebe/",
-      "summary": "Description NASA’s Juno spacecraft captured this view of Thebe, the second largest of Jupiter’s inner moons, during a close pass on May 1, 2026. The spacecraft’s Stellar Reference Unit (SRU) captured this image from a distance of approximately 3,100 miles (5,000 kilometers) at a resolution of about 1.9 miles (3 kilometers) per pixel. Thebe resides […]",
-      "published": "2026-05-05T15:35:29+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
-      "url": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
-      "published": "2026-05-05T12:10:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "A blueprint for using AI to strengthen democracy",
-      "url": "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-      "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
-      "published": "2026-05-05T09:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to…",
-      "published": "2026-05-04T15:51:27+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "German tourist wins payout after losing sun lounger race",
+      "url": "https://www.bbc.com/news/articles/c5y72g09d7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The man sued his tour operator for allowing people to reserve sun loungers with towels despite a hotel ban on the practice.",
+      "published": "2026-05-07T00:41:21+00:00",
       "score": 9
     }
   ]
