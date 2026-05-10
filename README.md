@@ -1,72 +1,78 @@
-# Moira — 2026-05-09
+# Moira — 2026-05-10
 
 ## 🌍 Umwelt
 
-Die Europäische Union prüft derzeit mögliche Ausnahmen für fossile Brennstoffe, wie aus Berichten der vergangenen Woche hervorgeht. Parallel dazu zeigen Berechnungen, dass Wind- und Solarenergie dem Vereinigten Königreich im vergangenen Jahr Einsparungen in Höhe von etwa 1,7 Milliarden Pfund ermöglicht haben. Im Amazonasgebiet mehren sich die Anzeichen für einen möglichen Kipppunkt des Ökosystems, wobei die wissenschaftliche Literatur zunehmend auf eine irreversible Schädigung des Regenwaldes hindeutet, falls bestimmte Schwellenwerte überschritten werden. Die Quellenlage zu diesen Entwicklungen ist solide, die genauen zeitlichen Abläufe und konkreten politischen Entscheidungen der EU sind jedoch noch nicht abschließend geklärt.
-
-Im Vereinigten Königreich hat die Automobilindustrie wiederholt behauptet, die Nachfrage nach Elektrofahrzeugen sei nicht ausreichend hoch, um die staatlichen Zielvorgaben zu erfüllen. Eine Überprüfung der Faktenlage zeigt jedoch, dass diese Darstellung die tatsächliche Marktentwicklung und die verfügbaren Daten nicht vollständig abbildet. Die Diskrepanz zwischen öffentlicher Wahrnehmung und gemessener Nachfrage bleibt ein wiederkehrendes Muster in der Debatte um die Verkehrswende.
+Zur Umweltlage liegen heute nur begrenzte belastbare Quellen vor. In Somalia bereiten unregelmäßige Regenfälle der Gu-Saison Anlass zur Sorge. Nach Angaben des UN-Büros für die Koordinierung humanitärer Angelegenheiten besteht die Gefahr, dass die Niederschläge die anhaltende Dürre nicht beenden können. Schätzungsweise fünf Millionen Menschen sind von der Dürre betroffen. Steigende Flusspegel und Sturzfluten haben bereits Haushalte vertrieben und Infrastruktur beschädigt. Die humanitären Bedürfnisse verschärfen sich angesichts der anhaltenden Dürreanfälligkeit. Die Quellenlage zu globalen Umweltentwicklungen wie Klimaveränderungen oder Emissionen ist für diesen Tag leider dünn.
 
 ## 🔬 Wissenschaft
 
-Die NASA bereitet den Start ihrer 34. kommerziellen Versorgungsmission zur Internationalen Raumstation vor, der für Mitte Mai vorgesehen ist. Die SpaceX-Dragon-Kapsel wird etwa 6.500 Pfund an wissenschaftlichen Untersuchungen, Vorräten und Ausrüstung zur Station bringen. Die Mission ist Teil eines etablierten Programms, das die kontinuierliche Forschung im Orbit ermöglicht.
+Die NASA meldet mehrere bedeutende Entwicklungen. Die Psyche-Mission hat am 3. Mai 2026 ein coloriertes Bild des Mars aufgenommen, als sie sich in einer Entfernung von etwa 4,8 Millionen Kilometern dem Planeten näherte. Die Sonde wird am 15. Mai ein Swing-by-Manöver am Mars durchführen, um Geschwindigkeit aufzunehmen und ihre Flugbahn in Richtung des Asteroiden Psyche anzupassen. Dies ist ein wichtiger Meilenstein für die Mission zur Erforschung eines metallischen Asteroiden.
 
-Die Psyche-Mission der NASA hat am 3. Mai 2026 Aufnahmen des Mars aus einer Entfernung von etwa 4,8 Millionen Kilometern gemacht. Die Sonde nähert sich dem Planeten für ein sogenanntes Gravity-Assist-Manöver am 15. Mai, das ihre Geschwindigkeit erhöhen und ihre Flugbahn in Richtung des Asteroiden Psyche korrigieren wird. Solche Vorbeiflüge sind ein bewährtes Verfahren in der interplanetaren Navigation.
+Für den Zeitraum Mitte Mai ist zudem der Start der 34. kommerziellen Versorgungsmission von SpaceX zur Internationalen Raumstation geplant. Die Dragon-Kapsel soll etwa 6.500 Pfund an wissenschaftlichen Untersuchungen, Versorgungsgütern und Ausrüstung zur ISS bringen und nach dem Start mit einer Falcon-9-Rakete automatisch an der Station andocken.
 
-In der Raumfahrttechnologie arbeiten NASA und Industrie an der Weiterentwicklung von Hochleistungs-Bordcomputern. Die Entwicklung reicht von den Apollo-Leitsystemen der 1960er Jahre bis zu heutigen strahlungsgehärteten Prozessoren, die für Missionen unter den extremen Bedingungen des Weltraums ausgelegt sind. Parallel dazu testet die NASA regenerative Brennstoffzellen für die Energiespeicherung auf dem Mond, ein wichtiger Schritt für die geplanten längerfristigen Mondmissionen im Rahmen des Artemis-Programms.
-
-Ein NASA-Astronaut hat am 13. April von der Internationalen Raumstation aus die Milchstraße über der atmosphärischen Leuchterscheinung der Erde fotografiert. Dieses als Airglow bekannte Phänomen entsteht, wenn Atome und Moleküle in der oberen Atmosphäre durch Sonnenlicht angeregt werden und daraufhin Licht abgeben.
+Das Armstrong Flight Research Center der NASA in Kalifornien hat in diesem Jahr mehrere neue Flugzeuge in seine Flotte aufgenommen, darunter zwei F-15-Überschalljets und eine Pilatus PC-12. Das Zentrum setzt damit seine Tradition der Unterstützung von Wissenschafts- und Luftfahrttestmissionen fort.
 
 ## ⚙️ Technik
 
-Sicherheitsforscher haben ein neues Framework zur Kompromittierung von Zugangsdaten namens PCPJack identifiziert, das exponierte Cloud-Infrastrukturen angreift. Das Werkzeug nutzt fünf bekannte Sicherheitslücken aus und verbreitet sich wurmartig in den betroffenen Systemen. Es zielt auf Dienste aus den Bereichen Cloud, Container, Entwicklung, Produktivität und Finanzen ab.
+Die Cybersicherheitslage zeigt mehrere besorgniserregende Entwicklungen. Forscher haben eine kritische Sicherheitslücke in Ollama offengelegt, einer Software für den Betrieb großer Sprachmodelle. Die Schwachstelle mit der Bezeichnung CVE-2026-7482 und einem CVSS-Score von 9,1 ermöglicht es einem entfernten, nicht authentifizierten Angreifer, den gesamten Prozessspeicher auszulesen. Betroffen sein könnten über 300.000 Server weltweit. Die Lücke trägt den Codenamen Bleeding Llama.
 
-Auf dem offiziellen Google Play Store wurden 28 betrügerische Apps entdeckt, die vorgaben, Zugriff auf Anrufhistorien beliebiger Telefonnummern zu ermöglichen. Die Apps lockten Nutzer in kostenpflichtige Abonnements, lieferten jedoch nur gefälschte Daten. Insgesamt wurden die Apps mehr als 7,3 Millionen Mal heruntergeladen, wobei eine einzelne App für einen erheblichen Teil dieser Downloads verantwortlich war.
+Ein neues Credential-Diebstahl-Framework namens PCPJack wurde entdeckt, das exponierte Cloud-Infrastrukturen angreift. Das Werkzeug sammelt Anmeldedaten aus Cloud-, Container-, Entwickler-, Produktivitäts- und Finanzdiensten und schleust sie über Angreifer-infrastruktur aus.
 
-Eine kritische Sicherheitslücke in der PAN-OS-Software von Palo Alto Networks mit der Bezeichnung CVE-2026-0300 wird aktiv ausgenutzt. Die Schwachstelle, die mit einem CVSS-Score von 9,3 bewertet wurde, betrifft den User-ID Authentication Portal Service und könnte einem nicht authentifizierten Angreifer Root-Zugriff ermöglichen. Erste Ausnutzungsversuche wurden bereits am 9. April 2026 registriert.
+Palo Alto Networks hat mitgeteilt, dass Angreifer bereits seit dem 9. April 2026 versucht haben, eine kritische Sicherheitslücke in PAN-OS auszunutzen. Die Schwachstelle CVE-2026-0300 mit einem CVSS-Score von 9,3 betrifft den User-ID Authentication Portal Dienst und könnte einem nicht authentifizierten Angreifer die Ausführung von Code mit Root-Rechten ermöglichen.
 
-Ein neuer Linux-Backdoor namens PamDOORa wird auf einem russischen Cybercrime-Forum für 1.600 Dollar angeboten. Die Schadsoftware nutzt das Pluggable Authentication Module aus, um dauerhaften SSH-Zugriff über ein magisches Passwort in Kombination mit einem bestimmten TCP-Port zu ermöglichen.
+Auf dem Google Play Store wurden 28 betrügerische Apps entdeckt, die vorgaben, Zugang zu Anrufhistorien zu bieten. Stattdessen lockten sie Nutzer in kostenpflichtige Abonnements. Die Apps wurden insgesamt mehr als 7,3 Millionen Mal heruntergeladen.
 
-Eine weitere Sicherheitslücke, CVE-2026-6973, betrifft Ivantis Endpoint Manager Mobile und wird bereits in begrenztem Umfang aktiv ausgenutzt. Die Schwachstelle ermöglicht einem entfernten, authentifizierten Nutzer mit administrativen Rechten die Ausführung von Code.
+Ein neuer Linux-Backdoor namens PamDOORa wird auf dem russischen Cybercrime-Forum Rehub für 1.600 Dollar angeboten. Er nutzt Pluggable Authentication Modules, um dauerhaften SSH-Zugriff zu ermöglichen.
 
-Ein internationaler Cyberangriff hat die Lernplattform Canvas getroffen, die von tausenden Schulen und Universitäten weltweit genutzt wird. Eine Hackergruppe verschaffte sich Zugang zu dem System, die genauen Auswirkungen auf die betroffenen Bildungseinrichtungen sind noch Gegenstand der Untersuchungen.
+Ivanti warnt vor einer weiteren Sicherheitslücke in Endpoint Manager Mobile, die in begrenztem Umfang ausgenutzt wird. Die Schwachstelle CVE-2026-6973 erlaubt einem authentifizierten Nutzer mit administrativem Zugriff die Ausführung von Remote-Code.
+
+Eine Analyse von über 25 Millionen Sicherheitswarnungen in Unternehmensnetzwerken zeigt, dass Sicherheitsteams systematisch dazu neigen, niedrige und mittlere Warnungen zu ignorieren. Dies stellt ein erhebliches Risiko dar.
 
 ## 🏛️ Politik
 
-Der russische Präsident Wladimir Putin hat bei der traditionellen Siegesparade in Moskau, die in diesem Jahr in verkleinertem Umfang stattfand, die NATO scharf kritisiert. In seiner jährlichen Rede rechtfertigte er erneut die sogenannte spezielle Militäroperation in der Ukraine.
+Der russische Präsident Wladimir Putin hat sich dahingehend geäußert, dass er den Ukraine-Konflikt für „zu Ende gehend“ hält. Er sieht Potenzial für Verhandlungen, verurteilte jedoch gleichzeitig die westliche Unterstützung für Präsident Selenskyj. Die Aussage ist politisch bedeutsam, sollte aber als Teil der aktuellen Kommunikationsstrategie eingeordnet werden.
 
-Südafrikas Präsident Cyril Ramaphosa sieht sich mit Rücktrittsforderungen konfrontiert, nachdem das Verfassungsgericht des Landes entschieden hat, dass die Abgeordneten zu Unrecht die Einleitung eines Amtsenthebungsverfahrens gegen ihn blockiert hatten. Die genauen rechtlichen und politischen Konsequenzen dieses Urteils sind noch nicht absehbar.
+In Australien hat die rechtspopulistische One-Nation-Partei einen historischen Wahlsieg errungen. Sie gewann erstmals einen Sitz im Unterhaus des Parlaments. Die Nachwahl gilt als wichtiger Test für die populistische Partei.
 
-In Australien findet eine Nachwahl im Wahlkreis Farrer in New South Wales statt, die als Test für die rechtspopulistische One Nation Party gilt. Ein Sieg würde der Partei ihren ersten Sitz im australischen Nationalparlament bringen.
+Spanien hat mit der Evakuierung eines von einem Virusausbruch betroffenen Kreuzfahrtschiffs vor Teneriffa begonnen. Die MV Hondius liegt vor der Küste, nachdem drei Menschen gestorben sind und mehrere Infizierte gemeldet wurden. Der Generaldirektor der Weltgesundheitsorganisation, Tedros Adhanom Ghebreyesus, hat zur Ruhe und Solidarität aufgerufen.
+
+Israel hat zwei Aktivisten abgeschoben, die an Bord einer Gaza-Hilfsflottille festgenommen worden waren. Es handelt sich um einen Spanier und einen Brasilianer.
+
+Griechenland hat eine kontrollierte Sprengung einer mysteriösen Marinedrohne durchgeführt. Das unbemannte Wasserfahrzeug, das vermutlich ukrainischen Ursprungs ist, wurde von Fischern in einer Höhle entdeckt.
+
+Ein britisches Armeeteam ist per Fallschirm auf der abgelegenen Insel Tristan da Cunha gelandet, um einem Briten mit Verdacht auf Hantavirus zu helfen.
+
+In Miami ereignete sich eine mutmaßliche Bootsexplosion, bei der elf Menschen verletzt wurden. Die Ursache wird untersucht.
 
 ## 🌐 Geopolitische Lage
 
-Die Spannungen im Persischen Golf haben sich weiter verschärft. Nach einem Schusswechsel zwischen den USA und Iran in der Straße von Hormus sind die Ölpreise gestiegen. Der iranische Außenminister Abbas Araghchi warf den USA ein rücksichtsloses militärisches Abenteurertum vor und erklärte, die USA griffen jedes Mal an, wenn eine diplomatische Lösung in Reichweite sei. US-Präsident Donald Trump erklärte hingegen, der Waffenstillstand zwischen Washington und Teheran sei weiterhin in Kraft. Die genauen Umstände des Zwischenfalls und die Frage, welche Seite die Eskalation auslöste, sind nicht abschließend geklärt.
+Die Weltgesundheitsorganisation hat mehr als 3.000 Angriffe auf das Gesundheitswesen in der Ukraine seit Beginn der russischen Vollinvasion im Februar 2022 verifiziert. Diese Zahl verdeutlicht die systematische Bedrohung medizinischer Infrastruktur in Kriegsgebieten.
 
-Bahrain und die USA haben einen Resolutionsentwurf im UN-Sicherheitsrat vorgelegt, der Iran auffordert, die Angriffe in der Straße von Hormus einzustellen. Die Resolution befindet sich noch in der Beratungsphase.
+In der Zentralafrikanischen Republik gefährden erhebliche Mittelkürzungen die humanitären Hilfsoperationen. Das Land macht zwar Fortschritte in Richtung Stabilität, doch die Finanzierungslücke bedroht die Versorgung der Bevölkerung.
 
-Ein mysteriöser Seedrohne wurde im Ionischen Meer vor der griechischen Küste entdeckt. Griechische Medien berichten, der Drohne habe Sprengstoff an Bord gehabt und könne entweder ukrainischen Ursprungs sein oder mit dem Russland-Ukraine-Krieg in Verbindung stehen. Die genaue Herkunft und der Zweck des Fundes sind noch unklar.
+Die humanitäre Lage in Haiti verschlechtert sich weiter. Bewaffnete Gruppen dehnen ihren Einfluss über die Hauptstadt Port-au-Prince hinaus aus. Zivilisten geraten zunehmend zwischen die Fronten von Banden und Sicherheitskräften.
+
+Paraguay hat die Artemis-Abkommen unterzeichnet und ist damit der 67. Unterzeichnerstaat. Die Abkommen legen gemeinsame Grundsätze für die zivile Weltraumforschung fest.
 
 ## ⚔️ Krieg
 
-Die Weltgesundheitsorganisation hat mehr als 3.000 Angriffe auf Gesundheitseinrichtungen in der Ukraine seit Beginn der groß angelegten russischen Invasion im Februar 2022 bestätigt. Diese Zahl umfasst Angriffe auf Krankenhäuser, Kliniken, Rettungsdienste und medizinisches Personal. Die WHO betont, dass es sich um verifizierte Fälle handelt, die tatsächliche Zahl könnte höher liegen.
+Der fragile Waffenstillstand im Libanon hat nach Angaben von Hilfsorganisationen nicht verhindert, dass es weiterhin zu Tötungen und Vertreibungen kommt. Dörfer im Süden des Landes seien durch israelische Angriffe völlig unkenntlich geworden. Der Libanon meldet, dass israelische Angriffe 39 Menschen getötet hätten. Mehr als eine Million Menschen bleiben vertrieben, über 124.000 von ihnen in 625 Sammelunterkünften. Der Wasser- und Sanitärsektor droht bereits im Juli 2026 zusammenzubrechen.
 
-Im Libanon hat der fragile Waffenstillstand die anhaltende Tötung und Vertreibung nicht verhindern können. Hilfsorganisationen berichten, dass Dörfer im Süden des Landes durch israelische Angriffe völlig unkenntlich geworden seien. Familien sind gezwungen, nach Nahrung zu suchen, obwohl ein offizielles Waffenstillstandsabkommen besteht.
+Im Sudan eskalieren die Gefahren für die Zivilbevölkerung in El Obeid und Umgebung. Verschärfte Feindseligkeiten, Drohnenangriffe, Bewegungsbeschränkungen und der Zusammenbruch grundlegender Dienstleistungen erhöhen die Risiken. Der humanitäre Zugang bleibt stark eingeschränkt.
 
-In Somalia verschärft sich die Dürrekrise in der Region Puntland. Ausgetrocknete Wasserstellen, Tierkadaver und verlassene Kochstellen prägen das Landschaftsbild, während die Hungerkrise weiter zunimmt. Die humanitäre Lage wird durch die anhaltende Trockenheit und fehlende Hilfslieferungen zusätzlich verschärft.
+In Somalia sind schätzungsweise fünf Millionen Menschen von der anhaltenden Dürre betroffen. Massenvertreibungen, Viehverluste, steigende Unterernährung und Millionen Menschen in der Krise prägen die Lage.
 
-Die Zentralafrikanische Republik macht Fortschritte in Richtung Stabilität und Sicherheit, doch massive Kürzungen der Hilfsbudgets gefährden die humanitären Operationen im Land. Die Vereinten Nationen warnen vor den Folgen dieser Mittelkürzungen für die notleidende Bevölkerung.
+Das Internationale Komitee vom Roten Kreuz und die Internationale Föderation der Rotkreuz- und Rothalbmondgesellschaften haben in einer gemeinsamen Erklärung vor einer gefährlichen Erosion der Werte und Schutzmechanismen gewarnt, die menschliches Leben und Würde bewahren sollen. Zu viele Mitarbeiter seien getötet worden, während sie Krankenwagen fuhren, in Krankenhäusern arbeiteten oder humanitäre Hilfe leisteten.
 
 ## 💬 Meinung des Tages
 
-Der 9. Mai 2026 zeigt ein Muster, das sich durch alle Kategorien dieses Berichts zieht: Die Welt bewegt sich gleichzeitig auf mehreren Ebenen auf Kipppunkte zu, während die politischen und technischen Systeme nur zögerlich reagieren. Im Amazonas zeichnet sich ein ökologischer Kipppunkt ab, im Persischen Golf ein geopolitischer, in der Ukraine ein humanitärer. Die Brennstoffzellentests der NASA für den Mond und die fortschreitende Cloud-Sicherheitskrise auf der Erde sind zwei Seiten derselben Medaille: Technologie verspricht Lösungen, schafft aber auch neue Verwundbarkeiten.
-
-Bemerkenswert ist die Gleichzeitigkeit von Fortschritt und Regression. Während Wind- und Solarenergie messbare wirtschaftliche Vorteile bringen, erwägt die EU Ausnahmen für fossile Brennstoffe. Während die UN eine Resolution zur Deeskalation im Persischen Golf vorlegt, kommt es zu Schusswechseln. Die Geschichte dieses Tages ist eine Geschichte der Widersprüche, in der sich die Menschheit in verschiedene Richtungen gleichzeitig bewegt.
+Der 10. Mai 2026 zeigt ein Muster, das sich durch alle Kategorien zieht: Die Welt ist gleichzeitig mit mehreren, sich überlagernden Krisen konfrontiert, während die Systeme, die sie bewältigen sollen, unter Druck geraten. In der Technik sind es kritische Sicherheitslücken in weit verbreiteter Infrastruktur – von KI-Servern über Cloud-Dienste bis hin zu Unternehmensnetzwerken. In der humanitären Sphäre sind es die systematischen Angriffe auf medizinisches Personal und die Erosion der Schutzmechanismen für Zivilisten. Politisch zeigt sich eine Ambivalenz: Während Putin das Ende des Ukraine-Krieges beschwört, setzen sich die Kämpfe im Libanon und Sudan unvermindert fort. Die wissenschaftlichen Erfolge der NASA – die Mars-Vorbeiflüge, die Versorgungsmissionen, die Erweiterung der Forschungsflotte – erinnern daran, dass menschliche Neugier und Kooperation weiterhin möglich sind. Doch sie wirken wie ein ruhiger Kontrapunkt zu einer Welt, in der die Sicherheitssysteme versagen, die humanitären Budgets schrumpfen und die Konflikte sich ausweiten. Der Tag lehrt, dass Stabilität keine Selbstverständlichkeit ist, sondern aktiv verteidigt werden muss – auf allen Ebenen.
 
 ## 🎵 Song des Tages
 
-"At the Edge" von Peter Gabriel. Der Titel passt zur Stimmung dieses Tages, an dem sich die Welt an mehreren Rändern gleichzeitig bewegt: am Rand ökologischer Kipppunkte, am Rand geopolitischer Eskalationen und am Rand technologischer Durchbrüche. Gabriels ruhige, beobachtende Klanglandschaft spiegelt die Haltung wider, die dieser Tag erfordert: aufmerksam bleiben, ohne in Alarmismus zu verfallen, die Komplexität anerkennen, ohne sich in ihr zu verlieren.
+„The Sound of Silence“ von Simon & Garfunkel. Das Lied passt zur Stimmung dieses Tages, weil es die Stille beschreibt, die entsteht, wenn Warnungen ignoriert werden und Menschen sich abwenden. In einer Zeit, in der über 25 Millionen Sicherheitswarnungen übersehen, humanitäre Hilfen gekürzt und die Schutzmechanismen für Zivilisten ausgehöhlt werden, erinnert der Song daran, dass das Schweigen der Systeme und der Verantwortlichen nicht bedeutungslos ist – es ist ein Geräusch, das am Ende alles übertönt.
 
 
 ---
 
-*Erstellt am 2026-05-09 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-05-10 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
