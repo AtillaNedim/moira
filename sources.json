@@ -1,82 +1,101 @@
 {
-  "generated_at": "2026-05-10T12:46:46.547149+00:00",
-  "date": "2026-05-10",
+  "generated_at": "2026-05-11T17:59:07.446057+00:00",
+  "date": "2026-05-11",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
+    "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Somalia: Monthly Humanitarian Update for April 2026",
-      "url": "https://reliefweb.int/report/somalia/monthly-humanitarian-update-april-2026",
-      "summary": "Country: Somalia Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Erratic Gu rains raise concerns that they may not reverse Somalia’s long drought, with an estimated 5 million people affected, as massive displacement, livestock losses, rising malnutrition, and millions in crisis persist. Rising river levels and flash floods displaced households, damaged infrastructure, and intensified humanitarian needs amid persistent drought vulnerability and we",
-      "published": "2026-05-10T09:30:59+00:00",
-      "score": 18
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+      "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation. The activity is said to be the work of cybercrime threat actors who appear to",
+      "published": "2026-05-11T15:45:00+00:00",
+      "score": 14
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Sudan: Protection Cluster Note - El Obeid, North Kordofan - 8 May 2026",
-      "url": "https://reliefweb.int/report/sudan/protection-cluster-note-el-obeid-north-kordofan-8-may-2026",
-      "summary": "Country: Sudan Sources: CCCM Cluster, Protection Cluster Please refer to the attached file. Summary Civilians in El Obeid and surrounding areas face escalating protection risks due to intensified hostilities, drone attacks, restricted movement, displacement, and the collapse of essential services. Humanitarian access remains severely constrained, increasing risks for women, children, and other vulnerable groups. Situation Overview El Obeid remains under SAF control but is increasingly isolated b",
-      "published": "2026-05-08T18:22:09+00:00",
-      "score": 18
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Flash Update #24 - Escalation of hostilities in Lebanon (as of 7 May 2026)",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-24-escalation-hostilities-lebanon-7-may-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Renewed displacement orders and airstrikes in Nabatieh Governorate on 4 May triggered new displacement and casualties. More than 1 million people remain displaced, including over 124,000 people hosted in 625 collective shelters, while the majority remain outside formal sites. WASH sector facing a potential breakdown as early as July 2026, threatening the continuity of wat",
-      "published": "2026-05-09T18:06:03+00:00",
-      "score": 17
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Turning Water Access into Jobs and Livelihoods: Lessons from Barwaaqo in Somalia",
-      "url": "https://reliefweb.int/report/somalia/turning-water-access-jobs-and-livelihoods-lessons-barwaaqo-somalia",
-      "summary": "Country: Somalia Source: World Bank STORY HIGHLIGHTS Barwaaqo is improving access to water and livelihoods for more than 600,000 people across Somalia through community led solutions. Multi use water points support farming, livestock, and small local services, helping households turn water access into income. Inclusion and local service delivery is being strengthened; women make up 31%of trained Community Animal Health Workers. For Halwo Shire, a mother living in Kalluun Dacar in Galmudug State,",
-      "published": "2026-05-08T18:03:23+00:00",
-      "score": 17
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: \"We call on all those with influence and responsibility to uphold the protections that civilians, medical personnel, humanitarian workers and communities depend on\"",
-      "url": "https://reliefweb.int/report/world/we-call-all-those-influence-and-responsibility-uphold-protections-civilians-medical-personnel-humanitarian-workers-and-communities-depend",
-      "summary": "Country: World Source: International Committee of the Red Cross A joint statement from President of the ICRC Mirjana Spoljaric and the President of the IFRC Kate Forbes This World Red Cross and Red Crescent Day comes at a moment of profound alarm. Across conflicts and crises, we are witnessing a dangerous erosion of the very values and safeguards designed to preserve human life and dignity. Too many of our colleagues have been killed - some while driving ambulances, working in hospitals and resp",
-      "published": "2026-05-08T17:44:35+00:00",
-      "score": 15
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
+      "summary": "Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.",
+      "published": "2026-05-11T12:00:00+00:00",
+      "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-      "published": "2026-05-10T00:46:07+00:00",
-      "score": 14
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+      "published": "2026-05-11T09:28:53+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
+      "published": "2026-05-11T13:33:06+00:00",
+      "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "url": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
-      "published": "2026-05-07T17:45:00+00:00",
-      "score": 14
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
+      "published": "2026-05-11T17:54:00+00:00",
+      "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Monthly Market Price Bulletin - Syria | February 2026 — ISSUE 134",
-      "url": "https://reliefweb.int/report/syrian-arab-republic/monthly-market-price-bulletin-syria-february-2026-issue-134",
-      "summary": "Country: Syrian Arab Republic Source: World Food Programme Please refer to the attached file. HIGHLIGHTS The cost of living in February 2026, as measured by the Minimum Expenditure Basket (MEB), increased by 1.8 percent to Old SYP 2.43 million, from Old SYP 2.39 million in January 2026. This increase was driven by higher prices for eggplants, chicken meat, and gas cylinder. The Syrian currency depreciated in the parallel market to have and exchange rate from SYP 11,702 per USD in January 2025 to",
-      "published": "2026-05-10T07:56:53+00:00",
-      "score": 14
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Whales could be harmed by diverted ships avoiding Middle East, scientists warn",
+      "url": "https://www.bbc.com/news/articles/cz02dkkd9j9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ships have rerouted around the Cape of Good Hope since 2023 to avoid conflicts in the Middle East.",
+      "published": "2026-05-11T14:22:07+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+      "published": "2026-05-11T01:55:13+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Strait of Hormuz de-escalation is urgent, says UN chief",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167478",
+      "summary": "As the Strait of Hormuz crisis deepens and tensions between Iran and the United States remain unresolved, oil prices rose again early Monday, prompting the UN Secretary-General to call for a peaceful resolution and warn of the widening fallout across Africa and beyond.",
+      "published": "2026-05-11T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Hubble Survey Sets Up Roman’s Future Look Near Milky Way’s Center",
+      "url": "https://science.nasa.gov/missions/roman-space-telescope/hubble-survey-sets-up-romans-future-look-near-milky-ways-center/",
+      "summary": "The Milky Way’s galactic bulge, the bulbous region that surrounds the galactic center, contains a dense collection of stars, planets, and other free-floating objects. This region has been studied for decades with numerous ground-based and space-based telescopes, including NASA’s Hubble and James Webb space telescopes. Soon, NASA’s Nancy Grace Roman Space Telescope will be the […]",
+      "published": "2026-05-11T14:00:39+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Astronaut Jessica Meir",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-jessica-meir-2/",
+      "summary": "NASA Astronaut Jessica Meir sits for a portrait at NASA’s Johnson Space Center in Houston on Sept. 23, 2025. This photo was chosen as one of the 2025 NASA Photographer of the Year finalists. Meir launched on NASA’s SpaceX Crew-12 mission to the International Space Station in February 2026 with fellow NASA astronaut Jack Hathaway, […]",
+      "published": "2026-05-11T13:58:09+00:00",
+      "score": 11
     },
     {
       "source": "The Hacker News",
@@ -85,34 +104,70 @@
       "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
       "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
       "published": "2026-05-10T12:41:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker",
-      "published": "2026-05-07T13:34:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Monthly Market Price Bulletin - Syria | January 2026 — ISSUE 133",
-      "url": "https://reliefweb.int/report/syrian-arab-republic/monthly-market-price-bulletin-syria-january-2026-issue-133",
-      "summary": "Country: Syrian Arab Republic Source: World Food Programme Please refer to the attached file. HIGHLIGHTS The Central Bank of Syria officially announces the launch of a new currency in January 2026 to address challenges in the banking sector and liquidity constraints. Recent trade policy adjustments include the suspension of chicks and hatching egg imports to support domestic poultry production, alongside the authorization of tomato imports to mitigate rising local market prices. The cost of livi",
-      "published": "2026-05-10T08:04:21+00:00",
-      "score": 13
+      "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-      "published": "2026-05-09T14:36:21+00:00",
-      "score": 12
+      "title": "US passengers from ship quarantined as officials say public risk 'very low'",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "One passenger has tested positive for Andes virus, a rare type of hantavirus, while another is showing mild symptoms, health officials say.",
+      "published": "2026-05-11T17:17:25+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
+      "published": "2026-05-11T10:00:31+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Washington dinner shooting suspect pleads not guilty",
+      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
+      "published": "2026-05-11T14:52:12+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Dozens of Nigerian fishermen feared dead after Chad air strikes on Boko Haram",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
+      "summary": "A fishermen's leader tells the BBC that 40 people are feared dead - either in the strikes or drowning as they tried to flee.",
+      "published": "2026-05-11T16:30:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ailing Iranian Nobel laureate given bail and hospital transfer",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison.",
+      "published": "2026-05-11T10:16:50+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+      "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+      "published": "2026-05-10T19:56:45+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Police find body believed to be of fugitive Australian shooter",
+      "url": "https://www.bbc.com/news/articles/cdjp9vzxlz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A body found in New South Wales is thought to be that of a man wanted over a triple murder.",
+      "published": "2026-05-11T09:44:29+00:00",
+      "score": 10
     },
     {
       "source": "UN News",
@@ -121,43 +176,34 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167468",
       "summary": "The World Health Organization (WHO) has verified more than 3,000 attacks on healthcare in Ukraine since Russia launched its full-scale invasion in February 2022, the UN agency reported on Friday.",
       "published": "2026-05-08T12:00:00+00:00",
-      "score": 12
+      "score": 10
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Conflict Intensity Snapshot (2 March - 7 May 2026)",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-7-may-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file.",
-      "published": "2026-05-09T18:18:34+00:00",
-      "score": 12
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
+      "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have…",
+      "published": "2026-05-11T12:10:00+00:00",
+      "score": 10
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Conflict Intensity Snapshot (2 March - 6 May 2026)",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-conflict-intensity-snapshot-2-march-6-may-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file.",
-      "published": "2026-05-09T18:13:44+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Afghanistan Nutrition Cluster – Q1 2026 Performance Snapshot",
-      "url": "https://reliefweb.int/report/afghanistan/afghanistan-nutrition-cluster-q1-2026-performance-snapshot",
-      "summary": "Country: Afghanistan Sources: Nutrition Cluster, UN Children's Fund Please refer to the attached file. During Q1 2026, the Afghanistan Nutrition Cluster and partners reached nearly 945,790 people, representing 16.6% of the annual target. Nutrition services continued across the country despite funding shortages, supply constraints, and operational challenges. Under IMAM services, 9,403 SAM cases were admitted for inpatient treatment and 113,560 children received outpatient treatment. In addition,",
-      "published": "2026-05-09T06:19:57+00:00",
-      "score": 12
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
+      "url": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
+      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description",
+      "published": "2026-05-11T07:05:00+00:00",
+      "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Lebanon says Israeli strikes killed 39",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "published": "2026-05-09T21:23:14+00:00",
-      "score": 11
+      "title": "US and French nationals test positive for hantavirus after leaving ship",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
+      "published": "2026-05-11T13:13:22+00:00",
+      "score": 9
     },
     {
       "source": "UN News",
@@ -165,159 +211,6 @@
       "title": "Central African Republic: Funding cuts put humanitarian support at risk",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167474",
       "summary": "The Central African Republic (CAR) is making progress towards stability and security but major aid budget cuts threaten humanitarian operations there, a senior official with the UN aid coordination office OCHA said on Friday in New York.",
-      "published": "2026-05-08T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-      "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss. The 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over",
-      "published": "2026-05-08T15:08:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
-      "published": "2026-05-08T14:01:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-      "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux backdoor named PamDOORa that's being advertised on the Rehub Russian cybercrime forum for $1,600 by a threat actor called \"darkworm.\" The backdoor is designed as a Pluggable Authentication Module (PAM)-based post-exploitation toolkit that enables persistent SSH access by means of a magic password and specific TCP port combination.",
-      "published": "2026-05-08T08:41:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-      "url": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1. It allows \"a remotely authenticated user with administrative access to achieve remote code",
-      "published": "2026-05-07T17:55:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
-      "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-      "published": "2026-05-10T10:57:22+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Israel deports two activists detained on board Gaza flotilla",
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
-      "published": "2026-05-10T11:55:09+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Greece conducts controlled blast of mystery naval drone explosives",
-      "url": "https://www.bbc.com/news/articles/c9364r4r902o?at_medium=RSS&at_campaign=rss",
-      "summary": "The unmanned vessel, suspected to be of Ukrainian origin, was found by fishermen in a cave on Thursday.",
-      "published": "2026-05-09T18:00:46+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Lebanon war leaves families foraging for food despite ceasefire",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167467",
-      "summary": "The fragile ceasefire in Lebanon hasn’t prevented “ongoing killing and displacement”, with villages in the south of the country rendered completely unrecognizable after Israeli strikes, aid teams reported on Friday.",
-      "published": "2026-05-08T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Meet the Fleet: NASA Armstrong Continues Legacy of Flight Research",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/meet-the-fleet-nasa-armstrong-continues-legacy-of-flight-research/",
-      "summary": "NASA’s home for experimental flight is welcoming more flyers to its already high-performing fleet as it continues to support science and aeronautics test missions – continuing the legacy of pioneers like Neil Armstrong. NASA’s Armstrong Flight Research Center in Edwards, California, added multiple aircraft this year: two F-15s supersonic jets, a Pilatus PC-12 utility plane, […]",
-      "published": "2026-05-07T23:45:41+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments. The dataset behind these findings includes 10 million monitored",
-      "published": "2026-05-08T10:30:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Afghanistan: Ongoing floods and flash floods - DG ECHO Daily Map | 08/05/2026",
-      "url": "https://reliefweb.int/map/afghanistan/ongoing-floods-and-flash-floods-dg-echo-daily-map-08052026",
-      "summary": "Country: Afghanistan Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
-      "published": "2026-05-08T15:17:16+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-      "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
-      "published": "2026-05-10T10:45:13+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Suspected boat explosion injures 11 in Miami",
-      "url": "https://www.bbc.com/news/articles/c7076k4e31do?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials are investigating what caused the explosion at a popular marina in southern Florida.",
-      "published": "2026-05-10T03:24:44+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Iran demands guarantees for World Cup participation",
-      "url": "https://www.bbc.com/news/articles/ckgpxg03v57o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iranian Football Federation (FFIRI) has presented Fifa with 10 conditions for participation at the World Cup in the US, Mexico and Canada.",
-      "published": "2026-05-09T18:44:01+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Mexican parents criticise ending school year a month early for World Cup",
-      "url": "https://www.bbc.com/news/articles/c36276z14ego?at_medium=RSS&at_campaign=rss",
-      "summary": "The federal government faces widespread anger for saying the school year could end on 5 June to accommodate the football tournament.",
-      "published": "2026-05-09T19:40:55+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David Attenborough at 100",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167475",
-      "summary": "Haiti continues to face escalating violence and deepening insecurity, with gangs expanding their reach beyond Port-au-Prince and civilians increasingly caught between armed groups and security operations.",
-      "published": "2026-05-08T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Victims need a voice, assistance and justice’: UN victims’ rights advocate calls for stronger action",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167470",
-      "summary": "The United Nations Victims’ Rights Advocate has called for stronger and sustained action on behalf of the people she serves across the UN system.",
       "published": "2026-05-08T12:00:00+00:00",
       "score": 9
     },
@@ -340,12 +233,30 @@
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Welcomes Paraguay as 67th Artemis Accords Signatory",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-paraguay-as-67th-artemis-accords-signatory/",
-      "summary": "The Republic of Paraguay signed the Artemis Accords on Thursday during a ceremony in Asunción, becoming the latest nation to commit to the shared principles guiding civil space exploration. “Today, I am proud to welcome Paraguay as the 67th signatory to the Artemis Accords,” said NASA Administrator Jared Isaacman. “They join an ever-growing coalition of […]",
-      "published": "2026-05-07T20:41:48+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Three things in AI to watch, according to a Nobel-winning economist",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
+      "published": "2026-05-11T17:35:12+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Innovation abounds in device charging",
+      "url": "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
+      "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a slew of technological advances. These…",
+      "published": "2026-05-11T13:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Implementing advanced AI technologies in finance",
+      "url": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions…",
+      "published": "2026-05-11T13:00:00+00:00",
       "score": 9
     },
     {
@@ -360,37 +271,46 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. \"QLNX targets developers and DevOps credentials across the software supply chain,\"",
-      "published": "2026-05-08T11:00:00+00:00",
+      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+      "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+      "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay",
+      "published": "2026-05-11T12:36:00+00:00",
       "score": 9
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Syria: SYR_FSA_2025_Summary of Results Press Conference [EN AR]",
-      "url": "https://reliefweb.int/report/syrian-arab-republic/syrfsa2025summary-results-press-conference-en-ar",
-      "summary": "Country: Syrian Arab Republic Sources: Government of the Syrian Arab Republic, World Food Programme Please refer to the attached files.",
-      "published": "2026-05-10T08:15:34+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
+      "url": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
+      "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its",
+      "published": "2026-05-11T11:30:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "url": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss. The 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over",
+      "published": "2026-05-08T15:08:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "url": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
+      "published": "2026-05-08T14:01:00+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Buddhist monk arrested over alleged rape of teen in Sri Lanka",
-      "url": "https://www.bbc.com/news/articles/cy42kp0x92jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Venerable Pallegama Hemarathana Thero holds one of the most revered positions in the Buddhist world.",
-      "published": "2026-05-10T03:09:45+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "I will serve - not rule over Hungary, says new PM",
-      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
-      "published": "2026-05-09T15:12:04+00:00",
+      "title": "Bosnia's powerful peace envoy quits, with questions over role's future",
+      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Christian Schmidt had been in the role since 2021, and departs after appearing to lose the backing of the United States.",
+      "published": "2026-05-11T13:14:30+00:00",
       "score": 8
     },
     {
@@ -405,11 +325,92 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
+      "title": "Passengers leave hantavirus-hit cruise ship in Tenerife as WHO says outbreak ‘not another COVID’",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167477",
+      "summary": "Passengers and crew from the cruise ship MV Hondius began disembarking in Tenerife on Sunday under a tightly coordinated international health operation led by Spanish authorities and the World Health Organization (WHO), as officials sought to reassure the public that the outbreak “is not another COVID.”",
+      "published": "2026-05-10T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
       "title": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167476",
       "summary": "The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, has issued a direct plea for calm and solidarity to the citizens of Tenerife ahead of the scheduled arrival of the MV Hondius on Sunday",
       "published": "2026-05-09T12:00:00+00:00",
       "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Nuclear energy in the Middle East: A realistic choice or a risk?",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167448",
+      "summary": "As global electricity demand grows, so does the popularity of nuclear energy. In the Middle East, several countries are evaluating or advancing nuclear power projects, balancing weighty issues such as regional security, climatic conditions and international cooperation.",
+      "published": "2026-05-09T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "url": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick family, which is known to leverage a worm called SORVEPOTEL to",
+      "published": "2026-05-08T18:12:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
+      "url": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
+      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments. The dataset behind these findings includes 10 million monitored",
+      "published": "2026-05-08T10:30:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK's biggest ever environmental pollution claim reaches High Court",
+      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
+      "published": "2026-04-26T23:01:47+00:00",
+      "score": 7
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "First Person: Surviving death row in Thailand",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167466",
+      "summary": "A Thai woman who spent more than 20 years in prison after being found guilty of drugs trafficking – including eight on death row – has told the UN how learning to sew helped her find meaning in life behind bars, and a job when she was released.",
+      "published": "2026-05-10T12:00:00+00:00",
+      "score": 7
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David Attenborough at 100",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167475",
+      "summary": "Haiti continues to face escalating violence and deepening insecurity, with gangs expanding their reach beyond Port-au-Prince and civilians increasingly caught between armed groups and security operations.",
+      "published": "2026-05-08T12:00:00+00:00",
+      "score": 7
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Victims need a voice, assistance and justice’: UN victims’ rights advocate calls for stronger action",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167470",
+      "summary": "The United Nations Victims’ Rights Advocate has called for stronger and sustained action on behalf of the people she serves across the UN system.",
+      "published": "2026-05-08T12:00:00+00:00",
+      "score": 7
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+      "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. \"QLNX targets developers and DevOps credentials across the software supply chain,\"",
+      "published": "2026-05-08T11:00:00+00:00",
+      "score": 7
     }
   ]
 }
