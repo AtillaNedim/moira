@@ -1,118 +1,56 @@
 {
-  "generated_at": "2026-05-13T13:59:29.732752+00:00",
-  "date": "2026-05-13",
+  "generated_at": "2026-05-14T13:23:49.185892+00:00",
+  "date": "2026-05-14",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
+    "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Study on Needs and Risks in the Field of Digital Safety of Children and Adolescents in Ukraine",
-      "url": "https://reliefweb.int/report/ukraine/study-needs-and-risks-field-digital-safety-children-and-adolescents-ukraine",
-      "summary": "Country: Ukraine Source: Finn Church Aid Please refer to the attached file. The digital environment is one of the key spaces of everyday life for children and adolescents, bringing together learning, communication, leisure, and the formation of social ties. The use of social media, messaging applications, video platforms, and online games represents a stable and intensive practice for the majority of school-aged children in Ukraine. At the same time, the digital environment creates conditions fo",
-      "published": "2026-05-13T13:18:58+00:00",
-      "score": 22
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "AMDA Emergency Relief #56: Crisis in Ukraine, 13 May 2026",
-      "url": "https://reliefweb.int/report/ukraine/amda-emergency-relief-56-crisis-ukraine-13-may-2026",
-      "summary": "Country: Ukraine Source: Association of Medical Doctors of Asia Please refer to the attached file. Activity Report: MedSpot (Hungary) - December 2025 - March 2026 “We are now visiting an evacuation center in Chop, a city known for the hub railway station in the westernmost part of Ukraine. Believe it or not, the next stop on the western side is Záhony in Hungary. Do you see how closely these two are located?” It was right at the time whenDr. András Spányik, who heads Hungarian medical organizati",
-      "published": "2026-05-13T13:04:37+00:00",
-      "score": 19
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: Strengthening Interoperability and Collaboration in Humanitarian Supply Chains - May 2026",
-      "url": "https://reliefweb.int/report/world/strengthening-interoperability-and-collaboration-humanitarian-supply-chains-may-2026",
-      "summary": "Country: World Source: HELP Logistics Please refer to the attached file. The procurement, transportation, storage, and distribution of relief supplies account for some of the largest expenses for United Nations (UN) agencies. As humanitarian needs increase and funding becomes more constrained, the performance of humanitarian supply chains has become a strategic concern. However, most agencies continue to manage their supply chains independently, resulting in fragmented systems that constrain int",
-      "published": "2026-05-13T13:12:42+00:00",
-      "score": 18
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Nearly 600 killed since fragile ceasefire agreed | NRC",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-nearly-600-killed-fragile-ceasefire-agreed-nrc",
-      "summary": "Country: Lebanon Source: Norwegian Refugee Council Nearly 600 people have been killed in Lebanon in four weeks of fragile ceasefire, while more than one million people remain displaced the Norwegian Refugee Council (NRC) has said. Press release NRC calls on all parties to fully respect the ceasefire and uphold international humanitarian law. Civilians, civilian infrastructure, health workers, and humanitarian personnel must be protected at all times. The right of displaced people to return safel",
-      "published": "2026-05-13T13:03:05+00:00",
-      "score": 18
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "UNHCR Ukraine Operational Update - 12 May 2026",
-      "url": "https://reliefweb.int/report/ukraine/unhcr-ukraine-operational-update-12-may-2026",
-      "summary": "Country: Ukraine Source: UN High Commissioner for Refugees Please refer to the attached file. OPERATIONAL CONTEXT & HIGHLIGHTS: • An escalation in attacks by the Russian Federation during the first week of May resulted in a significant increase in civilian casualties. According to the UN HRMMU , 28 people were killed and 194 injured on 5 May alone in a wave of Russian attacks, bringing the civilian death toll across Ukraine in the first week of May to at least 70 killed and more than 500 injured",
-      "published": "2026-05-13T12:03:18+00:00",
-      "score": 18
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: Protection in Danger Monthly News Brief - April 2026",
-      "url": "https://reliefweb.int/report/world/protection-danger-monthly-news-brief-april-2026",
-      "summary": "Countries: World, Bangladesh, Democratic Republic of the Congo, Ethiopia, Lebanon, Myanmar, Nigeria, occupied Palestinian territory, Sudan, United Republic of Tanzania Source: Insecurity Insight Please refer to the attached file. Insecurity Insight’s Protection in Danger open-source monitoring identified 8,527 incidents of threats and violence that took place at IDP/refugee camps, including temporary/makeshift shelters between 01 January 2020 and March 2026. In these incidents, camps were damage",
-      "published": "2026-05-13T13:07:11+00:00",
-      "score": 17
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "ACAPS Sudan Risk Analysis [2026] (Thematic Report 13 May 2026)",
-      "url": "https://reliefweb.int/report/sudan/acaps-sudan-risk-analysis-2026-thematic-report-13-may-2026",
-      "summary": "Country: Sudan Source: ACAPS Please refer to the attached file. ABOUT THIS REPORT Aim and scope This report outlines seven risks of emerging or deteriorating humanitarian conditions in Sudan between June–December 2026. The risk analysis aims to support humanitarian decision makers in anticipating potential escalations in humanitarian needs, displacement, humanitarian access constraints, and service disruptions to inform proactive preparedness and response planning. These seven risks were selecte",
-      "published": "2026-05-13T13:03:07+00:00",
-      "score": 17
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Qatar Charity Distributes Food Baskets to Syrian Refugees in Jordan [EN/AR]",
-      "url": "https://reliefweb.int/report/jordan/qatar-charity-distributes-food-baskets-syrian-refugees-jordan-enar",
-      "summary": "Countries: Jordan, Syrian Arab Republic Source: Qatar Charity Please refer to the attached file. Qatar Charity (QC) has distributed food baskets to Syrian refugees in Jordan’s Azraq and Zaatari camps. Executed in close coordination with the United Nations High Commissioner for Refugees (UNHCR) in the Hashemite Kingdom of Jordan, the initiative forms part of Qatar Charity's continued global interventions aimed at supporting refugees and internally displaced persons (IDPs) and mitigating protracte",
-      "published": "2026-05-13T13:35:43+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+      "published": "2026-05-14T06:00:09+00:00",
       "score": 15
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Philippines: The Peace Accords Matrix-Mindanao (Pam-M) and Civil Society Normalization Update Report (September - December 2025)",
-      "url": "https://reliefweb.int/report/philippines/peace-accords-matrix-mindanao-pam-m-and-civil-society-normalization-update-report-september-december-2025",
-      "summary": "Country: Philippines Source: University of Notre Dame Please refer to the attached file. The fourth Peace Accords Matrix – Mindanao (PAM-M) update report highlights a critical juncture in the Bangsamoro peace process, characterized by stalled decommissioning activities, decreasing mutual trust, and the postponement of parliamentary elections to September 2026. Findings from the January 2026 workshop indicate that while both the Philippine government and the MILF remain committed to the 2014 Comp",
-      "published": "2026-05-13T12:37:30+00:00",
-      "score": 15
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "summary": "A girl is among at least seven killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
+      "published": "2026-05-14T13:16:32+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Gunshots fired in Philippine Senate where lawmaker wanted by ICC is holed up",
+      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Senator Ronald dela Rosa, a former police chief, enforced former President Rodrigo Duterte's deadly drug war.",
+      "published": "2026-05-13T15:35:15+00:00",
+      "score": 14
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+      "summary": "Mounting waste and limited access to sanitation sites are deepening health risks for families across Gaza, as humanitarian workers warn that overcrowded dumping areas and worsening living conditions threaten vulnerable communities.",
+      "published": "2026-05-13T12:00:00+00:00",
+      "score": 14
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Hello Universe: NASA’s Next-Gen Space Processor Undergoes Testing",
-      "url": "https://www.nasa.gov/technology/hello-universe-nasas-next-gen-space-processor-undergoes-testing/",
-      "summary": "NASA’s High Performance Spaceflight Computing project aims to dramatically improve the computing power of spacecraft. Missions need processors that can withstand the harsh space environment, so they use chips developed years ago that are hardy and reliable. But upgraded chips are needed to enable the development of autonomous spacecraft, accelerate the rate of scientific discovery […]",
-      "published": "2026-05-12T15:02:47+00:00",
+      "title": "Studying Pneumonia in Space for Heart Health on Earth",
+      "url": "https://www.nasa.gov/missions/station/iss-research/studying-pneumonia-in-space-for-heart-health-on-earth/",
+      "summary": "Expedition 74 astronauts aboard the International Space Station are uncovering how bacteria that causes pneumonia can lead to long-term damage in the heart. Researchers are leveraging the space environment to observe how stem cell derived heart tissues respond to bacterial infections, to discover new methods to manage cardiovascular health and infectious diseases. In space, bacteria […]",
+      "published": "2026-05-13T14:45:00+00:00",
       "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
-      "published": "2026-05-13T08:08:54+00:00",
-      "score": 14
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
-      "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a…",
-      "published": "2026-05-13T12:10:00+00:00",
-      "score": 13
     },
     {
       "source": "The Hacker News",
@@ -124,201 +62,183 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
-      "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real",
-      "published": "2026-05-13T11:52:43+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "url": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
-      "published": "2026-05-12T14:47:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Uganda: Solutions and Mobility Index (November 2025)",
-      "url": "https://reliefweb.int/report/uganda/uganda-solutions-and-mobility-index-november-2025",
-      "summary": "Country: Uganda Source: International Organization for Migration Please refer to the attached file. This report aimed at assessing the conditions in four districts – Arua, Ntoroko, Nebbi, and Zombo as well as Arua City, a major commercial hub in Northwestern Uganda. The overall objective was to understand the conditions in locations hosting cross-border arrivals from the DRC along four key criteria – safety and security; standards of living; access to livelihoods; and social cohesion. Additional",
-      "published": "2026-05-13T13:33:09+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: UNDAC Developing Countries Mission Account - Concept Note 2026",
-      "url": "https://reliefweb.int/report/world/undac-developing-countries-mission-account-concept-note-2026",
-      "summary": "Country: World Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Introduction The Humanitarian Reset was initiated in 2025 by the IASC and launched by Emergency Relief Coordinator Tom Fletcher to overhaul the global aid system, in response to severe funding cuts, record needs, and crises of legitimacy. To maintain response readiness of UNDAC as a rapid response coordination mechanism of the UN, OCHA needs to maintain and build strong partnerships, ",
-      "published": "2026-05-13T11:43:58+00:00",
-      "score": 13
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Philippine Senate in lockdown after gunshots fired",
-      "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge.",
-      "published": "2026-05-13T13:58:14+00:00",
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+      "published": "2026-05-14T13:02:13+00:00",
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Children shot, stabbed and pepper-sprayed in occupied West Bank",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167488",
-      "summary": "Israeli military operations and surging settler attacks in the occupied West Bank are killing and maiming a growing number of Palestinian children, while in Gaza tens of thousands with life-changing injuries lack access to treatment and rehabilitation, UN agencies warned on Tuesday.",
-      "published": "2026-05-12T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
-      "published": "2026-05-13T11:30:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said. The feature, it",
-      "published": "2026-05-13T06:55:42+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Climbers clear path to Everest summit past giant chunk of ice",
-      "url": "https://www.bbc.com/news/articles/c3w2np14g92o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 1,000 climbers will attempt to scale the peak in coming weeks and this has raised safety concerns.",
-      "published": "2026-05-13T11:57:37+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
-      "published": "2026-05-13T13:44:36+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-      "published": "2026-05-12T20:00:05+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Storm, displacement and hidden wartime explosives deepen emergency in Solomon Islands",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167485",
-      "summary": "More than 150,000 people have been affected by Tropical Cyclone Maila, the latest storm in the Pacific area, which continues to drive what the UN relief coordination office OCHA has described as “significant humanitarian needs” across the Solomon Islands.",
-      "published": "2026-05-11T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167479",
-      "summary": "Drones caused more than 80 per cent of civilian deaths in Sudan’s war during the first four months of 2026, killing at least 880 people, the UN human rights chief said on Monday, warning that escalating drone warfare could push the conflict into an even deadlier phase.",
-      "published": "2026-05-11T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "A plan to make drugs in orbit is going commercial",
-      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
-      "summary": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing. The idea of building things in outer space for use on Earth has so far been explored…",
-      "published": "2026-05-13T10:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "World Models: 10 Things That Matter in AI Right Now",
-      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understand the World?” exploring how AI may evolve to…",
-      "published": "2026-05-12T16:22:15+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
-      "published": "2026-05-13T13:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
-      "published": "2026-05-12T16:44:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "What to know as Trump visits Xi in China",
-      "url": "https://www.bbc.com/news/articles/cyv2n7l1z14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump has landed in Beijing for the first visit by a US leader since his own in 2017.",
-      "published": "2026-05-13T13:01:51+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Nigerian film star Alexx Ekubo dies aged 40",
-      "url": "https://www.bbc.com/news/articles/c74d1j2ew0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The actor was recognised for his contributions to entertainment as well as his humanitarian efforts.",
-      "published": "2026-05-13T10:47:55+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
-      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated.",
-      "published": "2026-05-13T08:24:28+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump's 'Golden Dome' will cost $1.2tn and might not stop all-out missile attack",
-      "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "That pricetag is nearly seven times higher than Trump's initial estimate, found an independent budget office.",
-      "published": "2026-05-13T01:59:53+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
+      "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "White-tailed eagles to be released in Exmoor despite farmer warnings",
-      "url": "https://www.bbc.com/news/articles/cd6p26y6d8vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some farmers fear the reintroduction of the UK's biggest bird of prey will threaten their livestock.",
-      "published": "2026-05-13T05:00:08+00:00",
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "summary": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong. Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]",
+      "published": "2026-05-13T19:47:08+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
+      "published": "2026-05-14T11:30:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
+      "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real danger? While",
+      "published": "2026-05-13T11:52:43+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+      "url": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
+      "published": "2026-05-13T08:08:54+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Latvian PM resigns after row over stray Ukrainian drones",
+      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
+      "published": "2026-05-14T10:53:56+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Israeli strikes in southern Lebanon kill 22 people, health ministry says",
+      "url": "https://www.bbc.com/news/articles/c1k2zekj8y9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight children are among those reported dead after a series of air strikes hit the south of Beirut.",
+      "published": "2026-05-13T21:14:45+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says.",
+      "published": "2026-05-13T14:16:08+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Rise Goes to Washington",
+      "url": "https://www.nasa.gov/image-article/rise-goes-to-washington/",
+      "summary": "“Rise,” the Artemis II zero gravity indicator, is seen sitting on the dais as NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen speak with congressional staff, Tuesday, May 12, 2026, in Washington. NASA’s Artemis II mission took Wiseman, Glover, Koch, and Hansen on a nearly 10-day […]",
+      "published": "2026-05-13T19:17:12+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot through a facial recognition program. She wanted…",
+      "published": "2026-05-14T12:10:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "url": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "summary": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdirected by Google’s generative AI. In March, a software developer in Israel was contacted on WhatsApp…",
+      "published": "2026-05-13T18:09:03+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
+      "url": "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a…",
+      "published": "2026-05-13T12:10:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "url": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the",
+      "published": "2026-05-14T11:40:14+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
+      "published": "2026-05-14T09:25:50+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+      "published": "2026-05-14T07:06:15+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
+      "published": "2026-05-14T00:38:56+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'They shot my neighbour in the head' - the lakeside city traumatised by war",
+      "url": "https://www.bbc.com/news/articles/cy42dgj0x32o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rebel fighters and Rwandan troops are accused of committing atrocities after capturing the DR Congo city of Uvira in December.",
+      "published": "2026-05-14T05:09:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Cuba has run out of diesel and oil, energy minister says",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The minister says the situation in Cuba is \"extremely tense\", as a US-led blockade of oil to the country causes widespread power cuts.",
+      "published": "2026-05-14T09:06:23+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Epstein abused me while under house arrest, survivor tells US lawmakers",
+      "url": "https://www.bbc.com/news/articles/clypr378l2wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roza was among several victims who gave testimony to Democratic lawmakers on Tuesday.",
+      "published": "2026-05-13T13:46:15+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "WHO says hantavirus ship operation completed, monitoring to continue",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167505",
+      "summary": "A complex international operation to disembark and repatriate passengers from the hantavirus-hit MV Hondius has concluded in Tenerife, with the World Health Organization (WHO) praising Spain’s leadership while warning that global coordination must continue in the weeks ahead.",
+      "published": "2026-05-13T12:00:00+00:00",
       "score": 10
     },
     {
@@ -340,39 +260,21 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Middle East: Deadly weekend in Lebanon, continued violence in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167483",
-      "summary": "The humanitarian situation in Lebanon continues to deteriorate despite the ceasefire announced last month with Israel, the United Nations said on Monday.",
-      "published": "2026-05-11T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Ice Moves Out of Aniak",
+      "url": "https://science.nasa.gov/earth/earth-observatory/ice-moves-out-of-aniak/",
+      "summary": "Spring melt along Alaska’s Kuskokwim River caused ice jams and flooding.",
+      "published": "2026-05-14T04:01:00+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Langley Engineer Attends FAA Training",
-      "url": "https://www.nasa.gov/general/nasa-langley-engineer-attends-faa-training/",
-      "summary": "At a busy airport, every aircraft in the area shares just a handful of radio frequencies. Spectrum and time are constrained and if multiple people speak at once, both messages can get lost. Communications like “clearance delivery,” which require long transmissions and readbacks, are challenging in high-traffic areas, particularly when weather or other factors require […]",
-      "published": "2026-05-12T18:57:31+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Perseverance Rover Snaps Selfie in Mars’ Western Frontier",
-      "url": "https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-snaps-selfie-in-mars-western-frontier/",
-      "summary": "NASA’s Perseverance Mars rover recently took a self-portrait against a sweeping backdrop of ancient Martian terrain at a location the science team calls “Lac de Charmes.” Assembled from 61 individual images, the selfie shows Perseverance training its mast on a rocky outcrop on which it had just made a circular abrasion patch, with the western […]",
-      "published": "2026-05-12T16:48:31+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Perseverance Rover Snaps Westernmost Selfie",
-      "url": "https://science.nasa.gov/photojournal/nasas-perseverance-rover-snaps-westernmost-selfie/",
-      "summary": "Description NASA’s Perseverance Mars rover took this selfie on March 11, 2026, the 1,797th Martian day, or sol, of the mission, during the rover’s deepest push west beyond Jezero Crater. Assembled from 61 individual images, the selfie shows Perseverance training its mast on the “Arethusa” rocky outcrop after creating a whitish circular abrasion patch. The […]",
-      "published": "2026-05-12T16:45:58+00:00",
+      "title": "NASA Outlines Preliminary Artemis III Mission Plans",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/",
+      "summary": "NASA is moving quickly to define next year’s Artemis III mission in Earth orbit, a crewed flight that will test rendezvous and docking capabilities between the agency’s Orion spacecraft and commercial landers from Blue Origin and SpaceX. Since a February announcement adding an Artemis mission ahead of crewed landing missions to the Moon’s South Pole region, […]",
+      "published": "2026-05-13T15:33:56+00:00",
       "score": 10
     },
     {
@@ -387,28 +289,127 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
-      "published": "2026-05-13T10:36:10+00:00",
+      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+      "url": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
+      "published": "2026-05-13T11:30:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "url": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said. The feature, it",
+      "published": "2026-05-13T06:55:42+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "More than 1,000 passengers held on cruise after gastrointestinal illness outbreak",
-      "url": "https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The ship, which set sail from Belfast on Friday, is at port in Bordeaux after 49 people fell ill from gastrointestinal illness.",
-      "published": "2026-05-13T12:53:05+00:00",
+      "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
+      "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts.",
+      "published": "2026-05-14T11:44:22+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Shrinking Milka chocolate bar tricked consumers, says German court",
-      "url": "https://www.bbc.com/news/articles/crmp428zylko?at_medium=RSS&at_campaign=rss",
-      "summary": "A court in Bremen has found the manufacturer of the classic Alpine Milk chocolate bar guilty of \"shrinkflation\".",
-      "published": "2026-05-13T11:29:53+00:00",
+      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+      "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+      "published": "2026-05-13T13:37:53+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN rights chief warns abuses in DPR Korea remain a ‘human rights crisis’",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167504",
+      "summary": "Serious human rights violations continue in the Democratic People’s Republic of Korea (DPRK) and must not be allowed to fade from international attention, UN High Commissioner for Human Rights Volker Türk warned on Wednesday.",
+      "published": "2026-05-13T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+      "summary": "Africa’s rising influence is being constrained by outdated global institutions, unfair borrowing costs and cascading global crises, UN Secretary‑General António Guterres warned in Addis Ababa, as the United Nations and African Union reaffirmed their strategic partnership.",
+      "published": "2026-05-13T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Afghanistan crisis deepens as record returns, drought and aid cuts strain economy",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167500",
+      "summary": "Afghanistan’s humanitarian and economic crisis is deepening despite modest economic growth, with nearly three in four people unable to meet basic needs, the UN Development Programme (UNDP) said on Wednesday.",
+      "published": "2026-05-13T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Recycled plastics for food use require stronger safeguards, warn UN food security experts",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167498",
+      "summary": "Recycled plastics could help reduce the world’s growing waste crisis, but only if food packaging is carefully regulated to prevent contamination, according to a new analysis from the UN Food and Agriculture Organization (FAO).",
+      "published": "2026-05-13T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167496",
+      "summary": "The UN Interim Force in Lebanon (UNIFIL) said on Wednesday that escalating drone activity and nearby explosions involving suspected Hezbollah drones and Israeli forces are endangering its personnel and threatening already fragile stability in southern Lebanon.",
+      "published": "2026-05-13T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "From childhood to university, economic inequality shapes life chances worldwide",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167492",
+      "summary": "Economic inequality is leaving a deep mark on children’s health, learning and future opportunities – with effects felt well beyond the classroom, the UN Children’s Fund UNICEF and the UN education agency UNESCO warned on Tuesday.",
+      "published": "2026-05-12T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The shock of seeing your body used in deepfake porn",
+      "url": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "summary": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, when she was in her early 20s. It did in fact return…",
+      "published": "2026-05-14T09:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "A plan to make drugs in orbit is going commercial",
+      "url": "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
+      "summary": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing. The idea of building things in outer space for use on Earth has so far been explored…",
+      "published": "2026-05-13T10:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "World Models: 10 Things That Matter in AI Right Now",
+      "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
+      "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understand the World?” exploring how AI may evolve to…",
+      "published": "2026-05-12T16:22:15+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+      "url": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+      "published": "2026-05-13T13:00:00+00:00",
       "score": 9
     }
   ]
