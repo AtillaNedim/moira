@@ -1,108 +1,37 @@
 {
-  "generated_at": "2026-05-16T12:52:19.673649+00:00",
-  "date": "2026-05-16",
+  "generated_at": "2026-05-17T12:49:01.201287+00:00",
+  "date": "2026-05-17",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
+    "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Briefing to the Security Council on the humanitarian situation in Syria, 15 May 2026",
-      "url": "https://reliefweb.int/report/syrian-arab-republic/mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-briefing-security-council-humanitarian-situation-syria-15-may-2026",
-      "summary": "Country: Syrian Arab Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. New York, 15 May 2026 Thank you, Mr. President, and thank you to the Deputy Special Envoy [Claudio Cordone] for his briefing. As I briefed you last month, Syria is at a critical yet promising moment. We must consolidate humanitarian gains and invest in recovery. I will cover three points today. Firstly, progress is real, but fragile. Violence has decreased, sanctions ha",
-      "published": "2026-05-15T16:19:30+00:00",
-      "score": 24
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Latin America & The Caribbean Weekly Situation Update as of 15 May 2026",
-      "url": "https://reliefweb.int/report/haiti/latin-america-caribbean-weekly-situation-update-15-may-2026",
-      "summary": "Countries: Haiti, Chile, Colombia, Cuba, Ecuador, El Salvador, Honduras Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. KEY FIGURES 5.9M people were internally displaced across the Americas in 2025 82% chance of El Niño conditions by May-July 2026 5.3K people displaced due to armed clashes in Ouest, Haiti since 10 May REGIONAL: DISPLACEMENT The Americas recorded nearly 5.9 million internal displacements in 2025, the second-highest figure in a dec",
-      "published": "2026-05-15T19:29:48+00:00",
-      "score": 21
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Risk of Famine persists as nearly 19.5 million people face acute food insecurity in Sudan",
-      "url": "https://reliefweb.int/report/sudan/risk-famine-persists-nearly-195-million-people-face-acute-food-insecurity-sudan-0",
-      "summary": "Country: Sudan Source: UN Children's Fund Conflict, displacement and restricted humanitarian access leave more than 825,000 children at risk of death from severe malnutrition in 2026 NEW YORK/PORT SUDAN, 15 May 2026 - The Food and Agriculture Organization (FAO), the World Food Programme (WFP) and UNICEF warned today that nearly 19.5 million people – two out of every five people in Sudan - are currently facing crisis levels of acute food insecurity (IPC Phase 3 or above) across Sudan, according t",
-      "published": "2026-05-15T14:33:05+00:00",
-      "score": 18
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "IRC warns Somalia is on the brink of catastrophe as new IPC projections signal renewed famine risk | The IRC",
-      "url": "https://reliefweb.int/report/somalia/irc-warns-somalia-brink-catastrophe-new-ipc-projections-signal-renewed-famine-risk-irc",
-      "summary": "Country: Somalia Source: International Rescue Committee The price of essential household commodities has continued to rise, placing additional pressure on families already struggling with drought and hunger. Sugar prices have increased by 13.3%, rice by 9.6%, flour by 16%, cooking oil by 21.4%, and milk by 42. Fertilizer prices have surged dramatically amid regional instability and supply chain disruptions linked to the Strait of Hormuz crisis, threatening agricultural production at a critical m",
-      "published": "2026-05-15T13:33:16+00:00",
-      "score": 18
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Supporting agricultural recovery in Syria (Deir ez-Zor)",
-      "url": "https://reliefweb.int/report/syrian-arab-republic/supporting-agricultural-recovery-syria-deir-ez-zor",
-      "summary": "Country: Syrian Arab Republic Source: Agency for Technical Cooperation and Development Syria continues to face a protracted humanitarian crisis, with millions still affected by years of conflict, displacement, and infrastructure degradation. In Deir ez-Zor, the progressive return of populations, amid evolving governance dynamics, is placing growing pressure on already fragile services and livelihoods. Returnee, displaced, and host communities continue to face damaged shelters, limited access to ",
-      "published": "2026-05-15T13:36:19+00:00",
-      "score": 17
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti : Violence and displacement in Artibonite – Flash Update No. 2 (as of 15 May 2026)",
-      "url": "https://reliefweb.int/report/haiti/haiti-violence-and-displacement-artibonite-flash-update-no-2-15-may-2026",
-      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS 4 419 people displaced following the May 2 attacks At least six deaths and nine gunshot injuries reported in the commune of Saint-Marc after the May 8 and 9 attacks New population displacements reported, with movements still ongoing following the May 8 and 9 attacks SITUATION OVERVIEW Since May 2, 2026, the Artibonite department has been facing a continuation and intensific",
-      "published": "2026-05-15T19:16:14+00:00",
-      "score": 16
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+      "published": "2026-05-17T11:28:02+00:00",
+      "score": 15
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
-      "published": "2026-05-16T05:53:41+00:00",
-      "score": 14
+      "title": "Taiwan insists it is independent after Trump warning",
+      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+      "published": "2026-05-16T17:01:53+00:00",
+      "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
-      "published": "2026-05-15T13:35:04+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "WFP Armenia Country Brief, May 2026",
-      "url": "https://reliefweb.int/report/armenia/wfp-armenia-country-brief-may-2026",
-      "summary": "Country: Armenia Source: World Food Programme Please refer to the attached file. USD 2.75 M required in the next six months (May – Oct 2026) KEY HIGHLIGHTS • WFP continues to support the Government of Armenia and partners in efforts to eradicate food insecurity and malnutrition. Partner support is essential to reinforce Armenia’s emergency preparedness and response capacities, ensuring the country can withstand humanitarian shocks, including a potential refugee influx. • WFP is strengthening sch",
-      "published": "2026-05-15T14:36:00+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: Bi-monthly pastoral surveillance bulletin in the Sahel (N°37 / February-March 2026)",
-      "url": "https://reliefweb.int/report/world/bi-monthly-pastoral-surveillance-bulletin-sahel-ndeg37-february-march-2026",
-      "summary": "Countries: World, Burkina Faso, Côte d'Ivoire, Mali, Mauritania, Niger, Senegal Source: Action contre la Faim France Please refer to the attached Infographic. The February–March 2026 period is characterized by the transition from the cool dry season to the hot dry season. Temporary surface water points used for livestock watering have dried up, while significant forage resources have been destroyed by bushfires. As a result, pastoral resources range from sufficient to slightly insufficient in so",
-      "published": "2026-05-15T13:42:34+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
-      "published": "2026-05-15T17:10:25+00:00",
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "url": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+      "published": "2026-05-16T15:20:48+00:00",
       "score": 13
     },
     {
@@ -115,42 +44,6 @@
       "score": 13
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Latinoamérica y El Caribe Resumen de Situación Semanal al 15 de mayo 2026",
-      "url": "https://reliefweb.int/report/haiti/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-15-de-mayo-2026",
-      "summary": "Countries: Haiti, Chile, Colombia, Cuba, Ecuador, El Salvador, Honduras Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. CIFRAS CLAVE 5,9M de personas fueron desplazadas internamente en las Américas en 2025 82% de probabilidad de condiciones de El Niño entre mayo y julio de 2026 5,3K personas desplazadas debido a enfrentamientos armados en Ouest, Haití, desde el 10 de mayo REGIONAL: DESPLAZAMIENTO Según el Informe Global del Observatorio de Despla",
-      "published": "2026-05-15T19:33:18+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti : Violences et déplacements dans l’Artibonite - Flash Update No. 2 (au 15 mai 2026)",
-      "url": "https://reliefweb.int/report/haiti/haiti-violences-et-deplacements-dans-lartibonite-flash-update-no-2-au-15-mai-2026",
-      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. FAITS SAILLANTS 4 419 personnes déplacées à la suite des attaques du 2 mai Au moins six décès et neuf blessés par balles signalés dans la commune de Saint-Marc après les attaques des 8 et 9 mai Nouveaux déplacements de population signalés, avec des mouvements encore en cours après les attaques des 8et 9 mai APERÇU DE LA SITUATION Depuis le 2 mai 2026, le département de l’Artibonite es",
-      "published": "2026-05-15T19:09:42+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-      "published": "2026-05-15T23:59:07+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World Urban Forum opens in Baku as housing crisis and climate shocks intensify",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167517",
-      "summary": "Soaring housing costs, climate shocks and conflicts are leaving millions without adequate shelter – but what can be done? As the 13th UN World Urban Forum opens on Sunday in Baku, Azerbaijan, participants will grapple with solutions to a deepening global housing crisis.",
-      "published": "2026-05-16T12:00:00+00:00",
-      "score": 12
-    },
-    {
       "source": "UN News",
       "category": "Geopolitik",
       "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
@@ -160,48 +53,66 @@
       "score": 12
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
-      "published": "2026-05-15T23:39:35+00:00",
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
+      "published": "2026-05-15T13:35:04+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
-      "published": "2026-05-16T11:44:54+00:00",
+      "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+      "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+      "published": "2026-05-16T23:10:19+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
-      "published": "2026-05-15T23:04:33+00:00",
+      "title": "Trump-backed challenger defeats Republican senator who voted to convict president",
+      "url": "https://www.bbc.com/news/articles/cx21d4pxq23o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
+      "published": "2026-05-17T03:23:08+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Man killed by 13ft great white shark in Western Australia",
-      "url": "https://www.bbc.com/news/articles/c1m2xy3dr20o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man was bitten just before 10:00 (03:00 BST) at Horseshoe Reef - north-west of the popular Rottnest Island near the city of Perth, local police said.",
-      "published": "2026-05-16T07:04:36+00:00",
+      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
+      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
+      "summary": "No group has yet claimed responsibility for the attacks, which have devastated Mussa town in Borno state.",
+      "published": "2026-05-16T15:50:09+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Freight train and bus crash kills at least eight in Bangkok",
-      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
-      "published": "2026-05-16T11:21:21+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167528",
+      "summary": "Nearly 20 million people across Sudan are facing acute hunger and more than 800,000 children risk severe malnutrition this year, UN agencies warned on Friday, as civil war, mass displacement and collapsing food and health systems deepen one of the world’s worst humanitarian crises and push parts of the country closer to famine.",
+      "published": "2026-05-15T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "url": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana said in a series of",
+      "published": "2026-05-17T07:13:33+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "url": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
+      "published": "2026-05-15T17:10:25+00:00",
       "score": 11
     },
     {
@@ -223,30 +134,12 @@
       "score": 11
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Nigeria: África Occidental y Central impulsa una mayor financiación climática ante el aumento de las presiones sobre la movilidad",
-      "url": "https://reliefweb.int/report/nigeria/africa-occidental-y-central-impulsa-una-mayor-financiacion-climatica-ante-el-aumento-de-las-presiones-sobre-la-movilidad",
-      "summary": "Countries: Nigeria, Côte d'Ivoire, Mauritania, Türkiye Source: International Organization for Migration Lagos/Dakar, 15 de mayo de 2026 – Dirigentes de África Occidental y Central están pidiendo un aumento de la financiación para ayudar a las comunidades a hacer frente al cambio climático, a medida que las inundaciones, las sequías y la degradación medioambiental obligan a un número cada vez mayor de personas a abandonar sus hogares, transformando los patrones migratorios y los desplazamientos e",
-      "published": "2026-05-15T14:33:07+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: Bimestriel de la surveillance pastorale au Sahel (N°37 / Février - Mars 2026)",
-      "url": "https://reliefweb.int/report/world/bimestriel-de-la-surveillance-pastorale-au-sahel-ndeg37-fevrier-mars-2026",
-      "summary": "Countries: World, Burkina Faso, Côte d'Ivoire, Mali, Mauritania, Niger, Senegal Source: Action contre la Faim France Please refer to the attached Infographic. Cette période de février à mars 2026 est caractérisée par la transition entre la saison sèche froide et à la saison sèche chaude. Les points d’eau de surface temporaires utilisés pour l’abreuvement du bétail se sont asséchés, tandis que d’importantes ressources fourragères ont été détruites par les feux de brousse. Ainsi, les ressources pa",
-      "published": "2026-05-15T13:48:19+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-      "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks the third time a New York jury has considered the case against the 74-year-old disgraced film mogul.",
-      "published": "2026-05-16T01:32:47+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World Urban Forum opens in Baku as housing crisis and climate shocks intensify",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167517",
+      "summary": "Soaring housing costs, climate shocks and conflicts are leaving millions without adequate shelter – but what can be done? As the 13th UN World Urban Forum opens on Sunday in Baku, Azerbaijan, participants will grapple with solutions to a deepening global housing crisis.",
+      "published": "2026-05-16T12:00:00+00:00",
       "score": 10
     },
     {
@@ -286,21 +179,12 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "HIV prevention and treatment services faltering, warns UNAIDS",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167515",
-      "summary": "Decades of gains in the fight against AIDS are under growing threat as donor funding declines and community-based health services collapse in some of the world’s most vulnerable countries, the head of the joint UN programme on HIV/AIDS warned on Thursday.",
-      "published": "2026-05-14T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA-Supported Space Tech Advances Earthly Construction",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
-      "summary": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong. Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]",
-      "published": "2026-05-13T19:47:08+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
+      "published": "2026-05-15T23:39:35+00:00",
       "score": 10
     },
     {
@@ -322,39 +206,21 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "url": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
-      "published": "2026-05-14T11:30:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "DeBriefed 15 April 2026: Trump-Xi talk energy | ‘Supercharged’ El Niño | India’s first ‘heat lounges’",
-      "url": "https://www.carbonbrief.org/debriefed-15-april-2026-trump-xi-talk-energy-supercharged-el-nino-indias-first-heat-lounges/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 15 April 2026: Trump-Xi talk energy | ‘Supercharged’ El Niño | India’s first ‘heat lounges’ appeared first on Carbon Brief .",
-      "published": "2026-05-15T13:50:06+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Analysis: UK no longer top UN Green Climate Fund donor after latest aid cut",
-      "url": "https://www.carbonbrief.org/analysis-uk-no-longer-top-un-green-climate-fund-donor-after-latest-aid-cut/",
-      "summary": "The UK is no longer the top contributor to the UN’s flagship Green Climate Fund... The post Analysis: UK no longer top UN Green Climate Fund donor after latest aid cut appeared first on Carbon Brief .",
-      "published": "2026-05-15T13:30:36+00:00",
-      "score": 10
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+      "published": "2026-05-17T09:26:53+00:00",
+      "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-      "published": "2026-05-15T21:50:14+00:00",
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
+      "published": "2026-05-17T08:33:37+00:00",
       "score": 9
     },
     {
@@ -362,35 +228,35 @@
       "category": "Politik",
       "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
       "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Staff Sergeant Mohamed Mahdhee died while diving in the search and rescue operation, the Maldives government tells the BBC.",
-      "published": "2026-05-16T12:41:26+00:00",
+      "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
+      "published": "2026-05-16T15:01:40+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US planning to criminally indict ex-Cuban leader Raúl Castro",
-      "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
-      "published": "2026-05-16T01:37:27+00:00",
+      "title": "Whale found dead near Danish island after German rescue operation",
+      "url": "https://www.bbc.com/news/articles/c1l28lql137o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildlife experts had previous criticised the operation, saying it would only cause the animal more distress.",
+      "published": "2026-05-16T17:01:28+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "New outbreak of Ebola kills 80 in eastern DR Congo",
-      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "summary": "Africa's top health agency says around 246 cases have been reported - a case has also been reported in Uganda.",
-      "published": "2026-05-16T04:11:26+00:00",
+      "title": "Canadian from hantavirus-hit cruise ship tests positive",
+      "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+      "summary": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
+      "published": "2026-05-17T12:07:54+00:00",
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Is it safe to swim at England's bathing sites?",
-      "url": "https://www.bbc.com/news/videos/c0q27gn78d1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Signs warning people not to swim are in place at almost all of England's official inland river bathing sites due to concerns the water could be unsafe",
-      "published": "2026-05-15T15:41:17+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "published": "2026-05-16T11:44:54+00:00",
       "score": 9
     },
     {
@@ -410,6 +276,141 @@
       "summary": "Brightly coloured nicotine pouches promoted through social media influencers, music festivals and youth-oriented advertising are driving a rapid rise in nicotine use among young people worldwide, the World Health Organization (WHO) warned on Friday.",
       "published": "2026-05-15T12:00:00+00:00",
       "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA, Industry Prepare Cryogenic Fuel Technology Demo",
+      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-industry-prepare-cryogenic-fuel-technology-demo/",
+      "summary": "NASA is collaborating with Eta Space of Rockledge, Florida, on an in‑orbit technology demonstration to advance a key capability for future deep space missions. The Liquid Oxygen Flight Demonstration, or LOXSAT, will test cryogenic fluid management technologies necessary for creating in-space propellant depots, essentially gas stations in space, that could support long-term exploration. During a […]",
+      "published": "2026-05-14T16:32:09+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Fresh Food Delivery for Space Station",
+      "url": "https://www.nasa.gov/image-article/fresh-food-delivery-for-space-station/",
+      "summary": "NASA astronauts Jack Hathaway (bottom left), Jessica Meir (middle left), and Chris Williams (bottom right), and ESA (European Space Agency) astronaut Sophie Adenot (top right) have some fun with food and microgravity in this April 19, 2026, photo. Northrop Grumman’s Cygnus XL cargo spacecraft delivered a shipment of fresh food, including oranges, apples, onions, and […]",
+      "published": "2026-05-14T14:55:08+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Data readiness for agentic AI in financial services",
+      "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
+      "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second. As a result, the success of agentic AI in financial services depends less on the sophistication of the system and more on…",
+      "published": "2026-05-14T13:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "url": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
+      "published": "2026-05-15T11:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. \"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
+      "published": "2026-05-14T17:45:20+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "url": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious - node-ipc@9.1.6 node-ipc@9.2.3 node-ipc@12.0.1 \"Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1",
+      "published": "2026-05-14T17:22:43+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "As war displaces millions in DR Congo, new schools offer children hope beyond violence",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167527",
+      "summary": "Ten-year-old Shadrac Anyazaka does not hesitate when asked about his future. “After finishing my studies, I would like to become President of the Republic one day,” he tells visitors to his school in eastern Democratic Republic of the Congo (DRC).",
+      "published": "2026-05-15T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167516",
+      "summary": "At least six million people in Somalia are going days without enough food, UN aid teams warned on Friday, highlighting that nearly two million of this number are young children “at high risk of illness or death”.",
+      "published": "2026-05-15T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Hubble Sights Galaxy in Transition",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-sights-galaxy-in-transition/",
+      "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer […]",
+      "published": "2026-05-15T12:01:37+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Draws on Industry for Mars Telecommunications Network",
+      "url": "https://www.nasa.gov/directorates/esdmd/nasa-draws-on-industry-for-mars-telecommunications-network/",
+      "summary": "On Thursday, NASA issued a Request for Proposal (RFP), seeking industry collaboration for the Mars Telecommunications Network. Reliable, high bandwidth communications is necessary to relay science data, high-definition imagery, and critical information during Mars missions. The network will use high-performance Mars telecommunications orbiters at the Red Planet to support future surface, orbital, and human exploration. […]",
+      "published": "2026-05-14T20:53:24+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA-Supported Space Tech Advances Earthly Construction",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-supported-space-tech-advances-earthly-construction/",
+      "summary": "An innovative 3D printing process that advanced NASA’s approach to outfitting a lunar habitat is making buildings on Earth beautiful, efficient, and strong. Instead of building structures layer by layer, Branch Technology Inc. of Chattanooga, Tennessee, has developed a process the company calls Freeform 3D Printing, which creates shapes with lightweight lattice structures that can be filled or covered. The company uses the technique to manufacture […]",
+      "published": "2026-05-13T19:47:08+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026. The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
+      "published": "2026-05-15T05:28:03+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+      "summary": "Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels like crap we should have fixed years ago. The mess keeps getting louder: users get tricked, boxes get popped, tools meant for normal work",
+      "published": "2026-05-14T16:07:46+00:00",
+      "score": 8
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 15 April 2026: Trump-Xi talk energy | ‘Supercharged’ El Niño | India’s first ‘heat lounges’",
+      "url": "https://www.carbonbrief.org/debriefed-15-april-2026-trump-xi-talk-energy-supercharged-el-nino-indias-first-heat-lounges/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 15 April 2026: Trump-Xi talk energy | ‘Supercharged’ El Niño | India’s first ‘heat lounges’ appeared first on Carbon Brief .",
+      "published": "2026-05-15T13:50:06+00:00",
+      "score": 8
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Analysis: UK no longer top UN Green Climate Fund donor after latest aid cut",
+      "url": "https://www.carbonbrief.org/analysis-uk-no-longer-top-un-green-climate-fund-donor-after-latest-aid-cut/",
+      "summary": "The UK is no longer the top contributor to the UN’s flagship Green Climate Fund... The post Analysis: UK no longer top UN Green Climate Fund donor after latest aid cut appeared first on Carbon Brief .",
+      "published": "2026-05-15T13:30:36+00:00",
+      "score": 8
     }
   ]
 }
