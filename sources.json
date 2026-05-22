@@ -1,55 +1,117 @@
 {
-  "generated_at": "2026-05-21T14:33:38.041475+00:00",
-  "date": "2026-05-21",
+  "generated_at": "2026-05-22T14:09:40.215144+00:00",
+  "date": "2026-05-22",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
-    "ReliefWeb: no element found: line 1, column 0"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
   ],
   "articles": [
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA-developed AI Could Help Track Harmful Algae",
-      "url": "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/",
-      "summary": "NASA scientists have developed an artificial intelligence tool to take on a longstanding challenge in ocean waters. In a study recently published in AGU Earth and Space Science, researchers reported the tool was able to fuse data from multiple satellites and detect harmful algal blooms that occurred in western Florida and Southern California. Severe blooms […]",
-      "published": "2026-05-20T17:39:10+00:00",
-      "score": 16
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Iraq — Update on Cross-border Mobility and Internal Displacement in Iraq (18 May 2026)",
+      "url": "https://reliefweb.int/report/iraq/iraq-update-cross-border-mobility-and-internal-displacement-iraq-18-may-2026",
+      "summary": "Countries: Iraq, Iran (Islamic Republic of) Source: International Organization for Migration Please refer to the attached file. Regional tensions persist following escalatory military activity in and around the Islamic Republic of Iran since late February 2026. While a fragile ceasefire has remained in place since 8 April, Iraq continues to face cross-border impacts linked to broader regional instability. These dynamics further exacerbate pre-existing vulnerabilities associated with Iraq’s compl",
+      "published": "2026-05-22T13:33:10+00:00",
+      "score": 18
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "oPt: Israel must halt forcible displacement of Khan Al Ahmar and settlement expansion in E1",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/israel-must-halt-forcible-displacement-khan-al-ahmar-and-settlement-expansion-e1",
+      "summary": "Country: occupied Palestinian territory Source: UN Office of the High Commissioner for Human Rights Please refer to the attached file. The Israeli government must immediately cease its measures to forcibly displace the Khan Al Ahmar community in the area known as E1 in the occupied West Bank and stop its settlement expansion plans there. Situated east of Jerusalem, Khan Al Ahmar is a Bedouin community and home to hundreds of Palestinians. On Tuesday, 19 May, the Israeli Minister of Finance and A",
+      "published": "2026-05-22T13:22:39+00:00",
+      "score": 17
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Mixed migration through Iran (May 2026)",
+      "url": "https://reliefweb.int/report/iran-islamic-republic/mixed-migration-through-iran-may-2026",
+      "summary": "Countries: Iran (Islamic Republic of), Afghanistan, Pakistan Source: Mixed Migration Centre Please refer to the attached Infographic. This infographic presents key findings on the migration experiences of Afghan and Pakistani refugees and migrants who passed through Iran en route to Türkiye. It examines respondents’ journeys through Iran, the conditions and protection risks they faced in the country, and their onward movements to Türkiye. Highlights ·The most common reasons for stopping in Iran ",
+      "published": "2026-05-22T13:39:18+00:00",
+      "score": 15
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "DR Congo: ACAPS Briefing Note - DRC: Ebola outbreak (22 May 2026)",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/acaps-briefing-note-drc-ebola-outbreak-22-may-2026",
+      "summary": "Country: Democratic Republic of the Congo Source: ACAPS Please refer to the attached file. On 15 May 2026, authorities in the Democratic Republic of Congo (DRC) declared an Ebola outbreak after cases were confirmed in Ituri and North Kivu provinces, with further cases later confirmed in South Kivu (WHO 16/05/2026 and 18/05/2026). By 20 May, national authorities and media sources had reported 60 confirmed cases, over 670 suspected, 105 probable cases, and 160 deaths linked to the Bundibugyo strai",
+      "published": "2026-05-22T13:33:07+00:00",
+      "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
-      "published": "2026-05-21T07:35:53+00:00",
-      "score": 14
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Tech researchers are suing the Trump administration over the future of online safety",
-      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
-      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court. …",
-      "published": "2026-05-21T09:00:00+00:00",
+      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
+      "published": "2026-05-22T11:55:24+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
-      "published": "2026-05-21T03:44:11+00:00",
+      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
+      "published": "2026-05-21T14:17:09+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Haiti: Cash Working Group Haïti - Note sur la valeur de transfert à usages multiples dans l’action anticipatoire",
+      "url": "https://reliefweb.int/report/haiti/cash-working-group-haiti-note-sur-la-valeur-de-transfert-usages-multiples-dans-laction-anticipatoire",
+      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. CASH WORKING GROUP HAÏTI NOTE SUR LA VALEUR DE TRANSFERT À USAGES MULTIPLES DANS L’ACTION ANTICIPATOIRE Le Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CWG) est une plateforme d’échanges techniques qui associe plus de 30 institutions, parmi lesquelles des institutions gouvernementales, des prestataires de services financiers, des agences des Nations unies, et des org",
+      "published": "2026-05-22T13:25:26+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Haiti: Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CBTWG) - Compte rendu de la réunion mensuelle du CBTWG (Date : 20 mai 2026) [Meeting Minutes]",
+      "url": "https://reliefweb.int/report/haiti/groupe-de-travail-sur-les-transferts-monetaires-en-haiti-gttmcbtwg-compte-rendu-de-la-reunion-mensuelle-du-cbtwg-date-20-mai-2026-meeting-minutes",
+      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Le Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CWG) est un groupe de coordination humanitaire chargé d’organiser, harmoniser et améliorer l’assistance monétaire fournie par les différents acteurs humanitaires. Cette plateforme d’échanges techniques regroupe en Haïti des institutions gouvernementales, des prestataires de services financiers, des agences des Nations u",
+      "published": "2026-05-22T13:21:06+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump says he will speak to Taiwan's president in break from protocol",
-      "url": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
-      "published": "2026-05-21T13:01:32+00:00",
+      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
+      "published": "2026-05-22T11:39:14+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
+      "published": "2026-05-22T08:12:47+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "AI used to fake evidence that ended Korean actor's career, say police",
+      "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.",
+      "published": "2026-05-22T10:50:24+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Building the smart city: Promise, pitfalls and the people at its heart",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167564",
+      "summary": "From AI-powered transit systems to digital twins and flood-proof parks, cities are embracing technology at an unprecedented scale. But as innovation accelerates, experts warn that inclusion, trust and security will determine who truly benefits.",
+      "published": "2026-05-21T12:00:00+00:00",
       "score": 12
     },
     {
@@ -62,75 +124,93 @@
       "score": 12
     },
     {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints. \"An attacker could exploit this vulnerability if they are able to send",
+      "published": "2026-05-22T05:36:18+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
+      "published": "2026-05-21T07:35:53+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: Epidemic preparedness and response in Africa: Guidelines for the decentralization of laboratory capacity, November 2025",
+      "url": "https://reliefweb.int/report/world/epidemic-preparedness-and-response-africa-guidelines-decentralization-laboratory-capacity-november-2025",
+      "summary": "Country: World Sources: Africa Centres for Disease Control and Prevention, World Health Organization Please refer to the attached file. The decentralization of laboratory capacities is a critical strategy for improving epidemic preparedness and response in Africa. Centralized systems often delay case confirmation, hinder timely interventions, and exacerbate the impact of outbreaks, especially in rural and hard-to-reach areas. This Guidelines outlines a structured approach to decentralization, fo",
+      "published": "2026-05-22T14:05:56+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: Evidence from the Atlantic Route: Migrant smuggling and risks on journeys to the Canary Islands",
+      "url": "https://reliefweb.int/report/world/evidence-atlantic-route-migrant-smuggling-and-risks-journeys-canary-islands",
+      "summary": "Countries: World, Canary Islands (Spain), Mauritania, Morocco Source: Mixed Migration Centre Please refer to the attached file. This paper examines migrant smuggling dynamics and protection risks on irregular journeys to the Canary Islands, based on 1,216 surveys conducted with migrants and refugees in Mauritania and Spain between March and September 2025, complemented by 11 in-depth qualitative interviews. Findings document the realities of the Atlantic crossing, the diversity of smuggling arra",
+      "published": "2026-05-22T13:36:45+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
+      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
+      "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
+      "published": "2026-05-22T11:34:48+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
+      "published": "2026-05-22T08:13:13+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+      "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
+      "published": "2026-05-22T01:37:02+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
+      "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
+      "summary": "The sanctions come amid growing scrutiny of Tanzania’s human rights record in recent years.",
+      "published": "2026-05-22T08:15:21+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "How do hurricanes and typhoons form and is climate change making them stronger?",
+      "url": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&at_campaign=rss",
+      "summary": "These powerful tropical storms are generally becoming more intense as the world warms.",
+      "published": "2026-05-21T15:28:27+00:00",
+      "score": 11
+    },
+    {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
-      "summary": "The global economy is entering a more fragile period as geopolitical conflicts, rising energy costs and financial instability threaten global growth and trade.",
-      "published": "2026-05-19T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Releases Technology Priorities to Energize Space Industry",
-      "url": "https://www.nasa.gov/technology/nasa-releases-technology-priorities-to-energize-space-industry/",
-      "summary": "NASA released the 2026 Civil Space Shortfall Ranking list on Wednesday, which integrates more than 400 responses from stakeholders including industry organizations, government agencies, and academia. Shortfalls refer to technology areas requiring further development to meet future exploration, science, and other mission needs. The goal of this document is to rank the space community’s most pervasive shortfalls to […]",
-      "published": "2026-05-20T17:11:42+00:00",
-      "score": 12
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
-      "published": "2026-05-21T12:10:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges. \"Improper link resolution before file access ('link following') in Microsoft Defender",
-      "published": "2026-05-21T10:55:57+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-      "url": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world. The tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
-      "published": "2026-05-20T14:36:44+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime.",
-      "published": "2026-05-21T11:22:18+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people.",
-      "published": "2026-05-21T13:07:02+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
-      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
-      "published": "2026-05-20T23:47:01+00:00",
+      "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167563",
+      "summary": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, together with efforts to support recovery.",
+      "published": "2026-05-21T12:00:00+00:00",
       "score": 11
     },
     {
@@ -154,55 +234,127 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA to Provide Update on Moon Base Strategy, Missions",
-      "url": "https://www.nasa.gov/news-release/nasa-to-provide-update-on-moon-base-strategy-missions/",
-      "summary": "NASA will host a news conference at 2 p.m. EDT, Tuesday, May 26, to share Moon Base plans and highlight progress toward a sustained presence on the lunar surface. The media briefing will take place at the agency’s Headquarters in Washington. Leadership will discuss program progress, including new industry partners and mission plans. Subject matter […]",
-      "published": "2026-05-20T17:13:56+00:00",
+      "title": "Hubble Captures Galaxy Cluster",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
+      "summary": "Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]",
+      "published": "2026-05-22T11:37:42+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit",
+      "url": "https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/",
+      "summary": "Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on Pegasus in June to rendezvous with Swift […]",
+      "published": "2026-05-21T21:36:15+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Seeks Interest for Artemis Mission CubeSats",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/",
+      "summary": "Organizations interested in launching CubeSats on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration. “The SLS (Space Launch System) rocket and the Artemis missions provide great opportunities for teams to conduct important, science and technology investigations that contribute to the expansion of human space exploration,” said […]",
+      "published": "2026-05-21T20:11:17+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/",
+      "summary": "On May 21, ground controllers powered down NASA’s AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission. Installed on the exterior of the International Space Station since November 2023, AWE studied atmospheric gravity waves, which are giant ripples in the […]",
+      "published": "2026-05-21T18:31:06+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
+      "url": "https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
+      "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis program reignited America’s bold vision for space exploration and set […]",
+      "published": "2026-05-21T18:06:52+00:00",
       "score": 11
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Climate tech companies are pivoting to critical minerals",
-      "url": "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
-      "summary": "We’re over a year into the second Trump administration here in the US, and support for climate causes is weak. But climate tech companies are finding ways to survive and even thrive in this new environment, including by focusing on potential benefits outside decarbonization. Suddenly, it feels like every climate tech company has a story…",
-      "published": "2026-05-21T10:00:00+00:00",
+      "title": "Tech researchers are suing the Trump administration over the future of online safety",
+      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court. …",
+      "published": "2026-05-21T09:00:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
-      "url": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
-      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&C) communications. Webworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies",
-      "published": "2026-05-20T12:51:43+00:00",
+      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+      "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The",
+      "published": "2026-05-22T11:38:12+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU. \"Kimwolf",
+      "published": "2026-05-22T08:50:18+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
+      "published": "2026-05-22T05:47:33+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
+      "published": "2026-05-21T03:44:11+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Ukraine: Gender in Humanitarian Action Working Group Time: 14:00-15:30 Date: May 06, 2026 [Meeting Minutes] [EN/UK]",
+      "url": "https://reliefweb.int/report/ukraine/gender-humanitarian-action-working-group-time-1400-1530-date-may-06-2026-meeting-minutes-enuk",
+      "summary": "Country: Ukraine Source: UN Women Please refer to the attached files.",
+      "published": "2026-05-22T13:51:47+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Gonorrhoea and syphilis hit record levels in Europe",
-      "url": "https://www.bbc.com/news/articles/cm2pj07dr7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "STIs have surged thanks to record cases and gaps in testing and prevention, a health agency reports.",
-      "published": "2026-05-21T12:19:15+00:00",
+      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
+      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+      "published": "2026-05-22T13:50:19+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Nvidia's latest record earnings fail to impress investors",
-      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition.",
-      "published": "2026-05-21T11:05:18+00:00",
+      "title": "Alberta to hold referendum on whether to remain in Canada",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
+      "summary": "Voters in the western province will decide next October whether they want to stay in Canada or move ahead with a process for a binding independence referendum.",
+      "published": "2026-05-22T02:40:58+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
-      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
-      "summary": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
-      "published": "2026-05-21T14:26:28+00:00",
+      "title": "Slow Food founder Carlo Petrini dies aged 76",
+      "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Petrini's movement rejected fast food to promote sustainable production and traditional cooking.",
+      "published": "2026-05-22T10:22:21+00:00",
       "score": 10
     },
     {
@@ -217,200 +369,47 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Lunar Robots: NASA Spotlights Moon Base at 2026 FIRST Robotics Competition",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/lunar-robots-nasa-spotlights-moon-base-at-2026-first-robotics-competition/",
-      "summary": "Robotics will play a critical role in NASA’s ambitious plan to establish a long-term presence on the Moon, presenting opportunities for the next generation of engineers, technologists, and innovators to contribute to a bold vision for the future. That was the agency’s message to students, partners, and industry leaders at the 2026 FIRST Robotics World […]",
-      "published": "2026-05-21T09:00:00+00:00",
+      "title": "Hubble Sights Galaxy in Transition",
+      "url": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
+      "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and […]",
+      "published": "2026-05-21T17:32:03+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Announces Winners in University Aeronautics Competition",
-      "url": "https://www.nasa.gov/aeronautics/nasa-announces-winners-in-university-aeronautics-competition/",
-      "summary": "A South Dakota State University team took first place at NASA’s fifth annual Gateways to Blue Skies Competition, which challenged student teams to address a critical element of U.S. aviation: aircraft maintenance. This year’s competition, RepAir: Advancing Aircraft Maintenance, asked teams of postsecondary students to develop innovative systems and practices that could advance commercial aircraft maintenance […]",
-      "published": "2026-05-20T20:48:01+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA TechLeap Prize: Robotically Manipulated Payload Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-techleap-prize-robotically-manipulated-payload-challenge/",
-      "summary": "The Robotically Manipulated Payload Challenge — the fifth in the NASA TechLeap Prize series — is a competition to advance persistent infrastructure for in-space servicing, assembly, and manufacturing. NASA Flight Opportunities invites applicants to propose a payload that can be manipulated by a robotic arm in low Earth orbit. Up to three winners will each receive up […]",
-      "published": "2026-05-20T19:02:18+00:00",
+      "title": "NASA Welcomes 16th Deputy Administrator Matt Anderson",
+      "url": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
+      "summary": "Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington. As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, […]",
+      "published": "2026-05-21T14:08:50+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Roundtables: Inside the Musk v. Altman Trial",
-      "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
-      "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in…",
-      "published": "2026-05-19T20:15:18+00:00",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
+      "published": "2026-05-21T20:41:05+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-      "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
-      "published": "2026-05-19T12:10:00+00:00",
+      "title": "Scaling creativity in the age of AI",
+      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
+      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our…",
+      "published": "2026-05-21T19:16:43+00:00",
       "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
-      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
-      "summary": "This week starts small. A token leaks. A bad package slips in. A login trick works. An old tool shows up again. At first, it feels like the usual mess. Then you see the pattern: attackers are not always breaking in. They are using the parts we already trust. That is what makes it worrying. The danger is in normal things now - updates, apps, cloud buttons, support chats, trusted accounts. AI",
-      "published": "2026-05-21T11:52:14+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "When Identity is the Attack Path",
-      "url": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
-      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud",
-      "published": "2026-05-21T10:30:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. The development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
-      "published": "2026-05-21T04:27:01+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-      "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
-      "published": "2026-05-20T11:38:43+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild",
-      "url": "https://www.carbonbrief.org/cropped-20-may-2026-deforestation-roadmap-melanesian-ocean-summit-returning-pet-parrots-to-the-wild/",
-      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild appeared first on Carbon Brief .",
-      "published": "2026-05-20T14:16:25+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Factcheck: Trump’s false claims about the IPCC and ‘RCP8.5’ climate scenario",
-      "url": "https://www.carbonbrief.org/factcheck-trumps-false-claims-about-the-ipcc-and-rcp8-5-climate-scenario/",
-      "summary": "Among a flurry of posts on social media last weekend, US president Donald Trump declared... The post Factcheck: Trump’s false claims about the IPCC and ‘RCP8.5’ climate scenario appeared first on Carbon Brief .",
-      "published": "2026-05-19T16:22:02+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Iran steps up claim to control Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
-      "published": "2026-05-21T13:38:03+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Gaza flotilla activists set for deportation from Israel as backlash over treatment grows",
-      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Activists have begun to leave Israel after international outrage over their treatment in detention.",
-      "published": "2026-05-21T13:08:42+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday",
-      "url": "https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss",
-      "summary": "The blockade has led to shortages of fuel and food ahead of next week's Muslim holiday of Eid.",
-      "published": "2026-05-21T13:23:25+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Sierra Leone becomes latest African country to receive deportees from US",
-      "url": "https://www.bbc.com/news/articles/cn9pzjvly53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine deportees arrive from the US as part of Donald Trump's crackdown on illegal immigration.",
-      "published": "2026-05-20T17:05:17+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Murder or accident? Mystery of Mango tycoon's hiking death after son's arrest",
-      "url": "https://www.bbc.com/news/articles/cwy2g09yvgmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Isak Andic's son Jonathan denies involvement in the fatal fall of his father, who founded one of Europe's biggest clothing empires.",
-      "published": "2026-05-20T15:44:41+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ebola outbreak: ‘Every epidemic begins in a community and ends in a community’",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167558",
-      "summary": "Facing a fast-moving Ebola outbreak caused by a rare strain of the virus, the World Health Organization (WHO) is relying on a rapid, community-centred response to halt transmission in eastern Democratic Republic of the Congo (DRC) and Uganda, a senior official has told UN News.",
-      "published": "2026-05-20T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Flak jackets and final goodbyes: Lebanon’s first responders under fire",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167556",
-      "summary": "Before heading to strike sites in war-torn Lebanon, rescue workers and paramedics often say goodbye to one another – a ritual captured in widely shared videos reflecting the growing dangers faced by aid workers since hostilities between Hezbollah and Israel erupted on 2 March.",
-      "published": "2026-05-20T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Concerns grow over nuclear safety after UAE drone strike",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167550",
-      "summary": "The UN Security Council is meeting in emergency session in New York to discuss the situation in the Middle East following reports of a drone strike near the Barakah Nuclear Power Plant in the United Arab Emirates. IAEA Director General Rafael Mariano Grossi briefed members as concerns grow over nuclear safety and security in the region. Follow our live coverage below for updates and for coverage of all key meetings at UN Headquarters, go here.",
-      "published": "2026-05-19T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Psyche Spacecraft Completes Mars Flyby",
-      "url": "https://www.nasa.gov/image-article/psyche-spacecraft-completes-mars-flyby/",
-      "summary": "NASA’s Psyche spacecraft completed its close approach of Mars on May 15, coming within 2,864 miles (4,609 kilometers) of the planet’s surface. During the flyby, it took this image and others. This representative color image, captured by Psyche’s multispectral imager instrument, features the double-ring crater Huygens and the surrounding heavily cratered southern highlands. This flyby […]",
-      "published": "2026-05-20T17:51:10+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "I Am Artemis: Tim Goddard",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-tim-goddard/",
-      "summary": "Listen to this audio excerpt from Tim Goddard, NASA open water lead: At the end of their mission around the Moon, NASA’s Artemis II astronauts were recovered from their Orion spacecraft by a team of U.S. Navy divers and NASA personnel. This included Tim Goddard, NASA open water lead, who helped guide the complex open […]",
-      "published": "2026-05-20T14:57:33+00:00",
-      "score": 9
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Green steel startup Boston Metal is doubling down on critical metals",
-      "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
-      "summary": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s responsible for about 8% of global greenhouse emissions today. With the additional money, the new focus could…",
-      "published": "2026-05-20T13:00:00+00:00",
-      "score": 9
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
+      "published": "2026-05-21T12:10:00+00:00",
+      "score": 10
     }
   ]
 }
