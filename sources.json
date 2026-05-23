@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T14:09:40.215144+00:00",
-  "date": "2026-05-22",
+  "generated_at": "2026-05-23T12:53:17.050460+00:00",
+  "date": "2026-05-23",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
@@ -9,100 +9,154 @@
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Iraq — Update on Cross-border Mobility and Internal Displacement in Iraq (18 May 2026)",
-      "url": "https://reliefweb.int/report/iraq/iraq-update-cross-border-mobility-and-internal-displacement-iraq-18-may-2026",
-      "summary": "Countries: Iraq, Iran (Islamic Republic of) Source: International Organization for Migration Please refer to the attached file. Regional tensions persist following escalatory military activity in and around the Islamic Republic of Iran since late February 2026. While a fragile ceasefire has remained in place since 8 April, Iraq continues to face cross-border impacts linked to broader regional instability. These dynamics further exacerbate pre-existing vulnerabilities associated with Iraq’s compl",
-      "published": "2026-05-22T13:33:10+00:00",
-      "score": 18
+      "title": "Mexico: Latin America & The Caribbean Weekly Situation Update as of 22 May 2026",
+      "url": "https://reliefweb.int/report/mexico/latin-america-caribbean-weekly-situation-update-22-may-2026",
+      "summary": "Countries: Mexico, Dominica, Suriname, Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. KEY FIGURES 2K people displaced due to escalating violence in May across three Mexican states 739K people reached by humanitarian response in Venezuela (Jan-Apr 2026) 13K estimated heat-related deaths annually across 17 countries in the region MEXICO: DISPLACEMENT At least 2,000 people fled their homes across Guerrero, ",
+      "published": "2026-05-22T18:24:14+00:00",
+      "score": 21
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "oPt: Israel must halt forcible displacement of Khan Al Ahmar and settlement expansion in E1",
-      "url": "https://reliefweb.int/report/occupied-palestinian-territory/israel-must-halt-forcible-displacement-khan-al-ahmar-and-settlement-expansion-e1",
-      "summary": "Country: occupied Palestinian territory Source: UN Office of the High Commissioner for Human Rights Please refer to the attached file. The Israeli government must immediately cease its measures to forcibly displace the Khan Al Ahmar community in the area known as E1 in the occupied West Bank and stop its settlement expansion plans there. Situated east of Jerusalem, Khan Al Ahmar is a Bedouin community and home to hundreds of Palestinians. On Tuesday, 19 May, the Israeli Minister of Finance and A",
-      "published": "2026-05-22T13:22:39+00:00",
-      "score": 17
+      "title": "DR Congo: Multi-country Ebola Bundibugyo outbreak situation report no. 1",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/multi-country-ebola-bundibugyo-outbreak-situation-report-no-1",
+      "summary": "Country: Democratic Republic of the Congo Source: International Organization for Migration Please refer to the attached file. SITUATION OVERVIEW The Ebola outbreak caused by Bundibugyo virus disease (BVD) in the Democratic Republic of the Congo (DRC) and Uganda was declared as a public health emergency of international concern (PHEIC) by the World Health Organization (WHO) on 17 May 2026 under the International Health Regulations (IHR 2005), following confirmation of cross-border transmission. T",
+      "published": "2026-05-23T04:37:16+00:00",
+      "score": 19
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Mixed migration through Iran (May 2026)",
-      "url": "https://reliefweb.int/report/iran-islamic-republic/mixed-migration-through-iran-may-2026",
-      "summary": "Countries: Iran (Islamic Republic of), Afghanistan, Pakistan Source: Mixed Migration Centre Please refer to the attached Infographic. This infographic presents key findings on the migration experiences of Afghan and Pakistani refugees and migrants who passed through Iran en route to Türkiye. It examines respondents’ journeys through Iran, the conditions and protection risks they faced in the country, and their onward movements to Türkiye. Highlights ·The most common reasons for stopping in Iran ",
-      "published": "2026-05-22T13:39:18+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of the newly published tags",
+      "published": "2026-05-23T09:51:13+00:00",
       "score": 15
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: ACAPS Briefing Note - DRC: Ebola outbreak (22 May 2026)",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/acaps-briefing-note-drc-ebola-outbreak-22-may-2026",
-      "summary": "Country: Democratic Republic of the Congo Source: ACAPS Please refer to the attached file. On 15 May 2026, authorities in the Democratic Republic of Congo (DRC) declared an Ebola outbreak after cases were confirmed in Ituri and North Kivu provinces, with further cases later confirmed in South Kivu (WHO 16/05/2026 and 18/05/2026). By 20 May, national authorities and media sources had reported 60 confirmed cases, over 670 suspected, 105 probable cases, and 160 deaths linked to the Bundibugyo strai",
-      "published": "2026-05-22T13:33:07+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167578",
+      "summary": "The Security Council is meeting at the request of Russia which on Friday accused Ukraine of targeting a student dormitory overnight in the occupied Luhansk region, reportedly killing six people – including children – and injuring dozens. Kyiv has denied targeting the civilian building, saying it had struck a Russian military drone command headquarters, according to news reports. Follow live coverage below and for full meetings coverage of the council, click here.",
+      "published": "2026-05-22T12:00:00+00:00",
       "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
-      "published": "2026-05-22T11:55:24+00:00",
+      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners",
+      "published": "2026-05-23T11:55:35+00:00",
+      "score": 14
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "DR Congo: CARTOGRAPHIE 3W REPONSE EBOLA - NORD-KIVU, RDC Cartographie des Partenaires 3W (Who does What Where) Mise a jour : 21 Mai 2026",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/cartographie-3w-reponse-ebola-nord-kivu-rdc-cartographie-des-partenaires-3w-who-does-what-where-mise-jour-21-mai-2026",
+      "summary": "Country: Democratic Republic of the Congo Source: Health Cluster Please refer to the attached file. CONTEXTE ET APERÇU DE LA RÉPONSE Ce document présente la mise à jour opérationnelle de la cartographie 3W (Who does What Where / Qui fait Quoi Où) pour la réponse à l'épidémie de Maladie à Virus Ebola (MVE) dans la province du Nord-Kivu, en République Démocratique du Congo. Conduite sous l'égide du Cluster Santé, cette cartographie vise à optimiser la coordination des acteurs, identifier les gaps ",
+      "published": "2026-05-22T19:32:56+00:00",
+      "score": 14
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y liderazgo comunitario en Caquetá",
+      "url": "https://reliefweb.int/report/colombia/sembrar-vida-en-medio-del-conflicto-una-huerta-saberes-ancestrales-y-liderazgo-comunitario-en-caqueta",
+      "summary": "Country: Colombia Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y liderazgo comunitario en Caquetá Por: Johana Botia y Andrés Torres En la vereda Nueva Colombia, municipio de Cartagena del Chairá, el conflicto armado no solo ha impuesto silencios y restricciones de movilidad; también ha dejado duelos abiertos, ausencias y vidas marcadas por la pérdida. En ese escenario de conf",
+      "published": "2026-05-22T18:57:56+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "published": "2026-05-23T07:44:14+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
-      "published": "2026-05-21T14:17:09+00:00",
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
+      "published": "2026-05-22T17:35:02+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
+      "published": "2026-05-22T16:20:32+00:00",
+      "score": 13
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Experts: Why migration is ‘not a failure of adaptation’ in a warming world",
+      "url": "https://www.carbonbrief.org/experts-why-migration-is-not-a-failure-of-adaptation-in-a-warming-world/",
+      "summary": "Hundreds of scientists gathered in London this week to discuss the role of migration as... The post Experts: Why migration is ‘not a failure of adaptation’ in a warming world appeared first on Carbon Brief .",
+      "published": "2026-05-22T14:24:29+00:00",
       "score": 13
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Haiti: Cash Working Group Haïti - Note sur la valeur de transfert à usages multiples dans l’action anticipatoire",
-      "url": "https://reliefweb.int/report/haiti/cash-working-group-haiti-note-sur-la-valeur-de-transfert-usages-multiples-dans-laction-anticipatoire",
-      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. CASH WORKING GROUP HAÏTI NOTE SUR LA VALEUR DE TRANSFERT À USAGES MULTIPLES DANS L’ACTION ANTICIPATOIRE Le Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CWG) est une plateforme d’échanges techniques qui associe plus de 30 institutions, parmi lesquelles des institutions gouvernementales, des prestataires de services financiers, des agences des Nations unies, et des org",
-      "published": "2026-05-22T13:25:26+00:00",
+      "title": "Mexico: Latinoamérica y El Caribe Resumen de Situación Semanal al 22 de mayo 2026",
+      "url": "https://reliefweb.int/report/mexico/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-22-de-mayo-2026",
+      "summary": "Countries: Mexico, Dominica, Suriname, Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. CIFRAS CLAVE 2K personas desplazadas por violencia creciente en mayo en tres estados de México 739K personas alcanzadas por la respuesta humanitaria en Venezuela (enero-abril 2026) 13K muertes estimadas por calor al año en 17 países de la región MÉXICO: DESPLAZAMIENTO Al menos 2.000 personas huyeron de sus hogares en Gu",
+      "published": "2026-05-22T18:27:00+00:00",
       "score": 13
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Haiti: Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CBTWG) - Compte rendu de la réunion mensuelle du CBTWG (Date : 20 mai 2026) [Meeting Minutes]",
-      "url": "https://reliefweb.int/report/haiti/groupe-de-travail-sur-les-transferts-monetaires-en-haiti-gttmcbtwg-compte-rendu-de-la-reunion-mensuelle-du-cbtwg-date-20-mai-2026-meeting-minutes",
-      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Le Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CWG) est un groupe de coordination humanitaire chargé d’organiser, harmoniser et améliorer l’assistance monétaire fournie par les différents acteurs humanitaires. Cette plateforme d’échanges techniques regroupe en Haïti des institutions gouvernementales, des prestataires de services financiers, des agences des Nations u",
-      "published": "2026-05-22T13:21:06+00:00",
+      "title": "Bangladesh: South Asia | 2026 Monsoon season multi-model forecast (June-September) - DG ECHO Daily Map | 22/05/2026",
+      "url": "https://reliefweb.int/map/bangladesh/south-asia-2026-monsoon-season-multi-model-forecast-june-september-dg-echo-daily-map-22052026",
+      "summary": "Countries: Bangladesh, Bhutan, India, Myanmar, Nepal, Pakistan Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
+      "published": "2026-05-22T15:17:21+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Nato chief welcomes US sending 5,000 troops to Poland",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump's announcement on Thursday night came ahead of a meeting of Nato foreign ministers.",
-      "published": "2026-05-22T11:39:14+00:00",
+      "title": "French pair held until trial after boys abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
+      "published": "2026-05-23T12:39:10+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
-      "published": "2026-05-22T08:12:47+00:00",
+      "title": "Senegal's president sacks PM and former ally after months-long feud",
+      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+      "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+      "published": "2026-05-23T11:36:09+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "AI used to fake evidence that ended Korean actor's career, say police",
-      "url": "https://www.bbc.com/news/articles/c0r2j18k2vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.",
-      "published": "2026-05-22T10:50:24+00:00",
+      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
+      "published": "2026-05-23T08:10:51+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
+      "published": "2026-05-22T22:32:12+00:00",
       "score": 12
     },
     {
@@ -115,93 +169,84 @@
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167562",
-      "summary": "The Representative of the UN refugee agency, UNHCR, in Ukraine has strongly condemned the deadly and destructive Russian missile and drone strikes in Dnipro on Tuesday night.",
-      "published": "2026-05-20T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Webb Studies Star Clusters",
+      "url": "https://www.nasa.gov/image-article/webb-studies-star-clusters/",
+      "summary": "This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more […]",
+      "published": "2026-05-22T18:23:38+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints. \"An attacker could exploit this vulnerability if they are able to send",
-      "published": "2026-05-22T05:36:18+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
-      "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
-      "published": "2026-05-21T07:35:53+00:00",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an attacker or a compromised account) may",
+      "published": "2026-05-23T07:35:13+00:00",
       "score": 12
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "World: Epidemic preparedness and response in Africa: Guidelines for the decentralization of laboratory capacity, November 2025",
-      "url": "https://reliefweb.int/report/world/epidemic-preparedness-and-response-africa-guidelines-decentralization-laboratory-capacity-november-2025",
-      "summary": "Country: World Sources: Africa Centres for Disease Control and Prevention, World Health Organization Please refer to the attached file. The decentralization of laboratory capacities is a critical strategy for improving epidemic preparedness and response in Africa. Centralized systems often delay case confirmation, hinder timely interventions, and exacerbate the impact of outbreaks, especially in rural and hard-to-reach areas. This Guidelines outlines a structured approach to decentralization, fo",
-      "published": "2026-05-22T14:05:56+00:00",
+      "title": "DR Congo: République Démocratique du Congo : Cartographie 3W – Réponse à l'épidémie d'Ebola au Nord-Kivu (Mise à jour du 21 mai 2026)",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-cartographie-3w-reponse-lepidemie-debola-au-nord-kivu-mise-jour-du-21-mai-2026",
+      "summary": "Country: Democratic Republic of the Congo Source: Health Cluster Please refer to the attached file. Ce document présente la mise à jour opérationnelle de la cartographie 3W (Who does What Where) pour la réponse à l'épidémie de Maladie à Virus Ebola (MVE) dans la province du Nord-Kivu. Conduite sous l'égide du Cluster Santé, cette cartographie vise à optimiser la coordination des acteurs, identifier les gaps et orienter la planification stratégique.",
+      "published": "2026-05-22T21:58:15+00:00",
       "score": 12
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "World: Evidence from the Atlantic Route: Migrant smuggling and risks on journeys to the Canary Islands",
-      "url": "https://reliefweb.int/report/world/evidence-atlantic-route-migrant-smuggling-and-risks-journeys-canary-islands",
-      "summary": "Countries: World, Canary Islands (Spain), Mauritania, Morocco Source: Mixed Migration Centre Please refer to the attached file. This paper examines migrant smuggling dynamics and protection risks on irregular journeys to the Canary Islands, based on 1,216 surveys conducted with migrants and refugees in Mauritania and Spain between March and September 2025, complemented by 11 in-depth qualitative interviews. Findings document the realities of the Atlantic crossing, the diversity of smuggling arra",
-      "published": "2026-05-22T13:36:45+00:00",
+      "title": "Ukraine Health Cluster: Partner Response to Evacuations, April 2026",
+      "url": "https://reliefweb.int/report/ukraine/ukraine-health-cluster-partner-response-evacuations-april-2026",
+      "summary": "Country: Ukraine Source: Health Cluster Please refer to the attached file.",
+      "published": "2026-05-22T14:59:51+00:00",
       "score": 12
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
-      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
-      "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
-      "published": "2026-05-22T11:34:48+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
-      "published": "2026-05-22T08:13:13+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-      "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
-      "published": "2026-05-22T01:37:02+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US sanctions Tanzanian police official over 'torture' of rights activists",
-      "url": "https://www.bbc.com/news/articles/cn4p8m3r1glo?at_medium=RSS&at_campaign=rss",
-      "summary": "The sanctions come amid growing scrutiny of Tanzania’s human rights record in recent years.",
-      "published": "2026-05-22T08:15:21+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "The space race to create gym equipment for future astronauts",
+      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+      "published": "2026-05-22T23:42:07+00:00",
       "score": 11
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "How do hurricanes and typhoons form and is climate change making them stronger?",
-      "url": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&at_campaign=rss",
-      "summary": "These powerful tropical storms are generally becoming more intense as the world warms.",
-      "published": "2026-05-21T15:28:27+00:00",
+      "title": "Nearly 30 illegal waste 'super sites' revealed in new government watchlist",
+      "url": "https://www.bbc.com/news/articles/c9v30r0944go?at_medium=RSS&at_campaign=rss",
+      "summary": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste.",
+      "published": "2026-05-22T14:28:43+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Ukraine: UN alarmed by reports of deadly strike on dormitory in occupied Luhansk",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167579",
+      "summary": "The United Nations voiced alarm on Friday over reports of an overnight attack on a vocational school and dormitory in the town of Starobilsk in Ukraine’s Luhansk region which killed and injured multiple civilians, including children.",
+      "published": "2026-05-22T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167572",
+      "summary": "Dire conditions in Gaza marked by continuing violence, rodent infestations and the spread of infectious disease are being made worse by blockages of essential medical supplies, UN agencies warned on Friday.",
+      "published": "2026-05-22T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+      "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
+      "published": "2026-05-21T12:00:00+00:00",
       "score": 11
     },
     {
@@ -214,66 +259,21 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "General Assembly backs historic World Court climate crisis ruling",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167561",
-      "summary": "A landmark General Assembly resolution adopted on Wednesday is “a powerful affirmation” of international law, climate justice and science, according to UN chief António Guterres.",
-      "published": "2026-05-20T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167554",
-      "summary": "The Security Council is meeting in New York for its annual open debate on the protection of civilians in armed conflict amid mounting concern over rising civilian casualties, attacks on humanitarian workers and widespread destruction of homes and critical infrastructure in wars around the world. The UN's top humanitarian for crisis response told ambassadors one civilian was killed every 14 minutes last year. Follow live below from our Meetings Coverage team.",
-      "published": "2026-05-20T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
+      "summary": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two […]",
+      "published": "2026-05-22T15:45:38+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Hubble Captures Galaxy Cluster",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
-      "summary": "Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]",
-      "published": "2026-05-22T11:37:42+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit",
-      "url": "https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/",
-      "summary": "Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on Pegasus in June to rendezvous with Swift […]",
-      "published": "2026-05-21T21:36:15+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Seeks Interest for Artemis Mission CubeSats",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-seeks-interest-for-artemis-mission-cubesats/",
-      "summary": "Organizations interested in launching CubeSats on future Artemis missions should respond to NASA’s request for information (RFI) by Monday, June 1, for initial consideration. “The SLS (Space Launch System) rocket and the Artemis missions provide great opportunities for teams to conduct important, science and technology investigations that contribute to the expansion of human space exploration,” said […]",
-      "published": "2026-05-21T20:11:17+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s AWE Completes Mission to Study Earth’s Effect on Space Weather",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-awe-completes-mission-to-study-earths-effect-on-space-weather/",
-      "summary": "On May 21, ground controllers powered down NASA’s AWE (Atmospheric Waves Experiment) instrument, bringing the data collection phase of the mission to a successful and scheduled end, surpassing its planned two-year mission. Installed on the exterior of the International Space Station since November 2023, AWE studied atmospheric gravity waves, which are giant ripples in the […]",
-      "published": "2026-05-21T18:31:06+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Wins Four Telly Awards for Artemis Moon Coverage, More",
-      "url": "https://www.nasa.gov/general/nasa-wins-four-telly-awards-for-artemis-moon-coverage-more/",
-      "summary": "NASA’s historic Artemis II mission coverage, which connected global audiences to watch the first humans to travel around the Moon in more than half a century, is among the agency’s video productions recognized with four 2026 Telly Awards. “President Trump’s leadership in establishing the Artemis program reignited America’s bold vision for space exploration and set […]",
-      "published": "2026-05-21T18:06:52+00:00",
+      "title": "NASA Announces Realignment to Accelerate Mission Delivery",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
+      "summary": "Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. During the Ignition event in late March, […]",
+      "published": "2026-05-22T14:01:35+00:00",
       "score": 11
     },
     {
@@ -288,118 +288,73 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-      "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The",
-      "published": "2026-05-22T11:38:12+00:00",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core. \"Drupal Core",
+      "published": "2026-05-23T07:23:48+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
-      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU. \"Kimwolf",
-      "published": "2026-05-22T08:50:18+00:00",
+      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+      "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
+      "published": "2026-05-22T11:55:24+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
-      "published": "2026-05-22T05:47:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "url": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
-      "published": "2026-05-21T03:44:11+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Ukraine: Gender in Humanitarian Action Working Group Time: 14:00-15:30 Date: May 06, 2026 [Meeting Minutes] [EN/UK]",
-      "url": "https://reliefweb.int/report/ukraine/gender-humanitarian-action-working-group-time-1400-1530-date-may-06-2026-meeting-minutes-enuk",
-      "summary": "Country: Ukraine Source: UN Women Please refer to the attached files.",
-      "published": "2026-05-22T13:51:47+00:00",
+      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
+      "published": "2026-05-21T14:17:09+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
-      "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
-      "published": "2026-05-22T13:50:19+00:00",
+      "title": "Rubio meets Modi during India visit with energy high on agenda",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
+      "published": "2026-05-23T11:55:39+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Alberta to hold referendum on whether to remain in Canada",
-      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko?at_medium=RSS&at_campaign=rss",
-      "summary": "Voters in the western province will decide next October whether they want to stay in Canada or move ahead with a process for a binding independence referendum.",
-      "published": "2026-05-22T02:40:58+00:00",
+      "title": "Ebola risk raised to 'very high' in DR Congo",
+      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
+      "published": "2026-05-22T16:23:08+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Slow Food founder Carlo Petrini dies aged 76",
-      "url": "https://www.bbc.com/news/articles/cn9pe1py9zwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Petrini's movement rejected fast food to promote sustainable production and traditional cooking.",
-      "published": "2026-05-22T10:22:21+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Right to strike protected under key labour treaty, says UN World Court",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167571",
+      "summary": "The UN International Court of Justice (ICJ) on Thursday ruled that the right to strike is protected under a core International Labour Organization (ILO) convention, in a landmark advisory opinion settling a long-running dispute between workers and employers worldwide.",
+      "published": "2026-05-21T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "UK should set maximum working temperature rules, advisers say",
-      "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
-      "summary": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
-      "published": "2026-05-19T23:40:12+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167570",
+      "summary": "As gangs continue to “terrorise” communities in Haiti, children are the ones paying the highest price, the UN Special Representative for Children and Armed Conflict warned on Thursday.",
+      "published": "2026-05-21T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Hubble Sights Galaxy in Transition",
-      "url": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
-      "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and […]",
-      "published": "2026-05-21T17:32:03+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Welcomes 16th Deputy Administrator Matt Anderson",
-      "url": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
-      "summary": "Matt Anderson was sworn in Thursday as NASA’s 16th deputy administrator by NASA Administrator Jared Isaacman. The oath was taken during a ceremony held at the Eisenhower Executive Office Building in Washington. As NASA deputy administrator, Anderson will help lead the agency’s efforts to execute the President’s national space policy, strengthen America’s leadership in space, […]",
-      "published": "2026-05-21T14:08:50+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a conversation with editor in chief Mat Honan, senior AI editor Will Douglas Heaven, and AI reporter…",
-      "published": "2026-05-21T20:41:05+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Scaling creativity in the age of AI",
-      "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-      "summary": "Storytelling is core to humanity’s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: from early humans’ innovation of natural pigments and charcoals for cave paintings to literal representation by the camera. The landscape of storytelling continues to shift under our…",
-      "published": "2026-05-21T19:16:43+00:00",
+      "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
+      "url": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
+      "summary": "NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in […]",
+      "published": "2026-05-22T14:34:04+00:00",
       "score": 10
     },
     {
@@ -410,6 +365,51 @@
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
       "published": "2026-05-21T12:10:00+00:00",
       "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints. \"An attacker could exploit this vulnerability if they are able to send",
+      "published": "2026-05-22T05:36:18+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild",
+      "url": "https://www.carbonbrief.org/cropped-20-may-2026-deforestation-roadmap-melanesian-ocean-summit-returning-pet-parrots-to-the-wild/",
+      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild appeared first on Carbon Brief .",
+      "published": "2026-05-20T14:16:25+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "SpaceX launches massive Starship V3 rocket on test flight",
+      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+      "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+      "published": "2026-05-23T03:53:20+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Tulsi Gabbard to resign as US national intelligence director",
+      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
+      "published": "2026-05-22T20:30:26+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "How do hurricanes and typhoons form and is climate change making them stronger?",
+      "url": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&at_campaign=rss",
+      "summary": "These powerful tropical storms are generally becoming more intense as the world warms.",
+      "published": "2026-05-21T15:28:27+00:00",
+      "score": 9
     }
   ]
 }
