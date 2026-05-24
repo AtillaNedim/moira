@@ -1,38 +1,12 @@
 {
-  "generated_at": "2026-05-23T12:53:17.050460+00:00",
-  "date": "2026-05-23",
+  "generated_at": "2026-05-24T12:53:39.278902+00:00",
+  "date": "2026-05-24",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
+    "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Mexico: Latin America & The Caribbean Weekly Situation Update as of 22 May 2026",
-      "url": "https://reliefweb.int/report/mexico/latin-america-caribbean-weekly-situation-update-22-may-2026",
-      "summary": "Countries: Mexico, Dominica, Suriname, Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. KEY FIGURES 2K people displaced due to escalating violence in May across three Mexican states 739K people reached by humanitarian response in Venezuela (Jan-Apr 2026) 13K estimated heat-related deaths annually across 17 countries in the region MEXICO: DISPLACEMENT At least 2,000 people fled their homes across Guerrero, ",
-      "published": "2026-05-22T18:24:14+00:00",
-      "score": 21
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: Multi-country Ebola Bundibugyo outbreak situation report no. 1",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/multi-country-ebola-bundibugyo-outbreak-situation-report-no-1",
-      "summary": "Country: Democratic Republic of the Congo Source: International Organization for Migration Please refer to the attached file. SITUATION OVERVIEW The Ebola outbreak caused by Bundibugyo virus disease (BVD) in the Democratic Republic of the Congo (DRC) and Uganda was declared as a public health emergency of international concern (PHEIC) by the World Health Organization (WHO) on 17 May 2026 under the International Health Regulations (IHR 2005), following confirmation of cross-border transmission. T",
-      "published": "2026-05-23T04:37:16+00:00",
-      "score": 19
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of the newly published tags",
-      "published": "2026-05-23T09:51:13+00:00",
-      "score": 15
-    },
     {
       "source": "UN News",
       "category": "Geopolitik",
@@ -43,183 +17,84 @@
       "score": 14
     },
     {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "published": "2026-05-24T12:12:20+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of the newly published tags",
+      "published": "2026-05-23T09:51:13+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "summary": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
+      "published": "2026-05-24T11:42:48+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+      "published": "2026-05-23T16:35:10+00:00",
+      "score": 12
+    },
+    {
       "source": "The Hacker News",
       "category": "Technik",
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
       "published": "2026-05-23T11:55:35+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: CARTOGRAPHIE 3W REPONSE EBOLA - NORD-KIVU, RDC Cartographie des Partenaires 3W (Who does What Where) Mise a jour : 21 Mai 2026",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/cartographie-3w-reponse-ebola-nord-kivu-rdc-cartographie-des-partenaires-3w-who-does-what-where-mise-jour-21-mai-2026",
-      "summary": "Country: Democratic Republic of the Congo Source: Health Cluster Please refer to the attached file. CONTEXTE ET APERÇU DE LA RÉPONSE Ce document présente la mise à jour opérationnelle de la cartographie 3W (Who does What Where / Qui fait Quoi Où) pour la réponse à l'épidémie de Maladie à Virus Ebola (MVE) dans la province du Nord-Kivu, en République Démocratique du Congo. Conduite sous l'égide du Cluster Santé, cette cartographie vise à optimiser la coordination des acteurs, identifier les gaps ",
-      "published": "2026-05-22T19:32:56+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Colombia: Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y liderazgo comunitario en Caquetá",
-      "url": "https://reliefweb.int/report/colombia/sembrar-vida-en-medio-del-conflicto-una-huerta-saberes-ancestrales-y-liderazgo-comunitario-en-caqueta",
-      "summary": "Country: Colombia Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Sembrar vida en medio del conflicto: una huerta, saberes ancestrales y liderazgo comunitario en Caquetá Por: Johana Botia y Andrés Torres En la vereda Nueva Colombia, municipio de Cartagena del Chairá, el conflicto armado no solo ha impuesto silencios y restricciones de movilidad; también ha dejado duelos abiertos, ausencias y vidas marcadas por la pérdida. En ese escenario de conf",
-      "published": "2026-05-22T18:57:56+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "published": "2026-05-23T07:44:14+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
-      "published": "2026-05-22T17:35:02+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
-      "published": "2026-05-22T16:20:32+00:00",
-      "score": 13
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Experts: Why migration is ‘not a failure of adaptation’ in a warming world",
-      "url": "https://www.carbonbrief.org/experts-why-migration-is-not-a-failure-of-adaptation-in-a-warming-world/",
-      "summary": "Hundreds of scientists gathered in London this week to discuss the role of migration as... The post Experts: Why migration is ‘not a failure of adaptation’ in a warming world appeared first on Carbon Brief .",
-      "published": "2026-05-22T14:24:29+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Mexico: Latinoamérica y El Caribe Resumen de Situación Semanal al 22 de mayo 2026",
-      "url": "https://reliefweb.int/report/mexico/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-22-de-mayo-2026",
-      "summary": "Countries: Mexico, Dominica, Suriname, Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. CIFRAS CLAVE 2K personas desplazadas por violencia creciente en mayo en tres estados de México 739K personas alcanzadas por la respuesta humanitaria en Venezuela (enero-abril 2026) 13K muertes estimadas por calor al año en 17 países de la región MÉXICO: DESPLAZAMIENTO Al menos 2.000 personas huyeron de sus hogares en Gu",
-      "published": "2026-05-22T18:27:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Bangladesh: South Asia | 2026 Monsoon season multi-model forecast (June-September) - DG ECHO Daily Map | 22/05/2026",
-      "url": "https://reliefweb.int/map/bangladesh/south-asia-2026-monsoon-season-multi-model-forecast-june-september-dg-echo-daily-map-22052026",
-      "summary": "Countries: Bangladesh, Bhutan, India, Myanmar, Nepal, Pakistan Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
-      "published": "2026-05-22T15:17:21+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "French pair held until trial after boys abandoned by road in Portugal",
-      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
-      "published": "2026-05-23T12:39:10+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Senegal's president sacks PM and former ally after months-long feud",
-      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
-      "published": "2026-05-23T11:36:09+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
-      "published": "2026-05-23T08:10:51+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
-      "url": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
-      "published": "2026-05-22T22:32:12+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Building the smart city: Promise, pitfalls and the people at its heart",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167564",
-      "summary": "From AI-powered transit systems to digital twins and flood-proof parks, cities are embracing technology at an unprecedented scale. But as innovation accelerates, experts warn that inclusion, trust and security will determine who truly benefits.",
-      "published": "2026-05-21T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Webb Studies Star Clusters",
-      "url": "https://www.nasa.gov/image-article/webb-studies-star-clusters/",
-      "summary": "This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more […]",
-      "published": "2026-05-22T18:23:38+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an attacker or a compromised account) may",
-      "published": "2026-05-23T07:35:13+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: République Démocratique du Congo : Cartographie 3W – Réponse à l'épidémie d'Ebola au Nord-Kivu (Mise à jour du 21 mai 2026)",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/republique-democratique-du-congo-cartographie-3w-reponse-lepidemie-debola-au-nord-kivu-mise-jour-du-21-mai-2026",
-      "summary": "Country: Democratic Republic of the Congo Source: Health Cluster Please refer to the attached file. Ce document présente la mise à jour opérationnelle de la cartographie 3W (Who does What Where) pour la réponse à l'épidémie de Maladie à Virus Ebola (MVE) dans la province du Nord-Kivu. Conduite sous l'égide du Cluster Santé, cette cartographie vise à optimiser la coordination des acteurs, identifier les gaps et orienter la planification stratégique.",
-      "published": "2026-05-22T21:58:15+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Ukraine Health Cluster: Partner Response to Evacuations, April 2026",
-      "url": "https://reliefweb.int/report/ukraine/ukraine-health-cluster-partner-response-evacuations-april-2026",
-      "summary": "Country: Ukraine Source: Health Cluster Please refer to the attached file.",
-      "published": "2026-05-22T14:59:51+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "The space race to create gym equipment for future astronauts",
-      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
-      "published": "2026-05-22T23:42:07+00:00",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "published": "2026-05-24T12:26:09+00:00",
       "score": 11
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Nearly 30 illegal waste 'super sites' revealed in new government watchlist",
-      "url": "https://www.bbc.com/news/articles/c9v30r0944go?at_medium=RSS&at_campaign=rss",
-      "summary": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste.",
-      "published": "2026-05-22T14:28:43+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Man killed in shark attack off Australia's north-east coast",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "published": "2026-05-24T07:12:37+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "California declares emergency as fire crews race to contain toxic leak",
+      "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
+      "published": "2026-05-23T20:07:01+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+      "published": "2026-05-23T14:24:48+00:00",
       "score": 11
     },
     {
@@ -241,57 +116,30 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-      "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
-      "published": "2026-05-21T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Ambassadors debate future of Gaza amid stalled progress on lasting peace",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167563",
-      "summary": "The Security Council is discussing the stalled progress in Gaza as the fragile ceasefire there limps on, and deteriorating conditions across the West Bank amid continued civilian casualties and mounting humanitarian needs. Discussions are likely to focus on who governs Gaza, and how - with no disarmament in sight, together with efforts to support recovery.",
-      "published": "2026-05-21T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
-      "summary": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two […]",
-      "published": "2026-05-22T15:45:38+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Announces Realignment to Accelerate Mission Delivery",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
-      "summary": "Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. During the Ignition event in late March, […]",
-      "published": "2026-05-22T14:01:35+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "Tech researchers are suing the Trump administration over the future of online safety",
-      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
-      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court. …",
-      "published": "2026-05-21T09:00:00+00:00",
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
+      "published": "2026-05-23T16:07:51+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core. \"Drupal Core",
-      "published": "2026-05-23T07:23:48+00:00",
+      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
+      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
+      "published": "2026-05-22T17:35:02+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
+      "published": "2026-05-22T16:20:32+00:00",
       "score": 11
     },
     {
@@ -304,102 +152,84 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
-      "published": "2026-05-21T14:17:09+00:00",
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Experts: Why migration is ‘not a failure of adaptation’ in a warming world",
+      "url": "https://www.carbonbrief.org/experts-why-migration-is-not-a-failure-of-adaptation-in-a-warming-world/",
+      "summary": "Hundreds of scientists gathered in London this week to discuss the role of migration as... The post Experts: Why migration is ‘not a failure of adaptation’ in a warming world appeared first on Carbon Brief .",
+      "published": "2026-05-22T14:24:29+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Rubio meets Modi during India visit with energy high on agenda",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
-      "published": "2026-05-23T11:55:39+00:00",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+      "published": "2026-05-24T06:15:32+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ebola risk raised to 'very high' in DR Congo",
-      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
-      "published": "2026-05-22T16:23:08+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Right to strike protected under key labour treaty, says UN World Court",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167571",
-      "summary": "The UN International Court of Justice (ICJ) on Thursday ruled that the right to strike is protected under a core International Labour Organization (ILO) convention, in a landmark advisory opinion settling a long-running dispute between workers and employers worldwide.",
-      "published": "2026-05-21T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167570",
-      "summary": "As gangs continue to “terrorise” communities in Haiti, children are the ones paying the highest price, the UN Special Representative for Children and Armed Conflict warned on Thursday.",
-      "published": "2026-05-21T12:00:00+00:00",
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
+      "published": "2026-05-24T10:34:52+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
-      "url": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
-      "summary": "NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in […]",
-      "published": "2026-05-22T14:34:04+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
-      "published": "2026-05-21T12:10:00+00:00",
+      "title": "Webb Studies Star Clusters",
+      "url": "https://www.nasa.gov/image-article/webb-studies-star-clusters/",
+      "summary": "This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more […]",
+      "published": "2026-05-22T18:23:38+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "url": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints. \"An attacker could exploit this vulnerability if they are able to send",
-      "published": "2026-05-22T05:36:18+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild",
-      "url": "https://www.carbonbrief.org/cropped-20-may-2026-deforestation-roadmap-melanesian-ocean-summit-returning-pet-parrots-to-the-wild/",
-      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild appeared first on Carbon Brief .",
-      "published": "2026-05-20T14:16:25+00:00",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an attacker or a compromised account) may",
+      "published": "2026-05-23T07:35:13+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
-      "published": "2026-05-23T03:53:20+00:00",
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+      "published": "2026-05-24T11:09:54+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tulsi Gabbard to resign as US national intelligence director",
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "published": "2026-05-22T20:30:26+00:00",
+      "title": "F1 great Prost 'injured as masked gang raid home'",
+      "url": "https://www.bbc.com/sport/formula1/articles/clyp65zpxe0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four-time Formula 1 world champion Alain Prost was injured when a masked gang raided his home near Geneva, Swiss media reports.",
+      "published": "2026-05-23T15:33:20+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "The space race to create gym equipment for future astronauts",
+      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+      "published": "2026-05-22T23:42:07+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Nearly 30 illegal waste 'super sites' revealed in new government watchlist",
+      "url": "https://www.bbc.com/news/articles/c9v30r0944go?at_medium=RSS&at_campaign=rss",
+      "summary": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste.",
+      "published": "2026-05-22T14:28:43+00:00",
       "score": 9
     },
     {
@@ -410,6 +240,177 @@
       "summary": "These powerful tropical storms are generally becoming more intense as the world warms.",
       "published": "2026-05-21T15:28:27+00:00",
       "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "WHO chief calls for urgent Ebola action and pandemic preparedness",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167581",
+      "summary": "The recent Ebola and hantavirus outbreaks demonstrate that the world is still vulnerable to rapidly spreading infectious diseases, Tedros Ghebreyesus, the head of the World Health Organization (WHO), warned on Saturday at the close of the 79th World Health Assembly in Geneva.",
+      "published": "2026-05-23T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167569",
+      "summary": "On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter from school, cooked dinner and prepared a lecture for her students. The next morning, she awoke to explosions.",
+      "published": "2026-05-23T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+      "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
+      "published": "2026-05-21T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
+      "summary": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two […]",
+      "published": "2026-05-22T15:45:38+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Announces Realignment to Accelerate Mission Delivery",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
+      "summary": "Editor’s Note: This advisory was updated May 22, 2026 to include a retirement. NASA announced Friday an agencywide realignment to increase mission focus and move out on the National Space Policy. These changes position the agency to better deliver on the nation’s highest‑priority objectives with speed and efficiency. During the Ignition event in late March, […]",
+      "published": "2026-05-22T14:01:35+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Hubble Captures Galaxy Cluster",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-captures-galaxy-cluster/",
+      "summary": "Look closely at this image from NASA’s Hubble Space Telescope and you’ll see galaxies of various shapes and sizes clustered together toward the center-left of the image. A few foreground stars shine brightly and are easily distinguished by the spikes that appear to extend outward from each star. These spikes, called diffraction spikes, are the […]",
+      "published": "2026-05-22T11:37:42+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA to Showcase Mission to Boost Swift Spacecraft’s Orbit",
+      "url": "https://www.nasa.gov/news-release/nasa-to-showcase-mission-to-boost-swift-spacecrafts-orbit/",
+      "summary": "Media are invited to NASA’s Wallops Flight Facility in Virginia on Wednesday, June 17, to view Northrop Grumman’s Pegasus XL rocket, carrying a Katalyst robotic spacecraft that will attempt to boost the orbit of NASA’s Neil Gehrels Swift Observatory. Katalyst’s robotic servicing spacecraft, called LINK, will launch on Pegasus in June to rendezvous with Swift […]",
+      "published": "2026-05-21T21:36:15+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Tech researchers are suing the Trump administration over the future of online safety",
+      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
+      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court. …",
+      "published": "2026-05-21T09:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core. \"Drupal Core",
+      "published": "2026-05-23T07:23:48+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+      "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+      "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The",
+      "published": "2026-05-22T11:38:12+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "url": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU that specifically",
+      "published": "2026-05-22T08:50:18+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "url": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
+      "published": "2026-05-22T05:47:33+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "People trapped under collapsed building in Philippines",
+      "url": "https://www.bbc.com/news/articles/cgqpklv42jeo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search operation has so far rescued 24 people with no deaths reported at the site, in a city near the capital Manila.",
+      "published": "2026-05-24T11:51:25+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "At least 82 killed in Chinese coal mine explosion",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "published": "2026-05-24T03:18:38+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK should set maximum working temperature rules, advisers say",
+      "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
+      "summary": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+      "published": "2026-05-19T23:40:12+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167580",
+      "summary": "After four weeks of negotiations at UN Headquarters in New York, the 11th Review Conference of the nuclear Non-Proliferation Treaty (NPT) ended on Friday without consensus on a final declaration.",
+      "published": "2026-05-23T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World Urban Forum backs ‘Baku Call to Action’ on global housing crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167577",
+      "summary": "A landmark gathering of more than 57,000 participants – the largest in the history of the World Urban Forum – closed on Friday in Baku with an urgent call to rethink how the world houses its people, as a new roadmap urges governments, cities and communities to act collectively on a crisis affecting billions.",
+      "published": "2026-05-22T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167575",
+      "summary": "The UN is rushing emergency personnel, funding and supplies into eastern Democratic Republic of the Congo (DRC) to counter the fast-growing Ebola outbreak spreading through conflict-ravaged provinces.",
+      "published": "2026-05-22T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Right to strike protected under key labour treaty, says UN World Court",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167571",
+      "summary": "The UN International Court of Justice (ICJ) on Thursday ruled that the right to strike is protected under a core International Labour Organization (ILO) convention, in a landmark advisory opinion settling a long-running dispute between workers and employers worldwide.",
+      "published": "2026-05-21T12:00:00+00:00",
+      "score": 8
     }
   ]
 }
