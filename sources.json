@@ -1,64 +1,135 @@
 {
-  "generated_at": "2026-05-25T14:27:45.588423+00:00",
-  "date": "2026-05-25",
+  "generated_at": "2026-05-26T14:31:29.676157+00:00",
+  "date": "2026-05-26",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
-    "ReliefWeb: no element found: line 1, column 0"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
   ],
   "articles": [
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
-      "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
-      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost's Content API that could allow an unauthenticated attacker to read arbitrary data from the",
-      "published": "2026-05-25T12:02:46+00:00",
-      "score": 14
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Myanmar Crisis Situation Analysis (Period: 11/05/26 - 17/05/26)",
+      "url": "https://reliefweb.int/report/myanmar/myanmar-crisis-situation-analysis-period-110526-170526",
+      "summary": "Country: Myanmar Source: Data Friendly Space Please refer to the attached file. Myanmar has been in crisis since 1 February 2021, when the military (Tatmadaw) overthrew the democratically elected government. This coup sparked widespread protests and armed resistance, leading to a severe political, economic, and humanitarian crisis. The military regime, known as the State Administration Council (SAC), has responded with brutal force, resulting in thousands of civilian deaths and widespread human ",
+      "published": "2026-05-26T13:38:34+00:00",
+      "score": 26
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan Crisis Situation Analysis (Period: 11/05/26 - 17/05/26)",
+      "url": "https://reliefweb.int/report/sudan/sudan-crisis-situation-analysis-period-110526-170526",
+      "summary": "Country: Sudan Source: Data Friendly Space Please refer to the attached file. Sudan is facing one of the world’s largest humanitarian and displacement crises as the conflict between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), which began in April 2023, enters its fourth year in 2026. The conflict has triggered widespread civilian suffering, economic collapse, mass displacement, and severe regional instability, with humanitarian conditions continuing to deteriorate across ",
+      "published": "2026-05-26T13:42:00+00:00",
+      "score": 25
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Lebanon Crisis Situation Analysis (Period: 11/05/26 - 17/05/26)",
+      "url": "https://reliefweb.int/report/lebanon/lebanon-crisis-situation-analysis-period-110526-170526",
+      "summary": "Country: Lebanon Source: Data Friendly Space Please refer to the attached file. The conflict between Hezbollah and Israel, which began in October 2023 and escalated sharply in September 2024, entered a new phase in early 2026. Although a ceasefire came into effect on 27 November 2024, violations continued almost daily, with Israeli airstrikes and continued occupation of five positions in southern Lebanon preventing reconstruction and the return of displaced communities. The ceasefire effectively",
+      "published": "2026-05-26T13:31:50+00:00",
+      "score": 19
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: Epidemic and emerging disease alerts in the Pacific as of 26 May 2026",
+      "url": "https://reliefweb.int/map/world/epidemic-and-emerging-disease-alerts-pacific-26-may-2026",
+      "summary": "Countries: World, Cook Islands, Democratic Republic of the Congo, Kiribati, Micronesia (Federated States of), New Caledonia (France), New Zealand, Samoa, Tonga, Uganda, Vanuatu Source: Pacific Community Please refer to the attached Map. Highlights/updates since the last map was sent on PacNet on 19 May 2026: Dengue Cook Islands: Dengue transmission in the Cook Islands has been interrupted, with no new cases reported since 28 April 2026. The Ministry of Health officially declared the country deng",
+      "published": "2026-05-26T13:34:26+00:00",
+      "score": 17
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Ukraine — Veterans Reintegration in Ukraine: Compounding Vulnerabilities and Access to Support Among Veterans — May 2026",
+      "url": "https://reliefweb.int/report/ukraine/ukraine-veterans-reintegration-ukraine-compounding-vulnerabilities-and-access-support-among-veterans-may-2026",
+      "summary": "Country: Ukraine Source: International Organization for Migration Please refer to the attached file. This analytical brief examines the reintegration of veterans in Ukraine, drawing on data from Rounds 22 and 23 of IOM’s General Population Survey, collected between October 2025 and March 2026. The brief finds that economic and social reintegration can move in opposite directions: economic indicators eased over the assessed period, even as veterans' sense of community belonging fell sharply. The ",
+      "published": "2026-05-26T13:33:08+00:00",
+      "score": 16
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
-      "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
-      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader. \"DPAPILoader decrypts and",
-      "published": "2026-05-25T09:32:54+00:00",
+      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
+      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
+      "published": "2026-05-26T09:13:02+00:00",
+      "score": 15
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Bangladesh: Homestead Gardening Guidelines - Vegetable production for household consumption using minimal space in Rohingya camps and host communities",
+      "url": "https://reliefweb.int/report/bangladesh/homestead-gardening-guidelines-vegetable-production-household-consumption-using-minimal-space-rohingya-camps-and-host-communities",
+      "summary": "Countries: Bangladesh, Myanmar Source: Concern Worldwide Please refer to the attached file. OVERVIEW With more than 923,1791 people spread across approximately 25 sq. km. of single-story buildings, the Rohingya Refugee Camps are both the biggest and the most densely populated refugee camps in the world.2 The camps sit on previously forested, now landslide prone topography. The decreased greenery due to deforestation has resulted in higher ambient temperatures and slope destabilization. Since 201",
+      "published": "2026-05-26T12:33:06+00:00",
+      "score": 15
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
+      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli military campaign against the country in late February 2026. The activity, besides embracing",
+      "published": "2026-05-26T07:13:05+00:00",
       "score": 14
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "published": "2026-05-25T04:45:13+00:00",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+      "published": "2026-05-26T03:06:06+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "url": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of the newly published tags",
-      "published": "2026-05-23T09:51:13+00:00",
+      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met. The vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity. \"Deserialization of untrusted data in Microsoft Office SharePoint allows",
+      "published": "2026-05-26T11:49:53+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Somalia: Diphtheria Outbreak - DREF Final Report (MDRSO024)",
+      "url": "https://reliefweb.int/report/somalia/somalia-diphtheria-outbreak-dref-final-report-mdrso024",
+      "summary": "Country: Somalia Source: International Federation of Red Cross and Red Crescent Societies Please refer to the attached file. What happened, where and when? Somalia has experienced a sharp surge in diphtheria cases in recent years. In 2025, the country reported 1,811 suspected cases and 89 deaths, marking a signicant increase compared to previous years and underscoring the ongoing outbreak and urgent need to strengthen vaccination coverage and healthcare systems. The outbreak continued to spread ",
+      "published": "2026-05-26T12:44:40+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Anger grows after China's deadliest coal mining disaster in years",
-      "url": "https://www.bbc.com/news/articles/c893543gn20o?at_medium=RSS&at_campaign=rss",
-      "summary": "On China's tightly-controlled internet, people are calling for justice and questioning how this happened.",
-      "published": "2026-05-25T08:00:35+00:00",
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
+      "published": "2026-05-26T13:38:09+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Turkish riot police storm opposition offices after leaders ousted",
-      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
-      "published": "2026-05-24T19:49:39+00:00",
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes.",
+      "published": "2026-05-26T10:48:55+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Massive Russian strike on Kyiv: ‘I hope my friends are alive’",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167583",
+      "summary": "The overnight Russian attack on Ukraine, which centred on the capital, Kyiv, reportedly involved some 90 missiles, including a powerful hypersonic ballistic missile and 60 drones. The senior UN official in the country called for an end to civilian harm.",
+      "published": "2026-05-24T12:00:00+00:00",
       "score": 12
     },
     {
@@ -73,11 +144,173 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
+      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
+      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
+      "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop. According to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and",
+      "published": "2026-05-26T11:58:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
+      "published": "2026-05-26T05:19:38+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+      "url": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost's Content API that could allow an unauthenticated attacker to read arbitrary data from the",
+      "published": "2026-05-25T12:02:46+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+      "url": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader. \"DPAPILoader decrypts and",
+      "published": "2026-05-25T09:32:54+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Pakistan: protecting millions against polio with support from KSrelief",
+      "url": "https://reliefweb.int/report/pakistan/pakistan-protecting-millions-against-polio-support-ksrelief",
+      "summary": "Country: Pakistan Source: World Health Organization Please refer to the attached file. Original story on WHO Pakistan website. Islamabad, Pakistan – “Just as we care for the children in our own homes and protect them from polio, I want all innocent children in our country to be healthy and protected through polio campaigns. I do this job from my heart, going from house to house to make sure that no child is left behind,” says Faiza. Faiza is one of more than 413,000 frontline health workers trai",
+      "published": "2026-05-26T14:08:54+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
+      "published": "2026-05-26T12:29:14+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "China executes man for murdering prominent gaming tycoon",
+      "url": "https://www.bbc.com/news/articles/cg5ppg50gplo?at_medium=RSS&at_campaign=rss",
+      "summary": "The court said the man poisoned the tycoon for sidelining him after he helped secure a deal with Netflix for the 3 Body Problem.",
+      "published": "2026-05-26T08:55:55+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Senegal's sacked PM Sonko elected parliamentary Speaker in challenge to president",
+      "url": "https://www.bbc.com/news/articles/cg4pppq12nvo?at_medium=RSS&at_campaign=rss",
+      "summary": "As speaker, Sonko could use his position to challenge the policies of the president, his one-time ally.",
+      "published": "2026-05-26T14:14:21+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
+      "summary": "The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe.",
+      "published": "2026-05-26T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "A reality check on the AI jobs hysteria",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software developer or financial analyst—or tech journalist—and…",
+      "published": "2026-05-26T09:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
+      "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
+      "summary": "A major change in the way that China measures its core climate goal has effectively... The post Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions appeared first on Carbon Brief .",
+      "published": "2026-05-25T23:01:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World | Temperature anomalies in April 2026 - DG ECHO Daily Map | 26/05/2026",
+      "url": "https://reliefweb.int/map/world/world-temperature-anomalies-april-2026-dg-echo-daily-map-26052026",
+      "summary": "Country: World Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
+      "published": "2026-05-26T14:17:22+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+      "published": "2026-05-26T12:44:57+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Rescuers race to free seven people trapped in flooded Laos cave",
+      "url": "https://www.bbc.com/news/articles/cglpp1g388zo?at_medium=RSS&at_campaign=rss",
+      "summary": "A team of experts who helped free a teen football team from a Thai cave in 2018 are among the rescuers.",
+      "published": "2026-05-26T01:48:34+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Britain's protected birds of prey still being shot, trapped and poisoned, says RSPB",
+      "url": "https://www.bbc.com/news/articles/cjep159x1njo?at_medium=RSS&at_campaign=rss",
+      "summary": "The charity says more than half of attacks happened on or near land managed for game shooting.",
+      "published": "2026-05-25T23:35:26+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Displaced in Gaza: From home comforts to the shattering horror of war",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167574",
+      "summary": "In front of a simple tent in Gaza that offers no protection from the cold or the heat, in a crowded camp where tents lack privacy and basic services, Umm Ahmad sat down to speak to UN News about her life in Gaza before the war and what it has become now.",
+      "published": "2026-05-24T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Jaclyn Kagey Shapes Humanity’s Return to the Moon",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/jaclyn-kagey-shapes-humanitys-return-to-the-moon/",
+      "summary": "For Jaclyn Kagey, preparing astronauts to put boots on the Moon is part of her daily work. As the Artemis extravehicular activity lead in NASA’s Flight Operations Directorate, Kagey plays a central role in preparing astronauts to safely explore the lunar surface. During Artemis missions, astronauts will explore the Moon’s South Pole, a region never visited by humans, paving the way for future deep space exploration. Kagey helps define […]",
+      "published": "2026-05-26T03:09:55+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
+      "url": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
+      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal the second factor: they just need the user to hand it over. If your workforce authenticates with",
+      "published": "2026-05-26T10:30:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
       "title": "The Alert Firehose Finally Meets Its Match",
       "url": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
       "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch threats earlier, triage faster, and chase fewer false positives. The old complaint lingers in part because reputations are sticky, and because NDR has evolved",
       "published": "2026-05-25T11:30:00+00:00",
-      "score": 12
+      "score": 10
     },
     {
       "source": "The Hacker News",
@@ -86,96 +319,6 @@
       "url": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
       "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of",
       "published": "2026-05-25T05:59:13+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-      "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
-      "published": "2026-05-23T11:55:35+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "published": "2026-05-25T13:05:56+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Man killed in shark attack off Australia's north-east coast",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
-      "published": "2026-05-24T15:29:08+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-      "url": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
-      "published": "2026-05-22T17:35:02+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-      "url": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
-      "published": "2026-05-22T16:20:32+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Deal with US not imminent, Iran says",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
-      "published": "2026-05-25T11:17:49+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "First Hong Kong astronaut launches into space onboard Chinese mission",
-      "url": "https://www.bbc.com/news/articles/cn7p87r56mgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 43-year-old police officer and mother of three serves as the team's payload scientist.",
-      "published": "2026-05-25T06:52:59+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Suspect killed after opening fire on Secret Service near White House",
-      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
-      "published": "2026-05-25T13:40:28+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Senegal's leadership row mounts as parliament speaker resigns",
-      "url": "https://www.bbc.com/news/articles/c87qq07l1d8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some speculate that El Malick Ndiaye stepped down so that ousted-PM Ousmane Sonko can take his place.",
-      "published": "2026-05-25T11:12:43+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Webb Studies Star Clusters",
-      "url": "https://www.nasa.gov/image-article/webb-studies-star-clusters/",
-      "summary": "This near-infrared image released on May 6, 2026, shows a section of one of the spiral arms of Messier 51 (M51). M51 is one of four nearby galaxies observed by NASA’s James Webb Space Telescope in a study of nearly 9,000 star clusters. Data from the study shows that more massive star clusters emerge more […]",
-      "published": "2026-05-22T18:23:38+00:00",
       "score": 10
     },
     {
@@ -188,66 +331,75 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-      "url": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an attacker or a compromised account) may",
-      "published": "2026-05-23T07:35:13+00:00",
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021",
+      "url": "https://www.carbonbrief.org/revealed-floods-have-forced-at-least-67-closures-at-nhs-hospitals-since-2021/",
+      "summary": "At least 67 NHS hospital wards, departments and other sites across the UK have been... The post Revealed: Floods have forced at least 67 closures at NHS hospitals since 2021 appeared first on Carbon Brief .",
+      "published": "2026-05-25T15:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Pakistan, WHO have protected 160 million children and 130 million mothers with life-saving vaccines over 5 decades",
+      "url": "https://reliefweb.int/report/pakistan/pakistan-who-have-protected-160-million-children-and-130-million-mothers-life-saving-vaccines-over-5-decades-0",
+      "summary": "Country: Pakistan Source: World Health Organization Please refer to the attached file. Original article on WHO Pakistan website Pakistan ranks among the top five countries worldwide for absolute reductions in child deaths thanks to vaccination. It has averted 2.6 million child deaths from preventable diseases, eradicated smallpox, reduced paralytic polio cases by 99.8% and ensured neonatal tetanus-free areas for 80% of the country’s population. 22 April 2026, Islamabad, Pakistan – Over the last ",
+      "published": "2026-05-26T13:54:21+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Vanuatu Dengue Situation Update 01 (18 May 2026)",
+      "url": "https://reliefweb.int/report/vanuatu/vanuatu-dengue-situation-update-01-18-may-2026",
+      "summary": "Country: Vanuatu Source: Government of Vanuatu Please refer to the attached file. Epidemiological Summary From Epi Week 01 to Epi Week 19, 2026, a total of 8 dengue cases were reported on Efate Island. No hospitalizations or deaths have been recorded. Of the reported cases, 88% were from the Pango Area Council, while the remaining cases were reported within Port Vila. The gender distribution indicates that 75% of cases were female, and the majority (75%) were aged above 26 years. Case investigat",
+      "published": "2026-05-26T13:25:16+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "At least 19 people taken to hospital after 'strong smell' reported at Tokyo mall",
-      "url": "https://www.bbc.com/news/articles/cevpp983kmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say a man sprayed a substance at an ATM in the luxury Ginza 6 shopping centre.",
-      "published": "2026-05-25T11:08:05+00:00",
+      "title": "Ebola needs swift response to prevent catastrophe, says DR Congo governor",
+      "url": "https://www.bbc.com/news/articles/c3022rd2er4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The governor of Ituri said the more time they lose, the closer the province is to disaster.",
+      "published": "2026-05-26T11:22:04+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Clashes as Venezuelan prisoners protest over alleged mistreatment",
-      "url": "https://www.bbc.com/news/articles/c0l22wrx44po?at_medium=RSS&at_campaign=rss",
-      "summary": "The prisoners insisted their protest was peaceful but that security forces deployed to quell it opened fire.",
-      "published": "2026-05-25T11:13:45+00:00",
+      "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
+      "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
+      "published": "2026-05-26T07:09:38+00:00",
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "The space race to create gym equipment for future astronauts",
-      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists are attempting to build exercise equipment to be used on future space flights.",
-      "published": "2026-05-22T23:42:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Nearly 30 illegal waste 'super sites' revealed in new government watchlist",
-      "url": "https://www.bbc.com/news/articles/c9v30r0944go?at_medium=RSS&at_campaign=rss",
-      "summary": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste.",
-      "published": "2026-05-22T14:28:43+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Jazz legend Sonny Rollins dies aged 95",
+      "url": "https://www.bbc.com/news/articles/c1e224dwz18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Known as the \"saxophone colossus\", Rollins had a lauded career spanning decades.",
+      "published": "2026-05-26T05:13:27+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "WHO chief calls for urgent Ebola action and pandemic preparedness",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167581",
-      "summary": "The recent Ebola and hantavirus outbreaks demonstrate that the world is still vulnerable to rapidly spreading infectious diseases, Tedros Ghebreyesus, the head of the World Health Organization (WHO), warned on Saturday at the close of the 79th World Health Assembly in Geneva.",
-      "published": "2026-05-23T12:00:00+00:00",
+      "title": "Ebola epidemic spreading rapidly and outpacing containment efforts",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167584",
+      "summary": "There are more than 900 suspected cases of the Bundibugyo strain of Ebola in the Democratic Republic of the Congo, and 220 suspected deaths, the head of the World Health Organization (WHO), Tedros Ghebreyesus, said on Monday.",
+      "published": "2026-05-25T12:00:00+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167569",
-      "summary": "On 23 February 2022, in her home city of Kharkiv, Dr Inna Soldatenko finished work, collected her daughter from school, cooked dinner and prepared a lecture for her students. The next morning, she awoke to explosions.",
-      "published": "2026-05-23T12:00:00+00:00",
+      "title": "Khalida Popal and Javier Zanetti among football stars appointed UN Champions",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167582",
+      "summary": "With the World Cup just days away, 16 greats of the game have been appointed Football for the Goals (FFTG) Champions, using their profiles to raise awareness of the Sustainable Development Goals (SDGs) and advocate for a better future for people and the planet.",
+      "published": "2026-05-24T12:00:00+00:00",
       "score": 9
     },
     {
@@ -258,159 +410,6 @@
       "summary": "The United Nations voiced alarm on Friday over reports of an overnight attack on a vocational school and dormitory in the town of Starobilsk in Ukraine’s Luhansk region which killed and injured multiple civilians, including children.",
       "published": "2026-05-22T12:00:00+00:00",
       "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167572",
-      "summary": "Dire conditions in Gaza marked by continuing violence, rodent infestations and the spread of infectious disease are being made worse by blockages of essential medical supplies, UN agencies warned on Friday.",
-      "published": "2026-05-22T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
-      "summary": "As Gaza’s fragile ceasefire frays and humanitarian conditions deteriorate, a senior UN envoy warned the Security Council on Thursday that delays in implementing the Council-backed transition plan for the enclave will only increase suffering and undermine recovery.",
-      "published": "2026-05-21T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Keeping NASA Flying: Ground Crews Ensure Aircraft Readiness",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/keeping-nasa-flying-ground-crews-ensure-aircraft-readiness/",
-      "summary": "From high‑speed research flights to high‑altitude science campaigns, NASA depends on aircraft that perform at their best and the ground crews who keep them mission ready. At NASA’s Armstrong Flight Research Center in Edwards, California, specially trained maintenance crews are essential to keeping the agency’s aircraft flying safely and reliably. This year, NASA added two […]",
-      "published": "2026-05-22T15:45:38+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Tech researchers are suing the Trump administration over the future of online safety",
-      "url": "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
-      "summary": "Since its earliest days back in office, the Trump administration has been going after researchers who study and try to counter hate speech, harassment, propaganda, and disinformation online. Now, some of those researchers are fighting back. Last week their lawsuit—which could have global repercussions for online safety and free speech—made its first appearance in court. …",
-      "published": "2026-05-21T09:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
-      "url": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
-      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
-      "published": "2026-05-23T16:07:51+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core. \"Drupal Core",
-      "published": "2026-05-23T07:23:48+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Experts: Why migration is ‘not a failure of adaptation’ in a warming world",
-      "url": "https://www.carbonbrief.org/experts-why-migration-is-not-a-failure-of-adaptation-in-a-warming-world/",
-      "summary": "Hundreds of scientists gathered in London this week to discuss the role of migration as... The post Experts: Why migration is ‘not a failure of adaptation’ in a warming world appeared first on Carbon Brief .",
-      "published": "2026-05-22T14:24:29+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
-      "published": "2026-05-24T21:02:08+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "UK should set maximum working temperature rules, advisers say",
-      "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
-      "summary": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
-      "published": "2026-05-19T23:40:12+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167580",
-      "summary": "After four weeks of negotiations at UN Headquarters in New York, the 11th Review Conference of the nuclear Non-Proliferation Treaty (NPT) ended on Friday without consensus on a final declaration.",
-      "published": "2026-05-23T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Right to strike protected under key labour treaty, says UN World Court",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167571",
-      "summary": "The UN International Court of Justice (ICJ) on Thursday ruled that the right to strike is protected under a core International Labour Organization (ILO) convention, in a landmark advisory opinion settling a long-running dispute between workers and employers worldwide.",
-      "published": "2026-05-21T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Haitian children ‘paying the highest price’ amid surge in gang recruitment",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167570",
-      "summary": "As gangs continue to “terrorise” communities in Haiti, children are the ones paying the highest price, the UN Special Representative for Children and Armed Conflict warned on Thursday.",
-      "published": "2026-05-21T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA to Compete Contract for Jet Propulsion Laboratory Management",
-      "url": "https://www.nasa.gov/news-release/nasa-to-compete-contract-for-jet-propulsion-laboratory-management/",
-      "summary": "NASA announced plans Friday to compete the next contract for managing and operating the agency’s federally funded research and development center (FFRDC) in Southern California at the Jet Propulsion Laboratory (JPL), to ensure continued accountability and strong value for U.S. taxpayers. The California Institute of Technology (Caltech) has managed the laboratory since its inception in […]",
-      "published": "2026-05-22T14:34:04+00:00",
-      "score": 8
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the Trump administration has been going after researchers who study and try to counter hate speech,…",
-      "published": "2026-05-21T12:10:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild",
-      "url": "https://www.carbonbrief.org/cropped-20-may-2026-deforestation-roadmap-melanesian-ocean-summit-returning-pet-parrots-to-the-wild/",
-      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 20 May 2026: Deforestation roadmap | Melanesian Ocean Summit | Returning pet parrots to the wild appeared first on Carbon Brief .",
-      "published": "2026-05-20T14:16:25+00:00",
-      "score": 8
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Factcheck: Trump’s false claims about the IPCC and ‘RCP8.5’ climate scenario",
-      "url": "https://www.carbonbrief.org/factcheck-trumps-false-claims-about-the-ipcc-and-rcp8-5-climate-scenario/",
-      "summary": "Among a flurry of posts on social media last weekend, US president Donald Trump declared... The post Factcheck: Trump’s false claims about the IPCC and ‘RCP8.5’ climate scenario appeared first on Carbon Brief .",
-      "published": "2026-05-19T16:22:02+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "How do hurricanes and typhoons form and is climate change making them stronger?",
-      "url": "https://www.bbc.com/news/articles/cz913gxlw3jo?at_medium=RSS&at_campaign=rss",
-      "summary": "These powerful tropical storms are generally becoming more intense as the world warms.",
-      "published": "2026-05-21T15:28:27+00:00",
-      "score": 7
     }
   ]
 }
