@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-27T14:49:13.991018+00:00",
-  "date": "2026-05-27",
+  "generated_at": "2026-05-28T14:59:59.354717+00:00",
+  "date": "2026-05-28",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
@@ -8,13 +8,22 @@
   ],
   "articles": [
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-      "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2",
-      "published": "2026-05-27T10:06:32+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Develops Sensor to Improve Firefighter Safety",
+      "url": "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
+      "summary": "With peak wildfire season approaching, scientists with NASA’s FireSense project have created low-cost thermal sensors to install on fire bulldozers that will alert firefighters when heat from a nearby fire reaches a dangerous level. The sensors also provide researchers with important data on what happens beneath the canopy during a fire. In April, researchers and […]",
+      "published": "2026-05-27T21:45:25+00:00",
       "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll",
+      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president.",
+      "published": "2026-05-28T13:20:45+00:00",
+      "score": 13
     },
     {
       "source": "UN News",
@@ -28,127 +37,109 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "National Institutes of Health Nutrition Education Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/national-institutes-of-health-nutrition-education-challenge/",
-      "summary": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. The National Institutes of Health (NIH) Office of Nutrition Research (ONR) invites U.S.-based, accredited, non-profit academic institutions […]",
-      "published": "2026-05-27T14:09:20+00:00",
+      "title": "Growing Stem Cells in Space to Improve Cancer and Disease Treatments",
+      "url": "https://www.nasa.gov/missions/station/iss-research/growing-stem-cells-in-space-to-improve-cancer-and-disease-treatments/",
+      "summary": "Expedition 74 astronauts aboard the International Space Station are continuing research efforts to manufacture large quantities of stem cells for therapies on Earth. Previous studies have focused on fine-tuning hardware that allows scientists to produce greater quantities of high-quality stem cells. Now, the InSPA-StemCellEX-H2 investigation is aiming to demonstrate large scale production of blood stem […]",
+      "published": "2026-05-28T14:00:00+00:00",
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions. \"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a",
-      "published": "2026-05-27T11:48:37+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
-      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
-      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.",
-      "published": "2026-05-26T15:48:41+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "url": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
-      "published": "2026-05-26T09:13:02+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-      "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
-      "published": "2026-05-27T10:40:29+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
-      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water.",
-      "published": "2026-05-27T12:25:31+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
+      "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Why temperature records are being not only broken but smashed",
-      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
-      "published": "2026-05-27T14:08:50+00:00",
+      "title": "NASA-European Sea Level Mission Homes in on El Niño",
+      "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/",
+      "summary": "Sea level data from a satellite launched by NASA and European partners shows that a swell of warm water hundreds of miles wide has arrived in the Pacific Ocean off the coast of South America, a sign that El Niño will likely emerge later in the year. Because water expands as it warms, a rise […]",
+      "published": "2026-05-27T15:34:59+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+      "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+      "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files from \"/mnt/user-data,\" a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The",
+      "published": "2026-05-27T15:44:29+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Are US and Iran close to peace or sliding back to war?",
+      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+      "published": "2026-05-28T14:42:27+00:00",
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167592",
-      "summary": "The UN World Health Organization (WHO) on Wednesday warned that eastern Democratic Republic of the Congo faces a “catastrophic collision of disease and conflict” as a fast-spreading Ebola outbreak outpaces containment efforts in a region already battered by armed violence, mass displacement and acute hunger.",
-      "published": "2026-05-27T12:00:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Iran says it targeted American base after fresh US strikes",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+      "published": "2026-05-28T11:52:10+00:00",
       "score": 12
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s 2026 Lunabotics: Winning Student Teams Engineering Lunar Future",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasas-2026-lunabotics-winning-student-teams-engineering-lunar-future/",
-      "summary": "Resilient. Efficient. Autonomous. These are qualities NASA demands of its hardware, especially as the agency accelerates plans for a permanent Moon Base. NASA’s 2026 Lunabotics Challenge put those traits on full display, as college student engineers from across the country gathered at the Astronauts Memorial Foundation’s Center for Space Education at the Kennedy Space Center […]",
-      "published": "2026-05-27T13:02:09+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Hubble Spies Faint Irregular Galaxy",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-spies-faint-irregular-galaxy/",
-      "summary": "This NASA Hubble Space Telescope image features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. Numerous red, […]",
-      "published": "2026-05-27T12:09:59+00:00",
+      "title": "Students Build Moon Robots for NASA’s 2026 Lunabotics Challenge",
+      "url": "https://www.nasa.gov/image-article/students-build-moon-robots-for-nasas-2026-lunabotics-challenge/",
+      "summary": "Katherine Rauscher of Michigan Technological University prepares her team’s prototype lunar robot for its turn during the finals for NASA’s 2026 Lunabotics Challenge competition on Tuesday, May 19, 2026, at the Kennedy Space Center Visitor Complex in Florida. Forty-seven teams from around the U.S. designed and built remote-controlled robots capable of traversing challenging lunar terrain while […]",
+      "published": "2026-05-27T15:42:44+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli military campaign against the country in late February 2026. The activity, besides embracing",
-      "published": "2026-05-26T07:13:05+00:00",
+      "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+      "url": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
+      "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil. The",
+      "published": "2026-05-27T16:10:21+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+      "url": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all versions of Gitea prior to 1.26.2",
+      "published": "2026-05-27T10:06:32+00:00",
+      "score": 12
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric",
+      "url": "https://www.carbonbrief.org/china-briefing-28-may-2026-deadly-rains-china-pushes-back-examining-chinas-carbon-intensity-metric/",
+      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 28 May 2026: Deadly rains | China pushes back | Examining China’s carbon intensity metric appeared first on Carbon Brief .",
+      "published": "2026-05-28T14:40:21+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "summary": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
-      "published": "2026-05-27T13:15:26+00:00",
+      "title": "Israel hits Lebanese capital in 'targeted strike'",
+      "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
+      "published": "2026-05-28T13:21:50+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump-backed challenger beats veteran US senator in Texas primary",
-      "url": "https://www.bbc.com/news/articles/clypprglrlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ken Paxton's victory sets up what will be a closely watched contest in November's midterm elections.",
-      "published": "2026-05-27T11:53:06+00:00",
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect, a 31-year-old Swiss man, has been arrested, police say, as areas around the station are cordoned off.",
+      "published": "2026-05-28T10:52:21+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "South Korea detains dissident who fled China in rubber boat",
-      "url": "https://www.bbc.com/news/articles/c87q2pdwpw3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Dong Guangping, an activist and former police officer, spent hours at sea before reaching Korean waters.",
-      "published": "2026-05-27T11:12:33+00:00",
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws.",
+      "published": "2026-05-28T02:14:19+00:00",
       "score": 11
     },
     {
@@ -172,64 +163,118 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft",
-      "published": "2026-05-27T07:45:52+00:00",
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
+      "published": "2026-05-28T13:33:16+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-      "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met. The vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity. \"Deserialization of untrusted data in Microsoft Office SharePoint allows",
-      "published": "2026-05-26T11:49:53+00:00",
+      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+      "url": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
+      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a",
+      "published": "2026-05-28T11:30:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
+      "url": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
+      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware. \"These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastructure,\" Wiz researchers Shira Ayal,",
+      "published": "2026-05-28T07:54:48+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+      "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions. \"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a",
+      "published": "2026-05-27T11:48:37+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
+      "url": "https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html",
+      "summary": "The Iranian hacking group known as MuddyWater has been linked to a new campaign affecting at least nine organizations across nine countries on four continents in the first quarter of 2026. The activity targeted industrial and electronics manufacturing, education and public-sector bodies, financial services, and professional services, per the Threat Hunter Team from Symantec and Carbon Black.",
+      "published": "2026-05-26T15:48:41+00:00",
       "score": 11
     },
     {
       "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "Q&A: Can China turn hydrogen into its next clean-energy industry?",
-      "url": "https://www.carbonbrief.org/qa-can-china-turn-hydrogen-into-its-next-clean-energy-industry/",
-      "summary": "China has said that hydrogen is a key “future industry”, important to both its energy... The post Q&A: Can China turn hydrogen into its next clean-energy industry? appeared first on Carbon Brief .",
-      "published": "2026-05-27T13:13:42+00:00",
+      "title": "Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change",
+      "url": "https://www.carbonbrief.org/media-reaction-uk-and-europes-mind-boggling-may-heat-and-climate-change/",
+      "summary": "Europe has been hit by a searing heatwave, which has shattered temperature records across France,... The post Media reaction: UK and Europe’s ‘mind-boggling’ May heat and climate change appeared first on Carbon Brief .",
+      "published": "2026-05-28T12:29:38+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
-      "published": "2026-05-27T04:07:27+00:00",
+      "title": "Villas, cars and cash: Italy seizes dead Mafia mobster's millions",
+      "url": "https://www.bbc.com/news/articles/ceqpd4gqgveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say the operation targeted the network of notorious late Sicilian mafia boss Matteo Messina Denaro.",
+      "published": "2026-05-28T14:47:05+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Woman caught after 30 years on the run is jailed for armed robberies",
-      "url": "https://www.bbc.com/news/articles/cx21dr3lekpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Klette was finally caught in a flat in Berlin in 2024 and put on trial last year.",
-      "published": "2026-05-27T12:42:43+00:00",
+      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+      "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+      "published": "2026-05-28T04:53:51+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ghana welcomes Pope's apology over Catholic Church's role in slavery",
-      "url": "https://www.bbc.com/news/articles/cwy2d6j14l5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The West African nation was one of the main gateways for the transatlantic slave trade.",
-      "published": "2026-05-27T13:17:41+00:00",
+      "title": "EU fines Temu €200m for allowing sale of illegal products",
+      "url": "https://www.bbc.com/news/articles/c1k2ydn1rz8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The European Commission says the Chinese-owned online retailer failed to take account of risks from baby toys and faulty chargers sold on its platform.",
+      "published": "2026-05-28T14:54:50+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "YouTuber arrested for allegedly using AI to defame Korean actor",
-      "url": "https://www.bbc.com/news/articles/c759y6pvezgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The YouTuber allegedly made false claims that fuelled a career-ending scandal for Kim Soo-hyun.",
-      "published": "2026-05-27T02:54:19+00:00",
+      "title": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "url": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
+      "published": "2026-05-28T02:47:19+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK's rudest chalk figure gets a glow-up to stop it fading in the rain",
+      "url": "https://www.bbc.com/news/articles/cpvppe84lnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "National Trust staff and volunteers will apply 17 tonnes of fresh chalk to the outline of the famous figure.",
+      "published": "2026-05-27T23:05:48+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Why temperature records are being not only broken but smashed",
+      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
+      "published": "2026-05-27T14:08:50+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167592",
+      "summary": "The UN World Health Organization (WHO) on Wednesday warned that eastern Democratic Republic of the Congo faces a “catastrophic collision of disease and conflict” as a fast-spreading Ebola outbreak outpaces containment efforts in a region already battered by armed violence, mass displacement and acute hunger.",
+      "published": "2026-05-27T12:00:00+00:00",
       "score": 10
     },
     {
@@ -262,109 +307,91 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA to Announce Artemis III Crew, Provide Mission Progress Update",
-      "url": "https://www.nasa.gov/news-release/nasa-to-announce-artemis-iii-crew-provide-mission-progress-update/",
-      "summary": "NASA will provide an update on the agency’s Artemis III mission and announce the astronauts assigned to the test flight during a live event at 11 a.m. EDT on Tuesday, June 9, at the agency’s Johnson Space Center in Houston. The event will stream on NASA+ and on the agency’s YouTube channel. Learn how to […]",
-      "published": "2026-05-26T21:33:04+00:00",
+      "title": "NASA’s Roman Mission Preps to Unveil New Populations of Faraway Worlds",
+      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-mission-preps-to-unveil-new-populations-of-faraway-worlds/",
+      "summary": "NASA’s Nancy Grace Roman Space Telescope is poised to make a major leap in the hunt for worlds outside our solar system, known as exoplanets. Scientists expect the mission to reveal around 100,000 worlds — a staggering leap compared to the nearly 6,300 found so far thanks to NASA missions working in tandem with other […]",
+      "published": "2026-05-28T14:40:33+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Astronauts to Answer Questions from Students in New York",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-students-in-new-york/",
-      "summary": "Students in New York will hear from NASA astronaut Jessica Meir as she answers their prerecorded science, technology, engineering, and mathematics (STEM) questions while aboard the International Space Station. The Earth-to-space call will begin at 11:05 p.m. EDT Thursday, May 28, and will stream live on the agency’s Learn With NASA YouTube channel. This event […]",
-      "published": "2026-05-26T21:05:04+00:00",
+      "title": "Released: NASA Goddard Issues Draft Request for Proposal for the Landsat 10 Spacecraft",
+      "url": "https://science.nasa.gov/missions/landsat/released-nasa-goddard-issues-draft-request-for-proposal-for-the-landsat-10-spacecraft/",
+      "summary": "The Landsat 10 Spacecraft Draft Request for Proposal (DRFP) is available for review via SAM.gov.",
+      "published": "2026-05-27T20:40:24+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Chennai City Lights",
-      "url": "https://www.nasa.gov/image-article/chennai-city-lights/",
-      "summary": "Chennai, on India’s southern coast along the Bay of Bengal and with a metropolitan population of about 8.7 million, shines with white LED streetlights in this photograph taken at approximately 9:13 p.m. local time on May 2, 2026, from the International Space Station. Earth observations from the space station let us see how our planet […]",
-      "published": "2026-05-26T14:49:48+00:00",
+      "title": "Girl Scouts Event Brings Space Science to the Next Generation",
+      "url": "https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/",
+      "summary": "In early May 2026, NASA employees, contractors, and volunteers helped to bring Heliophysics to girls of all ages in a fun-filled weekend of hands-on science activities and experiments.",
+      "published": "2026-05-27T18:27:07+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Climate tech companies are going public. What’s next? Solar and battery company Solv Energy went public in February, hitting a $6 billion valuation. X-energy, which builds small modular nuclear reactors, followed…",
+      "published": "2026-05-28T12:10:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "url": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop. According to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and",
-      "published": "2026-05-26T11:58:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "url": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
-      "published": "2026-05-26T05:19:38+00:00",
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
+      "published": "2026-05-28T13:53:52+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Five people found alive after week trapped in flooded Laos cave",
-      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The search is continuing for a further two villagers who are still missing, rescuers say.",
-      "published": "2026-05-27T11:52:46+00:00",
+      "title": "Sixteen pupils killed in Kenya school fire",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
+      "published": "2026-05-28T12:24:11+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "One killed and nine missing after chemical explosion at US paper mill",
-      "url": "https://www.bbc.com/news/articles/cj9ppm94xw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine others were injured and another nine are missing after a tank ruptured at a paper mill in Longview, Washington.",
-      "published": "2026-05-27T03:02:27+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-      "published": "2026-05-26T20:25:50+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ebola epidemic spreading rapidly and outpacing containment efforts",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167584",
-      "summary": "There are more than 900 suspected cases of the Bundibugyo strain of Ebola in the Democratic Republic of the Congo, and 220 suspected deaths, the head of the World Health Organization (WHO), Tedros Ghebreyesus, said on Monday.",
-      "published": "2026-05-25T12:00:00+00:00",
+      "title": "Australia charges woman who returned from Syria with joining Islamic State",
+      "url": "https://www.bbc.com/news/articles/c87q2w0w0jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several groups of women and children who spent years in a Syrian camp have returned in recent months.",
+      "published": "2026-05-28T04:01:17+00:00",
       "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Provides Update on Moon Base Rovers, Landers, Missions",
-      "url": "https://www.nasa.gov/news-release/nasa-provides-update-on-moon-base-rovers-landers-missions/",
-      "summary": "Editor’s note: Release was updated May 27, 2026, to provide additional details on the crewed lunar terrain vehicles. During a Moon Base event Tuesday at NASA’s Headquarters in Washington, the agency announced new contracts for lunar rovers for crew to drive and uncrewed cargo landers bound for the Moon. NASA leaders also shared target launch […]",
-      "published": "2026-05-26T19:33:32+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
-      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
-      "summary": "The Payload for Ultrahigh Energy Observations (PUEO) is a NASA Astrophysics Pioneers Program mission designed to detect the most energetic particles in the universe.",
-      "published": "2026-05-26T12:00:00+00:00",
+      "title": "La NASA anunciará la tripulación de Artemis III e informará sobre el progreso de la misión",
+      "url": "https://www.nasa.gov/news-release/la-nasa-anunciara-la-tripulacion-de-artemis-iii-e-informara-sobre-el-progreso-de-la-mision/",
+      "summary": "La NASA informará sobre los avances de la misión Artemis III de la agencia y anunciará los astronautas asignados a este vuelo de prueba durante un evento en vivo a las 11 a.m. EDT (hora del este) del martes 9 de junio en el Centro Espacial Johnson de la agencia en Houston. Siga la rueda […]",
+      "published": "2026-05-27T16:01:10+00:00",
       "score": 9
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Stay on top of what’s going on in AI this summer Here at MIT Technology Review, we understand exactly how relentless the pace of news from the world of artificial intelligence…",
-      "published": "2026-05-27T12:10:00+00:00",
+      "title": "Climate tech companies are going public. What’s next?",
+      "url": "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+      "summary": "This year, there’s been a wave of notable energy companies going public via IPO in the US. The solar and battery company Solv Energy went public in February, to the tune of $6 billion. X-energy, which is building small modular nuclear reactors, did the same in April, and its stocks surged on its first day…",
+      "published": "2026-05-28T10:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The AI Hype Index: AI gets booed in graduation season",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can…",
+      "published": "2026-05-28T09:51:11+00:00",
       "score": 9
     },
     {
@@ -377,40 +404,13 @@
       "score": 9
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions",
-      "url": "https://www.carbonbrief.org/analysis-chinas-new-carbon-metric-leaves-germany-sized-gap-in-its-emissions/",
-      "summary": "A major change in the way that China measures its core climate goal has effectively... The post Analysis: China’s new carbon metric leaves Germany-sized gap in its emissions appeared first on Carbon Brief .",
-      "published": "2026-05-25T23:01:00+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+      "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft",
+      "published": "2026-05-27T07:45:52+00:00",
       "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Experts: Why migration is ‘not a failure of adaptation’ in a warming world",
-      "url": "https://www.carbonbrief.org/experts-why-migration-is-not-a-failure-of-adaptation-in-a-warming-world/",
-      "summary": "Hundreds of scientists gathered in London this week to discuss the role of migration as... The post Experts: Why migration is ‘not a failure of adaptation’ in a warming world appeared first on Carbon Brief .",
-      "published": "2026-05-22T14:24:29+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Britain's protected birds of prey still being shot, trapped and poisoned, says RSPB",
-      "url": "https://www.bbc.com/news/articles/cjep159x1njo?at_medium=RSS&at_campaign=rss",
-      "summary": "The charity says more than half of attacks happened on or near land managed for game shooting.",
-      "published": "2026-05-25T23:35:26+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "International airlines urged to stick to safety measures in wake of Ebola outbreak",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167587",
-      "summary": "As a deadly Ebola strain continues to spread in the Democratic Republic of the Congo (DRC), with cases confirmed in neighbouring Uganda, the UN aviation agency is urging governments and flight operators to closely follow guidelines put in place following the COVID-19 pandemic.",
-      "published": "2026-05-26T12:00:00+00:00",
-      "score": 8
     }
   ]
 }
