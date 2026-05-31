@@ -1,74 +1,12 @@
 {
-  "generated_at": "2026-05-30T12:57:19.100562+00:00",
-  "date": "2026-05-30",
+  "generated_at": "2026-05-31T13:06:17.932548+00:00",
+  "date": "2026-05-31",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
+    "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: The metric of life and death: How local and technical experts are strengthening mortality measurement in Eastern DRC",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/metric-life-and-death-how-local-and-technical-experts-are-strengthening-mortality-measurement-eastern-drc",
-      "summary": "Country: Democratic Republic of the Congo Source: ELRHA Author Jennifer O’Keeffe, Augustin Gang Karume and Paul Spiegel This blog series accompanies the Mortality Estimation Systems Innovation Partnership (SIP) , supported by UKHIH-Elrha, which brings together diverse partners to strengthen how mortality data is collected, interpreted, and used across humanitarian crises. Earlier blogs in this series highlighted why excess mortality measurement is critical for understanding crisis severity, as w",
-      "published": "2026-05-30T01:01:17+00:00",
-      "score": 22
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: Counting every life: Why mortality evidence can't be optional in humanitarian crises",
-      "url": "https://reliefweb.int/report/world/counting-every-life-why-mortality-evidence-cant-be-optional-humanitarian-crises",
-      "summary": "Country: World Source: ELRHA What if the most powerful indicator in humanitarian response was also the most neglected? When crises unfold, we count displacement, malnutrition, and funding gaps. But months later, one question often remains unanswered - how many people died? That omission matters - because mortality data changes decisions. As the UK Humanitarian Innovation Hub (UKHIH) and Elrha close Phase 2 of our Mortality Estimation in Humanitarian Crises Systems Innovation Partnership , this b",
-      "published": "2026-05-30T01:13:35+00:00",
-      "score": 21
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: What might it take to increase leadership of local actors in humanitarian mortality estimation?",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/what-might-it-take-increase-leadership-local-actors-humanitarian-mortality-estimation",
-      "summary": "Countries: Democratic Republic of the Congo, Ethiopia, Somalia Source: ELRHA In the first blog introducing this series, Adrienne Testa, from the UK Humanitarian Innovation Hub and Elrha discussed how fundamental it is to measure excess mortality if response actors want to understand the severity of a humanitarian crisis and guide aid prioritisation. In our second blog we focus on the work of a consortium led by IMPACT Initiatives . This consortium is drawing attention to the roles that national ",
-      "published": "2026-05-30T01:08:05+00:00",
-      "score": 21
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Yemen - Key Message Update May - September 2026: Price fluctuations and above-average temperatures negatively impact incomes",
-      "url": "https://reliefweb.int/report/yemen/yemen-key-message-update-may-september-2026-price-fluctuations-and-above-average-temperatures-negatively-impact-incomes",
-      "summary": "Country: Yemen Source: Famine Early Warning System Network Please refer to the attached file. Key Messages In areas controlled by the Sana’a-Based authorities (SBA), Emergency (IPC Phase 4) outcomes are expected to persist through September in Al-Hudaydah, Hajjah, and Ta'izz governates, with Crisis (IPC Phase 3) outcomes widespread elsewhere. The slow recovery of operational capabilities at Red Sea ports and a worsening business environment continue to severely constrain income-generating activi",
-      "published": "2026-05-30T00:33:03+00:00",
-      "score": 21
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Latin America & The Caribbean Weekly Situation Update as of 29 May 2026",
-      "url": "https://reliefweb.int/report/haiti/latin-america-caribbean-weekly-situation-update-29-may-2026",
-      "summary": "Countries: Haiti, Colombia, Ecuador Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. KEY FIGURES 1.47M people internally displaced due to persistent violence across Haiti 2.6M people in Ecuador could face IPC 3-4 food insecurity between April - June 2026 1.2K people displaced or confined due to escalating violence in Antioquia, Colombia Regional: HURRICANE SEASON As the 2026 hurricane season approaches, forecasters from the National Oceanic",
-      "published": "2026-05-29T19:19:47+00:00",
-      "score": 20
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Flash Update #30 - Escalation of hostilities in Lebanon (as of 28 May 2026)",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-30-escalation-hostilities-lebanon-28-may-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Hostilities continued despite the ceasefire extension announcement, with airstrikes and displacement orders affecting at least 61 additional localities in southern Lebanon. Displacement orders south of the Zahrani River triggered large-scale displacement and overwhelmed collective shelters, particularly in Saida and Tyre districts in South Governorate. A total of 33,731 f",
-      "published": "2026-05-30T08:38:58+00:00",
-      "score": 19
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "New World Bank Project will Help Transform Ukraine's Social Protection System",
-      "url": "https://reliefweb.int/report/ukraine/new-world-bank-project-will-help-transform-ukraines-social-protection-system",
-      "summary": "Country: Ukraine Source: World Bank WASHINGTON, May 29, 2026 —The World Bank Board of Executive Directors has approved a social protectionproject for Ukraine that will provide assistance to more than one million people. Specifically, the project will support Ukraine's government in implementing a comprehensive package of reforms to modernize social assistance through a new system that links cash beneficiaries to employment and social service support, helping them to have greater access to jobs. ",
-      "published": "2026-05-30T00:48:35+00:00",
-      "score": 18
-    },
     {
       "source": "UN News",
       "category": "Geopolitik",
@@ -76,61 +14,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167597",
       "summary": "The UN Security Council is meeting in emergency session on Ukraine, with Secretary-General António Guterres telling ambassadors following what Kyiv describes as the most devastating attack on its capital to date, that “the time for peace is now.” In the early hours of 23-24 May, Russia launched a massive barrage of missiles and drones against multiple Ukrainian cities. Moscow has since threatened further sustained strikes. Sharp divisions among Council members are expected, with European nations",
       "published": "2026-05-28T12:00:00+00:00",
-      "score": 16
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Burundi Key Message Update May - September 2026: Seasonal improvements being slowed by high food prices and bean crop loss",
-      "url": "https://reliefweb.int/report/burundi/burundi-key-message-update-may-september-2026-seasonal-improvements-being-slowed-high-food-prices-and-bean-crop-loss",
-      "summary": "Country: Burundi Source: Famine Early Warning System Network Please refer to the attached file. Key Messages The Eastern and Northern Lowlands, Eastern Dry Plateaus, and Imbo Plains are projected to remain in Stressed (IPC Phase 2) through September. While the arrival of Season B harvests in June will temporarily improve access to food and income, improvement will be hindered by expected localized below-average harvests, sustained high food prices, and market pressures from high demand in areas ",
-      "published": "2026-05-30T00:44:01+00:00",
-      "score": 15
+      "score": 14
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
-      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
-      "published": "2026-05-29T17:27:09+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
-      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhish by Permiso Security. \"The chatgpt.com response renderer trusts Markdown links and Markdown",
-      "published": "2026-05-29T18:07:12+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Zimbabwe Key Message Update May - September 2026: Food access improves with harvests, but grain prices remain high in deficit areas",
-      "url": "https://reliefweb.int/report/zimbabwe/zimbabwe-key-message-update-may-september-2026-food-access-improves-harvests-grain-prices-remain-high-deficit-areas",
-      "summary": "Country: Zimbabwe Source: Famine Early Warning System Network Please refer to the attached file. Key Messages Stressed (IPC Phase 2) outcomes are expected through September 2026 in deficit-producing areas as the April to June main crop harvest progresses. Households in these areas are accessing food through their own-produced crop harvest, despite localized impacts to production from excessive rainfall and prolonged dry spells during the November 2025 to March 2026 rainy season. However, househo",
-      "published": "2026-05-30T00:37:12+00:00",
-      "score": 14
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167599",
-      "summary": "The United Nations on Thursday warned of a dangerous escalation in the war in Ukraine after a wave of large-scale Russian strikes and threats of further attacks, with Secretary-General António Guterres saying “the death spiral must stop.”",
-      "published": "2026-05-28T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
-      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. \"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
-      "published": "2026-05-29T14:39:56+00:00",
-      "score": 13
+      "title": "Colombia votes in presidential election that could redefine relations with US",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+      "published": "2026-05-31T08:47:46+00:00",
+      "score": 12
     },
     {
       "source": "MIT Technology Review",
@@ -139,6 +32,24 @@
       "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
       "summary": "Pope Leo XIV’s new encyclical on artificial intelligence includes a statement that warrants serious attention from technologists and policymakers: “Technology is never neutral.” Magnifica Humanitas (“Magnificent Humanity”) is a clarion call to all people to act with courage and solidarity as we enter an age already being transformed by artificial intelligence, the greatest change in…",
       "published": "2026-05-29T10:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
+      "published": "2026-05-31T12:22:12+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhish by Permiso Security. \"The chatgpt.com response renderer trusts Markdown links and Markdown",
+      "published": "2026-05-29T18:07:12+00:00",
       "score": 12
     },
     {
@@ -160,66 +71,30 @@
       "score": 12
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
-      "url": "https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/",
-      "summary": "The “data-centre boom” is driving a surge in gas investment in the US, pushing its... The post AI boom means US is now ‘investing more’ in fossil-fuel power than China appeared first on Carbon Brief .",
-      "published": "2026-05-29T12:58:11+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: CLUSTER SANTE PRESENCE OPERATIONNELLE DES PARTENAIRES EN RDCONGO 26 MAI 2026 FINALE",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/cluster-sante-presence-operationnelle-des-partenaires-en-rdcongo-26-mai-2026-finale",
-      "summary": "Country: Democratic Republic of the Congo Sources: Health Cluster, World Health Organization Please refer to the attached file. En mai 2026, le Cluster Santé en République Démocratique du Congo a recensé 42 acteurs humanitaires actifs ayant renseigné le 3W. Parmi eux : 04 agences des Nations Unies, 17 ONG internationales, 19 ONG nationales et 02 observateurs. Une dynamique qui illustre l’engagement de certains acteurs dans le processus de collecte et de partage d’informations.",
-      "published": "2026-05-30T10:38:44+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Latinoamérica y El Caribe Resumen de Situación Semanal al 29 de mayo 2026",
-      "url": "https://reliefweb.int/report/haiti/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-29-de-mayo-2026",
-      "summary": "Countries: Haiti, Colombia, Ecuador Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. CIFRAS CLAVE 1,47M de personas desplazadas internamente debido a la violencia persistente en Haití 2,6M de personas en Ecuador podrían enfrentarse a niveles de inseguridad alimentaria 3-4 de la CIF entre abril y junio de 2026 1,2K personas desplazadas o confinadas debido a la escalada de violencia en Antioquia, Colombia REGIONAL: TEMPORADA DE HURACANES A me",
-      "published": "2026-05-29T19:40:21+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 29/05/2026",
-      "url": "https://reliefweb.int/map/democratic-republic-congo/democratic-republic-congo-uganda-ebola-bundibugyo-virus-disease-outbreak-and-eu-response-dg-echo-daily-map-29052026",
-      "summary": "Countries: Democratic Republic of the Congo, Uganda Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
-      "published": "2026-05-29T16:17:19+00:00",
-      "score": 12
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
-      "published": "2026-05-30T12:16:40+00:00",
+      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+      "published": "2026-05-31T06:34:04+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Former US attorney general Pam Bondi defends her handling of Epstein files in congressional probe",
-      "url": "https://www.bbc.com/news/articles/czj2ldllgwgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The testimony comes about a month after America's top prosecutor was ousted by US President Donald Trump.",
-      "published": "2026-05-30T01:49:39+00:00",
+      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+      "published": "2026-05-31T06:47:05+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
-      "published": "2026-05-29T13:55:04+00:00",
+      "title": "Trump attacks artists dropping out of US Freedom 250 concert and mulls appearing himself",
+      "url": "https://www.bbc.com/news/articles/cy02j1n87wlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Performers Young MC, Poison frontman Bret Michaels and country singer Martina McBride raised concerns the event will be political.",
+      "published": "2026-05-30T17:40:47+00:00",
       "score": 11
     },
     {
@@ -234,37 +109,19 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Global temperatures set to stay near record levels: UN weather agency",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167596",
-      "summary": "The world is heading into another period of dangerous heat, a new UN report warns on Thursday, and it’s nearly certain global temperatures over the next five years will stay “at or near record levels” as climate change accelerates across land and sea.",
+      "title": "UN warns Ukraine war risks spiralling ‘out of control’",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167599",
+      "summary": "The United Nations on Thursday warned of a dangerous escalation in the war in Ukraine after a wave of large-scale Russian strikes and threats of further attacks, with Secretary-General António Guterres saying “the death spiral must stop.”",
       "published": "2026-05-28T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
-      "summary": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. […]",
-      "published": "2026-05-29T21:24:11+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Hubble Spies Faint Irregular Galaxy",
-      "url": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
-      "summary": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. […]",
-      "published": "2026-05-29T16:14:26+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections. \"Authentication bypass vulnerabilities in the",
-      "published": "2026-05-30T06:41:26+00:00",
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. \"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
+      "published": "2026-05-29T14:39:56+00:00",
       "score": 11
     },
     {
@@ -288,15 +145,6 @@
     {
       "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
-      "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids appeared first on Carbon Brief .",
-      "published": "2026-05-29T14:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
       "title": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
       "url": "https://www.carbonbrief.org/em-dat-trump-aid-cuts-could-close-database-storing-worlds-memory-of-disasters/",
       "summary": "The world’s most comprehensive disaster database – relied on by thousands of climate scientists and... The post EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’ appeared first on Carbon Brief .",
@@ -306,55 +154,28 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
-      "published": "2026-05-30T11:39:32+00:00",
+      "title": "Oscar-winning Star Wars editor Marcia Lucas dies aged 80",
+      "url": "https://www.bbc.com/news/articles/cvgzy64j9l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The film editor and ex-wife of director George Lucas was widely recognised as a pivotal creative force behind the original space trilogy.",
+      "published": "2026-05-30T18:03:40+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
-      "published": "2026-05-29T21:40:45+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ghana parliament passes anti-LGBTQ+ bill",
-      "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
-      "summary": "Same-sex acts are punishable by jail terms under Ghana's new bill targeting those identifying as gay, lesbian or transgender.",
-      "published": "2026-05-30T00:51:49+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Israel put on UN sexual violence in warzones blacklist for first time",
-      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it rejects allegations in a new report by the office of the UN secretary general.",
-      "published": "2026-05-29T18:41:36+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ex-head monk of China's 'kung fu temple' jailed for embezzlement",
-      "url": "https://www.bbc.com/news/articles/crlp79jy0y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Shi Yongxin is sentenced to 24 years in prison for embezzlement and bribery.",
-      "published": "2026-05-29T15:23:51+00:00",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "published": "2026-05-30T12:16:26+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Why temperature records are being not only broken but smashed",
-      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
-      "published": "2026-05-27T14:08:50+00:00",
+      "title": "'Killer fungus' could be good news for habitats decimated by invasive moss",
+      "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A newly discovered species raises hope that some native British habitats could be restored.",
+      "published": "2026-05-30T23:03:12+00:00",
       "score": 10
     },
     {
@@ -376,21 +197,21 @@
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
-      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
-      "summary": "Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. “The Roman engineering […]",
-      "published": "2026-05-29T16:33:00+00:00",
-      "score": 10
-    },
-    {
       "source": "The Hacker News",
       "category": "Technik",
       "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
       "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer",
       "published": "2026-05-28T15:26:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "AI boom means US is now ‘investing more’ in fossil-fuel power than China",
+      "url": "https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/",
+      "summary": "The “data-centre boom” is driving a surge in gas investment in the US, pushing its... The post AI boom means US is now ‘investing more’ in fossil-fuel power than China appeared first on Carbon Brief .",
+      "published": "2026-05-29T12:58:11+00:00",
       "score": 10
     },
     {
@@ -405,11 +226,191 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Four more men freed from flooded Laos cave after 10 days",
-      "url": "https://www.bbc.com/news/articles/cn4pn4ex0ymo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two of the seven villagers who entered the narrow tunnels in search for gold on 20 May are still missing.",
-      "published": "2026-05-30T09:50:56+00:00",
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+      "published": "2026-05-31T11:26:08+00:00",
       "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Laos cave survivors help with plan to find last two missing men",
+      "url": "https://www.bbc.com/news/articles/c8094jdpzv3o?at_medium=RSS&at_campaign=rss",
+      "summary": "So far, five men have been freed from the narrow, flooded cave but efforts are ongoing to locate two more.",
+      "published": "2026-05-31T11:38:19+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
+      "published": "2026-05-31T12:18:24+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "South Africa made to look like fools after World Cup visa issues, says minister",
+      "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's football association says it is working to resolve the problems that have delayed the team's departure to Mexico.",
+      "published": "2026-05-31T11:32:42+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Nigerian retired general abducted with his wife in the north-west",
+      "url": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
+      "summary": "Maj Gen Rabe Abubakar's kidnapping highlights continuing security challenges facing parts of the country.",
+      "published": "2026-05-31T12:11:32+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
+      "published": "2026-05-30T15:39:12+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Global temperatures set to stay near record levels: UN weather agency",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167596",
+      "summary": "The world is heading into another period of dangerous heat, a new UN report warns on Thursday, and it’s nearly certain global temperatures over the next five years will stay “at or near record levels” as climate change accelerates across land and sea.",
+      "published": "2026-05-28T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Awards Contract for Johnson Space Center Infrastructure",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-for-johnson-space-center-infrastructure/",
+      "summary": "NASA has selected seven companies to provide construction, revitalization, and infrastructure improvements at the agency’s Johnson Space Center in Houston. The Johnson Space Center Multiple Award Construction Contract supports up to $300 million in upgrades to mission‑support facilities, utilities, and equipment across the NASA Johnson campus. All funds must be obligated by Sept. 30, 2026. […]",
+      "published": "2026-05-29T21:24:11+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Hubble Spies Faint Irregular Galaxy",
+      "url": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
+      "summary": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes. […]",
+      "published": "2026-05-29T16:14:26+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Uses Mineralogical Marker to Understand Ancient Martian Climate",
+      "url": "https://science.nasa.gov/science-research/astromaterials/nasa-uses-mineralogical-marker-to-understand-ancient-martian-climate/",
+      "summary": "Scientists analyzed 20 Martian samples collected by NASA’s Curiosity Rover and found that differences in hematite crystallite size at varying elevations could serve as a new mineralogical marker for understanding Mars’ ancient climate.",
+      "published": "2026-05-28T18:22:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The deadly Ebola outbreak is proving difficult to control",
+      "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
+      "summary": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research center in Kinshasa revealed the culprit: the Bundibugyo virus, one of the viruses…",
+      "published": "2026-05-29T11:19:52+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections. \"Authentication bypass vulnerabilities in the",
+      "published": "2026-05-30T06:41:26+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "url": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop. The artifact moved from a prompt to a product. The risk surface moved with it. In The Shadow Builders report (get it here), a",
+      "published": "2026-05-29T10:30:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
+      "published": "2026-05-28T13:33:16+00:00",
+      "score": 9
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids",
+      "url": "https://www.carbonbrief.org/debriefed-29-may-2026-europes-mind-boggling-may-indian-heat-deaths-nigerias-solar-mini-grids/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 29 May 2026: Europe’s ‘mind-boggling’ May | Indian heat deaths | Nigeria’s solar mini-grids appeared first on Carbon Brief .",
+      "published": "2026-05-29T14:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Why temperature records are being not only broken but smashed",
+      "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
+      "published": "2026-05-27T14:08:50+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Borrowed boots, borrowed joy: Football thrives in Gaza camps",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167606",
+      "summary": "Matches organised by a former professional player are providing a brief respite from the harsh reality of life for the thousands living in overcrowded tents, schools or damaged buildings in the shattered Occupied Palestinian Territory of Gaza.",
+      "published": "2026-05-30T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167610",
+      "summary": "At least 26 Palestinians were killed in the Gaza Strip since Tuesday – the eve of one of the most important holidays in Islam – the UN human rights office, OHCHR, reported on Friday.",
+      "published": "2026-05-29T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Drone strike in Romania condemned, Lebanon and South Sudan updates",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167609",
+      "summary": "The UN Secretary-General has expressed alarm after a drone struck a residential building in the Romanian city of Galați overnight into Friday, reportedly injuring two people.",
+      "published": "2026-05-29T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘A disease you get when you care for someone’: WHO on the Ebola frontline",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167602",
+      "summary": "Two weeks into the latest deadly Ebola outbreak, the World Health Organization (WHO) estimates there are now 906 suspected cases of Ebola in the Democratic Republic of Congo (DRC), including 223 suspected deaths.",
+      "published": "2026-05-29T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Roman Space Telescope Primary Mirror Gets Last Look",
+      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-space-telescope-primary-mirror-gets-last-look/",
+      "summary": "Engineers at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, have completed their final inspection of a key element for the agency’s Nancy Grace Roman Space Telescope: the primary mirror. This 7.9-foot (2.4-meter) mirror will collect and focus light from cosmic objects near and far, helping Roman capture stunning panoramas of space. “The Roman engineering […]",
+      "published": "2026-05-29T16:33:00+00:00",
+      "score": 8
     }
   ]
 }
