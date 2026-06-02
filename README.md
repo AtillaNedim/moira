@@ -1,78 +1,84 @@
-# Moira — 2026-06-01
+# Moira — 2026-06-02
 
 ## 🌍 Umwelt
 
-Die weltweit umfassendste Katastrophendatenbank, bekannt als EM-DAT, steht vor einer möglichen Schließung aufgrund von Kürzungen der US-amerikanischen Entwicklungshilfe. Dieses von Tausenden Klimawissenschaftlern genutzte System wird als das „Gedächtnis der Welt“ für Naturkatastrophen beschrieben. Sollte die Datenbank ihren Betrieb einstellen müssen, ginge eine zentrale Grundlage für das Verständnis langfristiger Klimarisiken verloren.
+Die Weltorganisation für Meteorologie hat den Beginn einer neuen El-Niño-Phase offiziell bestätigt. Dieses natürliche Klimaphänomen, das durch eine Erwärmung des Pazifischen Ozeans gekennzeichnet ist, wird nach Einschätzung der Vereinten Nationen nahezu überall auf der Welt überdurchschnittliche Temperaturen und eine Zunahme extremer Wetterereignisse mit sich bringen. Der Zeitpunkt ist bedeutsam, da die globale Erwärmung durch den Klimawandel die Auswirkungen solcher natürlichen Schwankungen verstärken kann. Die UN hat alle Länder aufgefordert, ihre Frühwarnsysteme zu stärken.
 
-Parallel dazu zeigt sich ein bemerkenswerter Trend im Energiesektor: Die Vereinigten Staaten investieren derzeit mehr in fossile Kraftwerke als China, angetrieben durch den massiven Energiebedarf von Rechenzentren für Künstliche Intelligenz. Der „Data-Centre-Boom“ führt zu einem sprunghaften Anstieg von Gasinvestitionen in den USA.
-
-In China sorgten heftige Regenfälle für Todesopfer, während das Land gleichzeitig seine Position in internationalen Klimaverhandlungen bekräftigt. Die genauen Auswirkungen der Unwetter lassen sich aus den vorliegenden Informationen nur eingeschränkt beziffern.
-
-Ein wissenschaftlicher Expertenworkshop in London befasste sich mit der Frage, warum Migration in einer sich erwärmenden Welt nicht als „Scheitern der Anpassung“ betrachtet werden sollte. Die Diskussionen deuten auf ein Umdenken hin: Wanderungsbewegungen werden zunehmend als Teil einer aktiven Anpassungsstrategie verstanden, nicht als Zeichen des Aufgebens.
+Parallel dazu zeichnet sich eine Bedrohung für die wissenschaftliche Infrastruktur ab: Das EM-DAT-Disaster-Database, die umfassendste globale Datenbank für Naturkatastrophen, könnte aufgrund von Kürzungen der US-Entwicklungshilfe unter der Trump-Administration geschlossen werden. Tausende Klimawissenschaftler weltweit verlassen sich auf diese Datenbank, die als das „Gedächtnis der Welt für Katastrophen“ beschrieben wird. Ein Verlust dieser Datenquelle würde die Fähigkeit, langfristige Muster von Extremereignissen zu analysieren, erheblich beeinträchtigen.
 
 ## 🔬 Wissenschaft
 
-Die NASA veröffentlichte ein Bild des Sternhaufens Westerlund 2, das Daten des Chandra-Röntgenobservatoriums und des James-Webb-Weltraumteleskops kombiniert. Die Aufnahme zeigt Sterne, die zwischen einer und drei Millionen Jahre alt sind, in leuchtend pinken Farbtönen – ein seltenes Zusammenspiel unterschiedlicher Wellenlängenbereiche.
+Die NASA hat einen Vertrag mit Denmar Technical Services aus Nevada über Modifikationen, Wartung und Testdienstleistungen für ein Schwerelosigkeits-Testflugzeug abgeschlossen. Die Maschine wird im Auftrag des Human Spaceflight Mission Directorate an den Forschungszentren in Edwards, Kalifornien, und Houston, Texas, eingesetzt. Solche Flugzeuge simulieren durch Parabelflüge kurzzeitig Schwerelosigkeit und sind essenziell für die Vorbereitung von Experimenten und Ausrüstung für die Raumfahrt.
 
-Satelliten beobachteten eindrucksvolle Schwerewellen in der oberen Atmosphäre, die durch den sich verstärkenden Supertaifun Sinlaku ausgelöst wurden. Solche Phänomene liefern wichtige Erkenntnisse über die Wechselwirkungen zwischen tropischen Wirbelstürmen und der Hochatmosphäre.
+Ein mobiles Abwasseraufbereitungssystem, das am Kennedy Space Center in Florida entwickelt wurde, ist an der University of North Dakota eingetroffen. Doktoranden werden dort die Technologie unter Bedingungen testen, die Mond- und Marsmissionen nachempfunden sind. Das System soll für Langzeitaufenthalte auf dem Mond und darüber hinaus tauglich gemacht werden.
 
-In Großbritannien wurde eine neu entdeckte Pilzart identifiziert, die Hoffnung für die Wiederherstellung von Lebensräumen gibt, die von einer invasiven Moosart zerstört wurden. Die Entdeckung zeigt, dass selbst Organismen, die gemeinhin als Schädlinge gelten, ökologische Nischen besetzen können, die für das Gleichgewicht ganzer Ökosysteme bedeutsam sind.
+Die NASA hat Medienvertreter eingeladen, die Ankunft des Nancy Grace Roman Space Telescope am Kennedy Space Center zu begleiten. Das Observatorium wird in den kommenden Wochen per Lastkahn aus Maryland in Florida erwartet, nachdem dort Bau, Montage und Tests abgeschlossen wurden. Das Teleskop soll das Universum mit einem weiten Blickfeld erforschen und unter anderem Dunkle Energie und Exoplaneten untersuchen.
 
-Die aktuellen Temperaturaufzeichnungen in Westeuropa werden nach Einschätzung von Klimaforschern nicht nur gebrochen, sondern regelrecht zertrümmert. Die Kombination aus einem Hitzetief und dem fortschreitenden Klimawandel führt zu Extremwerten, die die bisherigen statistischen Modelle herausfordern.
+Fünf Forschungsflugzeuge der NASA werden ab dem 3. Juni im Rahmen des Student Airborne Research Program über Houston fliegen. Die Maschinen werden in niedrigen Höhen mit Fernerkundungsinstrumenten Daten sammeln, die unter anderem für Umwelt- und Klimaforschung genutzt werden können.
 
-Die NASA hat einen Vertrag für Infrastrukturverbesserungen am Johnson Space Center in Houston vergeben. Sieben Unternehmen wurden ausgewählt, um Modernisierungen im Wert von bis zu 300 Millionen US-Dollar durchzuführen, wobei die Mittel bis zum 30. September 2026 verpflichtet werden müssen.
+Für den Juni empfiehlt die NASA Himmelsbeobachtern, die Begegnung von Venus und Jupiter nach Sonnenuntergang zu verfolgen, sowie die Bedeckung der Venus durch den Mond. Der Sommeranfang steht ebenfalls bevor, und mit ihm steigen einige helle Tiefenhimmelsobjekte in den Nachthimmel auf.
 
 ## ⚙️ Technik
 
-China hat die weltweit erste invasive Gehirn-Computer-Schnittstelle für den klinischen Einsatz zugelassen. Ein 39-jähriger Patient, der nach einem Autounfall vor sechs Jahren vom Hals abwärts gelähmt war, konnte mit dem Implantat erstmals wieder einen Stift halten und schreiben. Die Zulassung markiert einen bedeutenden Schritt in der Neurotechnologie, auch wenn die langfristigen Auswirkungen und die Verbreitung dieser Technologie noch unklar sind.
+Mehrere Cyberangriffe mit geopolitischen Bezügen sind dokumentiert worden. Eine als Operation Dragon Weave bezeichnete Kampagne, die mit China in Verbindung gebrachten Gruppen zugeschrieben wird, hat Regierungs-, Forschungs-, Bildungs-, Technologie- und Finanzdienstleistungssektoren in der Tschechischen Republik und Taiwan ins Visier genommen. Die Angreifer verteilten Spear-Phishing-E-Mails mit ZIP-Anhängen, um eine Schadsoftware namens AdaptixC2 zu installieren.
 
-Im Bereich der Cybersicherheit wurde eine als „Operation Dragon Weave“ bezeichnete Spionagekampagne entdeckt, die von China nahestehenden Gruppen durchgeführt wird. Ziel der Angriffe sind Regierungsstellen, Forschungseinrichtungen, Universitäten, Technologieunternehmen und Finanzdienstleister in der Tschechischen Republik und Taiwan. Die Angreifer nutzen Spear-Phishing-E-Mails mit ZIP-Anhängen, um eine Schadsoftware namens AdaptixC2 zu verbreiten.
+Eine zweite Kampagne, die dem Pakistan nahestehenden SideCopy-Kollektiv zugeschrieben wird, zielte auf das afghanische Finanzministerium ab. Auch hier wurden Spear-Phishing-E-Mails mit einem schädlichen LNK-Dateianhang in paschtunischer Sprache genutzt, um einen offenen Fernzugriffs-Trojaner namens Xeno RAT zu platzieren.
 
-Eine weitere Sicherheitslücke betrifft OpenAI ChatGPT: Die als „ChatGPhish“ bezeichnete Schwachstelle nutzt das implizite Vertrauen des KI-Assistenten in Markdown-Links und Bilder aus, um Prompt-Injection-Angriffe zu ermöglichen und Phishing-Angriffe zu erleichtern.
+Eine als Miasma bezeichnete Supply-Chain-Attacke hat npm-Pakete von Red Hat kompromittiert. Die Angreifer stahlen Anmeldedaten und Geheimnisse von Entwicklerrechnern und setzten einen sich selbst verbreitenden Wurm ein. Die Taktik ähnelt früheren Mini-Shai-Hulud-Kampagnen.
 
-Im Bereich der Lieferketten-Sicherheit wurde ein bösartiges npm-Paket namens codexui-android entdeckt, das sich als legitime Fernsteuerungsoberfläche für OpenAI Codex ausgibt. Das Paket verzeichnete über 29.000 wöchentliche Downloads und stahl Authentifizierungstoken von Entwicklern.
+Ebenfalls im npm-Ökosystem wurde ein bösartiges Paket namens codexui-android entdeckt, das als Fernbedienungsoberfläche für OpenAI Codex beworben wurde und über 29.000 wöchentliche Downloads verzeichnete. Es stahl Authentifizierungstoken von OpenAI.
 
-Papst Leo XIV. veröffentlichte mit „Magnifica Humanitas“ eine Enzyklika über Künstliche Intelligenz, die die Aussage enthält: „Technologie ist niemals neutral.“ Das Dokument wird als Aufruf an Technologen und politische Entscheidungsträger verstanden, mit Mut und Solidarität in das Zeitalter der KI einzutreten.
+Die Sicherheitsbranche beobachtet, dass KI-gestützte Ausnutzung von Sicherheitslücken die Zeitfenster zwischen Entdeckung und flächendeckender Ausbeutung drastisch verkürzt. Die Zeitspanne wird mittlerweile in Stunden gemessen, nicht mehr in Tagen.
+
+Instagram-Konten wurden durch einen Trick kompromittiert, bei dem Hacker den KI-Chatbot der Plattform austricksten, um Zugriff auf fremde Accounts zu erhalten. Einige Berichte bringen dies mit der Übernahme prominenter Profile in Verbindung.
 
 ## 🏛️ Politik
 
-In Äthiopien wurde die Stimmabgabe in Teilen des Landes aufgrund von Sicherheitsbedenken ausgesetzt. Die Wahlen finden vor dem Hintergrund anhaltender Konflikte statt, und es wird erwartet, dass die Partei von Ministerpräsident Abiy Ahmed die Abstimmung dominiert.
+In Dänemark hat Ministerpräsidentin Mette Frederiksen nach monatelangen Verhandlungen die Bildung einer neuen Mitte-Links-Minderheitsregierung angekündigt. Es wird ihre dritte Amtszeit sein.
 
-In Kolumbien steht eine Stichwahl um die Präsidentschaft bevor: Der linke Senator Iván Cepeda trifft auf Abelardo de la Espriella, der sich als Bewunderer Donald Trumps positioniert. Die Wahl am 21. Juni wird als Richtungsentscheidung für das Land gesehen.
+Kanada hat offiziell die Erneuerung des nordamerikanischen Freihandelsabkommens USMCA beantragt. Handelsminister Dominic LeBlanc richtete ein entsprechendes Schreiben an seine nordamerikanischen Amtskollegen.
 
-In Nigeria warnte die Polizei vor Vergeltungsangriffen gegen südafrikanische Staatsbürger, nachdem es in Südafrika in den vergangenen Wochen zu anti-migrantischen Protesten gekommen war. Die Spannungen zwischen beiden Ländern haben zugenommen.
+Die KI-Firma Anthropic, Entwickler des Chatbots Claude, plant, noch in diesem Jahr Aktien öffentlich anzubieten. Der Unternehmenswert nähert sich Berichten zufolge einer Billion Dollar.
 
-Südafrika sah sich mit Visaproblemen für die Fußball-Weltmeisterschaft konfrontiert, die nach einem Tag der Unsicherheit gelöst werden konnten. Ein Minister bezeichnete die Situation als peinlich für das Land.
+In Kenia wurden bei Protesten gegen den geplanten Bau eines US-amerikanischen Ebola-Quarantänezentrums zwei Menschen erschossen. Die Pläne der USA haben in der Bevölkerung erhebliche Ablehnung ausgelöst.
+
+In Südafrika ermittelt die Polizei nach dem Tod zweier mosambikanischer Männer. Die Todesfälle ereigneten sich im Anschluss an gewaltsame Proteste gegen illegale Migration in der Stadt Mossel Bay.
 
 ## 🌐 Geopolitische Lage
 
-Die Vereinten Nationen warnten, dass der Krieg in der Ukraine Gefahr laufe, „außer Kontrolle zu geraten“. Nach einer Welle groß angelegter russischer Angriffe und weiteren Drohungen erklärte UN-Generalsekretär António Guterres, die „Todesspirale müsse gestoppt werden“. Die Stadt Charkiw lebt nach Angaben der UN täglich mit Luftalarmen, Raketenangriffen und dem Schulunterricht in U-Bahn-Stationen.
+Der Sicherheitsrat der Vereinten Nationen ist am Montag auf Antrag Frankreichs zu einer Dringlichkeitssitzung über den Libanon zusammengekommen. Hintergrund sind die eskalierende Gewalt zwischen Israel und der Hisbollah sowie die Sorge vor israelischen Angriffen auf die südlichen Vororte Beiruts. Die Lage wird durch die unklare Situation der US-iranischen Friedensgespräche zusätzlich verkompliziert.
 
-Die humanitäre Lage im Gazastreifen bleibt katastrophal. UNICEF beschrieb die Situation der Kinder als „endlosen Kreislauf des Leidens“. Inmitten der Zerstörung organisieren ehemalige Profifußballer in den Lagern Spiele, die den vertriebenen Familien zumindest kurzzeitige Ablenkung bieten.
+Die Weltgesundheitsorganisation hat Berichte über einen Angriff auf ein Krankenhaus in der südlibanesischen Stadt Tyros bestätigt. Die WHO zeigte sich besorgt über die zunehmenden Angriffe auf Gesundheitseinrichtungen im Land, die besonders die verletzlichsten Patienten treffen.
 
-In der Demokratischen Republik Kongo wurden vier Krankenschwestern, die sich mit Ebola infiziert hatten, nach vollständiger Genesung aus dem Krankenhaus entlassen. Der Ausbruch hat sich auf mehrere Provinzen und das benachbarte Uganda ausgeweitet. Der WHO-Generaldirektor betonte, dass das Vertrauen der Gemeinschaft entscheidend für die Eindämmung sein werde.
+Trotz der Annahme eines US-amerikanischen Teil-Waffenstillstands durch Israel und die Hisbollah dauern die Kämpfe an. Eine Beendigung der Feindseligkeiten gilt als entscheidend für den Friedensprozess mit dem Iran.
 
-Die UNO warnte davor, Kinder einfach von sozialen Medien auszuschließen, und forderte stattdessen, dass Plattformen von Grund auf sicher gestaltet werden müssten. Ein 10-Punkte-Rahmenwerk wurde veröffentlicht, das Regierungen und Technologieunternehmen zu stärkeren Schutzmaßnahmen auffordert.
-
-Nach UN-Angaben haben sich die Fälle konfliktbedingter sexualisierter Gewalt im Jahr 2025 mehr als verdoppelt. Fast 10.000 Fälle wurden weltweit registriert – Vergewaltigung, sexuelle Sklaverei und Entführungen wurden als Kriegswaffen in Afrika, im Nahen Osten, in Europa und der Karibik eingesetzt.
+Die Vereinten Nationen haben vor einer gefährlichen Eskalation des Krieges in der Ukraine gewarnt. Ein hochrangiger UN-Vertreter betonte vor dem Sicherheitsrat die Notwendigkeit von Zurückhaltung und Dialog, während die Angriffe zunehmen.
 
 ## ⚔️ Krieg
 
-Die militärischen Auseinandersetzungen zwischen den USA und Iran haben sich verschärft. Nach Angaben des BBC konnten Satellitenbilder Schäden an 20 US-Militärstandorten durch iranische Angriffe seit Kriegsbeginn nachweisen – mehr als öffentlich zugegeben wurde. Die USA erklärten, sie hätten iranische Radaranlagen angegriffen, während Iran weiterhin amerikanische Streitkräfte in Kuwait ins Visier nehme. Kuwait verurteilte die „wiederholten“ iranischen Angriffe. Die Kämpfe konzentrieren sich auf die Region um die Straße von Hormus.
+In der Ukraine haben Rettungskräfte nach russischen Angriffen Leichen aus den Trümmern geborgen. Bei den Angriffen kamen nach offiziellen Angaben 22 Menschen ums Leben, darunter ein achtjähriger Junge, der bei einem Angriff auf ein Wohnhaus getötet wurde.
 
-Der israelische Ministerpräsident Benjamin Netanjahu ordnete Angriffe auf die Vororte von Beirut an, nachdem die Hisbollah israelische Zivilisten angegriffen hatte. Tausende flohen aus dem Hisbollah-Hochburg Dahieh. Der Konflikt zwischen Israel und der Hisbollah hat sich damit weiter zugespitzt.
+Die Stadt Charkiw lebt weiterhin unter ständiger Bedrohung. Täglich unterbrechen Luftalarme den Schlaf, Raketen treffen Wohngebiete und Industrieanlagen. Kinder lernen in U-Bahn-Stationen, während die Bewohner bei Bombardierungen in die Metro flüchten. Trotz der anhaltenden Angriffe beginnt die Stadt bereits mit dem Wiederaufbau für eine friedlichere Zukunft.
 
-In Myanmar tötete eine gewaltige Explosion Dutzende Menschen in einem von Rebellen gehaltenen Dorf nahe der chinesischen Grenze. Die Aufständischen gaben an, die Explosion sei durch Sprengstoff verursacht worden, der für Bergbauarbeiten verwendet wurde.
+Im Libanon sind Familien aus Beirut geflohen, nachdem Israel neue Angriffe auf die Hisbollah angedroht hatte. Die Vereinten Nationen versuchen, die Zivilbevölkerung mit Nahrungsmitteln, Schutz und anderer Hilfe zu unterstützen.
+
+Ein Bericht der Vereinten Nationen macht auf ein wachsendes Problem aufmerksam: Waffen aus vergangenen Konflikten, etwa aus Libyen, zirkulieren weiterhin über Grenzen hinweg, befeuern Kriminalität und untergraben fragilen Frieden. Neuartige Herausforderungen entstehen durch Geisterwaffen und 3D-gedruckte Schusswaffen sowie zunehmend ausgefeilte Schmuggelnetzwerke.
 
 ## 💬 Meinung des Tages
 
-Der 1. Juni 2026 zeigt ein Muster, das sich durch alle Kategorien zieht: Die Welt wird gleichzeitig präziser dokumentiert und brutaler zerstört. Während die Katastrophendatenbank EM-DAT, das Gedächtnis der Menschheit für Naturkatastrophen, selbst zum Opfer von Haushaltskürzungen zu werden droht, werden in mehreren Regionen der Welt gleichzeitig Kriege geführt, deren Zerstörungskraft sich jeder systematischen Erfassung entzieht. Die Verdopplung der Fälle sexualisierter Kriegsgewalt, die Warnung vor einer außer Kontrolle geratenden Eskalation in der Ukraine, die neuen Angriffe zwischen Iran und den USA sowie die Bombardierung Beiruts – all dies sind Signale einer Welt, in der die Mechanismen der Konfliktlösung schwächer zu sein scheinen als die Dynamiken der Gewalt. Gleichzeitig gibt es Gegenbewegungen: Die Zulassung eines Gehirnimplantats in China, die Entdeckung eines Pilzes zur Wiederherstellung von Lebensräumen, die wissenschaftliche Neubewertung von Migration als Anpassung. Diese Entwicklungen sind leise, aber sie zeigen, dass menschliche Problemlösungsfähigkeit nicht erloschen ist. Die Frage ist, ob sie sich gegen die Lautstärke der Zerstörung durchsetzen kann.
+Der 2. Juni 2026 zeigt ein Muster, das sich durch alle beobachteten Bereiche zieht: Die Welt wird gleichzeitig heißer, digital angreifbarer und politisch fragmentierter. Die Bestätigung des neuen El Niño durch die Weltorganisation für Meteorologie ist keine abstrakte Prognose mehr, sondern eine konkrete Warnung vor einer weiteren Belastung eines bereits unter Klimastress stehenden Planeten. Dass ausgerechnet die wichtigste globale Katastrophendatenbank durch politische Kürzungen bedroht ist, wirkt wie ein Symptom einer tieferen Krise: Das systematische Gedächtnis für Naturkatastrophen könnte verloren gehen, just in dem Moment, in dem es am dringendsten gebraucht würde.
+
+Parallel dazu zeigt die Cybersicherheitslage, dass geopolitische Konflikte zunehmend in digitalen Räumen ausgetragen werden. Angriffe auf Regierungen, Forschungseinrichtungen und kritische Infrastruktur sind nicht mehr die Ausnahme, sondern die Regel. Die Geschwindigkeit, mit der Schwachstellen ausgenutzt werden, hat sich durch KI dramatisch erhöht. Die Verwundbarkeit der digitalen Welt wächst schneller als die Fähigkeit, sie zu schützen.
+
+Die humanitären Berichte aus der Ukraine, dem Libanon und Kenia erinnern daran, dass hinter diesen großen Linien Menschenleben stehen. Kinder, die in U-Bahn-Schächten lernen, Familien, die vor Bomben fliehen, Demonstranten, die erschossen werden – all das sind keine Randnotizen, sondern der Kern dessen, was dieser Tag bedeutet. Die Welt ist nicht im freien Fall, aber sie bewegt sich auf mehreren Achsen gleichzeitig in riskante Richtungen.
 
 ## 🎵 Song des Tages
 
-„What a Wonderful World“ von Louis Armstrong. Die zeitlose Melodie und Armstrongs ruhige, fast verwunderte Stimme erinnern an die Schönheit, die trotz allem existiert – an Regenbögen, an blühende Bäume, an das Lächeln von Fremden. An einem Tag, an dem Kriege eskalieren, Datenbanken schließen und Kinder im Gazastreifen im „endlosen Kreislauf des Leidens“ gefangen sind, ist dieser Song kein naiver Optimismus, sondern ein Akt der Beharrlichkeit. Er sagt nicht, dass alles gut ist. Er sagt, dass es noch etwas gibt, wofür es sich lohnt, weiterzumachen.
+„The Sound of Silence“ von Simon & Garfunkel
+
+Das Lied passt zu diesem Tag, weil es die Stille beschreibt, die entsteht, wenn Warnungen nicht gehört werden und Menschen inmitten von Lärm und Zerstörung allein gelassen werden. Die ruhige, klagende Melodie spiegelt die Haltung einer Chronistin, die beobachtet, dokumentiert und doch um die Grenzen ihrer Stimme weiß. In einer Welt, die gleichzeitig unter Hitze, Beschuss und digitalen Angriffen leidet, ist die größte Gefahr vielleicht das Schweigen, das auf das Verstummen der Warnsysteme folgt.
 
 
 ---
 
-*Erstellt am 2026-06-01 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-06-02 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
