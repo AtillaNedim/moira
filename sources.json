@@ -1,55 +1,180 @@
 {
-  "generated_at": "2026-06-02T15:51:54.204643+00:00",
-  "date": "2026-06-02",
+  "generated_at": "2026-06-03T16:09:52.885042+00:00",
+  "date": "2026-06-03",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
-    "ReliefWeb: no element found: line 1, column 0"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
   ],
   "articles": [
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
-      "summary": "NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is a firm-fixed-price contract and will be time and material for any over and above and unforeseen […]",
-      "published": "2026-06-01T23:45:59+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Life for Relief and Development (LIFE) Launches Emergency Response for Families Displaced by Escalating Conflict in Lebanon",
+      "url": "https://reliefweb.int/report/lebanon/life-relief-and-development-life-launches-emergency-response-families-displaced-escalating-conflict-lebanon",
+      "summary": "Country: Lebanon Source: Life for Relief and Development LIFE Expands Emergency Relief Efforts as Displacement Nears One Million Amid Worsening Humanitarian Crisis -Tasneem Elridi - According to Lebanese statistics for this month, more than 2,167 people have been killed , including 178 children and 262 women , in addition to over 7,061 injured , among them more than 600 injured children and 1,000 women , reflecting a clear and significant increase in the number of civilian casualties. This escal",
+      "published": "2026-06-03T13:53:24+00:00",
+      "score": 22
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Lebanon’s humanitarian crisis demands a lasting ceasefire",
+      "url": "https://reliefweb.int/report/lebanon/lebanons-humanitarian-crisis-demands-lasting-ceasefire",
+      "summary": "Country: Lebanon Source: International Rescue Committee Beirut, Lebanon, June 3, 2026 — As fighting continues between Israel and Hezbollah in southern Lebanon, the International Rescue Committee (IRC) warned that only a lasting ceasefire can create the conditions for humanitarian recovery. Israeli airstrikes, ground operations, and large-scale evacuation orders have forced families to flee their homes, often with little notice and few resources. Many have lost access to income, while damage to i",
+      "published": "2026-06-03T13:33:06+00:00",
+      "score": 22
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: New Framework Reframing Modern Conflicts as Global Health System Shocks",
+      "url": "https://reliefweb.int/report/world/new-framework-reframing-modern-conflicts-global-health-system-shocks",
+      "summary": "Country: World Source: Eastern Mediterranean Public Health Network Researchers from EMPHNET have introduced a new framework that redefines how modern conflicts are understood within global health. Published as a perspective article in the Journal of Epidemiology and Global Health, “ Modern Conflicts as Global Health System Shocks: A Multi-Level Framework ” proposes the Global Health System Shock Framework, a new approach that examines how armed conflicts generate cascading health impacts that ex",
+      "published": "2026-06-03T12:24:28+00:00",
+      "score": 19
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "oPt: One year later, MSF continues to treat injuries linked to Gaza Humanitarian Foundation",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/one-year-later-msf-continues-treat-injuries-linked-gaza-humanitarian-foundation",
+      "summary": "Country: occupied Palestinian territory Source: Médecins Sans Frontières One year later, MSF continues to treat injuries linked to Gaza Humanitarian FoundationPalestinians’ suffering and injuries sustained while trying to access food have outlasted controversial US-backed aid scheme. Leila Rafei June 3 2026, 9:09am The GHF, which replaced a 400-site UN-coordinated aid distribution system, was run by Israel with financial support from the United States and other allies. GHF sites became operation",
+      "published": "2026-06-03T14:03:08+00:00",
+      "score": 18
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Middle East Conflict: Lebanon Response Situation Report #6 | June 3, 2026",
+      "url": "https://reliefweb.int/report/lebanon/middle-east-conflict-lebanon-response-situation-report-6-june-3-2026",
+      "summary": "Country: Lebanon Source: International Medical Corps Please refer to the attached file. FAST FACTS More than 1 million people remain displaced, including over 132,000 people sheltering in 633 collective sites. Escalating insecurity in the south and the Bekaa continues to restrict humanitarian access and block safe returns. OUR FOOTPRINT International Medical Corps maintains a wide operational presence across the Middle East, delivering lifesaving assistance in active conflict zones and high-risk",
+      "published": "2026-06-03T14:38:34+00:00",
+      "score": 17
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "UNAIDS supports efforts to ramp up Ebola and HIV response amid evolving Ebola situation in the Democratic Republic of the Congo and Uganda",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/unaids-supports-efforts-ramp-ebola-and-hiv-response-amid-evolving-ebola-situation-democratic-republic-congo-and-uganda",
+      "summary": "Countries: Democratic Republic of the Congo, Uganda Source: UNAIDS KINSHASA/GENEVA, 29 May 2026 — UNAIDS is supporting efforts to maintain uninterrupted HIV treatment and care services as the Ebola outbreak in eastern Democratic Republic of the Congo (DRC) continues to evolve, with cases reported in Ituri, North Kivu and South Kivu provinces, prompting heightened surveillance and preparedness measures. National authorities, supported by Africa CDC, WHO and partners, are leading efforts to contai",
+      "published": "2026-06-03T13:33:10+00:00",
+      "score": 17
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "url": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820",
+      "published": "2026-06-03T06:16:54+00:00",
+      "score": 16
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "url": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
+      "published": "2026-06-02T18:21:49+00:00",
+      "score": 16
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
+      "url": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
+      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress. CVE-2026-33829 refers to a spoofing vulnerability that could expose",
+      "published": "2026-06-03T10:18:52+00:00",
       "score": 14
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
-      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-      "summary": "An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say.",
-      "published": "2026-06-02T15:10:23+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Gaza’s public servants systematically targeted in Israeli strikes",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167631",
+      "summary": "Months since Gaza’s nominal ceasefire began, Palestinians continue to be killed and maimed in drone and airstrikes, including the enclave’s police force which is crucial to peace and reconstruction efforts, the UN human rights office (OHCHR) said on Wednesday.",
+      "published": "2026-06-03T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN deplores another wave of Russian attacks across Ukraine",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167622",
+      "summary": "Overnight attacks in three key cities in Ukraine have left several civilians dead, scores more injured, and homes, hospitals and shops destroyed or damaged, the UN Humanitarian Coordinator in the country said on Tuesday.",
+      "published": "2026-06-02T12:00:00+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-      "url": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phishing emails containing ZIP attachments",
-      "published": "2026-06-01T11:54:24+00:00",
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
+      "published": "2026-06-03T12:58:22+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
+      "url": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
+      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Calif. \"The vulnerable behavior exists in each server's default HTTP/2 configuration,\" the company said, adding it was discovered by OpenAI Codex by chaining",
+      "published": "2026-06-03T08:33:35+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was",
+      "published": "2026-06-02T18:14:42+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Syria: WFP Satellite-based assessment of Euphrates River flooding",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/wfp-satellite-based-assessment-euphrates-river-flooding",
+      "summary": "Country: Syrian Arab Republic Source: World Food Programme Please refer to the attached file. Key highlights: In late May 2026, the Euphrates River experienced severe flooding, expanding to three times its normal size , from 60.9 km² to 188.7 km², following exceptional upstream rainfall and large‑scale dam water releases. The flood inundated 7,210 hectares of agricultural land , equivalent to 8.2% of all cultivated land in Deir‑ez‑Zor Governorate , at a critical time during the wheat harvest per",
+      "published": "2026-06-03T14:11:30+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "IRC Italy Protection Monitoring Report: January - March 2026",
+      "url": "https://reliefweb.int/report/italy/irc-italy-protection-monitoring-report-january-march-2026",
+      "summary": "Countries: Italy, World Source: International Rescue Committee Please refer to the attached file. Protection monitoring is the systematic and regular collection, verification, and analysis of information over an extended period of time, in order to identify violations of rights and protection risks for populations of concern, in order to enable prevention and inform effective responses. It means collecting primary and/or secondary data and analyzing it over time to identify trends in the needs e",
+      "published": "2026-06-03T13:33:09+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Iran: UNHCR Middle East Situation: Weekly Update #19 as of 2 June 2026",
+      "url": "https://reliefweb.int/report/iran-islamic-republic/unhcr-middle-east-situation-weekly-update-19-2-june-2026",
+      "summary": "Countries: Iran (Islamic Republic of), Afghanistan, Armenia, Lebanon, Pakistan, Syrian Arab Republic, Türkiye, Turkmenistan Source: UN High Commissioner for Refugees Please refer to the attached file. SITUATION OVERVIEW REGIONAL CONTEXT Since late February, escalating hostilities in Iran and Lebanon have triggered humanitarian consequences with impact across the region, including refugee returns in adverse circumstances to Afghanistan and Syria. Events are unfolding against an already fragile hu",
+      "published": "2026-06-03T13:03:10+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Canada formally requests renewal of North American free trade pact",
-      "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a letter to his North American counterparts, US-Canada Trade Minister Dominic LeBlanc said the three countries should renew the USMCA trade deal.",
-      "published": "2026-06-02T15:20:59+00:00",
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "published": "2026-06-03T14:02:25+00:00",
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167621",
-      "summary": "The UN health agency in Lebanon is verifying reports of strikes on a hospital in the southern city of Tyre on Monday, amid a concerning rise in attacks on healthcare in the country.",
-      "published": "2026-06-02T12:00:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Eight killed after drone hits bus in Russian-occupied part of Ukraine",
+      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bus was hit in the eastern Donetsk region, an official says.",
+      "published": "2026-06-03T15:18:28+00:00",
       "score": 12
     },
     {
@@ -73,73 +198,73 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA to Conduct Low-Altitude Flights Near Houston",
-      "url": "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-near-houston/",
-      "summary": "Five research aircraft will support a Student Airborne Research Program (SARP) mission out of Ellington Field in Houston. Flights are expected from Wednesday, June 3 to Saturday, June 13. During the mission, select maneuvers will be conducted at low altitudes over the Houston area. Pilots will fly remote sensing payloads in raster patterns, or parallel back-and-forth lines. The instruments flown could help […]",
-      "published": "2026-06-01T18:29:50+00:00",
+      "title": "NASA Drains 66-Million-Gallon Reservoir to Upgrade Critical Water System",
+      "url": "https://www.nasa.gov/centers-and-facilities/stennis/reservoir-drained-to-upgrade-water-system/",
+      "summary": "A powerful but mostly unseen water system at work during rocket engine tests at NASA’s Stennis Space Center near Bay St. Louis, Mississippi, underwent an upgrade in May. Crews brought the High Pressure Industrial Water Facility’s 66-million-gallon reservoir to its lowest level since construction in the 1960s by pumping out about 40 million gallons of […]",
+      "published": "2026-06-03T13:50:10+00:00",
       "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
-      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
-      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days. The industry's",
-      "published": "2026-06-02T11:58:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
-      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,\"",
-      "published": "2026-06-02T09:05:40+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
+      "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Next El Niño could be strongest in decades",
-      "url": "https://www.bbc.com/news/videos/c8e8zzw30zyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new phase of the natural El Niño weather pattern could begin in a matter of weeks, the UN has warned, boosting temperatures on a planet already under strain from climate change.",
-      "published": "2026-06-02T14:50:54+00:00",
+      "title": "NASA Awards Modification Contract for Reduced Gravity Test Aircraft",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-modification-contract-for-reduced-gravity-test-aircraft/",
+      "summary": "NASA selected Denmar Technical Services of Nevada to provide aircraft modifications, maintenance, and testing services to the Human Spaceflight Mission Directorate at NASA’s Armstrong Flight Research Center in Edwards, California, and Johnson Space Center in Houston. The award is a firm-fixed-price contract and will be time and material for any over and above and unforeseen […]",
+      "published": "2026-06-01T23:45:59+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "DR Congo: CLUSTER SANTE PRESENCE OPERATIONNELLE DES PARTENAIRES DE LA REPONSE EBOLA JUIN 2026",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/cluster-sante-presence-operationnelle-des-partenaires-de-la-reponse-ebola-juin-2026",
+      "summary": "Country: Democratic Republic of the Congo Sources: Health Cluster, World Health Organization Please refer to the attached file. Au 1er juin, le Cluster Santé en RDC avait recensé 68 acteurs humanitaires actifs ayant fourni des informations pour le 3W. Parmi eux : 04 agences des Nations Unies, 21 ONG internationales, 39 ONG nationales, 02 observateurs, et 02 partenaires étatiques Une dynamique qui illustre l’engagement de certains acteurs dans le processus de collecte et de partage d’informations",
+      "published": "2026-06-03T14:39:07+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
+      "url": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
+      "summary": "Another Democrat, billionaire climate activist Tom Steyer, is in third place as the tally continues.",
+      "published": "2026-06-03T15:32:30+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US announces new tariffs over forced labour concerns",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the US Supreme Court struck down many of US President Donald Trump's previous duties in February.",
+      "published": "2026-06-03T15:12:28+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "El Niño confirmed, set to fuel more extreme weather, says WMO",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167620",
-      "summary": "The UN urged all countries on Tuesday to bolster early warning systems after confirming the onset of El Niño, warning that the Pacific Ocean-warming phenomenon will bring above-average temperatures “nearly everywhere” and fuel more extreme weather.",
+      "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167628",
+      "summary": "Women and girls in Lebanon are paying an increasingly devastating price as violence and displacement continue despite a ceasefire, the UN reproductive health agency (UNFPA) warned on Tuesday.",
       "published": "2026-06-02T12:00:00+00:00",
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Under fire, Kharkiv is already building for a peaceful tomorrow",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167611",
-      "summary": "Every day in Kharkiv begins with uncertainty: air raid sirens interrupt sleep; missiles strike residential neighbourhoods, industrial sites, and roads. Anxious citizens rush into metro stations during bombardments and children study underground.",
-      "published": "2026-05-31T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Space Roboticist Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
+      "summary": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a compelling experiment and the capability […]",
+      "published": "2026-06-02T20:56:53+00:00",
       "score": 11
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: AI can run your admin department now",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
-      "published": "2026-06-02T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "How small businesses can leverage AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to…",
-      "published": "2026-06-02T09:00:00+00:00",
+      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+      "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
+      "published": "2026-06-03T12:10:00+00:00",
       "score": 11
     },
     {
@@ -152,120 +277,75 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
-      "published": "2026-06-01T17:40:28+00:00",
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Q&A: How UK’s seventh carbon budget will deliver ‘£865bn’ in economic benefits",
+      "url": "https://www.carbonbrief.org/qa-how-uks-seventh-carbon-budget-will-deliver-865bn-in-economic-benefits/",
+      "summary": "The Labour government wants to cut UK greenhouse gas emissions to 87% below 1990 levels... The post Q&A: How UK’s seventh carbon budget will deliver ‘£865bn’ in economic benefits appeared first on Carbon Brief .",
+      "published": "2026-06-03T08:11:32+00:00",
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository. What",
-      "published": "2026-06-01T09:31:15+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "South Sudan: Ebola Virus Disease (EVD) Preparedness Snapshot, Flash update #2 | 31 May 2026",
+      "url": "https://reliefweb.int/report/south-sudan/ebola-virus-disease-evd-preparedness-snapshot-flash-update-2-31-may-2026",
+      "summary": "Country: South Sudan Sources: Health Cluster, World Health Organization Please refer to the attached file.",
+      "published": "2026-06-03T14:07:33+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
-      "published": "2026-06-02T07:31:10+00:00",
+      "title": "Four sentenced to death for killing worshippers at Catholic church in Nigeria",
+      "url": "https://www.bbc.com/news/articles/cj0p57q1m36o?at_medium=RSS&at_campaign=rss",
+      "summary": "A fifth man was discharged and acquitted by the court due to insufficient evidence against him.",
+      "published": "2026-06-03T15:44:09+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-      "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
-      "published": "2026-06-02T10:53:37+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "South Africa police investigate killing of two Mozambican men",
-      "url": "https://www.bbc.com/news/articles/clyp4e87dq6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The deaths come after a day of violent protests against illegal migration in the town of Mossel Bay.",
-      "published": "2026-06-02T14:51:55+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
-      "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
-      "published": "2026-06-02T07:00:21+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Denmark's Mette Frederiksen to form government after months of negotiations",
-      "url": "https://www.bbc.com/news/articles/cn7p3e34x5no?at_medium=RSS&at_campaign=rss",
-      "summary": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
-      "published": "2026-06-02T01:19:15+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
-      "published": "2026-06-02T11:40:02+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Australian ex-minister launches crowd-funded inquiry into Aukus submarine deal",
-      "url": "https://www.bbc.com/news/articles/cn7p3ky2yl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Inquiry will look at whether Australia will receive the submarines and whether it will make the country safer.",
-      "published": "2026-06-02T02:06:34+00:00",
+      "title": "Watch: Man attacked by bear at steel works in Japan",
+      "url": "https://www.bbc.com/news/videos/cm2pjed56j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bear, which injured four people in the attack on Tuesday, remains on the loose within the factory compound.",
+      "published": "2026-06-03T01:13:45+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "From Libyan deserts to 3D-printed guns: The weapons that never go away",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167616",
-      "summary": "Years after conflicts fade from the headlines, the weapons used to fight them often continue to circulate – crossing borders, fuelling crime and undermining an often-fragile peace. Now, ghost guns, 3D-printed firearms and increasingly sophisticated trafficking networks are creating new challenges for governments worldwide.",
-      "published": "2026-06-01T12:00:00+00:00",
+      "title": "World News in Brief: Violence hampers Ebola efforts, aid delivery in Darfur and Gaza, Nicaraguan activist’s death in custody",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167629",
+      "summary": "Escalating violence in the eastern Democratic Republic of the Congo (DRC) continues to impact civilians and efforts to fight Ebola, UN aid coordination office OCHA said on Tuesday.",
+      "published": "2026-06-02T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN General Assembly elects Bangladesh’s Rahman as next president",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167626",
+      "summary": "Bangladeshi Foreign Minister Khalilur Rahman was elected President of the UN General Assembly’s 81st session on Tuesday after defeating Andreas Kakouris of Cyprus in a closely contested vote, positioning himself to steer the world body through a pivotal year marked by intensifying global crises, UN reform efforts and major leadership transitions.",
+      "published": "2026-06-02T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167621",
+      "summary": "The UN health agency in Lebanon is verifying reports of strikes on a hospital in the southern city of Tyre on Monday, amid a concerning rise in attacks on healthcare in the country.",
+      "published": "2026-06-02T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Testing Wastewater Treatment Facility for Future Moon Base",
-      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-testing-wastewater-treatment-facility-for-future-moon-base/",
-      "summary": "A mobile wastewater treatment system built at NASA’s Kennedy Space Center in Florida that can help prepare for long-duration missions on the Moon and Mars departed the spaceport and arrived at the University of North Dakota in Grand Forks. Graduate students at the university will test the technology under conditions designed to closely mimic the […]",
-      "published": "2026-06-02T14:31:18+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Invites Media to See Roman Space Telescope Arrive at Kennedy",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-see-roman-space-telescope-arrive-at-kennedy/",
-      "summary": "Registration is open for media to cover the arrival of NASA’s Nancy Grace Roman Space Telescope at the agency’s Kennedy Space Center in Florida in the coming weeks. The observatory will arrive aboard NASA’s Pegasus barge from NASA’s Goddard Space Flight Center in Greenbelt, Maryland, where teams completed its construction, assembly, and testing. Credentialed media […]",
-      "published": "2026-06-01T21:22:52+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Rehumanizing global health care with agentic AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-      "summary": "The global health care sector is under increasing strain. Decades of chronic underinvestment and constraints in recruitment have coincided with a surge in demand for services for aging populations. Gaps in provision are already taking a toll, with fragmented access to care and high rates of stress and burnout among staff. And it’s getting worse.…",
-      "published": "2026-06-02T11:23:34+00:00",
+      "title": "NASA Says Farewell to MAVEN Mars Mission, Hosts Media Call Today",
+      "url": "https://www.nasa.gov/news-release/nasa-says-farewell-to-maven-mars-mission-hosts-media-call-today/",
+      "summary": "The first mission devoted to observing the Martian atmosphere and its evolution, NASA’s MAVEN (Mars Atmosphere and Volatile Evolution), has ended after more than 11 years in orbit at Mars and a decade beyond its primary, one-year mission. The spacecraft was heard last on Dec. 6, when it experienced an unexpected loss of signal after […]",
+      "published": "2026-06-03T13:12:05+00:00",
       "score": 10
     },
     {
@@ -289,128 +369,47 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "url": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment. But owning EDR",
-      "published": "2026-06-02T10:30:00+00:00",
+      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+      "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without requiring any user interaction. The",
+      "published": "2026-06-02T18:46:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-      "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-      "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)",
-      "published": "2026-06-02T03:55:25+00:00",
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+      "url": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days. The industry's",
+      "published": "2026-06-02T11:58:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "url": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor. A Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
-      "published": "2026-06-01T11:30:00+00:00",
+      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+      "url": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,\"",
+      "published": "2026-06-02T09:05:40+00:00",
       "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "url": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
-      "published": "2026-05-31T12:22:12+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "British couple lose Iran jail sentence appeal, family says",
-      "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
-      "published": "2026-06-02T15:05:05+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Maga influencer admits London Tube station assault",
-      "url": "https://www.bbc.com/news/articles/c3v2qyp5pzro?at_medium=RSS&at_campaign=rss",
-      "summary": "Melissa Rein Lively accepted a caution, while an assault by beating charge against her was withdrawn.",
-      "published": "2026-06-02T14:35:27+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ghana's anti-LGBTQ+ bill to be scrutinised before approval, president says",
-      "url": "https://www.bbc.com/news/articles/cp8pgrd50xko?at_medium=RSS&at_campaign=rss",
-      "summary": "Passed by MPs, the bill proposes prison sentences for people identifying as part of the LGBTQ+ community.",
-      "published": "2026-06-02T11:59:30+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Lebanon: Families flee Beirut as Israel threatens renewed strikes on Hezbollah",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167615",
-      "summary": "As hostilities escalate in Lebanon despite a recent ceasefire extension, the United Nations continues to push for peace and support displaced civilians by providing food, protection and other assistance.",
-      "published": "2026-06-01T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Spacewalking With Scott Wray, Artemis EVA Training Lead",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/spacewalking-with-scott-wray-artemis-eva-training-lead/",
-      "summary": "Scott Wray’s experience with spacewalks started when he was about 6 years old. A tent resembling a lunar lander provided the perfect imaginary spacecraft. “I would lie on my back with my feet propped up on a pillow as I imagined going through a launch countdown sequence,” he said. “Then I would exit the tent […]",
-      "published": "2026-06-02T09:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "What’s Up: June 2026 Skywatching Tips from NASA",
-      "url": "https://science.nasa.gov/solar-system/whats-up-june-2026-skywatching-tips-from-nasa/",
-      "summary": "Venus and Jupiter meet after sunset, the Moon passes in front of Venus, summer begins, and deep-sky treasures rise into view.",
-      "published": "2026-06-01T18:13:46+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Pretty in Pink",
-      "url": "https://www.nasa.gov/image-article/pretty-in-pink-2/",
-      "summary": "This image of Westerlund 2 released on March 19, 2026, features Chandra X-ray Observatory data (pink) and infrared data from NASA’S James Webb Space Telescope (red, orange, green, cyan, and blue). Scores of gleaming stars ringed in neon pink stretch across the frame, highlighting a cluster where stars are between one and three million years […]",
-      "published": "2026-06-01T14:30:17+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought 'curl | sh' had a personality. The vibe is simple: old",
-      "published": "2026-06-01T13:59:54+00:00",
-      "score": 9
     },
     {
       "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
-      "url": "https://www.carbonbrief.org/em-dat-trump-aid-cuts-could-close-database-storing-worlds-memory-of-disasters/",
-      "summary": "The world’s most comprehensive disaster database – relied on by thousands of climate scientists and... The post EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’ appeared first on Carbon Brief .",
-      "published": "2026-05-29T09:44:14+00:00",
-      "score": 9
+      "title": "Cropped 3 June 2026: Highway through the Amazon | El Niño impact | State of CO2 removal",
+      "url": "https://www.carbonbrief.org/cropped-3-june-2026-highway-through-the-amazon-el-nino-impact-state-of-co2-removal/",
+      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 3 June 2026: Highway through the Amazon | El Niño impact | State of CO2 removal appeared first on Carbon Brief .",
+      "published": "2026-06-03T14:06:03+00:00",
+      "score": 10
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "'Killer fungus' could be good news for habitats decimated by invasive moss",
-      "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A newly discovered species raises hope that some native British habitats could be restored.",
-      "published": "2026-05-30T23:03:12+00:00",
-      "score": 8
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Spain: Consideraciones de protección internacional y Posiciones de país de ACNUR",
+      "url": "https://reliefweb.int/report/spain/consideraciones-de-proteccion-internacional-y-posiciones-de-pais-de-acnur",
+      "summary": "Country: Spain Source: UN High Commissioner for Refugees Please refer to the attached file.",
+      "published": "2026-06-03T13:03:13+00:00",
+      "score": 10
     }
   ]
 }
