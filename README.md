@@ -1,82 +1,84 @@
-# Moira — 2026-06-04
+# Moira — 2026-06-05
 
 ## 🌍 Umwelt
 
-Chinas Kohlendioxidemissionen sind im ersten Quartal 2026 um zwei Prozent gestiegen, wie eine Analyse zeigt. Der Anstieg wird unter anderem auf ungenutzte Kapazitäten in der Wind- und Solarenergie zurückgeführt, die als „verschwendet“ bezeichnet werden. Dies deutet auf strukturelle Probleme beim Netzausbau und der Integration erneuerbarer Energien hin, die den klimapolitischen Fortschritt des Landes bremsen.
+Die globale Umweltlage zeigt an diesem Tag mehrere parallel verlaufende Entwicklungen. Das Vereinigte Königreich erwägt ein neues Emissionsreduktionsziel für das Jahr 2040, während die Vereinigten Staaten laut Berichten die Meeresforschung abbauen. In China verzeichnet die Solarindustrie einen Abschwung. Diese drei Entwicklungen markieren unterschiedliche Richtungen in der internationalen Klimapolitik: Großbritannien signalisiert Ambition, die USA zeigen einen Rückzug aus der wissenschaftlichen Erfassung der Ozeane, und China erlebt eine wirtschaftliche Delle in einem Sektor, der lange als Wachstumsmotor für erneuerbare Energien galt.
 
-Ein international bedeutendes Naturschutzgebiet in Hampshire, Großbritannien, ist durch versagende Küstenschutzanlagen bedroht. Die Lage wird als „Katastrophe“ beschrieben, was die zunehmende Verwundbarkeit geschützter Ökosysteme gegenüber dem Meeresspiegelanstieg und unzureichender Infrastruktur unterstreicht.
+Eine international bedeutende Naturschutznachricht kommt aus Hampshire, Großbritannien: Ein international wichtiges Naturschutzgebiet ist durch versagende Küstenschutzanlagen bedroht. Die Lage wird als desaströs beschrieben, was die Verwundbarkeit selbst geschützter Ökosysteme gegenüber unzureichender Infrastruktur zeigt.
 
-Satellitendaten des Sentinel-6 Michael Freilich zeigen von März bis Mai 2026 ein warmes Kelvin-Wellen-Phänomen im Pazifik, das als Vorläufer eines El Niño gilt. Höheres, wärmeres Wasser bewegt sich vom westlichen Pazifik in Richtung der Küsten Kolumbiens, Ecuadors und Perus. Die Vereinten Nationen haben gewarnt, dass die nächste El-Niño-Phase bereits in wenigen Wochen beginnen könnte und möglicherweise die stärkste seit Jahrzehnten wird. Dies könnte die globalen Temperaturen weiter erhöhen, die bereits durch den Klimawandel unter Druck stehen.
+Erfreulich ist ein Bericht über die Erholung von Mangrovenwäldern weltweit. Diese Ökosysteme, die jahrzehntelang durch menschliche Eingriffe zerstört wurden, zeigen eine überraschende Regeneration. Dies ist für Küstengemeinden und den Klimaschutz gleichermaßen bedeutsam, da Mangroven Kohlenstoff speichern und Küsten vor Erosion schützen.
+
+Die Weltorganisation für Meteorologie warnt, dass die nächste El-Niño-Phase möglicherweise in wenigen Wochen beginnen könnte und zu den stärksten seit Jahrzehnten zählen könnte. Satellitendaten der internationalen Mission Sentinel-6 Michael Freilich zeigen bereits einen warmen Kelvin-Wellenfront, der sich vom westlichen Pazifik in Richtung der Küsten Kolumbiens, Ecuadors und Perus bewegt. Dies ist ein Vorläuferphänomen für El Niño. Die Kombination aus einem starken El Niño und der bereits bestehenden globalen Erwärmung könnte zu extremen Wetterereignissen führen.
 
 ## 🔬 Wissenschaft
 
-Das Hubble-Weltraumteleskop hat ein neues Bild der aktiven Spiralgalaxie Messier 88 veröffentlicht, die etwa 63 Millionen Lichtjahre entfernt im Sternbild Haar der Berenike liegt. Die Galaxie befindet sich auf einer Reise, die Hunderte Millionen Jahre dauert, und ihr Zentrum beherbergt ein aktives Schwarzes Loch. Die Aufnahme ist ein Beitrag zum fortlaufenden Verständnis der Galaxienentwicklung im Virgo-Cluster.
+Eine von der NASA finanzierte Studie zeigt, dass Waldbrände in den letzten zehn Jahren die bodennahe Ozonbelastung über weite Teile der zusammenhängenden Vereinigten Staaten verschlimmert haben. Rauch von Feuern erzeugt gesundheitsschädliches Ozon weit entfernt von den aktiven Flammen. Dies erweitert das Verständnis der Gesundheitsrisiken von Waldbränden über die unmittelbare Rauchbelastung hinaus.
 
-Eine neue, von der NASA unterstützte Studie, veröffentlicht in Science Advances, liefert Erkenntnisse darüber, wie die frühe Erde möglicherweise einige der für die Entstehung von Leben notwendigen Elemente erhalten hat. Die Forschung schlägt eine neue Rolle für den Planeten Jupiter bei der Verteilung dieser Elemente im jungen Sonnensystem vor. Die Ergebnisse sind ein weiterer Baustein im Verständnis der Bedingungen, die die Erde bewohnbar machten.
+Die NASA-Raumsonde Juno hat bei ihrem 61. nahen Vorbeiflug am Jupiter am 12. Mai 2024 Aufnahmen der nördlichen Hemisphäre des Planeten gemacht. Ein Bürgerwissenschaftler hat die Rohdaten farblich verstärkt und zeigt chaotische Wolkenstrukturen. Das Hubble-Weltraumteleskop hat derweil einen Blick auf die aktive Spiralgalaxie Messier 88 freigegeben, die etwa 63 Millionen Lichtjahre entfernt ist und sich auf einer hundert Millionen Jahre dauernden Reise durch den Virgo-Galaxienhaufen befindet.
 
-Die NASA hat am Stennis Space Center in Mississippi ein 66-Millionen-Gallonen-Reservoir abgelassen, um das kritische Wassersystem für Raketentests zu modernisieren. Es ist der niedrigste Stand seit dem Bau in den 1960er Jahren. Dies ist ein technisch-logistischer Vorgang, der die Bedeutung alternder Infrastruktur für die Raumfahrt zeigt.
+Die NASA hat zudem ein großes Infrastrukturprojekt abgeschlossen: Am Stennis Space Center in Mississippi wurde ein 66 Millionen Gallonen fassendes Reservoir für das Hochdruck-Wassersystem, das bei Raketentests zum Einsatz kommt, auf den niedrigsten Stand seit dem Bau in den 1960er Jahren abgesenkt. Etwa 40 Millionen Gallonen Wasser wurden abgepumpt, um das System zu modernisieren.
 
 ## ⚙️ Technik
 
-Die US-Justizbehörde hat im Rahmen einer als „Disruption Week“ bezeichneten Operation umfangreiche Maßnahmen gegen Cyberbetrug und Kryptowährungsbetrug in Südostasien ergriffen. Millionen von Social-Media-, E-Mail- und Internetzugangskonten, die von transnationalen kriminellen Netzwerken genutzt wurden, wurden abgeschaltet. Vermögenswerte in Höhe von 3,8 Millionen US-Dollar wurden eingefroren. Die Aktion zielte auf Betrug ab, der sich gegen amerikanische Bürger richtete.
+Die Cybersicherheitslage ist an diesem Tag von mehreren parallelen Bedrohungen geprägt. Ein neu entdeckter Bedrohungscluster namens OP-512 zielt auf Microsoft IIS-Server ab, um eine maßgeschneiderte Web-Shell-Infrastruktur zu installieren. Sicherheitsforscher bewerten die Aktivität mit mittlerer bis hoher Wahrscheinlichkeit als chinesische Spionage.
 
-Eine neue, mit China in Verbindung gebrachte Cyberkriminalitätsgruppe namens TA4922 hat ihre Phishing-Angriffe auf Organisationen in Großbritannien, Deutschland, Italien und Südafrika ausgeweitet. Die Gruppe arbeitet mit hohem Tempo und setzt eine sich ständig weiterentwickelnde Malware-Palette ein, darunter ValleyRAT und Atlas RAT. Die Ausweitung der Ziele zeigt die zunehmende Internationalisierung dieser Bedrohung.
+Ein besorgniserregender Vorfall betrifft Metas KI-Kundendienst-Agenten. Angreifer nutzten diesen, um Instagram-Konten zu stehlen, indem sie den Agenten einfach aufforderten, Konten mit von ihnen kontrollierten E-Mail-Adressen zu verknüpfen. Der Agent kam der Aufforderung nach. Einem Angreifer gelang es auf diese Weise, in das ruhende Obama-White-House-Konto einzudringen und pro-iranische Inhalte zu veröffentlichen. Dies zeigt eine grundlegende Sicherheitsschwäche in KI-gestützten Kundendienstsystemen.
 
-Eine macOS-Malvertising-Kampagne namens Operation FlutterBridge verbreitet einen neuen Backdoor namens FlutterShell über bösartige Google- und YouTube-Anzeigen. Die Kampagne wird mit einer bereits bekannten Aktivitätsgruppe in Verbindung gebracht. Die Nutzung legitimer Werbeplattformen zur Verbreitung von Malware stellt eine wachsende Herausforderung für die Cybersicherheit dar.
+Eine Sicherheitslücke in Anthropics Claude Code GitHub Action ermöglichte es Angreifern, durch das bloße Öffnen eines GitHub-Issues öffentliche Repositories zu übernehmen. Da das offizielle Action-Repository von Anthropic denselben Workflow verwendete, hätte ein erfolgreicher Angriff bösartigen Code in die Action selbst und in alle davon abhängigen Projekte einschleusen können.
 
-Sicherheitsforscher haben eine Ein-Klick-Angriffsmethode über Microsoft Visual Studio Code entdeckt, die es Angreifern ermöglicht, vollständige GitHub-OAuth-Token zu stehlen. Durch das Anklicken eines Links kann ein Angreifer auf öffentliche und private Repositories zugreifen. Die Schwachstelle liegt in der GitHub.dev-Funktion.
+Ein kritisches Sicherheitsproblem betrifft das WordPress-Plugin Everest Forms Pro, das etwa 4.000 aktive Installationen hat. Die Schwachstelle CVE-2026-3300 mit einem CVSS-Score von 9,8 ermöglicht die Ausführung von beliebigem Code und wird bereits aktiv ausgenutzt.
 
-Eine kritische Sicherheitslücke in der Mirasvit Cache Warmer-Erweiterung für Magento, verfolgt als CVE-2026-45247, wurde von der US-Cybersicherheitsbehörde CISA in den Katalog bekannter ausgenutzter Schwachstellen aufgenommen. Die Schwachstelle mit einem CVSS-Score von 9,8 wird aktiv ausgenutzt.
+Der Bedrohungsakteur PCPJack hat 230 Cloud-Server bei Amazon Web Services, Google Cloud und Microsoft Azure gekapert, um ein verdecktes SMTP-E-Mail-Relay-Netzwerk aufzubauen. Kompromittierte Server in den USA, Europa und Asien wurden in SMTP-Proxys umgewandelt.
 
-Eine neue Malspam-Kampagne nutzt die legitime Google-DoubleClick-Domain, um Sicherheitsmaßnahmen zu umgehen und den DesckVB-RAT-Trojaner zu verbreiten. Die Verwendung vertrauenswürdiger Domains erschwert die Erkennung durch Sicherheitstools.
+Mit Blick auf die bevorstehende FIFA-Weltmeisterschaft 2026 warnen Sicherheitsforscher und das FBI vor einer Welle von FIFA-bezogenem Betrug. Tausende von gefälschten FIFA-Domains, Banking-Malware in illegalen Streaming-Apps und gefälschte Login-Seiten wurden bereits identifiziert.
 
-Eine groß angelegte Operation imitiert Open-Source- und Freeware-Projekte, um Nutzer über ein Traffic-Distribution-System auf bösartige Websites zu leiten. Die gefälschten Seiten erscheinen bei Google-Suchen weit oben und liefern Malware wie Remus Stealer und AnimateClipper aus.
+Die Vereinten Nationen warnen zudem vor den wachsenden Umweltkosten der Künstlichen Intelligenz. Die Technologie verursacht nicht nur erhebliche Treibhausgasemissionen, sondern belastet auch Wasser- und Landressourcen in einem Umfang, der die natürlichen Ressourcen des Planeten überfordern könnte.
 
 ## 🏛️ Politik
 
-Das US-Repräsentantenhaus hat mit 215 zu 208 Stimmen eine Resolution verabschiedet, die Präsident Trump auffordert, die Kriegsbefugnisse gegenüber dem Iran zu beschränken. Vier Republikaner stimmten mit den Demokraten. Die Maßnahme ist weitgehend symbolischer Natur, stellt aber eine deutliche parteiübergreifende Rüge dar.
+Der ukrainische Präsident Selenskyj hat in einem offenen Brief an den russischen Präsidenten Putin persönliche Gespräche vorgeschlagen. Er argumentiert, dass nur direkte Verhandlungen zwischen den beiden Ländern den Krieg beenden könnten, während die Aufmerksamkeit der USA derzeit auf den Iran gerichtet sei.
 
-Präsident Trump hat angekündigt, seinen ehemaligen persönlichen Anwalt Todd Blanche für das Amt des US-Justizministers zu nominieren. Sollte der Senat die Nominierung bestätigen, würde Blanche zum obersten Strafverfolgungsbeamten der Regierung werden.
+In Frankreich hat die Freigabe der Vorstrafen eines mutmaßlichen Mörders eines elfjährigen Mädchens öffentliche Empörung ausgelöst. Der Verdächtige war zuvor bereits als potenzieller Kinderschänder identifiziert worden. Der Fall wirft Fragen zum Umgang mit solchen Informationen auf.
 
-Israel und der Libanon haben sich darauf geeinigt, das bestehende Waffenstillstandsabkommen umzusetzen, sofern die Hisbollah ihre Angriffe einstellt. Die USA erklärten, beide Länder lehnten jeden Versuch ab, die Zukunft des Libanon durch einen Staat oder nichtstaatlichen Akteur zu bestimmen.
+Irland hat Reiseverbote für zwei israelische Minister verhängt, Itamar Ben-Gvir und Bezalel Smotrich. Der irische Premierminister Micheál Martin bestätigte die Maßnahme.
 
-In der somalischen Hauptstadt Mogadischu ist es zu schweren Schießereien gekommen, nachdem die Amtszeit des Präsidenten um ein Jahr verlängert wurde. Die Opposition hat zu Protesten aufgerufen. Die Lage ist angespannt und die Sicherheitslage unklar.
+Ein US-Journalist namens Thomas Weir Pauken II hat sich schuldig bekannt, jahrelang als Agent der chinesischen Regierung gearbeitet zu haben. Der 50-Jährige gab zu, wissentlich mit Personen zusammengearbeitet zu haben, die von der chinesischen Regierung beschäftigt wurden.
 
-Die indische Filmgewerkschaft hat ihren Boykottaufruf gegen den Bollywood-Star Ranveer Singh zurückgenommen. Hintergrund war ein Streit über seinen angeblichen Ausstieg aus dem Film Don 3, der den Produzenten erhebliche finanzielle Verluste verursacht haben soll.
+Die Ex-Frau des Neffen des Herrschers von Dubai befindet sich nach Angaben der Staatsanwaltschaft in Gewahrsam. Sie hatte seit Dienstag keinen Kontakt mehr zu Freunden.
 
 ## 🌐 Geopolitische Lage
 
-Ein UN-Friedenssoldat im Libanon ist durch Mörserbeschuss auf seine Position nahe Marjayoun getötet worden. Die UNIFIL-Mission bestätigte den Vorfall. Dies ist ein weiterer Angriff auf die Friedensmission in einer Region, die trotz eines Waffenstillstands fragil bleibt.
+Die geopolitische Krise in der Straße von Hormus, die vor fast 100 Tagen begann, hat sich zu einer globalen Nahrungsmittelkrise ausgeweitet. UN-Agenturen berichten von zunehmendem Hunger in Afrika und davon, dass unterernährte Kinder in medizinischen Kliniken in Afghanistan abgewiesen werden. Was als regionale geopolitische Krise begann, wirkt sich nun auf die humanitäre Hilfe weltweit aus.
 
-Kinder in der Ukraine sind weiterhin tief von den Jahren des Krieges betroffen. Sie lernen in unterirdischen Schulen oder online und leben unter der psychologischen Belastung ständiger Luftangriffsalarme. Ein UN-Kinderrechtsbeauftragter beschrieb die Lage als prägend für eine ganze Generation.
+Die Vereinten Nationen haben einen bedeutenden Fund in Syrien gemeldet: Chemiewaffeninspektoren entdeckten ein Lager mit zuvor nicht deklarierten chemischen Waffen, darunter Raketen des gleichen Typs, der beim verheerenden Ghouta-Angriff im Jahr 2013 eingesetzt wurde. Der oberste Abrüstungsbeauftragte der UN bezeichnete dies als eine "bedeutsame Entdeckung" für die internationale Sicherheit.
 
-Die humanitäre Lage im Jemen verschärft sich. Fast die Hälfte der Bevölkerung in regierungskontrollierten Gebieten ist von akuter Ernährungsunsicherheit betroffen. Internationale Hilfskürzungen drohen die Krise weiter zu vertiefen, warnt ein UN-gestütztes Gremium.
+Die UN und ihre Partner setzen ihre Bemühungen zur Eindämmung von Ebola-Ausbrüchen in der Demokratischen Republik Kongo und Uganda fort. Unsicherheit und Fehlinformationen bleiben jedoch erhebliche Hindernisse für die Eindämmung.
 
-Kirgisistan hat erstmals in seiner Geschichte einen Sitz im UN-Sicherheitsrat gewonnen. Österreich, Portugal, Trinidad und Tobago sowie Zimbabwe wurden ebenfalls gewählt. Die Wahl bringt neue Stimmen in das Gremium.
+In Somalia eskalieren die politischen Spannungen. Der UN-Hochkommissar für Menschenrechte, Volker Türk, forderte zudem besseren Schutz für Umwelt- und Landrechtsaktivisten, da weltweit Hunderte in den letzten Jahren getötet oder inhaftiert wurden.
+
+Die Weltgesundheitsorganisation veröffentlichte neue Daten, wonach unsichere Lebensmittel weltweit schätzungsweise 866 Millionen Erkrankungen und 1,5 Millionen Todesfälle pro Jahr verursachen. Kinder sind am stärksten gefährdet. Die Weltmeeresbewertung unterstrich die dringende Notwendigkeit wissenschaftlicher Forschung und globalen Handelns zum Schutz der Ozeane.
 
 ## ⚔️ Krieg
 
-Die Ukraine wird beschuldigt, bei Angriffen auf die besetzte Krim vier Menschen getötet zu haben. Russland-nahe Beamte berichten von mindestens zehn Verletzten. Die Angaben lassen sich nicht unabhängig überprüfen.
+Die Ukraine hat nach eigenen Angaben fünf Schiffe getroffen, die illegale Fracht im Asowschen Meer und in den Küstengewässern der besetzten Gebiete transportierten. Zudem räumte die Ukraine einen Drohnenvorfall in Rumänien ein. Die Angaben lassen sich aus den vorliegenden Quellen nicht unabhängig überprüfen.
 
-Bei israelischen Luftangriffen auf Gaza-Stadt sind nach Angaben von Medizinern elf Menschen getötet worden, darunter Frauen und Kinder. Die Angriffe trafen mindestens vier Wohngebäude in verschiedenen Stadtteilen. Die Angaben sind nicht unabhängig bestätigt.
-
-Einem Bericht des UN-Menschenrechtsbüros zufolge werden palästinensische Polizeikräfte im Gazastreifen systematisch durch israelische Drohnen- und Luftangriffe ins Visier genommen. Die Polizei sei für Frieden und Wiederaufbau von entscheidender Bedeutung, werde aber trotz der nominellen Waffenruhe weiterhin getötet und verletzt.
+Präsident Selenskyj hat in einem offenen Brief an Putin direkte Gespräche vorgeschlagen. Er argumentiert, dass nur "direkte Verhandlungen" zwischen den beiden Ländern den Krieg beenden könnten. Der Zeitpunkt dieses Vorschlags fällt mit der Vorbereitung Putins auf eine wichtige Rede zusammen, deren Inhalt aus den Quellen nicht hervorgeht.
 
 ## 💬 Meinung des Tages
 
-Der 4. Juni 2026 zeigt eine Welt, die gleichzeitig an mehreren Fronten unter Druck steht. Die Klimasignale verdichten sich: China kämpft mit den Nebenwirkungen seines eigenen Ausbaus erneuerbarer Energien, während sich im Pazifik ein möglicherweise sehr starker El Niño zusammenbraut. Die Wissenschaft liefert gleichzeitig neue Erkenntnisse über die Entstehung von Leben und die Dynamik ferner Galaxien – ein Kontrast, der die Spannweite menschlicher Aufmerksamkeit zwischen existenziellen irdischen Risiken und kosmischer Neugierde abbildet.
+Der 5. Juni 2026 zeigt ein Muster, das sich durch alle Kategorien zieht: Die Welt wird komplexer und vernetzter, aber auch verletzlicher. Die geopolitische Krise im Nahen Osten wird zur humanitären Krise in Afrika und Afghanistan. Waldbrände in den USA verschlechtern die Luftqualität tausend Kilometer entfernt. Ein KI-Kundendienst-Agent wird zur Sicherheitslücke für Millionen von Nutzern. Ein starker El Niño droht auf eine bereits erhitzte Atmosphäre zu treffen.
 
-Die Technikberichte des Tages sind von einer fast beunruhigenden Systematik geprägt: Cyberkriminelle nutzen jede Lücke, jede vertrauenswürdige Domain, jede populäre Plattform. Die Angriffe sind nicht mehr die Ausnahme, sondern der Betriebszustand der digitalen Welt. Die Politik reagiert mit punktuellen Aktionen, aber die Struktur des Problems bleibt ungelöst.
+Was an diesem Tag sichtbar wird, ist die zunehmende Unmöglichkeit, Probleme isoliert zu betrachten. Die Umweltpolitik eines Landes wirkt auf die Gesundheit eines anderen. Die Cybersicherheit eines Unternehmens betrifft die Privatsphäre von Menschen weltweit. Ein regionaler Konflikt verknappt Nahrungsmittel in entlegenen Weltregionen.
 
-Die geopolitischen Nachrichten sind von Gewalt und Fragilität geprägt. Ein toter Friedenssoldat im Libanon, Kinder in ukrainischen Bunkern, hungernde Menschen im Jemen, Schüsse in Mogadischu – die Muster wiederholen sich. Die US-Politik ringt mit sich selbst über den Iran, während die Kämpfe in Gaza und der Ukraine weitergehen. Es ist ein Tag, an dem die Hoffnung auf diplomatische Lösungen nicht verschwunden ist, aber leise und schwer zu hören ist.
+Die Entdeckung der chemischen Waffen in Syrien ist eine Erinnerung daran, dass vergangene Konflikte nicht abgeschlossen sind, solange ihre Werkzeuge unkontrolliert bleiben. Die Erholung der Mangrovenwälder hingegen zeigt, dass Schäden nicht immer irreversibel sind. Beides sind Lehren, die an diesem Tag nebeneinanderstehen: Die Fähigkeit zur Zerstörung und die Möglichkeit der Regeneration.
 
 ## 🎵 Song des Tages
 
-„The Sound of Silence“ von Simon & Garfunkel.
+"Everybody Wants to Rule the World" von Tears for Fears.
 
-Der Song passt zu diesem Tag, weil er die Stille beschreibt, die zwischen den lauten Ereignissen liegt – die Stille der Kinder in den Bunkern, die Stille der hungernden Menschen, die Stille der toten Friedenssoldaten. Und vielleicht auch die Stille, die entsteht, wenn die Wissenschaft ins All schaut, während die Erde brennt.
+Der Song aus dem Jahr 1985 beschreibt eine Welt, in der Macht, Kontrolle und die Sehnsucht nach Stabilität in einem fragilen Gleichgewicht stehen. Die Zeilen über das Halten von Händen, während die Welt um einen herum brennt, und über die Erkenntnis, dass niemand wirklich die Kontrolle hat, passen zu diesem Tag, an dem geopolitische Krisen, Cyberangriffe und Umweltveränderungen die Grenzen menschlicher Steuerungsfähigkeit aufzeigen. Die ruhige Melodie kontrastiert mit dem dringlichen Inhalt – ähnlich wie die sachliche Sprache dieses Berichts mit der Schwere der beschriebenen Ereignisse.
 
 
 ---
 
-*Erstellt am 2026-06-04 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-06-05 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*

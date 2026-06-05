@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T14:27:38.533683+00:00",
-  "date": "2026-06-04",
+  "generated_at": "2026-06-05T14:17:21.172632+00:00",
+  "date": "2026-06-05",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
@@ -10,11 +10,119 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ukraine accused of killing four in occupied Crimea",
-      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 10 people have been injured in the attacks, according to Russian-backed officials.",
-      "published": "2026-06-04T11:55:20+00:00",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "published": "2026-06-05T08:03:23+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
+      "url": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
+      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework. ReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China. \"OP-512 was highly likely conducting espionage through a",
+      "published": "2026-06-05T12:33:38+00:00",
+      "score": 14
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump",
+      "url": "https://www.carbonbrief.org/debriefed-5-june-2026-uk-eyes-2040-emissions-cut-us-dismantling-oceans-research-chinas-solar-slump/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump appeared first on Carbon Brief .",
+      "published": "2026-06-05T13:35:57+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+      "published": "2026-06-05T12:42:18+00:00",
       "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "AI’s environmental costs threaten water, land and climate",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167658",
+      "summary": "Artificial Intelligence is not only responsible for worrying amounts of earth-warming greenhouse gases: the technology's environmental footprint is also expanding at a pace that could strain the planet’s natural resources.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA-Funded Study Shows Wildfire Smoke’s Hidden Ozone Toll",
+      "url": "https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/",
+      "summary": "Over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.",
+      "published": "2026-06-04T18:01:59+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
+      "published": "2026-06-05T12:10:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Colorful, Chaotic Jupiter",
+      "url": "https://www.nasa.gov/image-article/colorful-chaotic-jupiter/",
+      "summary": "NASA’s Juno spacecraft captured this color-enhanced view of Jupiter’s northern hemisphere during its 61st close flyby of the giant planet on May 12, 2024. Citizen scientist Gary Eason made this image using raw data from the JunoCam instrument, applying digital processing techniques to enhance color and clarity. It provides a detailed view of chaotic clouds […]",
+      "published": "2026-06-04T15:58:03+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "summary": "On June 5, 404 Media reported that attackers had been using Meta’s AI customer support agent to steal Instagram accounts. Their approach was simple: They asked the agent to link the accounts to email addresses that they controlled, and the agent complied. One attacker broke into the dormant Obama White House account and made pro-Iran…",
+      "published": "2026-06-05T09:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "url": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+      "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts. It is an obvious target. More than",
+      "published": "2026-06-05T07:01:41+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "url": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it. RyotaK of GMO",
+      "published": "2026-06-04T15:15:26+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US journalist pleads guilty to working as China's agent",
+      "url": "https://www.bbc.com/news/articles/crmpmxg1ym4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Thomas Weir Pauken II, 50, knowingly worked with people employed by the Chinese government for years.",
+      "published": "2026-06-05T11:20:30+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Hosts 2026 Review on Advanced Composite Manufacturing",
+      "url": "https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/",
+      "summary": "NASA’s Hi-Rate Composite Aircraft Manufacturing (HiCAM) project brought together its full team of Advanced Composites Consortium partners for a 2026 spring review at NASA’s Langley Research Center in Hampton, Virginia. The meeting took place May 5-7, bringing together about 150 people from the consortium, a 22-member public-private partnership. The review gave NASA and industry partners a chance to look at recent progress and […]",
+      "published": "2026-06-04T20:36:24+00:00",
+      "score": 11
     },
     {
       "source": "MIT Technology Review",
@@ -23,16 +131,43 @@
       "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
       "published": "2026-06-04T12:10:00+00:00",
-      "score": 13
+      "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+      "url": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
+      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise. The vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was",
+      "published": "2026-06-05T08:38:59+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+      "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
+      "published": "2026-06-05T05:34:19+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "url": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+      "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was",
+      "published": "2026-06-04T15:10:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "url": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
       "published": "2026-06-04T12:22:25+00:00",
-      "score": 13
+      "score": 11
     },
     {
       "source": "The Hacker News",
@@ -41,52 +176,34 @@
       "url": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
       "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto Networks Unit 42, the campaign is said to be the next stage of a previously reported activity cluster dubbed JSCoreRunner (aka FileRipple) in late August 2025. The cybercrime group behind the two attack chains is",
       "published": "2026-06-04T11:19:53+00:00",
-      "score": 13
+      "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-      "url": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational",
-      "published": "2026-06-04T06:06:25+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "url": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
-      "published": "2026-06-03T17:58:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
-      "published": "2026-06-03T16:30:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
-      "url": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
-      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a legitimate Google-owned domain that many security tools are less likely to treat as",
-      "published": "2026-06-03T16:29:16+00:00",
-      "score": 13
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
+      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
+      "summary": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
+      "published": "2026-06-05T05:44:44+00:00",
+      "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167641",
-      "summary": "Children in Ukraine have been profoundly impacted by years of war, sheltering in underground schools – or forced to study online – and living with the psychological strain of constant air raid sirens that could spell death for them and their families.",
-      "published": "2026-06-03T12:00:00+00:00",
-      "score": 12
+      "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+      "summary": "The UN and its partners are continuing efforts to contain Ebola outbreaks in both the Democratic Republic of the Congo (DRC) and Uganda, while warning that insecurity and misinformation remain major obstacles to the response.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167652",
+      "summary": "Chemical weapons inspectors have uncovered a significant cache of previously undeclared chemical weapons in Syria – including rockets of the same type used in the notorious 2013 Ghouta attack – in what the UN’s top disarmament official called a “momentous discovery” for international security.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 10
     },
     {
       "source": "NASA Breaking News",
@@ -95,168 +212,6 @@
       "url": "https://www.nasa.gov/image-article/journey-to-the-center-of-the-virgo-cluster/",
       "summary": "The focus of this NASA/ESA Hubble Space Telescope image released on May 29, 2026, is an active spiral galaxy on a journey lasting hundreds of millions of years. The galaxy Messier 88 (M88), also known as NGC 4501, is located about 63 million light-years away in the constellation Coma Berenices (Berenice’s Hair). M88 is an active galaxy, which means that its center harbors […]",
       "published": "2026-06-03T15:48:44+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework. \"The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing",
-      "published": "2026-06-04T09:51:28+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "url": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
-      "published": "2026-06-03T16:40:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
-      "published": "2026-06-04T07:49:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic.",
-      "published": "2026-06-04T07:23:41+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Israeli strikes kill 11 people in Gaza City, medics say",
-      "url": "https://www.bbc.com/news/articles/cg5prr9gr1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Women and children were among those killed when Israeli aircraft struck at least four residential buildings in several areas.",
-      "published": "2026-06-04T11:07:12+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Heavy gunfire in Somali capital as row over election delay escalates",
-      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The opposition has called for protests after the president's term in office was extended by a year.",
-      "published": "2026-06-04T12:40:22+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Failing sea defences 'disaster' for nature reserve",
-      "url": "https://www.bbc.com/news/articles/c0q2kk4ek8qo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internationally important nature reserve in Hampshire is under threat from failing flood defences.",
-      "published": "2026-06-04T05:17:47+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Gaza’s public servants systematically targeted in Israeli strikes",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167631",
-      "summary": "Months since Gaza’s nominal ceasefire began, Palestinians continue to be killed and maimed in drone and airstrikes, including the enclave’s police force which is crucial to peace and reconstruction efforts, the UN human rights office (OHCHR) said on Wednesday.",
-      "published": "2026-06-03T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167628",
-      "summary": "Women and girls in Lebanon are paying an increasingly devastating price as violence and displacement continue despite a ceasefire, the UN reproductive health agency (UNFPA) warned on Tuesday.",
-      "published": "2026-06-02T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "International Sea Level Satellite Observes El Niño Precursor",
-      "url": "https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/",
-      "summary": "Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm Kelvin wave, signified in this animation of the data by […]",
-      "published": "2026-06-03T17:27:22+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
-      "published": "2026-06-04T10:50:18+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "url": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-      "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity. Symantec and Carbon Black's Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:",
-      "published": "2026-06-04T09:33:57+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
-      "published": "2026-06-03T20:28:01+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump to nominate Blanche for attorney general on permanent basis",
-      "url": "https://www.bbc.com/news/articles/c4g8nyzl2pno?at_medium=RSS&at_campaign=rss",
-      "summary": "If confirmed by the Senate, Trump's former personal lawyer would become the administration's number one prosecutor.",
-      "published": "2026-06-04T08:11:25+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Indian film union drops boycott call against Bollywood star Ranveer Singh",
-      "url": "https://www.bbc.com/news/articles/c3r2g0013xpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The producers of Don 3 had earlier complained that Singh's alleged exit from the film had caused major financial losses.",
-      "published": "2026-06-04T06:28:42+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Senate Republicans axe $1bn for Trump's new White House ballroom",
-      "url": "https://www.bbc.com/news/articles/c0r2kxrvlgpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bill to fund immigration agencies has been delayed by opposition to Trump's 'anti-weaponisation fund'.",
-      "published": "2026-06-04T01:18:09+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Violence hampers Ebola efforts, aid delivery in Darfur and Gaza, Nicaraguan activist’s death in custody",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167629",
-      "summary": "Escalating violence in the eastern Democratic Republic of the Congo (DRC) continues to impact civilians and efforts to fight Ebola, UN aid coordination office OCHA said on Tuesday.",
-      "published": "2026-06-02T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Finds New Way Earth May Have Received Elements Needed for Life",
-      "url": "https://science.nasa.gov/science-research/planetary-science/astrobiology/nasa-finds-new-way-earth-may-have-received-elements-needed-for-life/",
-      "summary": "NASA-supported scientists have provided new information about how the early Earth may have acquired some elements necessary for the planet to become habitable. They also suggest a new role for Jupiter in the distribution of these elements throughout the young solar system. The study, published today in Science Advances, examines this history by looking at […]",
-      "published": "2026-06-03T18:01:00+00:00",
       "score": 10
     },
     {
@@ -269,39 +224,102 @@
       "score": 10
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar",
-      "url": "https://www.carbonbrief.org/analysis-chinas-co2-climbs-2-in-early-2026-due-to-wasted-wind-and-solar/",
-      "summary": "China’s carbon dioxide (CO2) emissions grew by 2% in the first quarter of 2026, after... The post Analysis: China’s CO2 climbs 2% in early 2026 due to ‘wasted’ wind and solar appeared first on Carbon Brief .",
-      "published": "2026-06-03T23:01:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+      "published": "2026-06-05T09:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+      "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest",
+      "published": "2026-06-05T11:20:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "url": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway. The flaw is a server-side request forgery.",
+      "published": "2026-06-04T16:55:51+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
+      "url": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
+      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework. \"The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing",
+      "published": "2026-06-04T09:51:28+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Missing Sherpa guide found on Mount Everest after 'miracle' self-rescue",
-      "url": "https://www.bbc.com/news/articles/cvgz2yjl4y3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
-      "published": "2026-06-04T10:18:49+00:00",
+      "title": "Fury in France after child murder suspect's criminal record released",
+      "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
+      "summary": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
+      "published": "2026-06-05T11:32:51+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Charges dropped against Budapest mayor over 2025 Pride march",
-      "url": "https://www.bbc.com/news/articles/cwy255wzdqro?at_medium=RSS&at_campaign=rss",
-      "summary": "Budapest's liberal Mayor Gergely Karacsony had been charged with helping to organise the banned 2025 march.",
-      "published": "2026-06-04T14:10:31+00:00",
+      "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
+      "url": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Handy, 81, is known for his roles in films including Jumanji and Top Gun: Maverick.",
+      "published": "2026-06-05T09:40:06+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Bondi Beach shooting hero charged with assault",
-      "url": "https://www.bbc.com/news/articles/cd7p11010g5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ahmed al Ahmed disarmed one of the alleged shooters during the deadly attack at a Jewish event.",
-      "published": "2026-06-04T11:22:18+00:00",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "published": "2026-06-04T23:11:15+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ireland issues travel bans for two Israeli ministers",
+      "url": "https://www.bbc.com/news/articles/cwy2y170g5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bans for Itamar Ben-Gvir and Bezalel Smotrich are confirmed by the Taoiseach (Irish prime minister) Micheál Martin.",
+      "published": "2026-06-05T13:45:53+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "published": "2026-06-05T01:44:16+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "China cracks down on soft porn, violence and materialism in viral micro dramas",
+      "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
+      "published": "2026-06-05T05:16:54+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Failing sea defences 'disaster' for nature reserve",
+      "url": "https://www.bbc.com/news/articles/c0q2kk4ek8qo?at_medium=RSS&at_campaign=rss",
+      "summary": "An internationally important nature reserve in Hampshire is under threat from failing flood defences.",
+      "published": "2026-06-04T05:17:47+00:00",
       "score": 9
     },
     {
@@ -316,9 +334,36 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Lebanon: Another peacekeeper dies in new attack",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167645",
-      "summary": "A UN peacekeeper serving in Lebanon died early Thursday after mortar fire on his position near Marjayoun in the country’s southeast, the UN Interim Force in Lebanon (UNIFIL) has announced.",
+      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167656",
+      "summary": "From a police station in Germany to the UN Mission in South Sudan, Stephanie Königs has been talking to UN News about her journey to becoming a peacekeeper – and the importance of trust and empathy in the field.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167653",
+      "summary": "What began as a geopolitical crisis in the Middle East nearly 100 days ago is increasingly becoming a food security crisis elsewhere, with UN agencies warning of rising hunger in Africa and malnourished children being turned away from medical clinics in Afghanistan.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Killed for speaking up: UN sounds alarm over attacks on environmental defenders",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167647",
+      "summary": "UN High Commissioner for Human Rights Volker Türk called on Thursday for greater protection for environmental and land defenders, noting that hundreds worldwide have been killed or detained in recent years.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World Ocean Assessment highlights urgent need for science and global action",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167646",
+      "summary": "In the wood-panelled rooms of New York’s storied Explorers Club, where portraits of pioneering adventurers line the walls, diplomats, scientists and ocean advocates gathered on Tuesday evening with a shared sense of urgency – and anticipation.",
       "published": "2026-06-04T12:00:00+00:00",
       "score": 9
     },
@@ -341,48 +386,21 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167636",
-      "summary": "A closely watched Security Council election delivered a mix of continuity and change on Wednesday, as Austria, Portugal, Trinidad and Tobago, Zimbabwe – and first-time member Kyrgyzstan, secured seats around the iconic horseshoe table.",
-      "published": "2026-06-03T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘We are catching up’ – WHO chief on DR Congo’s Ebola fight",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167632",
-      "summary": "The head of the World Health Organization (WHO) said on Wednesday that the Ebola outbreak in the Democratic Republic of the Congo (DRC) is showing signs of progress – but significant challenges remain in testing, surveillance, vaccine development and building community trust.",
-      "published": "2026-06-03T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167625",
-      "summary": "Monday’s hastily convened meeting of the UN Security Council at the request of France in response to escalating violence in Lebanon between Israeli forces and Hezbollah militants has underlined deepening international concern as the conflict intensifies, despite ongoing US mediation efforts.",
-      "published": "2026-06-02T12:00:00+00:00",
-      "score": 9
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Space Roboticist Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-space-roboticist-challenge/",
-      "summary": "The Fly Foundational Robots (FFR) mission will launch a robotic arm, with seven degrees of freedom, to low Earth orbit. NASA is opening access to the robotic arm to a select group of U.S. researchers — principal investigators, post-doctoral researchers, professors, and highly qualified graduate students — who have a compelling experiment and the capability […]",
-      "published": "2026-06-02T20:56:53+00:00",
+      "title": "International Sea Level Satellite Observes El Niño Precursor",
+      "url": "https://science.nasa.gov/photojournal/international-sea-level-satellite-observes-el-nino-precursor/",
+      "summary": "Description Sea level height data from the international Sentinel-6 Michael Freilich satellite collected from March to May 2026 show higher, warmer water moving from the western Pacific Ocean to just off the coast of Colombia, Ecuador, and Peru. This phenomenon is known as a warm Kelvin wave, signified in this animation of the data by […]",
+      "published": "2026-06-03T17:27:22+00:00",
       "score": 9
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "How virtual power plants could provide energy for data centers",
-      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-      "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
-      "published": "2026-06-03T16:51:38+00:00",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
+      "published": "2026-06-04T10:50:18+00:00",
       "score": 9
     },
     {
@@ -392,24 +410,6 @@
       "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
       "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
       "published": "2026-06-03T12:10:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: AI can run your admin department now",
-      "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How small businesses can leverage AI From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. Large companies can hire…",
-      "published": "2026-06-02T12:10:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "How small businesses can leverage AI",
-      "url": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design to market research and product development, there’s a staggering breadth of skills needed to run a business. A large company can hire experts to…",
-      "published": "2026-06-02T09:00:00+00:00",
       "score": 9
     }
   ]
