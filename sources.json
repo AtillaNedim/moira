@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T13:01:35.156503+00:00",
-  "date": "2026-06-06",
+  "generated_at": "2026-06-07T13:13:58.572185+00:00",
+  "date": "2026-06-07",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
@@ -8,22 +8,58 @@
   ],
   "articles": [
     {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Armenia votes as Russia piles pressure on pro-West government",
+      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+      "published": "2026-06-07T04:45:51+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+      "published": "2026-06-06T14:46:20+00:00",
+      "score": 13
+    },
+    {
       "source": "The Hacker News",
       "category": "Technik",
       "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
       "url": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash",
       "published": "2026-06-06T08:14:31+00:00",
-      "score": 15
+      "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-      "published": "2026-06-05T18:16:15+00:00",
-      "score": 14
+      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
+      "published": "2026-06-07T12:09:57+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+      "published": "2026-06-07T07:11:18+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
+      "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
+      "published": "2026-06-06T23:17:43+00:00",
+      "score": 12
     },
     {
       "source": "The Hacker News",
@@ -32,96 +68,6 @@
       "url": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
       "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source: govlens[.]net, which",
       "published": "2026-06-05T14:53:40+00:00",
-      "score": 14
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump",
-      "url": "https://www.carbonbrief.org/debriefed-5-june-2026-uk-eyes-2040-emissions-cut-us-dismantling-oceans-research-chinas-solar-slump/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump appeared first on Carbon Brief .",
-      "published": "2026-06-05T13:35:57+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
-      "published": "2026-06-06T11:37:19+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
-      "published": "2026-06-06T06:16:28+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
-      "published": "2026-06-06T07:06:43+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "AI’s environmental costs threaten water, land and climate",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167658",
-      "summary": "Artificial Intelligence is not only responsible for worrying amounts of earth-warming greenhouse gases: the technology's environmental footprint is also expanding at a pace that could strain the planet’s natural resources.",
-      "published": "2026-06-04T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
-      "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
-      "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and […]",
-      "published": "2026-06-05T19:16:48+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
-      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
-      "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation. The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types - On-Prem Deployment Cisco SD-WAN Cloud-Pro Cisco SD-WAN Cloud (Cisco Managed) Cisco SD-WAN for Government (FedRAMP) \"A",
-      "published": "2026-06-06T04:19:28+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Announces Winners of 2026 University Innovation Competition",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
-      "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes. Another team from the same university won second place overall for their project, Mars Exploration Layered Infrastructure for Operations, Research, ",
-      "published": "2026-06-05T20:17:11+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
-      "url": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
-      "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry. The company, the successor to Luminati, operates what it calls the largest residential proxy network in the world,",
-      "published": "2026-06-06T08:29:05+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
-      "published": "2026-06-05T18:05:30+00:00",
       "score": 12
     },
     {
@@ -134,39 +80,57 @@
       "score": 12
     },
     {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump",
+      "url": "https://www.carbonbrief.org/debriefed-5-june-2026-uk-eyes-2040-emissions-cut-us-dismantling-oceans-research-chinas-solar-slump/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump appeared first on Carbon Brief .",
+      "published": "2026-06-05T13:35:57+00:00",
+      "score": 12
+    },
+    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Palestinian baby killed by Israeli gunfire in West Bank, health ministry says",
-      "url": "https://www.bbc.com/news/articles/cy828e64vp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military says Friday's \"incident is under review\", expressing \"deep sorrow for any harm caused\".",
-      "published": "2026-06-05T23:12:24+00:00",
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
+      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "published": "2026-06-07T10:35:25+00:00",
       "score": 11
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-      "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-      "published": "2026-06-05T21:35:55+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘The ocean has no boundaries’: Beauty and life in a war zone",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167648",
+      "summary": "When US and Israeli forces launched strikes on Iran on 28 February, triggering one of the most serious geopolitical crises in years, the Strait of Hormuz – a narrow channel just 34 kilometres wide at its narrowest point – became a global flashpoint overnight.",
+      "published": "2026-06-05T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Millions displaced in South Sudan, global meat supply quadruples, Middle East crisis deepens global hunger",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167668",
+      "summary": "Months of fighting and insecurity have forced hundreds of thousands of people to flee their homes in South Sudan’s eastern Jonglei State, triggering “one of the most severe conflict-related displacement emergencies in recent years”, the UN refugee agency (UNHCR) said on Friday.",
+      "published": "2026-06-05T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "AI’s environmental costs threaten water, land and climate",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167658",
+      "summary": "Artificial Intelligence is not only responsible for worrying amounts of earth-warming greenhouse gases: the technology's environmental footprint is also expanding at a pace that could strain the planet’s natural resources.",
+      "published": "2026-06-04T12:00:00+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
-      "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
-      "summary": "NASA’s experimental X-59 aircraft marked a major milestone Friday, June 5, when it flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph) and altitude of 43,400 feet. The X-59’s flight began at 11:08 a.m. PDT and lasted 81 minutes, with the team focusing on flyi",
-      "published": "2026-06-05T20:44:57+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Concludes Antenna Mishap Investigation, Releases Report",
-      "url": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/",
-      "summary": "NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (DSS-14), at the Goldstone Deep Space Communications Complex near Barstow, California. The agency has classified the event as a Type A mishap based on the total cost of damages. The antenna will […]",
-      "published": "2026-06-05T17:00:00+00:00",
+      "title": "NASA’s Artemis II Moon Mission Research Continues on Earth",
+      "url": "https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/",
+      "summary": "Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and […]",
+      "published": "2026-06-05T19:16:48+00:00",
       "score": 11
     },
     {
@@ -188,22 +152,22 @@
       "score": 11
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
-      "published": "2026-06-04T12:10:00+00:00",
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "url": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+      "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that handle sensitive data and require stricter protection guarantees. Lockdown Mode is available to logged-in users across Free, Go, Plus, and Pro, and",
+      "published": "2026-06-06T13:36:57+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Lebanon says three soldiers killed in Israeli attack on car",
-      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
-      "published": "2026-06-06T10:57:28+00:00",
-      "score": 10
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
+      "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html",
+      "summary": "Cisco has warned that a high-severity security flaw impacting Catalyst SD-WAN Manager has come under active exploitation. The vulnerability, tracked as CVE-2026-20245, carries a CVSS score of 7.8 out of a maximum of 10.0. It affects the following deployment types - On-Prem Deployment Cisco SD-WAN Cloud-Pro Cisco SD-WAN Cloud (Cisco Managed) Cisco SD-WAN for Government (FedRAMP) \"A",
+      "published": "2026-06-06T04:19:28+00:00",
+      "score": 11
     },
     {
       "source": "BBC World",
@@ -211,52 +175,34 @@
       "title": "Iran says staff blocked from entering US after players given World Cup visas",
       "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
-      "published": "2026-06-06T11:56:25+00:00",
+      "published": "2026-06-06T22:38:36+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Man dies after bitten by shark in Western Australia, police say",
-      "url": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
-      "published": "2026-06-06T08:20:50+00:00",
+      "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "published": "2026-06-06T21:23:03+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tributes to Buffy and Ted Lasso star Anthony Head after death aged 72",
-      "url": "https://www.bbc.com/news/articles/cd0p0rz4n0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The British actor, who also appeared in Merlin and Little Britain, died of complications from pneumonia.",
-      "published": "2026-06-06T07:33:07+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167655",
-      "summary": "The UN and its partners are continuing efforts to contain Ebola outbreaks in both the Democratic Republic of the Congo (DRC) and Uganda, while warning that insecurity and misinformation remain major obstacles to the response.",
-      "published": "2026-06-04T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167652",
-      "summary": "Chemical weapons inspectors have uncovered a significant cache of previously undeclared chemical weapons in Syria – including rockets of the same type used in the notorious 2013 Ghouta attack – in what the UN’s top disarmament official called a “momentous discovery” for international security.",
-      "published": "2026-06-04T12:00:00+00:00",
+      "title": "Police officer turned Love Island US contestant faces hometown backlash",
+      "url": "https://www.bbc.com/news/articles/cpqprxlqe0po?at_medium=RSS&at_campaign=rss",
+      "summary": "Sean Reifel's joined the cast of the popular reality series less than a year after he joined his hometown's police force.",
+      "published": "2026-06-06T23:25:36+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "First Steps: America’s Grueling Second Spacewalk",
-      "url": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
-      "summary": "One year after Gemini IV astronaut Edward H. White completed NASA’s first spacewalk the agency prepared for a demanding second excursion. Originally scheduled for Gemini VIII, the extravehicular activity (EVA) was reassigned to Gemini IX-A after that mission ended early, with Gene Cernan taking on the task. On June 5, 1966—the mission’s third day—Cernan exited […]",
-      "published": "2026-06-05T15:47:27+00:00",
+      "title": "NASA Announces Winners of 2026 University Innovation Competition",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
+      "summary": "NASA announced the Massachusetts Institute of Technology project, Exploration-Class Lunar Integrated Power SystEm, as the first place winner for the 2026 Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition, which challenges students to bridge gaps in aerospace technology by innovating new system concepts and prototypes. Another team from the same university won second place overall for their project, Mars Exploration Layered Infrastructure for Operations, Research, ",
+      "published": "2026-06-05T20:17:11+00:00",
       "score": 10
     },
     {
@@ -280,19 +226,19 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
-      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
-      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release. Only the FFmpeg bugs were found by AI.",
-      "published": "2026-06-06T07:28:30+00:00",
+      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+      "url": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+      "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry. The company, the successor to Luminati, operates what it calls the largest residential proxy network in the world,",
+      "published": "2026-06-06T08:29:05+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
-      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories. \"Access to this",
-      "published": "2026-06-06T06:58:04+00:00",
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
+      "published": "2026-06-05T18:05:30+00:00",
       "score": 10
     },
     {
@@ -307,19 +253,37 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Canada bans Texas cattle over flesh-eating screwworm outbreak in US",
-      "url": "https://www.bbc.com/news/articles/cevpv3r7jmpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ban came as a second infected calf was identified in Texas, and the US state declaring a state of disaster over the outbreak.",
-      "published": "2026-06-06T04:22:25+00:00",
+      "title": "Huge crowds throng Madrid streets for Pope's open-air Mass",
+      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles.",
+      "published": "2026-06-07T10:27:15+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'It was either killed or be killed' - ongoing nightmares of an ex-child soldier in Somalia",
+      "url": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Yusuf Ali, now 34, struggles with his memories living in Mogadishu surrounded by dark reminders of his past.",
+      "published": "2026-06-06T23:25:20+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Failing sea defences 'disaster' for nature reserve",
-      "url": "https://www.bbc.com/news/articles/c0q2kk4ek8qo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internationally important nature reserve in Hampshire is under threat from failing flood defences.",
-      "published": "2026-06-04T05:17:47+00:00",
+      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+      "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+      "published": "2026-06-05T21:35:55+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Faith, fear and trust: Inside DR Congo’s fight against Ebola",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167667",
+      "summary": "In a village in eastern Democratic Republic of the Congo (DRC), health workers arrived a few days ago to help bury a person who had died from Ebola. Instead, they were threatened, told armed rebels would be called if they stayed, and forced to leave.",
+      "published": "2026-06-05T12:00:00+00:00",
       "score": 9
     },
     {
@@ -332,39 +296,21 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Building trust on patrol: One police officer’s peacekeeping journey in South Sudan",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167656",
-      "summary": "From a police station in Germany to the UN Mission in South Sudan, Stephanie Königs has been talking to UN News about her journey to becoming a peacekeeper – and the importance of trust and empathy in the field.",
-      "published": "2026-06-04T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s X-59 Aircraft Flies Supersonic for First Time",
+      "url": "https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/",
+      "summary": "NASA’s experimental X-59 aircraft marked a major milestone Friday, June 5, when it flew faster than the speed of sound for the first time, setting the stage for demonstrating its quiet supersonic capabilities later this year. NASA test pilot Jim “Clue” Less took off and landed at Edwards Air Force Base in California, reaching a top speed of approximately Mach 1.1 (713 mph) and altitude of 43,400 feet. The X-59’s flight began at 11:08 a.m. PDT and lasted 81 minutes, with the team focusing on flyi",
+      "published": "2026-06-05T20:44:57+00:00",
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167653",
-      "summary": "What began as a geopolitical crisis in the Middle East nearly 100 days ago is increasingly becoming a food security crisis elsewhere, with UN agencies warning of rising hunger in Africa and malnourished children being turned away from medical clinics in Afghanistan.",
-      "published": "2026-06-04T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Killed for speaking up: UN sounds alarm over attacks on environmental defenders",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167647",
-      "summary": "UN High Commissioner for Human Rights Volker Türk called on Thursday for greater protection for environmental and land defenders, noting that hundreds worldwide have been killed or detained in recent years.",
-      "published": "2026-06-04T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World Ocean Assessment highlights urgent need for science and global action",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167646",
-      "summary": "In the wood-panelled rooms of New York’s storied Explorers Club, where portraits of pioneering adventurers line the walls, diplomats, scientists and ocean advocates gathered on Tuesday evening with a shared sense of urgency – and anticipation.",
-      "published": "2026-06-04T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Concludes Antenna Mishap Investigation, Releases Report",
+      "url": "https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/",
+      "summary": "NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (DSS-14), at the Goldstone Deep Space Communications Complex near Barstow, California. The agency has classified the event as a Type A mishap based on the total cost of damages. The antenna will […]",
+      "published": "2026-06-05T17:00:00+00:00",
       "score": 9
     },
     {
@@ -379,10 +325,10 @@
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a lawyer, and others have cases too weak or too small to interest one. She reads each one carefully, mindful of how daunting…",
-      "published": "2026-06-04T10:50:18+00:00",
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts are coping with a flood of AI-generated lawsuits Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by…",
+      "published": "2026-06-04T12:10:00+00:00",
       "score": 9
     },
     {
@@ -395,21 +341,75 @@
       "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-      "url": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
-      "published": "2026-06-05T05:34:19+00:00",
-      "score": 9
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167655",
+      "summary": "The UN and its partners are continuing efforts to contain Ebola outbreaks in both the Democratic Republic of the Congo (DRC) and Uganda, while warning that insecurity and misinformation remain major obstacles to the response.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 8
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
-      "published": "2026-06-06T02:28:56+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Undeclared chemical weapons found in Syria, including type used in notorious Ghouta massacre",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167652",
+      "summary": "Chemical weapons inspectors have uncovered a significant cache of previously undeclared chemical weapons in Syria – including rockets of the same type used in the notorious 2013 Ghouta attack – in what the UN’s top disarmament official called a “momentous discovery” for international security.",
+      "published": "2026-06-04T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "First Steps: America’s Grueling Second Spacewalk",
+      "url": "https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/",
+      "summary": "One year after Gemini IV astronaut Edward H. White completed NASA’s first spacewalk the agency prepared for a demanding second excursion. Originally scheduled for Gemini VIII, the extravehicular activity (EVA) was reassigned to Gemini IX-A after that mission ended early, with Gene Cernan taking on the task. On June 5, 1966—the mission’s third day—Cernan exited […]",
+      "published": "2026-06-05T15:47:27+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of California, Irvine, who has spent the last 30 years studying how people interact with digital technologies. Early…",
+      "published": "2026-06-05T09:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "url": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release. Only the FFmpeg bugs were found by AI.",
+      "published": "2026-06-06T07:28:30+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories. \"Access to this",
+      "published": "2026-06-06T06:58:04+00:00",
+      "score": 8
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+      "url": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest",
+      "published": "2026-06-05T11:20:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’",
+      "url": "https://www.carbonbrief.org/em-dat-trump-aid-cuts-could-close-database-storing-worlds-memory-of-disasters/",
+      "summary": "The world’s most comprehensive disaster database – relied on by thousands of climate scientists and... The post EM-DAT: Trump aid cuts could close database storing ‘world’s memory of disasters’ appeared first on Carbon Brief .",
+      "published": "2026-05-29T09:44:14+00:00",
       "score": 8
     }
   ]
