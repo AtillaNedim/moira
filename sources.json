@@ -1,199 +1,110 @@
 {
-  "generated_at": "2026-06-12T14:27:14.276022+00:00",
-  "date": "2026-06-12",
+  "generated_at": "2026-06-13T13:18:06.412673+00:00",
+  "date": "2026-06-13",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
+    "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "oPt: Surviving childhood under occupation - The catastrophic harm facing Palestinian children [EN/AR]",
-      "url": "https://reliefweb.int/report/occupied-palestinian-territory/surviving-childhood-under-occupation-catastrophic-harm-facing-palestinian-children-enar",
-      "summary": "Country: occupied Palestinian territory Source: UN Office of the High Commissioner for Human Rights Please refer to the attached files. Israeli violence is subjecting Palestinian children to catastrophic levels of harm: killed, maimed, displaced, and living in perpetual insecurity. On Saturday, 6 June 2026, Israeli security forces shot and killed 7-month-old Sam Fahed Abu Haykal in his parents’ car near a Hebron checkpoint. The bullet appears to have passed through Sam’s head and injured both hi",
-      "published": "2026-06-12T11:54:12+00:00",
-      "score": 20
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Anthropic suspends new AI tools over US government security concerns",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+      "published": "2026-06-13T03:54:01+00:00",
+      "score": 14
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "South Sudan: Resilient Livestock Sector Project - Project profile",
-      "url": "https://reliefweb.int/report/south-sudan/south-sudan-resilient-livestock-sector-project-project-profile",
-      "summary": "Country: South Sudan Source: Food and Agriculture Organization of the United Nations Please refer to the attached file. Synopsis (short abstract) South Sudan’s livestock sector operates in a context of localized conflict, economic decline and high climate vulnerability. With most rural households depending on livestock and agriculture for food and income, strengthening the livestock sector’s resilience is critical for food security, income generation and stability. In response, the Food and Agri",
-      "published": "2026-06-12T13:03:11+00:00",
-      "score": 17
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
+      "published": "2026-06-12T18:59:32+00:00",
+      "score": 13
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: EU Pact offers hope for better migration management and fairer asylum systems",
-      "url": "https://reliefweb.int/report/world/eu-pact-offers-hope-better-migration-management-and-fairer-asylum-systems",
-      "summary": "Country: World Sources: International Organization for Migration, UN High Commissioner for Refugees GENEVA – UNHCR, the UN Refugee Agency, and IOM, the UN Migration Agency, welcomed the entry into force today of the European Union’s Pact on Migration and Asylum as an opportunity to move beyond crisis-driven responses and implement a more predictable, fair and effective approach to the issues across Europe. EU Member States should seize this moment to strengthen migration management and refugee p",
-      "published": "2026-06-12T12:03:04+00:00",
-      "score": 16
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+      "published": "2026-06-13T11:15:18+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "published": "2026-06-13T04:09:07+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+      "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns. The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
+      "published": "2026-06-13T05:42:50+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
+      "published": "2026-06-12T18:17:55+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Switzerland to vote on plan to cap population at 10 million",
+      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
+      "published": "2026-06-13T11:47:42+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+      "published": "2026-06-12T22:00:52+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO.",
+      "published": "2026-06-13T03:28:25+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "French town buries murdered child as questions mount over police failings",
+      "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
+      "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+      "published": "2026-06-12T16:19:12+00:00",
+      "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Middle East LIVE: Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167689",
-      "summary": "Nearly four months after the latest Middle East crisis erupted and despite a fragile ceasefire between the United States and Iran, tensions continue to reverberate across the region and beyond. The UN Security Council held a high-level debate on advancing political solutions in the Middle East on Wednesday, amid continuing conflicts, humanitarian emergencies and concerns over regional stability. Follow live in-depth meetings coverage here.",
-      "published": "2026-06-10T12:00:00+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Kyrgyzstan - Potential Migrants Survey (Round 1) EN/RU/KY]",
-      "url": "https://reliefweb.int/report/kyrgyzstan/kyrgyzstan-potential-migrants-survey-round-1-enruky",
-      "summary": "Country: Kyrgyzstan Source: International Organization for Migration Please refer to the attached files. The Potential Migrants Survey was conducted between May and July 2025 in two major cities of Kyrgyzstan (Bishkek and Osh), which have the highest rates of international outward migration and high population density. The locations were selected as primary data collection sites due to their strong migration dynamics and concentration of potential migrants. The target population consisted of pot",
-      "published": "2026-06-12T13:33:10+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
-      "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
-      "published": "2026-06-12T08:09:37+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Award Boosts Space Technology Research Capabilities",
-      "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
-      "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]",
-      "published": "2026-06-11T21:14:44+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
-      "published": "2026-06-12T12:04:33+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more",
-      "published": "2026-06-12T11:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications. \"An SQL injection in LangGraph's function could",
-      "published": "2026-06-12T09:50:36+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "url": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the",
-      "published": "2026-06-12T06:38:41+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on",
-      "published": "2026-06-11T17:46:32+00:00",
-      "score": 13
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: WASH Learning Paper: Promoting Hygiene in IDP settings through Soap-Making Initiatives in the Democratic Republic of Congo | Concern Worldwide",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/wash-learning-paper-promoting-hygiene-idp-settings-through-soap-making-initiatives-democratic-republic-congo-concern-worldwide",
-      "summary": "Country: Democratic Republic of the Congo Source: Concern Worldwide Please refer to the attached file. This learning paper examines how soap-making when integrated with hygiene-focused behaviour promotion, contributed to improved access to soap and reinforced handwashing practices in a highly constrained Internally Displaced Persons (IDP) setting. Context Handwashing with soap remains one of the most effective measures for reducing the incidence of diarrhoeal and respiratory diseases. According ",
-      "published": "2026-06-12T12:33:05+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Why the economics make this the craziest World Cup ever",
-      "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-      "summary": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
-      "published": "2026-06-11T23:07:52+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Four days of extreme rain killed 7% of world's rarest orangutans, study says",
-      "url": "https://www.bbc.com/news/articles/ce8jde20v83o?at_medium=RSS&at_campaign=rss",
-      "summary": "Climate change-induced weather events are pushing orangutan populations to extinction, says a study.",
-      "published": "2026-06-11T15:02:34+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167697",
-      "summary": "Three Indian seafarers were killed in an attack on an oil tanker near the Strait of Hormuz on Wednesday, as renewed hostilities in one of the world’s most critical shipping corridors once again heightened concern over food security, fuel prices and broken global supply chains.",
-      "published": "2026-06-11T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
-      "published": "2026-06-11T17:43:52+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis). According to a detailed report",
-      "published": "2026-06-11T16:50:47+00:00",
-      "score": 12
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Cited 9 June 2026: Europe’s ‘exceptional’ heatwave | Warming forecast | AMOC observations ‘at risk’",
-      "url": "https://www.carbonbrief.org/cited-9-june-2026-europes-exceptional-heatwave-warming-forecast-amoc-observations-at-risk/",
-      "summary": "Welcome to Cited, your essential guide to new climate research. In the news SPRING HEATWAVE:... The post Cited 9 June 2026: Europe’s ‘exceptional’ heatwave | Warming forecast | AMOC observations ‘at risk’ appeared first on Carbon Brief .",
-      "published": "2026-06-09T14:44:36+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "IOM Transhumance Tracking Tool (TTT) CRR-S, CRR-N, NBR, LRR REGIONS, The Gambia - Early Warning and Early Response Dashboard 1 (November 2025 - March 2026)",
-      "url": "https://reliefweb.int/report/gambia/iom-transhumance-tracking-tool-ttt-crr-s-crr-n-nbr-lrr-regions-gambia-early-warning-and-early-response-dashboard-1-november-2025-march-2026",
-      "summary": "Country: Gambia Source: International Organization for Migration Please refer to the attached Infographic. Through its Displacement Tracking Matrix (DTM), IOM developed the Transhumance Tracking Tool (TTT) to monitor transhumance movements and related vulnerabilities in the four regions and to support peaceful transhumance practices. Over the five-month period from November 2025 to March 2026, the TTT early warning system captured 151 alerts through trained enumerators, key informants, community",
-      "published": "2026-06-12T13:33:07+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Tchad : Présence opérationnelle des partenaires à L’Est (3W) Janvier 2026",
-      "url": "https://reliefweb.int/report/chad/tchad-presence-operationnelle-des-partenaires-lest-3w-janvier-2026",
-      "summary": "Country: Chad Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. L’outil 3W est développé par OCHA pour une meilleure visibilité des partenaires humanitaires sur le terrain. Les informations utilisées dans ce produit sont issues des mécanismes de coordination.",
-      "published": "2026-06-12T11:15:30+00:00",
-      "score": 12
+      "title": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167714",
+      "summary": "The humanitarian situation in Lebanon is being pushed further into crisis as hostilities continue between Israeli forces and Hezbollah militants – and essential services and healthcare are targeted.",
+      "published": "2026-06-12T12:00:00+00:00",
+      "score": 11
     },
     {
       "source": "UN News",
@@ -205,57 +116,66 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Human rights are part of our DNA’: UN launches global alliance to counter rising threats",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167698",
-      "summary": "The UN human rights office (OHCHR) has launched a Global Alliance for Human Rights, a broad coalition aimed at placing the issue at the heart of decision-making, when conflict levels have reached a record high amid deepening inequality and accelerating climate change.",
-      "published": "2026-06-11T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘The day never stops’ for aid workers braving missiles and drones in Ukraine",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167690",
-      "summary": "As Russia’s full-scale invasion of Ukraine enters its fifth year, conditions in southern Ukraine have rapidly deteriorated. Maintaining humanitarian operations has become an increasingly complex balancing act between enabling aid delivery and managing risk.",
-      "published": "2026-06-10T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
+      "published": "2026-06-12T15:32:54+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Hubble Sees Swarm of Galaxies",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
-      "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
-      "published": "2026-06-12T11:34:50+00:00",
+      "title": "NASA Award Boosts Space Technology Research Capabilities",
+      "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
+      "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]",
+      "published": "2026-06-11T21:14:44+00:00",
       "score": 11
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-      "summary": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]",
-      "published": "2026-06-11T20:41:44+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
+      "published": "2026-06-12T12:04:33+00:00",
       "score": 11
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Career Technical Education Day Highlights Technical Careers",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/",
-      "summary": "At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in advancing the agency’sresearch and missions, applying hands-on expertise across engineering, fabrication,electronics, and countless other technical fields. To help cultivate the next generation of technical talent, NASA’s Office of STEM Engagementhosted Career Technical Education […]",
-      "published": "2026-06-11T16:21:11+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+      "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
+      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more",
+      "published": "2026-06-12T11:00:00+00:00",
       "score": 11
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA, USGS Scientists Go Rock Hounding in California’s High Desert",
-      "url": "https://www.nasa.gov/science-research/earth-science/nasa-usgs-scientists-go-rock-hounding-in-californias-high-desert/",
-      "summary": "Equipped with rock picks and hand lenses, a team of geoscientists deployed to the Mojave Desert recently to investigate a tantalizing “fingerprint” detected by a NASA sensor. Their target: a cache of topaz hiding in plain sight. The geologists weren’t searching for gem-grade treasure. Rather, the presence of topaz could hint at a more valuable […]",
-      "published": "2026-06-11T15:38:31+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+      "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
+      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications. \"An SQL injection in LangGraph's function could",
+      "published": "2026-06-12T09:50:36+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+      "url": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
+      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the",
+      "published": "2026-06-12T06:38:41+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on",
+      "published": "2026-06-11T17:46:32+00:00",
       "score": 11
     },
     {
@@ -268,31 +188,220 @@
       "score": 11
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Kyrgyzstan: Heatwave - Early Action Protocol Annual Report (MDRKG016), January - December 2025",
-      "url": "https://reliefweb.int/report/kyrgyzstan/kyrgyzstan-heatwave-early-action-protocol-annual-report-mdrkg016-january-december-2025",
-      "summary": "Country: Kyrgyzstan Source: International Federation of Red Cross and Red Crescent Societies Please refer to the attached file. The IFRC Disaster Response Emergency Fund (DREF) has allocated CHF 499’151 for the implementation anticipatory actions to reduce and mitigate the impact of Heat Wave in Kyrgyzstan. This Early Action Protocol includes an allocation of CHF 239’078 to preposition stock and undertake annual readiness activities in order to implement early actions, if and when the trigger is",
-      "published": "2026-06-12T13:55:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Tchad : Présence physique des partenaires (Qui a un bureau où?) Janvier 2026",
-      "url": "https://reliefweb.int/report/chad/tchad-presence-physique-des-partenaires-qui-un-bureau-ou-janvier-2026",
-      "summary": "Country: Chad Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
-      "published": "2026-06-12T11:04:18+00:00",
-      "score": 11
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Fans on concourses instead of in seats, claims Fifa",
+      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
+      "published": "2026-06-12T20:26:23+00:00",
+      "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Spain prodigy Lamine Yamal named UN Goodwill Ambassador on World Cup opening day",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167695",
-      "summary": "The biggest-ever football World Cup begins on Thursday, across three countries and two continents, with over 100 games. The UN is raising awareness of the game’s powerful capacity to serve as a platform for sustainable development and social justice.",
-      "published": "2026-06-11T12:00:00+00:00",
+      "title": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
+      "summary": "The United Nations continues to monitor developments amid conflicting reports on Friday of a possible ceasefire deal between the United States and Iran, the Spokesperson for the Secretary-General said in New York.",
+      "published": "2026-06-12T12:00:00+00:00",
       "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167710",
+      "summary": "External funding cuts, a backlash against human rights, and chronic under-investment in HIV prevention and community services are threatening to reverse years of hard-won progress in the AIDS response, a UN report warned on Friday.",
+      "published": "2026-06-12T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
+      "published": "2026-06-12T19:33:25+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
+      "published": "2026-06-11T17:43:52+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Cited 9 June 2026: Europe’s ‘exceptional’ heatwave | Warming forecast | AMOC observations ‘at risk’",
+      "url": "https://www.carbonbrief.org/cited-9-june-2026-europes-exceptional-heatwave-warming-forecast-amoc-observations-at-risk/",
+      "summary": "Welcome to Cited, your essential guide to new climate research. In the news SPRING HEATWAVE:... The post Cited 9 June 2026: Europe’s ‘exceptional’ heatwave | Warming forecast | AMOC observations ‘at risk’ appeared first on Carbon Brief .",
+      "published": "2026-06-09T14:44:36+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+      "published": "2026-06-13T05:00:04+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "More time needed for deadly Air India crash inquiry, officials say",
+      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
+      "published": "2026-06-12T15:09:40+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+      "published": "2026-06-11T13:26:24+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167715",
+      "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remaining work of the international tribunals for Rwanda and the former Yugoslavia, as members debated how to preserve its legacy while bringing its mandate to an orderly close.",
+      "published": "2026-06-12T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll as funding falls",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167708",
+      "summary": "Yemen remains gripped by one of the world’s worst humanitarian crises, with 22 million – out of a population of 35 million – requiring assistance. Women and girls account for half of those in need, and two-thirds of them are of childbearing age, placing reproductive health at the heart of the emergency.",
+      "published": "2026-06-12T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens refugee protection, demand for ‘critical minerals’ intensifies",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167712",
+      "summary": "Haiti has opened its first State-supported safe house for survivors of sexual violence with support from the UN, marking a significant step in responding to the growing crisis affecting women and girls.",
+      "published": "2026-06-12T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Black Eye Galaxy",
+      "url": "https://www.nasa.gov/image-article/black-eye-galaxy/",
+      "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
+      "published": "2026-06-12T13:59:55+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Hubble Sees Swarm of Galaxies",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
+      "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
+      "published": "2026-06-12T11:34:50+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
+      "summary": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]",
+      "published": "2026-06-11T20:41:44+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Career Technical Education Day Highlights Technical Careers",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/",
+      "summary": "At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in advancing the agency’sresearch and missions, applying hands-on expertise across engineering, fabrication,electronics, and countless other technical fields. To help cultivate the next generation of technical talent, NASA’s Office of STEM Engagementhosted Career Technical Education […]",
+      "published": "2026-06-11T16:21:11+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the…",
+      "published": "2026-06-11T12:10:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 12 June 2026: El Niño begins | COP31 hosts eye electrification | Atlantic current monitoring at risk",
+      "url": "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 12 June 2026: El Niño begins | COP31 hosts eye electrification | Atlantic current monitoring at risk appeared first on Carbon Brief .",
+      "published": "2026-06-12T13:32:28+00:00",
+      "score": 9
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "China Briefing 11 June 2026: Tech clampdown | Extreme weather | Provinces’ energy plans",
+      "url": "https://www.carbonbrief.org/china-briefing-11-june-2026-tech-clampdown-extreme-weather-provinces-energy-plans/",
+      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 11 June 2026: Tech clampdown | Extreme weather | Provinces’ energy plans appeared first on Carbon Brief .",
+      "published": "2026-06-11T14:04:21+00:00",
+      "score": 9
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump",
+      "url": "https://www.carbonbrief.org/debriefed-5-june-2026-uk-eyes-2040-emissions-cut-us-dismantling-oceans-research-chinas-solar-slump/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 5 June 2026: UK eyes 2040 emissions cut | US ‘dismantling’ oceans research | China’s solar slump appeared first on Carbon Brief .",
+      "published": "2026-06-05T13:35:57+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "King leads tributes to 'giant of the art world' David Hockney",
+      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says.",
+      "published": "2026-06-12T19:10:14+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167707",
+      "summary": "More civilians were killed and injured in Ukraine in May than in any other month in the past four years, UN investigators said on Friday in their latest update.",
+      "published": "2026-06-12T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "WHO report shows progress in blood safety, but there are worrying gaps",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167703",
+      "summary": "Every day, safe blood helps save the lives of women experiencing childbirth complications, accident victims, cancer patients and people living with chronic diseases. Yet despite decades of progress, access to lifesaving blood remains deeply unequal, with shortages continuing to put lives at risk in many lower-income countries, according to a new World Health Organization (WHO) report.",
+      "published": "2026-06-12T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700",
+      "summary": "Hate speech is a grave and growing threat to peace and security, Secretary-General António Guterres warned on Thursday, calling for urgent action to break a cycle that can lead to genocide and other atrocity crimes.",
+      "published": "2026-06-11T12:00:00+00:00",
+      "score": 8
     },
     {
       "source": "NASA Breaking News",
@@ -301,115 +410,7 @@
       "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/",
       "summary": "Listen to this audio excerpt from Elkin Norena, resident management officer, NASA’s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build […]",
       "published": "2026-06-11T20:07:33+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Soccer Meets Space Science",
-      "url": "https://www.nasa.gov/image-article/soccer-meets-space-science/",
-      "summary": "A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard […]",
-      "published": "2026-06-11T16:55:12+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
-      "published": "2026-06-12T12:10:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
-      "published": "2026-06-12T09:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "url": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull. Yet it knows when the wind lifts the hairs on your skin, when your heart is…",
-      "published": "2026-06-12T09:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "url": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory until June 10, so the bug was a",
-      "published": "2026-06-11T20:29:23+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials. The bigger problem is how polished this all looks now. Mule networks run like SaaS.",
-      "published": "2026-06-11T13:20:41+00:00",
-      "score": 10
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Evaluation Rapide Multisectorielle (ERM) : Date de l'évaluation : 30/05/2026 au 08/06/2026 Communes : Haute Feuille, Niel, Acul Baster, Lotbò Fòse | 1ère section Villars, 2ème section Fosse Naboth | Dessalines",
-      "url": "https://reliefweb.int/report/haiti/haiti-evaluation-rapide-multisectorielle-erm-date-de-levaluation-30052026-au-08062026-communes-haute-feuille-niel-acul-baster-lotbo-fose-1ere-section-villars-2eme-section-fosse-naboth-dessalines",
-      "summary": "Country: Haiti Sources: Agency for Technical Cooperation and Development, AVSI Foundation – ETS, IMPACT Initiatives, REACH Initiative Please refer to the attached file. Aperçu du choc et contexte A la suite des attaques survenues le samedi 2 mai 2026 dans les communes de Marchand Dessalines (localités : Grand Bérard, Beau Fort et Lacouture) et Petite-Rivière-de-l'Artibonite (localité : Pitralle), d'importants mouvements de populations ont été observés et documentés par l'ETT 92 (OIM), selon laqu",
-      "published": "2026-06-12T12:51:44+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A statement said \"significant progress\" had been made into investigating the crash which left 260 people dead a year ago.",
-      "published": "2026-06-12T13:58:08+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-      "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
-      "summary": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
-      "published": "2026-06-12T00:45:20+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
-      "published": "2026-06-12T05:01:48+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
-      "url": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nigeria is the latest African state to repatriate citizens following reports of xenophobic attacks.",
-      "published": "2026-06-11T16:25:17+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Pope Leo visits Canary Islands to highlight perilous journeys of migrants",
-      "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pope is appealing for a humane approach and respectful welcome for migrants seeking a better life.",
-      "published": "2026-06-11T17:04:16+00:00",
-      "score": 9
+      "score": 8
     }
   ]
 }
