@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T13:18:06.412673+00:00",
-  "date": "2026-06-13",
+  "generated_at": "2026-06-14T13:22:43.824986+00:00",
+  "date": "2026-06-14",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
@@ -10,92 +10,29 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Anthropic suspends new AI tools over US government security concerns",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
-      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
-      "published": "2026-06-13T03:54:01+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
-      "published": "2026-06-12T18:59:32+00:00",
+      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
+      "published": "2026-06-13T23:19:52+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
-      "published": "2026-06-13T11:15:18+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
       "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
       "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "published": "2026-06-13T04:09:07+00:00",
+      "published": "2026-06-14T06:39:29+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-      "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-      "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns. The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
-      "published": "2026-06-13T05:42:50+00:00",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
+      "published": "2026-06-13T13:23:03+00:00",
       "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
-      "published": "2026-06-12T18:17:55+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Switzerland to vote on plan to cap population at 10 million",
-      "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-      "summary": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\", but opponents say it is a recipe for chaos.",
-      "published": "2026-06-13T11:47:42+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
-      "published": "2026-06-12T22:00:52+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
-      "url": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO.",
-      "published": "2026-06-13T03:28:25+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "French town buries murdered child as questions mount over police failings",
-      "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-      "summary": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
-      "published": "2026-06-12T16:19:12+00:00",
-      "score": 11
     },
     {
       "source": "UN News",
@@ -107,30 +44,21 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Turk condemns Northern Ireland riots, jobs at risk over animal disease spread, heatwaves spark public health crisis in Europe",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167701",
-      "summary": "Violence spread across Belfast following a shocking knife attack allegedly carried out by a Sudanese asylum seeker on Monday, triggering a wave of anti-immigration unrest. The victim suffered significant injuries to his face and back.",
-      "published": "2026-06-11T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
-      "published": "2026-06-12T15:32:54+00:00",
-      "score": 11
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
       "title": "NASA Award Boosts Space Technology Research Capabilities",
       "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
       "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]",
       "published": "2026-06-11T21:14:44+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "url": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
+      "published": "2026-06-12T18:59:32+00:00",
       "score": 11
     },
     {
@@ -179,21 +107,66 @@
       "score": 11
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Guest post: How a record-high ‘energy imbalance’ is driving global warming",
-      "url": "https://www.carbonbrief.org/guest-post-how-a-record-high-energy-imbalance-is-driving-global-warming/",
-      "summary": "The planet is heating up more quickly than ever before. For decades, greenhouse gas emissions... The post Guest post: How a record-high ‘energy imbalance’ is driving global warming appeared first on Carbon Brief .",
-      "published": "2026-06-10T22:01:00+00:00",
-      "score": 11
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+      "published": "2026-06-14T11:23:36+00:00",
+      "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Fans on concourses instead of in seats, claims Fifa",
-      "url": "https://www.bbc.com/sport/football/articles/c14y0dp6vrdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fifa says numerous empty seats were visible in the near-sell-out Group A match between South Korea and the Czech Republic because of fans remaining on concourses.",
-      "published": "2026-06-12T20:26:23+00:00",
+      "title": "Swiss voters reject 10 million population cap, early projections say",
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+      "published": "2026-06-14T11:31:32+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
+      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
+      "published": "2026-06-14T12:04:54+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
+      "url": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
+      "published": "2026-06-13T23:11:28+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Armed men kidnap high-ranking security official in Haiti",
+      "url": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss",
+      "summary": "James Boyard's abduction is the highest-ranking abduction in the violence-wracked country in recent years, according to reports.",
+      "published": "2026-06-14T08:07:55+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump's name removed from Kennedy Center after court order",
+      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
+      "published": "2026-06-13T17:00:23+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167684",
+      "summary": "The odyssey begins in Indonesia and ends, 15,000 kilometres later, in Kabul, the capital of Afghanistan. Along the way, critical food aid destined for young Afghan students crosses nine countries, over land and sea, skirting geopolitical unrest and conflict zones.",
+      "published": "2026-06-13T12:00:00+00:00",
       "score": 10
     },
     {
@@ -217,19 +190,19 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
-      "published": "2026-06-12T19:33:25+00:00",
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+      "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns. The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
+      "published": "2026-06-13T05:42:50+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
-      "published": "2026-06-11T17:43:52+00:00",
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
+      "published": "2026-06-12T18:17:55+00:00",
       "score": 10
     },
     {
@@ -244,19 +217,28 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-      "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
-      "published": "2026-06-13T05:00:04+00:00",
+      "title": "New York Knicks win NBA championship for first time in over 50 years",
+      "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss",
+      "summary": "The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series.",
+      "published": "2026-06-14T07:21:26+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "More time needed for deadly Air India crash inquiry, officials say",
-      "url": "https://www.bbc.com/news/articles/cnv93899vzqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A statement says \"significant progress\" has been made into investigating the crash, in which 260 people died a year ago.",
-      "published": "2026-06-12T15:09:40+00:00",
+      "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
+      "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+      "published": "2026-06-14T01:08:20+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Kidnapped Nigerian retired general dies in captivity",
+      "url": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
+      "published": "2026-06-13T15:25:09+00:00",
       "score": 9
     },
     {
@@ -296,12 +278,21 @@
       "score": 9
     },
     {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Turk condemns Northern Ireland riots, jobs at risk over animal disease spread, heatwaves spark public health crisis in Europe",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167701",
+      "summary": "Violence spread across Belfast following a shocking knife attack allegedly carried out by a Sudanese asylum seeker on Monday, triggering a wave of anti-immigration unrest. The victim suffered significant injuries to his face and back.",
+      "published": "2026-06-11T12:00:00+00:00",
+      "score": 9
+    },
+    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Black Eye Galaxy",
-      "url": "https://www.nasa.gov/image-article/black-eye-galaxy/",
-      "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy, is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized […]",
-      "published": "2026-06-12T13:59:55+00:00",
+      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
+      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
+      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
+      "published": "2026-06-12T15:32:54+00:00",
       "score": 9
     },
     {
@@ -332,30 +323,21 @@
       "score": 9
     },
     {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside soccer’s data renaissance Imagine tuning in to the opening kickoff of a World Cup match and seeing a player intentionally kick the ball out of bounds. You may question the…",
-      "published": "2026-06-11T12:10:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "DeBriefed 12 June 2026: El Niño begins | COP31 hosts eye electrification | Atlantic current monitoring at risk",
-      "url": "https://www.carbonbrief.org/debriefed-12-june-2026-el-nino-begins-cop31-hosts-eye-electrification-atlantic-current-monitoring-at-risk/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 12 June 2026: El Niño begins | COP31 hosts eye electrification | Atlantic current monitoring at risk appeared first on Carbon Brief .",
-      "published": "2026-06-12T13:32:28+00:00",
-      "score": 9
-    },
-    {
       "source": "Carbon Brief",
       "category": "Umwelt",
       "title": "China Briefing 11 June 2026: Tech clampdown | Extreme weather | Provinces’ energy plans",
       "url": "https://www.carbonbrief.org/china-briefing-11-june-2026-tech-clampdown-extreme-weather-provinces-energy-plans/",
       "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 11 June 2026: Tech clampdown | Extreme weather | Provinces’ energy plans appeared first on Carbon Brief .",
       "published": "2026-06-11T14:04:21+00:00",
+      "score": 9
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Guest post: How a record-high ‘energy imbalance’ is driving global warming",
+      "url": "https://www.carbonbrief.org/guest-post-how-a-record-high-energy-imbalance-is-driving-global-warming/",
+      "summary": "The planet is heating up more quickly than ever before. For decades, greenhouse gas emissions... The post Guest post: How a record-high ‘energy imbalance’ is driving global warming appeared first on Carbon Brief .",
+      "published": "2026-06-10T22:01:00+00:00",
       "score": 9
     },
     {
@@ -370,10 +352,10 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "King leads tributes to 'giant of the art world' David Hockney",
-      "url": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The artist, who has died at the age of 88, \"was one of life's true originals\", King Charles says.",
-      "published": "2026-06-12T19:10:14+00:00",
+      "title": "Fifa to pay Somali referee Artan full World Cup fee",
+      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
+      "published": "2026-06-14T09:00:08+00:00",
       "score": 8
     },
     {
@@ -395,21 +377,39 @@
       "score": 8
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700",
-      "summary": "Hate speech is a grave and growing threat to peace and security, Secretary-General António Guterres warned on Thursday, calling for urgent action to break a cycle that can lead to genocide and other atrocity crimes.",
-      "published": "2026-06-11T12:00:00+00:00",
-      "score": 8
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
       "title": "I Am Artemis: Elkin Norena",
       "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/",
       "summary": "Listen to this audio excerpt from Elkin Norena, resident management officer, NASA’s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build […]",
       "published": "2026-06-11T20:07:33+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Soccer Meets Space Science",
+      "url": "https://www.nasa.gov/image-article/soccer-meets-space-science/",
+      "summary": "A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard […]",
+      "published": "2026-06-11T16:55:12+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
+      "published": "2026-06-12T12:10:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
+      "published": "2026-06-12T09:00:00+00:00",
       "score": 8
     }
   ]
