@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T13:22:43.824986+00:00",
-  "date": "2026-06-14",
+  "generated_at": "2026-06-15T16:48:52.401098+00:00",
+  "date": "2026-06-15",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
@@ -8,48 +8,129 @@
   ],
   "articles": [
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
-      "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
-      "published": "2026-06-13T23:19:52+00:00",
-      "score": 13
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new solid-state ACs promise a cool future. Scientists aren’t so sure. After three years of record-­breaking heat and another scorcher underway, air-conditioning isn’t going anywhere. That’s good for our health,…",
+      "published": "2026-06-15T12:10:00+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
+      "published": "2026-06-15T13:49:29+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts",
+      "url": "https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html",
+      "summary": "Cybersecurity researchers have disclosed details of fraudulent activity targeting users across the Middle East and North Africa by employing various fraudulent Facebook accounts impersonating politicians, public figures, and trusted organizations. \"These accounts promoted fake offers, including free mobile internet packages, financial compensation, and government subsidy programs,\" Group-IB",
+      "published": "2026-06-15T06:30:22+00:00",
+      "score": 14
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
-      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
-      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
-      "published": "2026-06-14T06:39:29+00:00",
+      "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+      "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+      "published": "2026-06-15T12:07:36+00:00",
+      "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Ukraine: Latest Russian attack kills civilians, damages cultural landmark",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167718",
+      "summary": "Several civilians were killed and dozens more were injured in the latest wave of overnight attacks in Ukraine that targeted the capital Kyiv, the city of Kharkiv and the country’s history and cultural heritage, the United Nations said on Monday.",
+      "published": "2026-06-15T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Frontiers Forum Speaker Series",
+      "url": "https://www.nasa.gov/general/frontiers-forum-speaker-series/",
+      "summary": "Voices Shaping the Future of Space Members of the public are invited to join some of NASA’s brightest minds as they discuss agency missions and current topics in aerospace technology, science, and innovation. Each event will feature NASA experts, and the series will cover a range of topics including our search for life within the […]",
+      "published": "2026-06-15T16:23:29+00:00",
+      "score": 12
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
+      "summary": "NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m. EDT Monday, June 22, to discuss his upcoming mission to the International Space Station as part of Expeditions 74/75. The virtual interviews will take place from the Gagarin Cosmonaut Training Center in Star City, Russia, and will stream live on […]",
+      "published": "2026-06-15T15:02:04+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.…",
+      "published": "2026-06-15T09:00:00+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
-      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
-      "published": "2026-06-13T13:23:03+00:00",
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+      "url": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
+      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
+      "published": "2026-06-15T15:09:05+00:00",
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167714",
-      "summary": "The humanitarian situation in Lebanon is being pushed further into crisis as hostilities continue between Israeli forces and Hezbollah militants – and essential services and healthcare are targeted.",
-      "published": "2026-06-12T12:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
+      "url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family. The cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowgames[.]com, and chromewallpaper[.]com. They have been collectively installed 105,000 times. The",
+      "published": "2026-06-15T11:07:50+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+      "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
+      "summary": "Palo Alto Networks has revealed that it has observed \"active exploitation\" of a recently disclosed PAN-OS vulnerability by an unknown threat actor to obtain unauthorized access to GlobalProtect portals. The vulnerability in question is CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway components of PAN-OS software that could be exploited by bad",
+      "published": "2026-06-15T06:17:32+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+      "published": "2026-06-15T14:26:28+00:00",
       "score": 11
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Award Boosts Space Technology Research Capabilities",
-      "url": "https://www.nasa.gov/learning-resources/stem-engagement-at-nasa/murep/nasa-award-boosts-space-technology-research-capabilities/",
-      "summary": "NASA is introducing a new funding opportunity to accelerate academic research and technology development. The Minority University Research and Education Project Space Technology Artemis Research (M‑STAR) application window opened Thursday and will remain open through 11:59 p.m. EDT on Tuesday, Aug. 11. The research funded through this award supports the agency’s priorities for exploring the […]",
-      "published": "2026-06-11T21:14:44+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "China detains two leaders of influential underground church",
+      "url": "https://www.bbc.com/news/articles/ce9582vlm83o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
+      "published": "2026-06-15T07:56:43+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+      "url": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
+      "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,",
+      "published": "2026-06-15T11:30:00+00:00",
       "score": 11
     },
     {
@@ -62,102 +143,57 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
-      "published": "2026-06-12T12:04:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
-      "url": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
-      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more",
-      "published": "2026-06-12T11:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
-      "url": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
-      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications. \"An SQL injection in LangGraph's function could",
-      "published": "2026-06-12T09:50:36+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "url": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the",
-      "published": "2026-06-12T06:38:41+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "url": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on",
-      "published": "2026-06-11T17:46:32+00:00",
-      "score": 11
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
-      "published": "2026-06-14T11:23:36+00:00",
+      "title": "Norwegian crown princess's son found guilty of two counts of rape",
+      "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
+      "published": "2026-06-15T16:00:32+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Swiss voters reject 10 million population cap, early projections say",
+      "title": "South Korea's Starbucks to shut for staff history lesson after backlash",
+      "url": "https://www.bbc.com/news/articles/ckg4n3pyjg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The chain was criticised for a \"Tank Day\" marketing ploy on the anniversary of a military massacre.",
+      "published": "2026-06-15T12:37:27+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US musician Oliver Tree dies in helicopter collision in Brazil",
+      "url": "https://www.bbc.com/news/articles/cqj1dd5rgnzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The singer-songwriter is among six people presumed dead in air crash over Rio de Janeiro on Sunday.",
+      "published": "2026-06-15T06:47:23+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Swiss voters reject 10 million population cap",
       "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
-      "published": "2026-06-14T11:31:32+00:00",
+      "summary": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+      "published": "2026-06-14T18:23:52+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Tourist train overturns and injures 17 during Cártama tapas festival",
-      "url": "https://www.bbc.com/news/articles/c14yn10jzyeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nobody was seriously hurt as a result of the accident in the Spanish town, local authorities say.",
-      "published": "2026-06-14T12:04:54+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Sudan civilians trapped by fear, disappearance and detention: rights experts",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167719",
+      "summary": "As Sudan’s conflict enters a fourth year, civilians are increasingly trapped not only by frontline violence but by fear, disappearance and detention, according to an update by the Independent International Fact-Finding Mission for the Sudan to the 62nd Session of the UN Human Rights Council in Geneva on Monday.",
+      "published": "2026-06-15T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Norway braces for verdict in rape trial of crown princess's son Høiby",
-      "url": "https://www.bbc.com/news/articles/cd95xvk4vn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Marius Borg Høiby will appear via video link, almost three months after his trial came to an end on 40 charges, including four counts of rape.",
-      "published": "2026-06-13T23:11:28+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Armed men kidnap high-ranking security official in Haiti",
-      "url": "https://www.bbc.com/news/articles/cz9le087414o?at_medium=RSS&at_campaign=rss",
-      "summary": "James Boyard's abduction is the highest-ranking abduction in the violence-wracked country in recent years, according to reports.",
-      "published": "2026-06-14T08:07:55+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump's name removed from Kennedy Center after court order",
-      "url": "https://www.bbc.com/news/articles/c5yzd4dgxw4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Crews erected scaffolding on Friday as onlookers gathered into the evening, though storms delayed the work until Saturday.",
-      "published": "2026-06-13T17:00:23+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
+      "summary": "As representatives of Iran and the United States reportedly prepared to sign a new peace agreement at the end of the week, the UN on Monday stressed the urgent need to open an aid corridor to transit the choked-off Strait of Hormuz and prevent a global hunger crisis.",
+      "published": "2026-06-15T12:00:00+00:00",
       "score": 10
     },
     {
@@ -170,21 +206,30 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
-      "summary": "The United Nations continues to monitor developments amid conflicting reports on Friday of a possible ceasefire deal between the United States and Iran, the Spokesperson for the Secretary-General said in New York.",
-      "published": "2026-06-12T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Experience the Launch of NASA’s Roman Space Telescope",
+      "url": "https://www.nasa.gov/social-media/nasa-socials-program/experience-the-launch-of-nasas-roman-space-telescope/",
+      "summary": "Are you ready for a new view of the universe? The Nancy Grace Roman Space Telescope will reveal distant worlds, dark energy, and the structure of the cosmos, and we want you to be a part of it! Digital creators and social media users are invited to register to our NASA Social for the Nancy […]",
+      "published": "2026-06-15T14:28:36+00:00",
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167710",
-      "summary": "External funding cuts, a backlash against human rights, and chronic under-investment in HIV prevention and community services are threatening to reverse years of hard-won progress in the AIDS response, a UN report warned on Friday.",
-      "published": "2026-06-12T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "summary": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is paralyzed, first used his brain-computer interface (BCI) to “speak” sentences with the help of a research team in 2023. Since then, Harrell has clocked thousands of hours of use. He…",
+      "published": "2026-06-15T15:12:28+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "summary": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
+      "published": "2026-06-13T13:23:03+00:00",
       "score": 10
     },
     {
@@ -217,118 +262,73 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "New York Knicks win NBA championship for first time in over 50 years",
-      "url": "https://www.bbc.com/news/articles/c78yw4zw19do?at_medium=RSS&at_campaign=rss",
-      "summary": "The Knicks clinched the title against the San Antonio Spurs, 94-90, in the fifth game of the best-of-seven series.",
-      "published": "2026-06-14T07:21:26+00:00",
+      "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+      "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
+      "published": "2026-06-15T10:24:09+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Author Chimamanda Adichie accuses hospital of stalling review into son's death",
-      "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
-      "published": "2026-06-14T01:08:20+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Kidnapped Nigerian retired general dies in captivity",
-      "url": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Maj Gen Rabe Abubakar's death highlights continuing security challenges facing parts of the country.",
-      "published": "2026-06-13T15:25:09+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "El Niño under way and threatens weather extremes, scientists say",
-      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "summary": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-      "published": "2026-06-11T13:26:24+00:00",
+      "title": "South African TV star arrested after allegedly kidnapping man in girlfriend dispute",
+      "url": "https://www.bbc.com/news/articles/crelw9xwvr7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Molemo \"Jub Jub\" Maarohanye is accused of trapping a taxi driver in a car and firing a gun in the man's direction.",
+      "published": "2026-06-15T10:21:10+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167715",
-      "summary": "The Security Council on Friday weighed the future of the UN mechanism responsible for completing the remaining work of the international tribunals for Rwanda and the former Yugoslavia, as members debated how to preserve its legacy while bringing its mandate to an orderly close.",
+      "title": "Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167716",
+      "summary": "UN Secretary General António Guterres welcomed on Sunday a new peace deal between the United States and Iran, calling it a “critical step” toward ending the conflict.",
+      "published": "2026-06-14T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167714",
+      "summary": "The humanitarian situation in Lebanon is being pushed further into crisis as hostilities continue between Israeli forces and Hezbollah militants – and essential services and healthcare are targeted.",
       "published": "2026-06-12T12:00:00+00:00",
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Women and girls caught up in Yemen’s ‘forgotten crisis’ bear the heaviest toll as funding falls",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167708",
-      "summary": "Yemen remains gripped by one of the world’s worst humanitarian crises, with 22 million – out of a population of 35 million – requiring assistance. Women and girls account for half of those in need, and two-thirds of them are of childbearing age, placing reproductive health at the heart of the emergency.",
-      "published": "2026-06-12T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens refugee protection, demand for ‘critical minerals’ intensifies",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167712",
-      "summary": "Haiti has opened its first State-supported safe house for survivors of sexual violence with support from the UN, marking a significant step in responding to the growing crisis affecting women and girls.",
-      "published": "2026-06-12T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Turk condemns Northern Ireland riots, jobs at risk over animal disease spread, heatwaves spark public health crisis in Europe",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167701",
-      "summary": "Violence spread across Belfast following a shocking knife attack allegedly carried out by a Sudanese asylum seeker on Monday, triggering a wave of anti-immigration unrest. The victim suffered significant injuries to his face and back.",
-      "published": "2026-06-11T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "San Francisco’s Patchwork Streets",
+      "url": "https://www.nasa.gov/image-article/san-franciscos-patchwork-streets/",
+      "summary": "An astronaut aboard the International Space Station took this picture of downtown San Francisco and nearby communities on May 27, 2026. The image captures two of the region’s iconic bridges. The Golden Gate Bridge connects the northern San Francisco Peninsula with Marin County to the north, while the San Francisco-Oakland Bay Bridge spans the bay toward […]",
+      "published": "2026-06-15T14:30:31+00:00",
       "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA to Cover 34th SpaceX Resupply Mission Space Station Departure",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-34th-spacex-resupply-mission-space-station-departure/",
-      "summary": "NASA and its international partners are set to receive scientific research samples and hardware as a SpaceX Dragon spacecraft is scheduled to depart the International Space Station on Tuesday, June 16, for its return to Earth. Watch NASA’s live undocking coverage beginning at 11:45 a.m. EDT on NASA+, Amazon Prime, and the agency’s YouTube channel. […]",
-      "published": "2026-06-12T15:32:54+00:00",
+      "title": "Metrics",
+      "url": "https://www.nasa.gov/centers-and-facilities/nssc/metrics/",
+      "summary": "Services Catalog Click here to view the FY26 Services Catalog The catalogs provide service description, chargeback rate, unit of measure, and service level indicators for each NSSC service. Service Level Agreement (SLA) Click here to view the Service Level Agreement The SLA provides information about roles, responsibilities, rates, and service level indicators for all NASA […]",
+      "published": "2026-06-15T13:57:24+00:00",
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Hubble Sees Swarm of Galaxies",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/",
-      "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
-      "published": "2026-06-12T11:34:50+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Chandra Discovers Possible Supernova Remnant in Galactic Center",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-discovers-possible-supernova-remnant-in-galactic-center/",
-      "summary": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant in an intriguing neighborhood in the middle of our galaxy. A paper describing these new findings published in The Astrophysical Journal. Supernova remnants are the expanding remains of exploded stars and provide elements – like iron, oxygen, and silicon – that […]",
-      "published": "2026-06-11T20:41:44+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Career Technical Education Day Highlights Technical Careers",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasas-career-technical-education-day-highlights-technical-careers/",
-      "summary": "At NASA, remaining a global leader in exploration and innovation includes having a skilledand dedicated workforce. Technicians play a critical role in advancing the agency’sresearch and missions, applying hands-on expertise across engineering, fabrication,electronics, and countless other technical fields. To help cultivate the next generation of technical talent, NASA’s Office of STEM Engagementhosted Career Technical Education […]",
-      "published": "2026-06-11T16:21:11+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
+      "url": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
+      "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites. When a site administrator was logged in as the file loaded, the code created an admin account under the attacker's control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it",
+      "published": "2026-06-15T09:59:38+00:00",
       "score": 9
     },
     {
       "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "China Briefing 11 June 2026: Tech clampdown | Extreme weather | Provinces’ energy plans",
-      "url": "https://www.carbonbrief.org/china-briefing-11-june-2026-tech-clampdown-extreme-weather-provinces-energy-plans/",
-      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 11 June 2026: Tech clampdown | Extreme weather | Provinces’ energy plans appeared first on Carbon Brief .",
-      "published": "2026-06-11T14:04:21+00:00",
+      "title": "Analysis: UK’s EV drivers are now saving £1,100 each a year – and £3bn in total",
+      "url": "https://www.carbonbrief.org/analysis-uks-ev-drivers-are-now-saving-1100-each-a-year-and-3bn-in-total/",
+      "summary": "Amid reports that the government could weaken the UK’s electric vehicle (EV) targets, Carbon Brief... The post Analysis: UK’s EV drivers are now saving £1,100 each a year – and £3bn in total appeared first on Carbon Brief .",
+      "published": "2026-06-15T15:26:38+00:00",
       "score": 9
     },
     {
@@ -352,64 +352,64 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Fifa to pay Somali referee Artan full World Cup fee",
-      "url": "https://www.bbc.com/sport/football/articles/c79y10r2plzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Somali referee Omar Artan, who was denied entry to the United States to officiate at the World Cup, will still receive his tournament fee from Fifa in full.",
-      "published": "2026-06-14T09:00:08+00:00",
+      "title": "'Spider-Man of Yemen' dies falling into volcanic crater",
+      "url": "https://www.bbc.com/news/articles/c39yvz9w8k3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Al-Qaqa Ibn Antar had been attempting to climb its walls without safety equipment when he fell in, local authorities say.",
+      "published": "2026-06-15T13:07:18+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Fifa seeks explanation over VAR official's hand gesture",
+      "url": "https://www.bbc.com/sport/football/articles/cy9rd8g1lwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifa is seeking an explanation over a hand gesture made by video assistant referee Shaun Evans before Germany's 7-1 win over Curacao on Sunday.",
+      "published": "2026-06-15T12:59:09+00:00",
       "score": 8
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167707",
-      "summary": "More civilians were killed and injured in Ukraine in May than in any other month in the past four years, UN investigators said on Friday in their latest update.",
+      "title": "Refugee turned peacemaker: The young woman leader transforming communities in the Central African Republic",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167705",
+      "summary": "In the heart of the Central African Republic (CAR), a nation long marked by conflict, Nina Mireille Yankinon stands as a symbol of resilience, leadership, and hope, dedicating her life to helping communities torn apart by war.",
+      "published": "2026-06-14T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN ‘encouraged’ by talk of possible US-Iran ceasefire deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167713",
+      "summary": "The United Nations continues to monitor developments amid conflicting reports on Friday of a possible ceasefire deal between the United States and Iran, the Spokesperson for the Secretary-General said in New York.",
       "published": "2026-06-12T12:00:00+00:00",
       "score": 8
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "WHO report shows progress in blood safety, but there are worrying gaps",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167703",
-      "summary": "Every day, safe blood helps save the lives of women experiencing childbirth complications, accident victims, cancer patients and people living with chronic diseases. Yet despite decades of progress, access to lifesaving blood remains deeply unequal, with shortages continuing to put lives at risk in many lower-income countries, according to a new World Health Organization (WHO) report.",
+      "title": "‘Perilous moment’ threatens to reverse years of gains in HIV/AIDS response",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167710",
+      "summary": "External funding cuts, a backlash against human rights, and chronic under-investment in HIV prevention and community services are threatening to reverse years of hard-won progress in the AIDS response, a UN report warned on Friday.",
       "published": "2026-06-12T12:00:00+00:00",
       "score": 8
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "I Am Artemis: Elkin Norena",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-elkin-norena/",
-      "summary": "Listen to this audio excerpt from Elkin Norena, resident management officer, NASA’s Space Launch System Program: NASA’s Elkin Norena has helped the agency launch more than a dozen space shuttle missions – that’s more than a dozen crews to low Earth orbit and more than a dozen historic missions. They were missions that helped build […]",
-      "published": "2026-06-11T20:07:33+00:00",
+      "title": "Pumice Rafts Encroach on Admiralty Islands",
+      "url": "https://science.nasa.gov/earth/earth-observatory/pumice-rafts-encroach-on-admiralty-islands/",
+      "summary": "Buoyant volcanic rock fragments from an underwater eruption drifted across the Bismarck Sea and choked island coasts.",
+      "published": "2026-06-15T04:01:00+00:00",
       "score": 8
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Soccer Meets Space Science",
-      "url": "https://www.nasa.gov/image-article/soccer-meets-space-science/",
-      "summary": "A soccer ball floats in microgravity in this March 2, 2026, picture from the International Space Station. The space station crew tested soccer balls to study how internal mass affects motion and stability in microgravity. The findings have improved understanding of how embedded technologies, including match-ball sensors, can influence performance during play. Through research aboard […]",
-      "published": "2026-06-11T16:55:12+00:00",
-      "score": 8
-    },
-    {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first…",
-      "published": "2026-06-12T12:10:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-      "summary": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball. The idea is to try to treat the disease—which can cause vision loss—by regenerating healthy nerves in the eye. But…",
-      "published": "2026-06-12T09:00:00+00:00",
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
+      "published": "2026-06-12T19:33:25+00:00",
       "score": 8
     }
   ]
