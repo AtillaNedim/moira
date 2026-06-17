@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-16T16:17:06.847594+00:00",
-  "date": "2026-06-16",
+  "generated_at": "2026-06-17T14:44:58.680647+00:00",
+  "date": "2026-06-17",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
@@ -9,172 +9,145 @@
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Suriname advances toward a national early warning system that protects everyone, in time",
-      "url": "https://reliefweb.int/report/suriname/suriname-advances-toward-national-early-warning-system-protects-everyone-time",
-      "summary": "Country: Suriname Source: UN Office for Disaster Risk Reduction Suriname is exposed to a range of hazards, including flooding, drought and wildfire, with heavy rains making flooding an increasingly frequent occurrence. While the country benefits from the absence of hurricanes and earthquakes, hazards associated with oil and gas extraction and with mining have affected communities directly. To date, Suriname has not had a comprehensive multi-hazard early warning system capable of reaching every p",
-      "published": "2026-06-16T13:33:05+00:00",
-      "score": 26
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Press Release: Government of South Sudan and United Nations reaffirm commitment to support 60,000 displaced people achieve sustainable solutions by end of 2026",
-      "url": "https://reliefweb.int/report/south-sudan/press-release-government-south-sudan-and-united-nations-reaffirm-commitment-support-60000-displaced-people-achieve-sustainable-solutions-end-2026",
-      "summary": "Country: South Sudan Source: UN Resident and Humanitarian Coordinator in South Sudan Please refer to the attached file. Juba, 16 June 2026 – The Government of South Sudan and the United Nations (UN) reaffirmed their commitment to ending protracted displacement for at least 60,000 South Sudanese by the end of this year at the second Steering Committee Meeting on Durable Solutions in Juba. Ministers and state-level authorities, alongside representatives of the UN, took stock of progress and challe",
-      "published": "2026-06-16T12:04:31+00:00",
+      "title": "Ukraine war situation update | 30 May – 5 June 2026",
+      "url": "https://reliefweb.int/report/ukraine/ukraine-war-situation-update-30-may-5-june-2026",
+      "summary": "Countries: Ukraine, Russian Federation Source: Armed Conflict Location & Event Data Detonation of drifted Ukrainian naval drone in a Romanian port adds to worries about the war’s expansion in the Black Sea. On 28 May, likely Ukrainian drones struck three crude oil tankers in Turkey’s exclusive economic zone (EEZ) — a James II tanker, recently removed from the Palau ship registry, and two Altura and ​Velora tankers registered in Sierra Leone. All three ships belong to the Russian shadow fleet, wh",
+      "published": "2026-06-17T14:03:06+00:00",
       "score": 20
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "France: MSF launches a new project in the Dunkirk area for migrant women",
-      "url": "https://reliefweb.int/report/france/france-msf-launches-new-project-dunkirk-area-migrant-women",
-      "summary": "Countries: France, World Source: Médecins Sans Frontières Paris, 16 June 2026 – Near Dunkirk, more than a thousand displaced people are surviving in makeshift camps, with extremely limited access to healthcare. Among them is a growing number of isolated women who are vulnerable to violence. Faced with ever-increasing healthcare needs, Médecins Sans Frontières (MSF) has begun providing women with much needed gynaecological care and psychological support, in contrast to the security-focused approa",
-      "published": "2026-06-16T13:56:21+00:00",
-      "score": 18
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Standard Operating Procedures for Livelihood and Economic Inclusion - South Sudan",
-      "url": "https://reliefweb.int/report/south-sudan/standard-operating-procedures-livelihood-and-economic-inclusion-south-sudan",
-      "summary": "Country: South Sudan Source: UN High Commissioner for Refugees Please refer to the attached file. Introduction The purpose of this document is to provide Standard Operating Procedures (SOP) for the programmes that the Office of the United Nations High Commissioner for Refugees (UNHCR) and its implementing Partners are providing in the area of livelihood to forcibly displaced and stateless persons. These procedures aim to enhance the capacities and inclusion of forcibly displaced and stateless pe",
-      "published": "2026-06-16T12:03:17+00:00",
-      "score": 17
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Indonesia: Flash Update: No. 1 – M6.7 Earthquake in Palu, Central Sulawesi – 16 June 2026",
-      "url": "https://reliefweb.int/report/indonesia/flash-update-no-1-m67-earthquake-palu-central-sulawesi-16-june-2026",
-      "summary": "Country: Indonesia Source: ASEAN Coordinating Centre for Humanitarian Assistance Please refer to the attached file. OVERVIEW: At 1027 HRS UTC+7 on 16 June 2026, BMKG reported a magnitude 6.7 earthquake (depth 16 km, corrected from 10km), with the epicentre located on land at 1.04° S and 120.23 E°, about 42 km southeast of Palu, Central Sulawesi. BMKG modeling results indicated no tsunami potential. Meanwhile, as of 1330H UTC+7, BMKG monitoring showed 71 aftershocks with the highest magnitude bei",
-      "published": "2026-06-16T14:07:16+00:00",
+      "title": "Somalia & Somaliland - May 2026 Snapshot Report",
+      "url": "https://reliefweb.int/report/somalia/somalia-somaliland-may-2026-snapshot-report",
+      "summary": "Country: Somalia Source: Talk to Loop Please refer to the attached file. The feedback from communities this month reveals continued humanitarian crises in Somalia's Lower Juba and Lower Shabelle regions, where displacement, drought, and inflation have created acute needs especially amongst minority communities. Food security (34%) and livelihood assistance (32%) dominate requests. The continued dominance of food security and livelihood-related requests aligns with the May 2026 PC Projection Upda",
+      "published": "2026-06-17T13:44:28+00:00",
       "score": 16
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-      "url": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message",
-      "published": "2026-06-15T19:44:06+00:00",
-      "score": 15
-    },
-    {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Türkiye: UNHCR Türki̇ye Operational Updates (May 2026)",
-      "url": "https://reliefweb.int/report/turkiye/unhcr-turkiye-operational-updates-may-2026",
-      "summary": "Country: Türkiye Source: UN High Commissioner for Refugees Please refer to the attached file. Highlights On 22 May, with UNHCR’s overarching coordination, forty humanitarian partners - including national and international NGOs along with UN agencies - published the 2026 Türkiye chapter of the Regional Refugee and Resilience Plan (3RP). The plan has been developed through extensive consultation and substantial feedback from government counterparts, creating valuable opportunities to further discu",
-      "published": "2026-06-16T14:03:11+00:00",
-      "score": 15
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: Asian Development Bank and UNDRR Sign Cooperation Arrangement to Strengthen Disaster Resilience in Asia and the Pacific",
-      "url": "https://reliefweb.int/report/world/asian-development-bank-and-undrr-sign-cooperation-arrangement-strengthen-disaster-resilience-asia-and-pacific",
-      "summary": "Country: World Source: UN Office for Disaster Risk Reduction The Asian Development Bank (ADB) and the United Nations Office for Disaster Risk Reduction (UNDRR) signed a Cooperation Arrangement to deepen joint efforts to strengthen disaster risk reduction in Asia-Pacific, thus saving lives and livelihoods and reducing disaster losses. Under the Cooperation Arrangement, developing member countries will be able to access combined technical support from ADB and UNDRR to strengthen disaster risk fina",
-      "published": "2026-06-16T13:33:07+00:00",
-      "score": 15
+      "title": "Syria: Rapid Needs Assessment – Euphrates River flood: Flood-Affected Farmers — Agricultural Livelihoods Assessment, May - June 2026",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/rapid-needs-assessment-euphrates-river-flood-flood-affected-farmers-agricultural-livelihoods-assessment-may-june-2026",
+      "summary": "Country: Syrian Arab Republic Source: Oxfam Please refer to the attached file. The Euphrates River flood of May 2026 caused widespread agricultural devastation across the western countryside of Deir ez-Zor, Syria, affecting farming communities that had been gradually recovering from years of conflict. Based on the latest figures from the Directorate of Agriculture (DoA), nearly 20,500 dunumus have been affected by the floods (Annex 1). This Rapid Needs Assessment, conducted by Oxfam's Food and E",
+      "published": "2026-06-17T13:40:02+00:00",
+      "score": 16
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s SpaceX CRS-34 Dragon Returns Packed with Space Station Science",
-      "url": "https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crs-34-dragon-returns-packed-with-space-station-science/",
-      "summary": "Scientists await a big splash in the Pacific Ocean as one of the most research-packed Dragon spacecraft to date returns, completing the 34th SpaceX commercial resupply mission to the International Space Station for NASA. Biological and materials samples, along with tested hardware, are heading back to research teams on Earth for further analysis, advancing NASA’s […]",
-      "published": "2026-06-15T17:30:00+00:00",
+      "title": "NASA Uses Machine Learning to Enhance Flash Flood Warnings",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/nasa-uses-machine-learning-to-enhance-flash-flood-warnings/",
+      "summary": "The Transient Artifact and Continuous Learning System (TACLS) leverages data from continuously operating satellite networks coupled with machine learning models to help meteorologists at the National Weather Service forecast flash floods more efficiently.",
+      "published": "2026-06-16T15:23:02+00:00",
       "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
-      "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
-      "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours. CVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could",
-      "published": "2026-06-16T10:30:41+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
-      "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
-      "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,\" ESET said in a report shared with The Hacker News. \"Both come with a hard-coded C&C [command-and-control] configuration and support communication over TCP, UDP,",
-      "published": "2026-06-16T09:44:34+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
-      "url": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
-      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes",
-      "published": "2026-06-15T19:32:52+00:00",
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "url": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "summary": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
+      "published": "2026-06-17T13:51:58+00:00",
       "score": 14
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Uganda Refugee Response: Private Sector Engagement in the Agricultural Sector",
-      "url": "https://reliefweb.int/report/uganda/uganda-refugee-response-private-sector-engagement-agricultural-sector",
-      "summary": "Country: Uganda Source: UN High Commissioner for Refugees Please refer to the attached file. Executive Summary Private sector engagement (PSE) in agriculture is increasingly recognised in the Uganda refugee response as a critical pathway for strengthening refugee and host community livelihoods in refugeehosting districts (RHDs). Agriculture remains the main source of income for many refugees, yet weak markets, poor infrastructure, and limited access to inputs constrain productivity and profitabi",
-      "published": "2026-06-16T13:03:12+00:00",
+      "title": "Syrian Arab Republic — Population Mobility and Baseline Assessment — Round 16 (01 - 31 May 2026)",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-population-mobility-and-baseline-assessment-round-16-01-31-may-2026",
+      "summary": "Country: Syrian Arab Republic Source: International Organization for Migration Please refer to the attached file. Overview Since the transition of power on 8 December 2024, the Syrian Arab Republic (hereafter referred to as Syria) has experienced substantial humanitarian, political, and demographic shifts that continue to shape the country’s recovery trajectory. Although conditions have enabled return opportunities across all 14 governorates, population movements remain dynamic and are closely i",
+      "published": "2026-06-17T13:33:16+00:00",
       "score": 14
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Syria: Legal limbo leaves millions without proof of identity or property rights | NRC",
-      "url": "https://reliefweb.int/report/syrian-arab-republic/syria-legal-limbo-leaves-millions-without-proof-identity-or-property-rights-nrc",
-      "summary": "Country: Syrian Arab Republic Source: Norwegian Refugee Council Millions of Syrians remain trapped in a cycle of legal insecurity that leaves families without necessary civil documentation and at risk of eviction, according to new research by the Norwegian Refugee Council (NRC). Press release Published 16. Jun 2026 An assessment of 1,200 Syrian households across nine governorates has found that the majority of conflict-affected Syrians surveyed are living without the basic legal documentation ne",
-      "published": "2026-06-16T13:03:07+00:00",
+      "title": "P21 - Tchad | Urgence soudanaise | Situation de Protection des nouveaux arrivants (01 - 15 juin 2026 - FR)",
+      "url": "https://reliefweb.int/report/chad/p21-tchad-urgence-soudanaise-situation-de-protection-des-nouveaux-arrivants-01-15-juin-2026-fr",
+      "summary": "Countries: Chad, Sudan Source: UN High Commissioner for Refugees Please refer to the attached file. RESUME Ce tableau de bord résume le point de vue des réfugiés soudanais sur la situation et les risques de protection au Tchad. Les perceptions de ces ménages, interrogés soit aux points d'entrées, soit dans les sites de transit, quelques jours après leur arrivée au Tchad, reflètent le traumatisme de la fuite et le soulagement d'avoir pu trouver asile au Tchad. Ce sont 922 ménages de 2821 individu",
+      "published": "2026-06-17T13:03:11+00:00",
       "score": 14
     },
     {
-      "source": "The Hacker News",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: Updated Return on Investment for Preparedness to Respond Study - March 2026",
+      "url": "https://reliefweb.int/report/world/updated-return-investment-preparedness-respond-study-march-2026",
+      "summary": "Country: World Source: World Food Programme Please refer to the attached files. This report presents updated findings from WFP’s Return on Investment (ROI) for Preparedness study, demonstrating the value of pre-shock investments in strengthening emergency response. In a context of increasingly complex, protracted and resource-constrained crises, preparedness is identified as a critical driver of faster, more efficient, and more effective humanitarian action. Based on an analysis of 19 preparedne",
+      "published": "2026-06-17T12:48:32+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Group planned to attack White House UFC event using snipers and drones, FBI says",
+      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
+      "summary": "In newly unsealed court filings, the government says the group allegedly expressed grievances about corruption, the Epstein files, and data centres.",
+      "published": "2026-06-17T09:46:31+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
-      "published": "2026-06-16T08:14:55+00:00",
+      "title": "The Download: a reality check for geoengineering and the science of interoception",
+      "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hacking the atmosphere: geoengineering gets a reality check Solar geoengineering, the controversial idea that we could deliberately intervene in the climate system to counteract global warming, is moving beyond computer simulations…",
+      "published": "2026-06-17T12:10:00+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
-      "url": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface. A server takeover exposes every provider key it holds, the secrets that",
-      "published": "2026-06-15T16:39:01+00:00",
+      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "url": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from Endor Labs, JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero)",
+      "published": "2026-06-17T07:38:24+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "url": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations. \"Earlier BabaDeda activity was known for",
+      "published": "2026-06-16T17:41:28+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Syria: Rapid Needs Assessment – Euphrates River flood Deir ez-zor rrigations Sites - May 2026",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/rapid-needs-assessment-euphrates-river-flood-deir-ez-zor-rrigations-sites-may-2026",
+      "summary": "Country: Syrian Arab Republic Source: Oxfam Please refer to the attached file. Following the flooding of the Euphrates River and its impact on riverbank communities, Oxfam Food and Economic Security team in the Eastern Hub (Deir ez-Zor) conducted a field assessment on 31 May 2026 to evaluate the functionality and current condition of irrigation systems previously rehabilitated by Oxfam. In parallel, the team also assessed the impact on agricultural production, including the extent of land floodi",
+      "published": "2026-06-17T13:38:02+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Multi-Sectoral Needs Assessment in Response to Tropical Cyclone Maila in Western Province, Solomon Islands (June 2026)",
+      "url": "https://reliefweb.int/report/solomon-islands/multi-sectoral-needs-assessment-response-tropical-cyclone-maila-western-province-solomon-islands-june-2026",
+      "summary": "Country: Solomon Islands Source: International Organization for Migration Please refer to the attached file. Introduction Funded through the International Organization for Migration’s (IOM) Regional Crisis Support Facility (RCSF)—managed by the Regional Humanitarian Response and Recovery unit in Asia and the Pacific and funded by the Government of Japan— IOM undertook a Multi-Sectoral Needs Assessment (MSNA) in Western Province, Solomon Islands, following the impacts of Tropical Cyclone Maila. T",
+      "published": "2026-06-17T13:33:11+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "FBI thwarted plot targeting White House UFC event, Patel says",
-      "url": "https://www.bbc.com/news/articles/cqx10xlje1lo?at_medium=RSS&at_campaign=rss",
-      "summary": "In newly unsealed court documents, the government alleges that the plan would have used drones. The FBI boss says multiple suspects are in custody.",
-      "published": "2026-06-16T16:11:17+00:00",
+      "title": "Equatorial Guinea government resigns after failing to meet targets",
+      "url": "https://www.bbc.com/news/articles/c4gy27dyq0ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president says the government had barely reached 10% of its targets, without specifying them.",
+      "published": "2026-06-17T09:52:52+00:00",
       "score": 12
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Department of Health and Human Services Digital Stockpile & Manufacturing Response Network Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/department-of-health-and-human-services-digital-stockpile-manufacturing-response-network-challenge/",
-      "summary": "NASA’s Center of Excellence for Collaborative Innovation (CoECI) assists in the use of crowdsourcing across the federal government. CoECI’s NASA Tournament Lab offers the contract capability to run external crowdsourced challenges on behalf of NASA and other agencies. Sponsored by the Administration for Strategic Preparedness and Response (ASPR), a division of the U.S. Department of […]",
-      "published": "2026-06-16T14:39:54+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Frontiers Forum Speaker Series",
-      "url": "https://www.nasa.gov/general/frontiers-forum-speaker-series/",
-      "summary": "Voices Shaping the Future of Space Members of the public are invited to join some of NASA’s brightest minds as they discuss agency missions and current topics in aerospace technology, science, and innovation. Each event will feature NASA experts, and the series will cover a range of topics including our search for life within the […]",
-      "published": "2026-06-15T16:23:29+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review between April 11, 2025, and April 21, 2026, and have been updated to reflect recent developments. by James O’Donnell Choose which file format to…",
+      "published": "2026-06-16T20:35:02+00:00",
       "score": 12
     },
     {
@@ -189,90 +162,63 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
-      "published": "2026-06-15T13:49:29+00:00",
+      "title": "The Top 10 Attack Surface Exposures in 2026",
+      "url": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+      "summary": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentication — anything internet-facing is immediately at risk. With time-to-exploit now down to a",
+      "published": "2026-06-17T10:30:00+00:00",
       "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: Cadre opérationnel et paquet minimum Éducation pour la préparation et la réponse à l'épidémie d'Ebola en RDC",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/cadre-operationnel-et-paquet-minimum-education-pour-la-preparation-et-la-reponse-lepidemie-debola-en-rdc",
-      "summary": "Country: Democratic Republic of the Congo Sources: Education Cluster, Save the Children, UN Children's Fund Please refer to the attached file. Objectif du Cadre: Ce document présente le paquet minimum d'interventions prioritaires du secteur Éducation pour la préparation et la réponse à l'épidémie d'Ebola dans les zones affectées et à risque. Il vise à soutenir la coordination, la planification opérationnelle, le plaidoyer et la mobilisation des ressources 1. Epidémie Ebola et implications pour l",
-      "published": "2026-06-16T14:11:20+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "url": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary",
+      "published": "2026-06-17T05:50:46+00:00",
       "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: The race against Ebola",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/race-against-ebola",
-      "summary": "Country: Democratic Republic of the Congo Source: International Federation of Red Cross and Red Crescent Societies “ The volunteers working in the Bunia health sector have been roaming the streets to bring messages regarding the Ebola virus disease: What is this disease? how does it get transmitted and how can we prevent it? ” says Delphin Chanumula , community engagement coordinator for the DRC Red Cross. Chanumula has seen some hopeful signs in communities that once resisted safe and dignified",
-      "published": "2026-06-16T14:03:08+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+      "url": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
+      "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours. CVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could",
+      "published": "2026-06-16T10:30:41+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
+      "url": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
+      "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,\" ESET said in a report shared with The Hacker News. \"Both come with a hard-coded C&C [command-and-control] configuration and support communication over TCP, UDP,",
+      "published": "2026-06-16T09:44:34+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-      "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "A UK-registered yacht reported shots were fired by the frigate off the coast of the Isle of Wight.",
-      "published": "2026-06-16T16:16:40+00:00",
+      "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+      "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+      "published": "2026-06-17T11:26:39+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-      "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
-      "published": "2026-06-16T15:31:24+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russian artist and Putin critic shot dead in Poland",
-      "url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Robert Kuzovkov, who used the pseudonym Semyon Skrepetsky, has been known for his caricatures of politicians including Vladimir Putin.",
-      "published": "2026-06-16T10:37:16+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "France's oldest female detainee, 79, goes on trial for in-law's grisly murder",
-      "url": "https://www.bbc.com/news/articles/cy498llene1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A dismembered body found in a chain-bound trunk in the Seine in 1995 was only recently connected to the defendant by DNA evidence.",
-      "published": "2026-06-16T14:46:35+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Cuba tourism collapses as US pressure campaign bites",
-      "url": "https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The number of foreign visitors is down by 58% compared to last year, Cuban officials say, amid sanctions and an effective oil blockade.",
-      "published": "2026-06-16T11:16:59+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Hungary's MPs block return of Orbán, limiting rule of PM to eight years",
-      "url": "https://www.bbc.com/news/articles/c621zplqrrno?at_medium=RSS&at_campaign=rss",
-      "summary": "The vote fulfils a promise by new PM Péter Magyar to stop his predecessor from becoming prime minister again.",
-      "published": "2026-06-16T12:42:15+00:00",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+      "published": "2026-06-17T13:27:47+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘Some question if Ebola is real’: how trust is central in fighting DRC outbreak",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167725",
-      "summary": "In Ebola-stricken Democratic Republic of the Congo (DRC), winning the race against the disease requires earning the community’s trust first and foremost, humanitarians said on Tuesday.",
+      "title": "UN urges adherence to mine ban treaty",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167730",
+      "summary": "Countries must uphold international law limiting the use of anti-personnel mines, which kill and maim civilians long after conflicts have ended, the UN human rights office, OHCHR, said in a report published on Tuesday.",
       "published": "2026-06-16T12:00:00+00:00",
       "score": 11
     },
@@ -286,57 +232,156 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ukraine: Latest Russian attack kills civilians, damages cultural landmark",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167718",
-      "summary": "Several civilians were killed and dozens more were injured in the latest wave of overnight attacks in Ukraine that targeted the capital Kyiv, the city of Kharkiv and the country’s history and cultural heritage, the United Nations said on Monday.",
-      "published": "2026-06-15T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Astronaut Jessica Meir Assists With Hardware Updates for NASA’s Cold Atom Lab",
+      "url": "https://science.nasa.gov/photojournal/astronaut-jessica-meir-assists-with-hardware-updates-for-nasas-cold-atom-lab/",
+      "summary": "Description NASA astronaut Jessica Meir inspects optical fibers while installing hardware updates to the agency’s Cold Atom Lab, or CAL, aboard the International Space Station on May 8, 2026. About the size of a minifridge and operated from Earth, CAL chills atoms to temperatures below minus 459 degrees Fahrenheit (minus 273.15 degrees Celsius), so close […]",
+      "published": "2026-06-16T20:41:29+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Webb, Hubble Reveal History of Relic of Milky Way’s Formation",
+      "url": "https://science.nasa.gov/missions/webb/nasa-webb-hubble-reveal-history-of-relic-of-milky-ways-formation/",
+      "summary": "Researchers using two of humanity’s most powerful observatories — NASA’s James Webb and Hubble Space Telescopes — have definitively shown that Terzan 5 is not a globular star cluster as it was once classified, offering new insight into how galaxies like our own form and evolve over time. A globular star cluster typically has only […]",
+      "published": "2026-06-16T17:15:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Quantum Lab Aboard Space Station Gets Chilly Upgrade",
+      "url": "https://www.nasa.gov/missions/station/iss-research/cold-atom-laboratory/nasas-quantum-lab-aboard-space-station-gets-chilly-upgrade/",
+      "summary": "Astronauts aboard the International Space Station have switched on NASA’s newly upgraded Cold Atom Lab, a one-of-a-kind facility designed to improve how scientists explore the fundamental workings of matter and develop new quantum technologies. By leveraging the unique environment of microgravity in space, the lab can accomplish cutting-edge science impossible to do anywhere else. Quantum […]",
+      "published": "2026-06-16T16:50:40+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Entrepreneurs in Nairobi make the case for going solar",
+      "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+      "summary": "Most of Kenya’s power grid runs on renewables. But with 25% of communities lacking centralized electricity, the nation is looking to off-grid solar to hit its goal of delivering universal electricity access by 2030 without driving up emissions. The ever-­improving economics of solar technology have helped. A couple of years ago, a panel cost about…",
+      "published": "2026-06-17T09:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+      "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+      "summary": "Jim Franke pulls away the cover page of a presentation on the wraparound desk in his office, revealing an illustration of an odd-­looking aircraft with massive wings stretching out from a stubby fuselage. The uncrewed plane is soaring thousands of meters higher than commercial jets fly—so high you can see the curvature of the Earth.…",
+      "published": "2026-06-17T09:00:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "url": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manager, formerly SD-WAN vManage, could allow an authenticated, remote attacker to create a file or",
-      "published": "2026-06-16T06:05:58+00:00",
+      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "url": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+      "summary": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks",
+      "published": "2026-06-17T11:58:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "url": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026. The vulnerability in question is CVE-2026-54420 (CVSS score: 8.5), which has been described as a case of privilege",
-      "published": "2026-06-16T05:41:52+00:00",
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "url": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild.",
+      "published": "2026-06-16T19:05:41+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+      "url": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
+      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
+      "published": "2026-06-16T08:14:55+00:00",
+      "score": 11
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Cropped 17 June 2026: Coral reef ‘hope’ | Ocean talks | Plant flowering times ‘shift’",
+      "url": "https://www.carbonbrief.org/cropped-17-june-2026-coral-reef-hope-ocean-talks-plant-flowering-times-shift/",
+      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 17 June 2026: Coral reef ‘hope’ | Ocean talks | Plant flowering times ‘shift’ appeared first on Carbon Brief .",
+      "published": "2026-06-17T14:26:39+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: El Niño | Seasonal temperature and rainfall forecast (July-September 2026) - DG ECHO Daily Map | 17/06/2026",
+      "url": "https://reliefweb.int/map/world/el-nino-seasonal-temperature-and-rainfall-forecast-july-september-2026-dg-echo-daily-map-17062026",
+      "summary": "Country: World Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
+      "published": "2026-06-17T14:17:18+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "P21 - Chad Border Monitoring: Sudanese emergency | Protection situation new arrivals (From 01/06/2026 to 15/06/2026)",
+      "url": "https://reliefweb.int/report/sudan/p21-chad-border-monitoring-sudanese-emergency-protection-situation-new-arrivals-01062026-15062026",
+      "summary": "Countries: Sudan, Chad Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
+      "published": "2026-06-17T14:03:12+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Syria Humanitarian Fund, Fast-Track Reserve Allocation 1, 2026",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/syria-humanitarian-fund-fast-track-reserve-allocation-1-2026",
+      "summary": "Country: Syrian Arab Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "published": "2026-06-17T13:35:39+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Venezuela signs deal with US energy giant to rebuild power grid",
-      "url": "https://www.bbc.com/news/articles/c0jyzpv52yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal with General Electric is the latest sign of co-operation between US firms and Venezuela's interim government.",
-      "published": "2026-06-16T15:19:52+00:00",
+      "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
+      "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
+      "summary": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+      "published": "2026-06-17T10:01:42+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Eight dead after US Air Force B-52 bomber crashes in California",
-      "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-      "summary": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
-      "published": "2026-06-16T01:49:03+00:00",
+      "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+      "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+      "published": "2026-06-17T09:13:34+00:00",
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Global fish production hits new high, but climate threats loom",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167727",
-      "summary": "Aquaculture now supplies most of the fish people eat, a landmark FAO report reveals, but rising temperatures and overfishing are putting the future of the industry at risk.",
-      "published": "2026-06-16T12:00:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Australian shock jock wins A$12m payout after radio station tore up contract",
+      "url": "https://www.bbc.com/news/articles/cyv0qmde97po?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyle Sandilands was sacked after an on-air spat with his co-host, who accused him of bullying.",
+      "published": "2026-06-17T04:08:29+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Bolivia signs $20m deal with US to fight drug trafficking, foreign ministry says",
+      "url": "https://www.bbc.com/news/articles/c9w28vzj0q0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under its new president, Bolivia is re-establishing severed ties with the US to combat organised crime.",
+      "published": "2026-06-17T12:01:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Japan raids ice cream giants over price-fixing allegations",
+      "url": "https://www.bbc.com/news/articles/c0ly0k88e61o?at_medium=RSS&at_campaign=rss",
+      "summary": "The investigation on alleged cartel pricing of ice cream comes as Japan faces record summer temperatures.",
+      "published": "2026-06-17T07:33:39+00:00",
       "score": 10
     },
     {
@@ -360,55 +405,10 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Aurora Australis",
-      "url": "https://www.nasa.gov/image-article/aurora-australis-7/",
-      "summary": "The aurora australis arcs over Earth during an active solar event in this photograph taken on June 5, 2026, from the International Space Station as it orbited 271 miles above the Indian Ocean southwest of Perth, Australia. Auroras are colorful, dynamic, and often visually delicate displays of an intricate dance of particles and magnetism between […]",
-      "published": "2026-06-16T14:20:58+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Explore JPL to Take Place Oct. 10, 11",
-      "url": "https://www.nasa.gov/centers-and-facilities/jpl/explore-jpl-to-take-place-oct-10-11/",
-      "summary": "Celebrating its 90th anniversary this year, NASA’s Jet Propulsion Laboratory invites the public to its campus at the base of the San Gabriel Mountains in Southern California for an open-house event, Explore JPL. On Oct. 10 and 11, from 9:30 a.m. to 4 p.m. PDT, visitors will get the chance to visit JPL’s most iconic facilities and explore four thematic areas: Missions That Changed the World, Moon to Mars, In […]",
-      "published": "2026-06-16T00:34:34+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Astronaut Anil Menon Available for Prelaunch Virtual Interviews",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-available-for-prelaunch-virtual-interviews/",
-      "summary": "NASA astronaut Anil Menon will be available for limited media interviews beginning at 9 a.m. EDT Monday, June 22, to discuss his upcoming mission to the International Space Station as part of Expeditions 74/75. The virtual interviews will take place from the Gagarin Cosmonaut Training Center in Star City, Russia, and will stream live on […]",
-      "published": "2026-06-15T15:02:04+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This man with ALS is the first “power user” of a brain implant that lets him speak Casey Harrell has had a set of electrodes embedded in his brain for almost…",
-      "published": "2026-06-16T12:10:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-      "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-      "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC prevented nearly 200,000 premature deaths in 2019 alone—but bad for the planet.…",
-      "published": "2026-06-15T09:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
-      "url": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
-      "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
-      "published": "2026-06-16T13:10:17+00:00",
+      "title": "NASA’s Webb Catches Exoplanet Getting Roasted",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-catches-exoplanet-getting-roasted/",
+      "summary": "That’s the latest from researchers analyzing NASA’s James Webb Space Telescope’s observations of HD 80606 b, an exoplanet four times the mass of Jupiter with an extremely elliptical orbit that sweeps close by its Sun-like star.",
+      "published": "2026-06-16T21:15:00+00:00",
       "score": 10
     }
   ]
