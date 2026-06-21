@@ -1,12 +1,20 @@
 {
-  "generated_at": "2026-06-20T13:20:29.630913+00:00",
-  "date": "2026-06-20",
+  "generated_at": "2026-06-21T13:29:42.624176+00:00",
+  "date": "2026-06-21",
   "source_count": 45,
   "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
-    "ReliefWeb: no element found: line 1, column 0"
+    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
   ],
   "articles": [
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Escalating Risks and Shrinking Services: GBV Situation in Somalia, Q1 2026",
+      "url": "https://reliefweb.int/report/somalia/escalating-risks-and-shrinking-services-gbv-situation-somalia-q1-2026",
+      "summary": "Country: Somalia Sources: Gender Based Violence Area of Responsibility, United Nations Population Fund Please refer to the attached file. Executive Summary Women and girls in Somalia continued to face heightened risks of Gender-Based Violence (GBV) during the first quarter of 2026, driven by the combined effects of conflict, climate-induced displacement, food insecurity, and deteriorating protection environments. The most affected areas included Banadir, Lower Shabelle, Gedo, Bay, Hiraan, Middle",
+      "published": "2026-06-20T11:39:37+00:00",
+      "score": 17
+    },
     {
       "source": "The Hacker News",
       "category": "Technik",
@@ -14,7 +22,16 @@
       "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
       "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use. This is not a remote attack. It requires",
       "published": "2026-06-19T18:37:41+00:00",
-      "score": 17
+      "score": 15
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+      "published": "2026-06-21T10:55:05+00:00",
+      "score": 13
     },
     {
       "source": "The Hacker News",
@@ -23,33 +40,60 @@
       "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices. The sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at",
       "published": "2026-06-19T14:00:21+00:00",
-      "score": 15
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-      "url": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens",
-      "published": "2026-06-20T09:56:04+00:00",
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller. \"They also incorporate third-party or",
-      "published": "2026-06-19T18:33:07+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Afghanistan: Health Cluster Dashboard for Humanitarian Response Services (May 2026)",
+      "url": "https://reliefweb.int/report/afghanistan/afghanistan-health-cluster-dashboard-humanitarian-response-services-may-2026",
+      "summary": "Country: Afghanistan Source: Health Cluster Please refer to the attached file. The dashboard provides an overview of humanitarian health services across Afghanistan, showing coverage, population reached, and overall progress toward annual health targets. It highlights coordinated efforts by partners to deliver essential health services to communities in need.",
+      "published": "2026-06-21T10:10:11+00:00",
+      "score": 13
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Yemen Agrometeorological Update: Food Security and Early Warning Information System (01 - 31 May 2026) [EN/AR]",
+      "url": "https://reliefweb.int/report/yemen/yemen-agrometeorological-update-food-security-and-early-warning-information-system-01-31-may-2026-enar",
+      "summary": "Country: Yemen Source: Food and Agriculture Organization of the United Nations Please refer to the attached files. HIGHLIGHTS: Precipitation: Rainfall across Yemen declined gradually in May 2026, though intermittent convective showers continued in the highlands—especially in Ibb—while monthly totals remained below the five-year average. Rainfall anomalies: Relative to the 30-year average, May 2026 was generally mixed in conditions across much of Yemen, with wetter trends across the Northern and ",
+      "published": "2026-06-21T05:02:03+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
+      "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
+      "published": "2026-06-20T23:17:51+00:00",
       "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-      "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host. No credentials, no sign-in screen, and no further user interaction once",
-      "published": "2026-06-19T15:30:47+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "France bans alcohol at music festival events under red heatwave alert",
+      "url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Annual street parties attended by millions ordered to help “preserve” healthcare services in 40C (104F) heat.",
+      "published": "2026-06-21T00:29:51+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "published": "2026-06-20T21:57:36+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Zelensky returns highest Polish honour after award stripped",
+      "url": "https://www.bbc.com/news/articles/c2lye7xje9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
+      "published": "2026-06-20T16:34:15+00:00",
       "score": 12
     },
     {
@@ -62,21 +106,30 @@
       "score": 12
     },
     {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Regional Humanitarian Pooled Fund Colombia - Standard Allocation 2025 (As of may 2026)",
+      "url": "https://reliefweb.int/report/colombia/regional-humanitarian-pooled-fund-colombia-standard-allocation-2025-may-2026",
+      "summary": "Country: Colombia Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. The Regional Humanitarian Fund for Latin America and the Caribbean (RHPF LAC) has launched its first standard allocation for 2025 in Colombia with US$1.5 million to address urgent humanitarian needs caused by armed conflict and disasters. The allocation seeks to support life-saving assistance through localized, rapid response mechanisms and community-based protection approac",
+      "published": "2026-06-19T21:04:27+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+      "published": "2026-06-21T04:34:00+00:00",
+      "score": 11
+    },
+    {
       "source": "UN News",
       "category": "Geopolitik",
       "title": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167760",
       "summary": "After another deadly night of clashes in Lebanon, aid agencies issued a new alert for Gaza, where 265 Palestinian children have been killed since a ceasefire was announced in October 2025.",
       "published": "2026-06-19T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
-      "summary": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory's humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told ambassadors that “fragile gains” since the truce are “the bare minimum of what Palestinians need.” Full",
-      "published": "2026-06-18T12:00:00+00:00",
       "score": 11
     },
     {
@@ -91,10 +144,10 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
-      "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-      "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said. \"This prevents",
-      "published": "2026-06-19T15:07:54+00:00",
+      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+      "url": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens",
+      "published": "2026-06-20T09:56:04+00:00",
       "score": 11
     },
     {
@@ -107,39 +160,48 @@
       "score": 11
     },
     {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Lebanon: Flash Update #36 - Escalation of hostilities in Lebanon (as of 18 June 2026)",
+      "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-36-escalation-hostilities-lebanon-18-june-2026",
+      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Partial returns movement reported following the United States-Iran deal announced on 15 June. At least 3,884 deaths and 11,856 injuries due to hostilities recorded by the Ministry of Public Health since 2 March. A total of 103,800 Internally Displaced Persons remained in 627 collective shelters on 18 June. The 2026 Lebanon Flash Appeal is 34.2 per cent funded, with approx",
+      "published": "2026-06-20T12:19:43+00:00",
+      "score": 11
+    },
+    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
-      "published": "2026-06-20T08:53:53+00:00",
+      "title": "Tight security as Indian students resit medical exam after alleged paper leak",
+      "url": "https://www.bbc.com/news/articles/cwy0gjqv783o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of candidates face biometric checks and frisking as air force deployed to secure exam papers.",
+      "published": "2026-06-21T11:06:31+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-      "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
-      "published": "2026-06-19T21:46:07+00:00",
+      "title": "Indian cricketer, 15, hits record-breaking 50 in just 11 balls",
+      "url": "https://www.bbc.com/sport/cricket/articles/czdev6lp8p9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Vaibhav Sooryavanshi breaks the record for the fastest 50-over List A half-century in history on the same day he was not included in India's one-day international squad.",
+      "published": "2026-06-21T11:10:21+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Watch: World Cup fans react to US defeating Australia to reach knockout round",
-      "url": "https://www.bbc.com/news/videos/cdxdly41p23o?at_medium=RSS&at_campaign=rss",
-      "summary": "US supporters were delighted after their team won 2-0 against the Socceroos while Australian fans were left disappointed but still hopeful.",
-      "published": "2026-06-20T03:13:18+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Sudan: Security Council warns of mass atrocity risk in El Obeid",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167773",
+      "summary": "The UN Security Council has expressed alarm over reports of substantial military reinforcements by the Rapid Support Forces (RSF) around El Obeid in Sudan, warning of the risk of a potential ground offensive on the city.",
+      "published": "2026-06-20T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Australia confirms first case of H5N1 bird flu as virus reaches every continent",
-      "url": "https://www.bbc.com/news/articles/c4gykxklvl5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia was previously the only continent where the H5N1 bird flu strain had not yet been found.",
-      "published": "2026-06-20T03:12:47+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "For one young refugee in Uganda, basketball is more than a game",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167743",
+      "summary": "When 19-year-old Stephane Kulimushi looks around the basketball court in Kampala where he trains young refugees, he sees more than players.",
+      "published": "2026-06-19T12:00:00+00:00",
       "score": 10
     },
     {
@@ -172,6 +234,24 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
+      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
+      "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller. \"They also incorporate third-party or",
+      "published": "2026-06-19T18:33:07+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
+      "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
+      "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host. No credentials, no sign-in screen, and no further user interaction once",
+      "published": "2026-06-19T15:30:47+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
       "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
       "url": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
       "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time. It doesn't fit the problem anymore. Shadow AI has shifted from a data leakage concern to an access control problem. The threat isn't",
@@ -190,15 +270,6 @@
     {
       "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations",
-      "url": "https://www.carbonbrief.org/debriefed-19-june-2026-bonn-talks-end-in-gridlock-energys-new-era-oceans-in-climate-negotiations/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 19 June 2026: Bonn talks end in ‘gridlock’ | Energy’s ‘new era’ | Oceans in climate negotiations appeared first on Carbon Brief .",
-      "published": "2026-06-19T15:39:05+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
       "title": "Experts: Why carbon removal needs a ‘major scale up’ to return warming to 1.5C",
       "url": "https://www.carbonbrief.org/experts-why-carbon-removal-needs-a-major-scale-up-to-return-warming-to-1-5c/",
       "summary": "Last week, more than 260 researchers convened in Milan to discuss the opportunities, challenges and... The post Experts: Why carbon removal needs a ‘major scale up’ to return warming to 1.5C appeared first on Carbon Brief .",
@@ -206,48 +277,39 @@
       "score": 10
     },
     {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "AFGHANISTAN Nutrition Cluster Bulletin, Jan-Mar 2026",
+      "url": "https://reliefweb.int/report/afghanistan/afghanistan-nutrition-cluster-bulletin-jan-mar-2026",
+      "summary": "Country: Afghanistan Source: Nutrition Cluster Please refer to the attached file. NUTRITION CLUSTER PERFORMANCE OVERVIEW: JAN - MAR 2026 As of March 2026, the Afghanistan Nutrition Cluster comprised 65 partners (including 4 UN agencies, 18 international NGOs, 41 national NGOs and PND/MoPH). Key achievements during the first quarter of 2026 included: Overall, the Nutrition Cluster reached 16% of its annual target during the first quarter of 2026. A total of 856,362 beneficiaries received critical",
+      "published": "2026-06-20T04:41:18+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Haiti: Latinoamérica y El Caribe Resumen de Situación Semanal al 19 de junio 2026",
+      "url": "https://reliefweb.int/report/haiti/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-19-de-junio-2026",
+      "summary": "Countries: Haiti, Canada, Colombia, Guatemala, Mexico, Peru, Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. CIFRAS CLAVE 4,3M de personas podrían enfrentar impactos altos o muy altos a causa de El Niño en Colombia 2M de niños y niñas en Haití vivían a menos de 5 km de incidentes violentos entre enero y mayo de 2026 22K casos confirmados de sarampión en las Américas al 13 de junio REGIONAL: SARAMPIÓN Los ",
+      "published": "2026-06-19T21:08:46+00:00",
+      "score": 10
+    },
+    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tourist dies in Dominican Republic luxury resort fire",
-      "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
-      "published": "2026-06-20T07:40:20+00:00",
+      "title": "Former Olympian denies vandalising Washington Reflecting Pool after arrest",
+      "url": "https://www.bbc.com/news/articles/c8d26051vv2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Davey Hearn says he was simply touching the new paint at the site out of curiosity and did not remove or alter it.",
+      "published": "2026-06-21T07:16:54+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
-      "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
-      "summary": "The highly public exchange is an indication that their earlier close ties have frayed since Trump's decision to go to war with Iran.",
-      "published": "2026-06-19T19:36:10+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US to stop funding HIV programmes in South Africa",
-      "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than eight million South Africans are living with HIV – the highest number of any country in the world.",
-      "published": "2026-06-19T23:35:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "African and Caribbean nations call for formal apology for transatlantic slavery",
-      "url": "https://www.bbc.com/news/articles/cm2rl8z5x7no?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
-      "published": "2026-06-20T02:33:30+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Morocco captain Achraf Hakimi to stand trial for rape",
-      "url": "https://www.bbc.com/sport/football/articles/c20y18z7le1o?at_medium=RSS&at_campaign=rss",
-      "summary": "French prosecutors confirm Morocco captain Achraf Hakimi will stand trial for rape, in accusations dating back to 2023.",
-      "published": "2026-06-19T10:28:22+00:00",
+      "title": "Low-key funeral held for giant of the art world David Hockney",
+      "url": "https://www.bbc.com/news/articles/cn8q6wxy706o?at_medium=RSS&at_campaign=rss",
+      "summary": "The artist, who passed away at his home in London earlier this month, requested just his partner and great-nephew attend.",
+      "published": "2026-06-21T13:08:49+00:00",
       "score": 9
     },
     {
@@ -260,30 +322,12 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Fermentation, flavour and the future of food: Making sustainability delicious",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167755",
-      "summary": "Words like “sustainability” and “healthy” shouldn’t take the joy out of eating. As elite chef Jaume Biarnés has been explaining to UN News, sustainable gastronomy can be delicious, exciting and fun.",
-      "published": "2026-06-18T12:00:00+00:00",
-      "score": 9
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
       "title": "NASA Testing Advanced Capabilities for Moon, Mars Rovers",
       "url": "https://www.nasa.gov/solar-system/moon/nasa-testing-advanced-capabilities-for-moon-mars-rovers/",
       "summary": "On a bleak stretch of the Colorado Desert in Southern California, a compact four-wheeled rover recently trundled about 16 miles (26 kilometers) with minimal intervention from the team of engineers trailing it. Called ERNEST (Exploration Rover for Navigating Extreme Sloped Terrain), this prototype is being used by NASA to advance both robotic autonomy and the […]",
       "published": "2026-06-18T18:19:21+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Hubble Glimpses Merging Galaxy Clusters",
-      "url": "https://science.nasa.gov/missions/hubble/hubble-glimpses-merging-galaxy-clusters/",
-      "summary": "This NASA Hubble Space Telescope image features a galaxy cluster, called CL0016+1609 or MACS J0018.5+1626, that is very bright at X-ray wavelengths and is one of the most extensively studied clusters at X-ray and radio wavelengths. The X-ray observations of this cluster revealed that it is two clusters merging along our line of sight. Researchers […]",
-      "published": "2026-06-18T11:36:55+00:00",
       "score": 9
     },
     {
@@ -296,57 +340,39 @@
       "score": 9
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Bonn climate talks: Key outcomes from the June 2026 UN climate conference",
-      "url": "https://www.carbonbrief.org/bonn-climate-talks-key-outcomes-from-the-june-2026-un-climate-conference/",
-      "summary": "Two weeks of tense UN climate talks in Bonn, Germany, have produced few tangible outcomes... The post Bonn climate talks: Key outcomes from the June 2026 UN climate conference appeared first on Carbon Brief .",
-      "published": "2026-06-19T15:16:42+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+      "url": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+      "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said. \"This prevents",
+      "published": "2026-06-19T15:07:54+00:00",
       "score": 9
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Q&A: What do China’s provincial five-year plans say about climate and energy?",
-      "url": "https://www.carbonbrief.org/qa-what-do-chinas-provincial-five-year-plans-say-about-climate-and-energy/",
-      "summary": "China’s provincial-level governments have now all published their 15th five-year plans – economic and social... The post Q&A: What do China’s provincial five-year plans say about climate and energy? appeared first on Carbon Brief .",
-      "published": "2026-06-18T10:00:27+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Cropped 17 June 2026: Coral reef ‘hope’ | Ocean talks | Plant flowering times ‘shift’",
-      "url": "https://www.carbonbrief.org/cropped-17-june-2026-coral-reef-hope-ocean-talks-plant-flowering-times-shift/",
-      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 17 June 2026: Coral reef ‘hope’ | Ocean talks | Plant flowering times ‘shift’ appeared first on Carbon Brief .",
-      "published": "2026-06-17T14:26:39+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Yemen Protection Cluster Newsletter (Jan - Apr) 2026",
+      "url": "https://reliefweb.int/report/yemen/yemen-protection-cluster-newsletter-jan-apr-2026",
+      "summary": "Country: Yemen Source: Protection Cluster Please refer to the attached file.",
+      "published": "2026-06-21T09:52:55+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "James Burrows, legendary director of Cheers and Friends, dies aged 85",
-      "url": "https://www.bbc.com/news/articles/ce8k07x523eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Best-known as co-creator of sitcom Cheers, Burrows directed more than 1,000 episodes of other classics including the Big Bang Theory and Will and Grace.",
-      "published": "2026-06-20T00:23:46+00:00",
+      "title": "Dutch royals enjoy two big results in one World Cup day",
+      "url": "https://www.bbc.com/sport/football/articles/c4gydq973nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "There may be about 5,000 miles between the Netherlands and their former colony Curacao but members of the Dutch royal family managed to see both sides play on Saturday.",
+      "published": "2026-06-21T09:45:57+00:00",
       "score": 8
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Zimbabwe MPs pass bill to extend president's time in power",
-      "url": "https://www.bbc.com/news/articles/c20y15m0337o?at_medium=RSS&at_campaign=rss",
-      "summary": "The proposal would extend Emmerson Mnangagwa's term by two years and scrap direct presidential elections.",
-      "published": "2026-06-19T08:03:32+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Simpler, older version of Stonehenge found three miles from famous site",
-      "url": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
-      "published": "2026-06-17T23:11:29+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Art and culture can both fuel and counter hate, UN discussion hears on Juneteenth",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167772",
+      "summary": "From a gold collar worn by an enslaved African to music preserved for nearly a century after the Holocaust, a staged reconstruction of a hate radio broadcast or porcelain coffee cups laid out in participatory remembrance, artists in a United Nations discussion on Friday used powerful images to underscore how culture can shape the fight against hatred.",
+      "published": "2026-06-19T12:00:00+00:00",
       "score": 8
     },
     {
@@ -368,24 +394,6 @@
       "score": 8
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Libya’s political process regains momentum, but window for action is narrowing, UN envoy warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167757",
-      "summary": "Libya has been mired in political dysfunction since the collapse of Muammar Gaddafi’s regime in 2011, which shattered State institutions and triggered recurring struggles over legitimacy and power.",
-      "published": "2026-06-18T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Climate shocks accelerating as El Niño threat looms over already vulnerable regions",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167753",
-      "summary": "Millions of people already facing hunger, displacement and economic hardship could soon face another major climate shock, as UN agencies warned on Thursday that extreme weather risks are intensifying across some of the world’s most vulnerable regions.",
-      "published": "2026-06-18T12:00:00+00:00",
-      "score": 8
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
       "title": "Tropical Storm Arthur",
@@ -401,15 +409,6 @@
       "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4920-4926-surveying-the-bands/",
       "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, June 12, 2026 Rather than going from stage to stage at a music festival to hear different bands playing different varieties of music, Curiosity has been ascending up Mount Sharp through physical bands of exposed rocks with textural and tonal differences. […]",
       "published": "2026-06-19T00:50:58+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Stages of Star Formation",
-      "url": "https://www.nasa.gov/image-article/stages-of-star-formation/",
-      "summary": "This image, captured by NASA’s James Webb Space Telescope and released on June 5, 2026, shows just a small portion of one of the Orion Molecular Clouds, a long and massive filament of cold gas and dust beyond the Orion Nebula. Every stage of star formation — from the youngest stellar embryos to protoplanetary discs […]",
-      "published": "2026-06-18T16:13:13+00:00",
       "score": 8
     }
   ]
