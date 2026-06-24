@@ -1,20 +1,116 @@
 {
-  "generated_at": "2026-06-23T14:14:31.721951+00:00",
-  "date": "2026-06-23",
+  "generated_at": "2026-06-24T13:59:56.049746+00:00",
+  "date": "2026-06-24",
   "source_count": 45,
-  "failed_sources": [
-    "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
-    "ReliefWeb: no element found: line 1, column 0"
-  ],
+  "failed_sources": [],
   "articles": [
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Awards Solutions for Federal Enterprise Procurement Contracts",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-solutions-for-federal-enterprise-procurement-contracts/",
-      "summary": "NASA will begin processing the awards of multiple contracts for the Solutions for Enterprise‑wide Procurement (SEWP) VI Government-wide Acquisition Contract. The contract provides streamlined access to commercial products and services, including hardware, software, cloud services, cybersecurity tools, engineering and consulting services, and data intensive mission support capabilities. This competitive acquisition was conducted within three categories: […]",
-      "published": "2026-06-22T21:24:12+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "DR Congo: Strategic Assistance for Emergency Response (SAFER) Consortium | Concern Worldwide",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/strategic-assistance-emergency-response-safer-consortium-concern-worldwide",
+      "summary": "Country: Democratic Republic of the Congo Source: Concern Worldwide Strategic Assistance for Emergency Response (SAFER) Consortium | Concern WorldwideNOTE: Please enable JavaScript to experience the full website Skip to main content Donate Contact us Latest news Schools Vacancies Our workAbout usHow to helpKnowledge Hub Donate Now Our work What we do Livelihoods Health and nutrition Education Emergencies Gender equality Climate and environment Where we work View all countries Schools and youth C",
+      "published": "2026-06-24T13:03:07+00:00",
+      "score": 24
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Inhabited Border Villages in Southern Lebanon Remain Isolated as Residents Struggle to Access Water and Essential Services",
+      "url": "https://reliefweb.int/report/lebanon/inhabited-border-villages-southern-lebanon-remain-isolated-residents-struggle-access-water-and-essential-services",
+      "summary": "Country: Lebanon Source: Médecins Sans Frontières For months, the villages of Rmeich, Debel, and Ain Ebel in southern Lebanon have endured the consequences of Israeli military operations, repeated attacks, and ongoing movement restrictions. Located only a few kilometres from the southern borders, these communities found themselves trapped throughout the war, cut off from essential services, while facing severe limitations on their ability to move safely and access basic necessities. While most r",
+      "published": "2026-06-24T12:48:12+00:00",
+      "score": 22
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Bolivia Civil Unrest 2026: DREF Final Report (MDRBO022)",
+      "url": "https://reliefweb.int/report/bolivia-plurinational-state/bolivia-civil-unrest-2026-dref-final-report-mdrbo022",
+      "summary": "Country: Bolivia (Plurinational State of) Source: International Federation of Red Cross and Red Crescent Societies Please refer to the attached file. What happened, where and when? Since early May 2026, Bolivia has experienced widespread social mobilizations and road blockades, which have progressively disrupted mobility and access to essential services. The situation escalated during the second half of May, when road blockades expanded across key national transport corridors, signicantly restri",
+      "published": "2026-06-24T13:01:58+00:00",
+      "score": 18
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "DR Congo: UNICEF and Gavi launch call to manufacturers in support of accelerated access to Bundibugyo Ebolavirus vaccines",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/unicef-and-gavi-launch-call-manufacturers-support-accelerated-access-bundibugyo-ebolavirus-vaccines",
+      "summary": "Countries: Democratic Republic of the Congo, Uganda Sources: GAVI Alliance, UN Children's Fund NEW YORK/GENEVA/COPENHAGEN, 24 June 2026 – In a move designed to accelerate access to a vaccine against Bundibugyo Ebolavirus disease, UNICEF and Gavi, the Vaccine Alliance today announced the launch of a Request for Expression of Interest (EOI) to gather information from vaccine developers and manufacturers on their plans to develop a vaccine against the disease. Building on Gavi’s recent commitment o",
+      "published": "2026-06-24T13:33:07+00:00",
+      "score": 17
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Côte d'Ivoire: Providing healthcare and advice in remote villages",
+      "url": "https://reliefweb.int/report/cote-divoire/providing-healthcare-and-advice-remote-villages",
+      "summary": "Country: Côte d'Ivoire Source: Action Against Hunger To improve access to healthcare services in the Tchologo region, in northern Côte d’Ivoire, Action Against Hunger teams have launched decentralised activities outside healthcare centres. This initiative, carried out in collaboration with health authorities, enables the organisation to reach certain communities that are cut off from the healthcare system, whether due to a lack of information, financial difficulties or isolation. “When the proje",
+      "published": "2026-06-24T12:33:07+00:00",
+      "score": 17
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Yemen: The More the Merrier? Comparing Outcomes and Preferences for Three- vs. Six-Month Cash Transfers",
+      "url": "https://reliefweb.int/report/yemen/more-merrier-comparing-outcomes-and-preferences-three-vs-six-month-cash-transfers",
+      "summary": "Country: Yemen Source: Danish Refugee Council Please refer to the attached file. Three monthly cash transfers in Yemen achieve equivalent food security outcomes to six-month programs, but the additional transfers reduce harmful coping strategies – offsetting roughly one-third to one-half their incremental cost. Yemen's humanitarian cash programs sustain millions of households through one of the world's most protracted crises – yet a core design decision has, until now, lacked quantitative ground",
+      "published": "2026-06-24T12:40:06+00:00",
+      "score": 16
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Ethiopia: Deafening silence: no accountability for the killing of three MSF staff in Tigray",
+      "url": "https://reliefweb.int/report/ethiopia/deafening-silence-no-accountability-killing-three-msf-staff-tigray",
+      "summary": "Country: Ethiopia Source: Médecins Sans Frontières Madrid/Nairobi — Five years after three Médecins Sans Frontières (MSF) staff members were brutally killed in central Tigray, Ethiopia , the Government of Ethiopia has shown no sign of concluding and sharing the outcomes of a credible and impartial investigation, despite our continuous engagement efforts. On 24 June 2021, María Hernández Matas, Tedros Gebremariam Gebremichael, and Yohannes Halefom Reda were shot while they were in the area lookin",
+      "published": "2026-06-24T12:26:22+00:00",
+      "score": 16
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "WFP Egypt Country Brief, June 2026 (Reporting period: May 2026)",
+      "url": "https://reliefweb.int/report/egypt/wfp-egypt-country-brief-june-2026-reporting-period-may-2026",
+      "summary": "Country: Egypt Source: World Food Programme Please refer to the attached file. IN NUMBERS 534,000 people assisted in May 2026 (60% female) 265 mt food distributed in May 2026 USD 1.8M cash transferred in May 2026 USD 24.5M required in the next six months (June – November 2026) KEY HIGHLIGHTS In May, WFP supported over 534,000 people in Egypt through various interventions, including cash assistance for crisis-affected people and self-reliance activities for refugees and host communities. Activiti",
+      "published": "2026-06-24T12:25:11+00:00",
       "score": 15
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "UN asks AI companies to reveal full environmental impacts",
+      "url": "https://www.climatechangenews.com/2026/06/23/un-ai-firms-to-reveal-full-environmental-impacts-data-centres-water-energy/",
+      "summary": "UN chief António Guterres says big AI firms should disclose the emissions, water and energy use of their data centres amid community opposition The post UN asks AI companies to reveal full environmental impacts appeared first on Climate Home News .",
+      "published": "2026-06-23T17:18:44+00:00",
+      "score": 14
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "UNHCR Ethiopia: Housing and Settlement factsheet | January-March 2026",
+      "url": "https://reliefweb.int/report/ethiopia/unhcr-ethiopia-housing-and-settlement-factsheet-january-march-2026",
+      "summary": "Country: Ethiopia Source: UN High Commissioner for Refugees Please refer to the attached file. UNHCR, in collaboration with FDRE Refugee Returnee Service (RRS) and partners, is supporting refugees, asylum seekers, and host communities to access safe, dignified, habitable shelter—addressing urgent humanitarian needs while advancing integrated, climate-resilient settlements aligned with the GCR, and Ethiopia’s human settlement pledge inline with Makatet Roadmap. Multi-Year Priorities ◦ Protection ",
+      "published": "2026-06-24T13:03:09+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
+      "url": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
+      "summary": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and",
+      "published": "2026-06-24T12:48:11+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
+      "url": "https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html",
+      "summary": "GitHub is moving to strengthen software supply chain security by updating \"actions/checkout\" to block pwn request attacks that exploit the risky use of the \"pull_request_target workflow\" trigger to run malicious code with the workflow's full privileges. Effective June 18, 2026, the latest version of \"actions/checkout,\" the official GitHub action for checking out a repository into the",
+      "published": "2026-06-23T14:22:03+00:00",
+      "score": 13
     },
     {
       "source": "The Hacker News",
@@ -23,61 +119,286 @@
       "url": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
       "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to",
       "published": "2026-06-23T03:56:58+00:00",
-      "score": 15
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167775",
-      "summary": "Deadly drone and missile attacks in Ukraine over the weekend represented a “dangerous cycle of escalation” in Russia’s full-scale four-year-old war, the Security Council heard on Monday from Mohamed Khaled Khiari, Assistant Secretary-General in the Departments of Political and Peacebuilding Affairs and Peace Operations, while Edem Wosornu, crisis response director at the UN relief office, OCHA, warned that “the choices made here can mean the difference between lives saved or lives lost.”",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "url": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication. The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.",
-      "published": "2026-06-22T16:13:28+00:00",
-      "score": 14
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Myanmar: Aid decline compounds suffering amid ongoing military attacks",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167777",
-      "summary": "A drop in humanitarian assistance is worsening the suffering of millions of people in Myanmar after five years of conflict-related violence, the UN human rights office, OHCHR, said in a report published on Monday.",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Experimental Fabrication Branch Fuels Aircraft Innovation",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasas-experimental-fabrication-branch-fuels-aircraft-innovation/",
-      "summary": "At NASA, innovation begins well before an aircraft takes flight. The Experimental Fabrication Branch at NASA’s Armstrong Flight Research Center in Edwards, California, transforms engineering concepts into mission‑ready hardware for research aircraft and technology development. This capability helps the agency deliver advancements that benefit the public by improving aviation safety, efficiency, and sustainability. The branch […]",
-      "published": "2026-06-22T17:47:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Three things to watch amid Anthropic’s latest feud with the government",
-      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
-      "published": "2026-06-22T18:00:00+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Irish government to contribute £197m to cross-border rail services",
-      "url": "https://www.bbc.co.uk/news/articles/cd95yd1y050o?at_medium=RSS&at_campaign=rss",
-      "summary": "The money will come from the last allocation from the Irish government's Shared Island Fund.",
-      "published": "2026-06-23T13:39:03+00:00",
+      "title": "Congress passes war powers measure for first time, breaking with Trump over Iran",
+      "url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The resolution passed on Tuesday was largely symbolic, but it adds to pressure on the White House to end the conflict once and for all.",
+      "published": "2026-06-24T03:57:59+00:00",
       "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Biggest city in Crimea without power after Ukraine strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
+      "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
+      "published": "2026-06-24T09:48:24+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Heat pump growth stalls as government support cut, warns climate watchdog",
+      "url": "https://www.bbc.co.uk/news/articles/cn8k4pek3gzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The growth in sales has slowed significantly after a critical government grant programme was cut.",
+      "published": "2026-06-24T10:05:19+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Central African Republic peace gains must be preserved: UN envoy",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167791",
+      "summary": "The Central African Republic (CAR) “has made remarkable and tangible progress towards lasting peace and security” in recent years, but security remains fragile in border areas, including with war-torn Sudan, UN Special Representative Valentine Rugwabiza told the Security Council on Tuesday.",
+      "published": "2026-06-23T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstructured, which limits its use by AI models. To understand this challenge, consider the foundation of the web itself. The web was not designed…",
+      "published": "2026-06-24T11:59:54+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "url": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group. \"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of",
+      "published": "2026-06-24T08:55:12+00:00",
+      "score": 12
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Live from LCAW – Raw diplomacy: Can new mineral alliances deliver a just energy transition?",
+      "url": "https://www.climatechangenews.com/2026/06/24/live-from-lcaw-raw-diplomacy-can-new-mineral-alliances-deliver-a-just-energy-transition/",
+      "summary": "This event is co-hosted by the Business and Human Rights Resource Centre, Chatham House, Climate Home News and the Natural Resource Governance Institute. The post <span style=\"color: #F39200;\">Live from LCAW</span> – Raw diplomacy: Can new mineral alliances deliver a just energy transition? appeared first on Climate Home News .",
+      "published": "2026-06-24T13:22:57+00:00",
+      "score": 12
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Cited 23 June 2026: Project Cosmos launch | Science ‘under attack’ at Bonn | Emissions inequality",
+      "url": "https://www.carbonbrief.org/cited-23-june-project-cosmos-launch-science-under-attack-at-bonn-emissions-inequality/",
+      "summary": "Welcome to Cited, your essential guide to new climate research. In the news SCIENCE ‘UNDER... The post Cited 23 June 2026: Project Cosmos launch | Science ‘under attack’ at Bonn | Emissions inequality appeared first on Carbon Brief .",
+      "published": "2026-06-23T14:07:41+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Acted Tchad : Profilage du site spontané d'adré et celui aménagé de Dougui, Province du Ouaddai, Tchad (Mai 2026)",
+      "url": "https://reliefweb.int/report/chad/acted-tchad-profilage-du-site-spontane-dadre-et-celui-amenage-de-dougui-province-du-ouaddai-tchad-mai-2026",
+      "summary": "Country: Chad Source: Agency for Technical Cooperation and Development Please refer to the attached Infographic. INTRODUCTION L’objectif de la mise à jour trimestrielle du profilage du site est d’améliorer la planification de la réponse humanitaire grâce à l’analyse des vulnérabilités, des besoins spécifiques et des dynamiques communautaires, et à l’évaluation de l’assistance et des services rendus disponibles par les acteurs humanitaires sur le site. Les résultats sont par la suite diffusés et ",
+      "published": "2026-06-24T12:35:57+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
+      "url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
+      "published": "2026-06-23T21:04:11+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+      "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+      "summary": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
+      "published": "2026-06-24T13:03:35+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+      "published": "2026-06-24T12:32:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Environmental plan is largely off track, warns watchdog",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1e0zqvyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A report says many of the measures are \"well within the reach\" of government and it was a matter of \"moving away from planning into delivery\".",
+      "published": "2026-06-24T05:24:47+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "published": "2026-06-23T16:27:17+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Report details widespread use of sexual violence in Sudan war",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167792",
+      "summary": "A new UN human rights report issued on Tuesday details the brutality and scale of conflict-related sexual violence in Sudan since war erupted in April 2023 and its profound, long-term impacts on victims, families and communities.",
+      "published": "2026-06-23T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "This flying solar-powered platform could deliver better internet from the air",
+      "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+      "summary": "As soon as August, a giant silver bullet will cut its way through the dry air of the southwestern US and cross the Pacific to reach the coast of Japan. Once there, the roughly 200-foot-long craft, built by the New Mexico–based company Sceye, will park some 18 kilometers above the ocean’s surface, in a wispy-thin…",
+      "published": "2026-06-24T09:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Stand Up for Research, Innovation, and Education",
+      "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+      "summary": "Right now, MIT alumni and friends are voicing their support for: America’s scientific and technological leadership Merit-based admissions and affordable education Advances that increase US health, security, and prosperity Our community is standing up for MIT and its mission to serve the nation and the world. And we need you to join us at this…",
+      "published": "2026-06-23T21:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke",
+      "published": "2026-06-23T18:20:49+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "url": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track. The deadlines matter because of a threat that does not",
+      "published": "2026-06-23T15:16:40+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say",
+      "url": "https://www.climatechangenews.com/2026/06/24/ministers-say-cop31-open-to-reflecting-santa-marta-conference-climate-talks/",
+      "summary": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process The post COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say appeared first on Climate Home News .",
+      "published": "2026-06-24T10:07:49+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "UN chief says fossil fuel industry must cut methane for warming “relief”",
+      "url": "https://www.climatechangenews.com/2026/06/23/un-chief-fossil-fuel-industry-cut-methane-warming-relief/",
+      "summary": "The UN Secretary-General urges drastic reductions in methane emissions, starting with the energy sector, to limit an expected overshoot of global warming beyond 1.5C The post UN chief says fossil fuel industry must cut methane for warming “relief” appeared first on Climate Home News .",
+      "published": "2026-06-23T08:42:51+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "China’s coal-chemicals boom risks repeating the mistakes of the past",
+      "url": "https://www.climatechangenews.com/2026/06/22/chinas-coal-chemicals-boom-risks-repeating-the-mistakes-of-the-past/",
+      "summary": "By reviving the problematic industry in the name of energy security, China runs the risk of higher emissions, stranded assets and setting back its ambitions as a clean energy leader The post China’s coal-chemicals boom risks repeating the mistakes of the past appeared first on Climate Home News .",
+      "published": "2026-06-22T21:02:01+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Côte d'Ivoire: WFP Côte d’Ivoire Country Brief, May 2026",
+      "url": "https://reliefweb.int/report/cote-divoire/wfp-cote-divoire-country-brief-may-2026",
+      "summary": "Countries: Côte d'Ivoire, Burkina Faso, Ghana, Mali Source: World Food Programme Please refer to the attached file. SITUATION OVERVIEW • According to the October 2025 Cadre Harmonisé projections, over 1.3 million people will face acute food insecurity (Phases 3-4) between June and August 2026, with an additional 3.9 million in Phase 2 —representing a 43 percent increase compared to 2025. In Tchologo and Bounkani regions, over 150,000 people (13 percent of total population) are acutely food insec",
+      "published": "2026-06-24T13:29:16+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Sydney woman wakes from induced coma more than a week after shark attack",
+      "url": "https://www.bbc.co.uk/news/articles/cy8drk2dk3no?at_medium=RSS&at_campaign=rss",
+      "summary": "Leah Stewart, 34, had one of her arms amputated after she was bitten while swimming at Coogee Beach.",
+      "published": "2026-06-24T01:42:43+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+      "summary": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+      "published": "2026-06-24T00:00:06+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Why this heatwave feels worse than the last one",
+      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
+      "summary": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains",
+      "published": "2026-06-24T12:24:39+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Red extreme heat warning extended as record-breaking heatwave continues",
+      "url": "https://www.bbc.co.uk/weather/articles/cwy0n6r5zrzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Temperatures are predicted to climb to around 37 or 38C in southern England, with a maximum of 39C not out of the question",
+      "published": "2026-06-24T11:51:06+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
+      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
+      "summary": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
+      "published": "2026-06-23T14:19:21+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: UN launches Hormuz evacuation plan, UNICEF youth champion killed in Gaza, Lebanon ceasefire ‘largely holding’",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167793",
+      "summary": "The International Maritime Organization (IMO) will begin implementing an evacuation plan for more than 11,000 seafarers stranded in the Strait of Hormuz, the UN agency announced on Tuesday.",
+      "published": "2026-06-23T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
+      "summary": "Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide and atrocity crimes in the Gaza Strip and war crimes in the West Bank, a UN independent commission of inquiry said in its latest report released on Tuesday.",
+      "published": "2026-06-23T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "New Security Council resolution upholds accountability for attacks against peacekeepers",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167789",
+      "summary": "The United Nations Security Council unanimously adopted a resolution on Tuesday that calls for accountability for crimes committed against UN peacekeepers.",
+      "published": "2026-06-23T12:00:00+00:00",
+      "score": 10
     },
     {
       "source": "UN News",
@@ -86,331 +407,7 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167785",
       "summary": "As a deadly heatwave continued to grip Europe on Tuesday, UN Secretary-General António Guterres issued an impassioned appeal for more ambitious global action on climate change caused by fossil fuels, to prevent irreversible damage.",
       "published": "2026-06-23T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Webb Finds Clues to Ancient, Distant Origin of Comet 3I/ATLAS",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-finds-clues-to-ancient-distant-origin-of-comet-3i-atlas/",
-      "summary": "As interstellar comet 3I/ATLAS began moving away from the Sun in December 2025, astronomers took the opportunity to turn NASA’s powerful James Webb Space Telescope in its direction and capture detailed measurements of its chemical components. The comet was freshly warmed from its closest pass by the Sun, and its ancient ice had been converted […]",
-      "published": "2026-06-22T15:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
-      "url": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence indicates that the threat actor is likely Russian-speaking and financially motivated, owing to the",
-      "published": "2026-06-22T13:20:12+00:00",
-      "score": 12
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Cited 23 June: Project Cosmos launch | Science ‘under attack’ at Bonn | Emissions inequality",
-      "url": "https://www.carbonbrief.org/cited-23-june-project-cosmos-launch-science-under-attack-at-bonn-emissions-inequality/",
-      "summary": "Welcome to Cited, your essential guide to new climate research. In the news SCIENCE ‘UNDER... The post Cited 23 June: Project Cosmos launch | Science ‘under attack’ at Bonn | Emissions inequality appeared first on Carbon Brief .",
-      "published": "2026-06-23T14:07:41+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "summary": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
-      "published": "2026-06-23T13:16:09+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
-      "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Edgar Lungu's family and the Zambian government remain in dispute 12 months after he died.",
-      "published": "2026-06-23T12:02:29+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Montreal shooting leaves officer, civilian and suspect dead",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz3lv015qo?at_medium=RSS&at_campaign=rss",
-      "summary": "It was the first time in 24 years that a Montreal police officer was killed in the line of duty, the city's police chief said.",
-      "published": "2026-06-23T08:36:38+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
-      "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\".",
-      "published": "2026-06-23T08:05:07+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "AI is getting women wrong as gender bias persists, data reveals",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167776",
-      "summary": "As artificial intelligence reshapes how people work, communicate and access information, UN Women warned on Monday that the technology is reproducing old gender stereotypes, which amplify online abuse and leave women out of the decisions that will define the digital future.",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Chandra Finds Possible Supernova Remnant",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-finds-possible-supernova-remnant/",
-      "summary": "Using data from NASA’s Chandra X-ray Observatory, astronomers may have found a supernova remnant – seen in this June 11, 2026, image – in an intriguing neighborhood in the middle of the Milky Way galaxy. Supernova remnants are the expanding remains of exploded stars and provide elements like iron, oxygen, and silicon that are critical […]",
-      "published": "2026-06-22T17:39:37+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA to Cover US Spacewalk 95, Host Preview News Conference",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-us-spacewalk-95-host-preview-news-conference/",
-      "summary": "NASA astronauts will venture outside the International Space Station on Tuesday, June 30, to replace a wrist joint on the orbital complex’s Canadarm2 robotic arm. The spacewalk is scheduled to begin at approximately 8:35 a.m. EDT. Experts from NASA and CSA (Canadian Space Agency) will preview the upcoming spacewalk during a news conference at 2 […]",
-      "published": "2026-06-22T16:45:24+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The $400 million machine powering the future of chipmaking It’s a bit of a schlep to get to the top of ASML’s newest machine. It’s about the size of a double-decker…",
-      "published": "2026-06-23T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-      "summary": "India is home to about 60% of the world’s wild Asian elephants, and around 80% of the animals’ habitat lies outside protected areas, according to the Ministry of Environment, Forest, and Climate Change. That brings people and wildlife into close contact, and clashes can turn lethal: There have been some 3,000 human casualties in the…",
-      "published": "2026-06-23T09:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
-      "url": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
-      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser (615 downloads) All the packages were published over the past month by an npm user named",
-      "published": "2026-06-23T08:54:32+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,",
-      "published": "2026-06-23T05:38:40+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels,\" Wordfence said in an analysis",
-      "published": "2026-06-22T18:00:48+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "url": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way. The warrant let CSIS alter,",
-      "published": "2026-06-22T09:11:37+00:00",
-      "score": 11
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Prof Philippe Ciais: The world’s most highly cited climate scientist",
-      "url": "https://www.carbonbrief.org/prof-philippe-ciais-the-worlds-most-highly-cited-climate-scientist/",
-      "summary": "Phillipe Ciais has spent almost four decades researching the planet’s carbon cycle – and the... The post Prof Philippe Ciais: The world’s most highly cited climate scientist appeared first on Carbon Brief .",
-      "published": "2026-06-23T13:01:26+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
-      "published": "2026-06-23T11:10:06+00:00",
       "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Spider which uses spring trap to capture prey discovered in Australia",
-      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
-      "published": "2026-06-23T10:05:53+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-      "url": "https://www.bbc.co.uk/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
-      "published": "2026-06-23T03:55:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ebola in DR Congo: first month of outbreak sees record number of cases – UN humanitarians",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167786",
-      "summary": "Ebola has been spreading at unprecedented speed in the eastern Democratic Republic of the Congo (DRC), bringing risk and fear into people’s daily lives, UN humanitarians said on Tuesday.",
-      "published": "2026-06-23T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Sudan: Drone attacks endanger civilians and shut down critical services in El Obeid",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167781",
-      "summary": "Escalating violence in and around the Sudanese city of El Obeid is putting civilians at increased risk and disrupting essential services, the UN aid coordination office OCHA said on Monday.",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167779",
-      "summary": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Invites Media to Botswana Artemis Accords Signing Ceremony",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-botswana-artemis-accords-signing-ceremony/",
-      "summary": "The Republic of Botswana will sign the Artemis Accords during a ceremony at 9:30 a.m. EDT Thursday, June 25, at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Botswana’s Minister of Communications and Innovation David Tshere and U.S. Department of State Senior Advisor for Space Gregory Autry for the event. This event […]",
-      "published": "2026-06-22T19:21:27+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Agentic AI: The Weapon That No Longer Needs a Warrior",
-      "url": "https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html",
-      "summary": "Every weapon begins as an extension of the hand that holds it. The spear lengthened the reach of the arm. The bow sent the point flying without the throw. The rifle placed a man's death a quarter mile beyond his sight, and the aircraft carried that death across oceans. At each turn, the distance between the warrior and the wound grew wider, and yet one thing never moved: a human chose the target",
-      "published": "2026-06-23T11:30:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "url": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents. AI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their",
-      "published": "2026-06-22T11:58:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more",
-      "published": "2026-06-22T10:55:10+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Prof Detlef van Vuuren: The climate scientist most cited by the IPCC",
-      "url": "https://www.carbonbrief.org/prof-detlef-van-vuuren-the-climate-scientist-most-cited-by-the-ipcc/",
-      "summary": "Detlef van Vuuren is one of the world’s leading climate modellers and, as a result,... The post Prof Detlef van Vuuren: The climate scientist most cited by the IPCC appeared first on Carbon Brief .",
-      "published": "2026-06-23T13:01:14+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Carbon Brief’s ranking of the most highly cited climate scientists",
-      "url": "https://www.carbonbrief.org/carbon-briefs-ranking-of-the-most-highly-cited-climate-scientists-2/",
-      "summary": "Carbon Brief’s Project Cosmos is the largest known database of climate change research, featuring more... The post Carbon Brief’s ranking of the most highly cited climate scientists appeared first on Carbon Brief .",
-      "published": "2026-06-22T13:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump anticipates better relationship with Colombia under new leader",
-      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
-      "summary": "Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement.",
-      "published": "2026-06-23T10:27:04+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
-      "published": "2026-06-23T13:27:12+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Myanmar army killed over 700 civilians in six months, UN says",
-      "url": "https://www.bbc.co.uk/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The new UN report says the 702 civilian deaths over six months last year included 153 children.",
-      "published": "2026-06-22T15:31:55+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Seabed damaged by fishing showing signs of recovery",
-      "url": "https://www.bbc.co.uk/news/articles/c20y9zlzwyzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Campaigners say improvements to the area trashed by illegal dredging show that marine protection works.",
-      "published": "2026-06-23T05:16:47+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Powering resilience: How Indonesia is building a more secure energy future",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167784",
-      "summary": "As countries grapple with energy price shocks, supply disruptions and the growing impacts of climate change, energy security has become a pressing concern.",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167782",
-      "summary": "Pope Leo called on the international community to renew its commitment to tackling hunger and malnutrition, describing access to adequate food as a “fundamental human right” during a visit to the World Food Programme (WFP) headquarters in Rome on Monday.",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167780",
-      "summary": "Four decades after AIDS first emerged as a global crisis, world leaders, advocates and community representatives gathered at UN Headquarters on Monday issued a stark warning: progress against HIV is slowing just as financial pressures and shrinking support threaten to reverse decades of gains.",
-      "published": "2026-06-22T12:00:00+00:00",
-      "score": 9
     }
   ]
 }
