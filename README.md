@@ -1,70 +1,78 @@
-# Moira — 2026-06-25
+# Moira — 2026-06-26
 
 ## 🌍 Umwelt
 
-Eine Hitzewelle von außergewöhnlicher Intensität erfasst weite Teile Europas. Frankreich verzeichnete am 23. Juni den heißesten Tag seit Beginn der Aufzeichnungen im Jahr 1947, und die Temperaturen verlagern sich nun ostwärts. In Deutschland könnten in einigen Gebieten 40 Grad Celsius erreicht werden. Die französischen Behörden haben die Gesundheitswarnung auf die höchste Stufe angehoben und berichten von hitzebedingten Todesfällen, die auch junge Menschen betreffen. In Großbritannien wurde der heißeste Junitag seit Beginn der Aufzeichnungen gemessen, mit 36 Grad Celsius, und eine seltene rote Wetterwarnung für extreme Hitze bleibt in Kraft.
+Europa erlebt derzeit eine außergewöhnliche Hitzewelle, die nach Angaben des Weltklimarats und nationaler Wetterdienste in direktem Zusammenhang mit dem Klimawandel steht. In Großbritannien wurde der höchste je im Juni gemessene Temperaturwert von 36,1 Grad Celsius erreicht, wobei die gefühlte Temperatur noch höher lag. Die Vereinten Nationen haben über ihre Organisationen, darunter die Weltorganisation für Meteorologie, Hitzewarnungen herausgegeben und Maßnahmenpläne zum Gesundheitsschutz aktiviert. Ein Bericht von Carbon Brief dokumentiert, dass Medien und Wissenschaft die Rolle des Klimawandels bei dieser Hitzewelle intensiv diskutieren.
 
-Die Hitzewelle hat unmittelbare Auswirkungen auf die Energieinfrastruktur. Mehrere Kraftwerke in Europa müssen vom Netz gehen, während gleichzeitig die Nachfrage nach Kühlung durch Ventilatoren und Klimaanlagen sprunghaft ansteigt. Das Stromnetz wird dadurch an seine Grenzen gebracht.
+In Frankreich hat ein Gericht den Energiekonzern TotalEnergies dazu verpflichtet, innerhalb von sechs Monaten einen überarbeiteten Klimaplan vorzulegen, der alle Emissionen des Unternehmens berücksichtigt. Dieses Urteil ist bemerkenswert, weil es ein Unternehmen rechtlich zwingt, seine gesamte Emissionsbilanz offenzulegen und nicht nur Teile davon.
 
-Eine Analyse zeigt, dass während des rekordheißen britischen Sommers 2025 die Zahl der Tiere, die auf dem Transport zu Schlachthöfen an Hitzestress starben, doppelt so hoch war wie in normalen Jahren. Dies verdeutlicht die konkreten Folgen extremer Temperaturen für die Landwirtschaft.
+Der Generalsekretär der Vereinten Nationen, António Guterres, hat große Unternehmen der künstlichen Intelligenz aufgefordert, die vollständigen Umweltauswirkungen ihrer Rechenzentren offenzulegen, einschließlich Emissionen, Wasserverbrauch und Energiebedarf. Diese Forderung steht im Kontext wachsender öffentlicher Kritik an der Ressourcenintensität von KI-Infrastrukturen.
 
-UN-Generalsekretär António Guterres hat die fossile Brennstoffindustrie zu drastischen Reduzierungen der Methanemissionen aufgefordert. Methan sei für ein Drittel der weltweiten Treibhausgasemissionen verantwortlich, und die Bekämpfung dieser Emissionen sei ein Kampf, der gewonnen werden könne. Er betonte, dass der Energiesektor hier den Anfang machen müsse, um die erwartete Überschreitung der 1,5-Grad-Grenze zu begrenzen.
+Die Europäische Union und Großbritannien führen eine Initiative an, die darauf abzielt, bis 2035 weltweit 35 Prozent des Energieverbrauchs zu elektrifizieren. Dies wird als strategisches Mittel gegen die Abhängigkeit von fossilen Brennstoffen beschrieben, wobei eine Gruppe von Dutzenden Ländern diese Position unterstützt.
+
+Der Leiter des internationalen Fonds für Verluste und Schäden, Ibrahima Cheikh Diong, hat versichert, dass die Auszahlungen in diesem Jahr beginnen sollen. Dies geschah als Reaktion auf Kritik aus Nigeria, das den Fonds als „Luftspiegelung“ bezeichnet hatte.
 
 ## 🔬 Wissenschaft
 
-Die NASA hat den Fortschritt ihrer Mondbasis-Pläne bekannt gegeben. Administrator Jared Isaacman wird am 30. Juni in einer virtuellen Veranstaltung die nächsten Schritte erläutern, einschließlich neuer Ausschreibungen für Mondlandemissionen. Dies baut auf den Erkenntnissen der Artemis II-Mission auf, bei der vier Astronauten erstmals seit Apollo wieder eine bemannte Reise um den Mond absolvierten. Die gewonnenen Daten prägen nun den Weg zurück zur Mondoberfläche und zu künftigen Marsmissionen.
+Die NASA hat bekannt gegeben, dass Botswana als 68. Nation die Artemis-Accords unterzeichnet hat, womit das Land das sechste afrikanische Land ist, das sich den Grundsätzen der friedlichen und transparenten Weltraumforschung verpflichtet. Die Unterzeichnung fand am Hauptsitz der NASA in Washington statt.
 
-Das europäische Weltraumteleskop Euclid, an dem die NASA beteiligt ist, hat einen neuen Blick auf das Zentrum unserer Milchstraße geliefert. Diese Aufnahmen überschneiden sich mit einem Bereich, den das Nancy Grace Roman Space Telescope der NASA beobachten wird, dessen Start für den 30. August 2026 vorgesehen ist. Das Teleskop ist inzwischen am Kennedy Space Center in Florida eingetroffen und wird dort für den Start vorbereitet.
+Das James-Webb-Weltraumteleskop hat neue Aufnahmen der Starburst-Galaxie Messier 82, auch Zigarren-Galaxie genannt, veröffentlicht. Die Infrarotbeobachtungen ergänzen vorhandene Daten des Hubble-Teleskops und ermöglichen einen umfassenderen Blick auf diese Galaxie, in der intensive Sternentstehung stattfindet.
+
+Die NASA hat das Unternehmen Rocket Lab mit dem Start zweier wissenschaftlicher Missionen beauftragt: PolSIR, das Wolken aus Eispartikeln in der Atmosphäre untersuchen soll, und TSIS-2, das die solare Strahlungsintensität misst. Diese Missionen dienen dem besseren Verständnis des Erdklimas und der Sonnenaktivität.
+
+Die Besatzung der Expedition 73 hat sich nach ihrer Rückkehr von der Internationalen Raumstation zu einem Erfahrungsaustausch getroffen. Die Astronauten und Kosmonauten berichteten über ihre wissenschaftlichen Arbeiten und die Zusammenarbeit im Orbit.
+
+Eine wissenschaftliche Untersuchung beschäftigt sich mit den Auswirkungen von Hitzewellen auf das menschliche Gehirn. Forscher versuchen zu verstehen, warum extreme Hitze kognitive Funktionen beeinträchtigt, was angesichts der aktuellen Hitzewelle in Europa von unmittelbarer gesundheitlicher Relevanz ist.
 
 ## ⚙️ Technik
 
-IBM hat einen Prototyp eines Chips vorgestellt, der etwa 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels vereint. Dies entspricht der doppelten Dichte des bisherigen Spitzenchips des Unternehmens aus dem Jahr 2021. IBM bezeichnet dies als die weltweit erste Chip-Technologie unter einem Nanometer. Die Technik könnte schnellere und energieeffizientere Computer ermöglichen, allerdings wird es noch einige Zeit dauern, bis sie serienreif ist.
+IBM hat einen neuen Prototyp-Chip vorgestellt, der etwa 100 Milliarden Transistoren auf einer Fläche von der Größe eines Fingernagels vereint. Dies entspricht der doppelten Dichte des bisherigen Spitzenchips des Unternehmens aus dem Jahr 2021. Die Technologie könnte Moore’s Law um etwa ein weiteres Jahrzehnt verlängern und schnellere sowie energieeffizientere Computer ermöglichen.
 
-Im Bereich der Cybersicherheit gab es mehrere bedeutende Entwicklungen. Eine koordinierte Aktion von Strafverfolgungsbehörden und privaten Unternehmen, darunter Bitdefender, ESET und Microsoft, hat die Infrastruktur der Schadsoftware-Netzwerke Amadey und StealC zerschlagen. Dabei wurden 27 Millionen gestohlene Zugangsdaten sichergestellt. Europol erklärte, das Ziel sei gewesen, die „Fließbänder“ zu stören, mit denen Cyberkriminelle Ransomware, Finanzbetrug und Angriffe auf kritische Infrastruktur betreiben.
+Im Bereich der Cybersicherheit sind mehrere Vorfälle dokumentiert. Die russische staatlich gesteuerte Gruppe Turla hat eine neue Hintertür namens STOCKSTAY eingesetzt, die gegen Regierungs- und Militäreinrichtungen in der Ukraine sowie gegen Einrichtungen mit Bezug zur italienischen Außenpolitik gerichtet war. Google beschreibt die Schadsoftware als kontinuierlich weiterentwickeltes Werkzeug.
 
-Eine neue Hintertür namens Mistic wurde entdeckt, die seit April 2026 in Angriffen auf Organisationen in den Bereichen Versicherung, Bildung, IT und Dienstleistungen eingesetzt wird. Die Sicherheitsbehörde CISA warnte vor der aktiven Ausnutzung einer kritischen Sicherheitslücke in Lantronix EDS5000-Geräten. Zudem wurde bekannt, dass eine Schwachstelle in Cisco Catalyst SD-WAN bereits mindestens zwei Monate vor ihrer öffentlichen Offenlegung als Zero-Day ausgenutzt wurde.
+Die US-Behörde für Cybersicherheit und Infrastruktursicherheit hat eine kritische Sicherheitslücke in der Software PTC Windchill in ihren Katalog bekannter ausgenutzter Schwachstellen aufgenommen. Die Lücke ermöglicht die Ausführung von Schadcode aus der Ferne und wird aktiv ausgenutzt.
 
-Forscher haben eine Schwachstelle in CI/CD-Workflows identifiziert, die als Cordyceps bezeichnet wird. Sie könnte Angreifern die vollständige Kontrolle über Repositorys von Dutzenden der größten Organisationen weltweit ermöglichen, darunter Microsoft, Google und Apache.
+Eine neue Schwachstelle im Linux-Kernel mit dem Namen DirtyClone wurde öffentlich dokumentiert. Sie ermöglicht es lokalen Nutzern, durch manipulierte Netzwerkpakete Systemrechte zu erlangen. Ein funktionsfähiger Exploit wurde veröffentlicht, ein Sicherheitsupdate steht bereit.
+
+Im Bereich der Lieferkettenangriffe haben Forscher eine Weiterentwicklung der Malware-Familie um Mini Shai-Hulud, Miasma und Hades identifiziert. Neue bösartige Pakete wurden in den npm- und Go-Ökosystemen entdeckt, und es wurden GitHub Actions für Angriffe missbraucht.
 
 ## 🏛️ Politik
 
-Die Hitzewelle in Europa hat politische Dimensionen erreicht. Frankreich hat die Gesundheitswarnung auf die höchste Stufe angehoben, nachdem hitzebedingte Todesfälle auch unter jungen Menschen gemeldet wurden. Die Behörden stehen vor der Herausforderung, die Bevölkerung zu schützen, während die Infrastruktur unter der extremen Belastung leidet.
+Die Vereinten Nationen haben einen Evakuierungsplan für die Straße von Hormus vorübergehend ausgesetzt, nachdem ein Frachtschiff von einem unbekannten Projektil getroffen wurde. Es gab keine gemeldeten Verletzten, aber die Sicherheitslage in der strategisch wichtigen Meerenge bleibt angespannt.
 
-In den USA hat Präsident Trump den Kongress um Milliarden für den Krieg mit dem Iran gebeten. Der Haushaltsantrag steht jedoch vor einem schwierigen Weg, da es Spannungen mit Mitgliedern seiner eigenen Partei gibt.
+Ein hochrangiger ukrainischer Geheimdienstoffizier, Oberst Dmytro Kozyura, wurde zu lebenslanger Haft verurteilt, weil er für Russland spioniert hatte. Die Staatsanwaltschaft gab an, dass er systematisch klassifizierte Informationen weitergegeben hatte.
 
-Der Ölpreis ist auf das Niveau vor dem Iran-Krieg gefallen. Anzeichen dafür, dass der Schiffsverkehr durch die wichtige Straße von Hormus allmählich wieder aufgenommen wird, haben zu diesem Rückgang beigetragen.
+In Deutschland wurde der Täter des Anschlags auf den Magdeburger Weihnachtsmarkt im Dezember 2024 zu lebenslanger Haft verurteilt. Bei der Tat waren sechs Menschen getötet worden, darunter ein neunjähriges Kind und fünf Frauen.
 
-In Südafrika hat eine Schlüsselfigur des Polizeikorruptionsskandals ein Schuldeingeständnis abgelegt. Die Staatsanwaltschaft erklärte, dass Vusimusi „Cat“ Matlala möglicherweise Beweise gegen hochrangige Beamte liefern könnte.
+Die Vereinigten Staaten haben Sanktionen gegen eine Goldraffinerie in Ruanda verhängt, die beschuldigt wird, mindestens 60 Kilogramm Gold aus der Demokratischen Republik Kongo geschmuggelt zu haben. Die Sanktionen sind Teil der Bemühungen, den illegalen Mineralienhandel in der Region zu unterbinden.
 
-In Kenia haben die Behörden wichtige Straßen in Nairobi abgeriegelt, während Demonstranten für Gerechtigkeit für die mehr als 80 Menschen marschieren, die bei den Protesten 2024 und den diesjährigen Gedenkveranstaltungen getötet wurden.
+In New York hat die zuständige Wohnungsbehörde beschlossen, die Mieten einzufrieren. Diese Entscheidung wurde von Mietern begrüßt, während Vermieter befürchten, dass dies die Wohnungsqualität verschlechtern könnte.
 
 ## 🌐 Geopolitische Lage
 
-Die humanitäre Lage im Sudan bleibt äußerst besorgniserregend. Ein neuer UN-Bericht dokumentiert das Ausmaß und die Brutalität der konfliktbezogenen sexuellen Gewalt seit Kriegsausbruch im April 2023. Die Kämpfe in der Stadt El Obeid gefährden weiterhin Zivilisten und beschädigen die Infrastruktur. In einem Drohnenangriff wurden Studenten verletzt.
+Ein schweres Erdbeben hat Venezuela getroffen und nach Angaben der Vereinten Nationen mindestens 235 Menschen getötet. Die Hilfsorganisationen berichten von massiven Bedürfnissen, und die Suche nach Überlebenden unter den Trümmern hat höchste Priorität. Das Beben trifft ein Land, das sich bereits in einer Phase politischer Unsicherheit befindet, nachdem der frühere Präsident Nicolás Maduro vor weniger als sechs Monaten von US-Streitkräften festgenommen worden war.
 
-Die Zentralafrikanische Republik hat nach Einschätzung des UN-Sonderbeauftragten bemerkenswerte Fortschritte in Richtung dauerhaften Friedens gemacht. Die Sicherheitslage in den Grenzgebieten, insbesondere zum kriegsgebeutelten Sudan, bleibt jedoch fragil.
+Der persönliche Gesandte des UN-Generalsekretärs für Sudan hat seine Besorgnis über die eskalierende Gewalt in und um die Stadt El Obeid geäußert. Eine weitere militärische Eskalation könnte Tausende Zivilisten gefährden und die humanitäre Krise im Sudan weiter verschärfen. In der Stadt wurden bei einem Drohnenangriff Studenten verletzt.
 
-Der UN-Sicherheitsrat hat eine offene Debatte über Kinder in bewaffneten Konflikten abgehalten. Der jüngste Bericht des Generalsekretärs zeigt, dass im Jahr 2025 erstmals in 30 Jahren der UN-Überwachung Regierungstruppen und Soldaten für mehr schwere Verstöße gegen Kinder verantwortlich waren als nichtstaatliche bewaffnete Gruppen. Insgesamt wurden 38.558 schwere Verstöße wie Tötung, Rekrutierung und Entführung dokumentiert, von denen 24.174 Kinder betroffen waren.
+Die Vereinten Nationen haben acht Millionen Dollar bereitgestellt, um Burundi und den Südsudan auf eine mögliche Ausbreitung des Ebola-Virus vorzubereiten. Dies zeigt die anhaltende Sorge vor einer grenzüberschreitenden Gesundheitskrise in der Region.
 
-Die Internationale Seeschifffahrtsorganisation wird einen Evakuierungsplan für mehr als 11.000 Seeleute umsetzen, die in der Straße von Hormus gestrandet sind.
+Kanada wurde für die Teilnahme am Eurovision-Wettbewerb zugelassen. Premierminister Mark Carney hatte die Idee in seinem Haushalt für 2025 eingebracht.
 
 ## ⚔️ Krieg
 
-Der Krieg im Sudan hat eine neue Dimension der Brutalität erreicht. Ein UN-Bericht dokumentiert detailliert die systematische Anwendung sexueller Gewalt als Kriegswaffe seit April 2023. Die langfristigen Auswirkungen auf Opfer, Familien und Gemeinschaften werden als tiefgreifend beschrieben.
+In der Südukraine sind Tausende Zivilisten in Frontgemeinden eingeschlossen und kämpfen ums Überleben. Die UN-Menschenrechtsbeobachtungsmission berichtet, dass der Zugang zu Nahrung, medizinischer Versorgung und Evakuierungsrouten weiter abnimmt. Die humanitäre Lage verschlechtert sich zusehends.
 
-In der sudanesischen Stadt El Obeid gefährden anhaltende Kämpfe weiterhin Zivilisten und beschädigen die Infrastruktur. Die genauen Opferzahlen sind nicht unabhängig überprüfbar.
-
-Die Waffenstillstandsvereinbarung im Libanon wird nach UN-Angaben weitgehend eingehalten, obwohl es Berichte über gefährliche Rückkehrbewegungen in den Süden des Landes gibt.
+Im Sudan dauern die Kämpfe in der Region um El Obeid an, wobei Zivilisten und Infrastruktur weiter gefährdet sind. Die Vereinten Nationen haben vor einer weiteren Eskalation gewarnt, die die bereits katastrophale humanitäre Lage noch verschlimmern würde.
 
 ## 💬 Meinung des Tages
 
-Der 25. Juni 2026 zeigt ein Muster, das sich in mehreren Dimensionen wiederholt: Die physischen Grenzen unserer Systeme werden unter extremen Bedingungen sichtbar. Die Hitzewelle in Europa legt nicht nur die Verwundbarkeit der Energieinfrastruktur offen, sondern auch die menschlichen Kosten – Todesfälle unter jungen Menschen in Frankreich, verdoppelte Tiersterblichkeit in Großbritannien. Gleichzeitig zeigt der UN-Bericht zu Kindern in bewaffneten Konflikten, dass staatliche Akteure erstmals mehr schwere Verstöße begehen als nichtstaatliche Gruppen. Dies ist keine abstrakte Verschiebung, sondern ein Indikator dafür, dass die Schutzmechanismen, die wir für selbstverständlich hielten, an mehreren Fronten gleichzeitig erodieren. Die Frage ist nicht, ob wir an Grenzen stoßen, sondern ob wir die Fähigkeit behalten, aus diesen Grenzen zu lernen, bevor sie zu Kipppunkten werden.
+Der 26. Juni 2026 zeigt ein Muster, das sich in den letzten Jahren verfestigt hat: Die Gleichzeitigkeit von Extremereignissen. Eine beispiellose Hitzewelle in Europa, ein verheerendes Erdbeben in Venezuela, anhaltende Kriege in der Ukraine und im Sudan, und parallel dazu technologische Durchbrüche bei Halbleitern und Sicherheitslücken, die neue Risiken schaffen. Was diesen Tag kennzeichnet, ist nicht ein einzelnes Ereignis, sondern die Überlagerung mehrerer Krisen, die jeweils für sich genommen bereits Aufmerksamkeit verdienten. Die wissenschaftliche Gemeinschaft versucht, die Auswirkungen von Hitze auf das menschliche Gehirn zu verstehen, während Gerichte Ölkonzerne zwingen, ihre Emissionen vollständig offenzulegen, und die UN gleichzeitig Hilfsgelder für Ebola-Prävention und Erdbebenopfer bereitstellt. Die Welt an diesem Tag ist kein Ort linearer Entwicklungen, sondern ein Geflecht aus Fortschritt und Verwundbarkeit, aus juristischen Erfolgen im Klimaschutz und menschlichem Leid durch Naturgewalten und Konflikte.
 
 ## 🎵 Song des Tages
 
-„Heat Wave“ von Martha and the Vandellas. Der Titel passt zur dokumentierten Realität dieses Tages, an dem eine rekordverdächtige Hitzewelle Europa erfasst, Kraftwerke abschaltet und Menschenleben fordert. Der Song aus dem Jahr 1963 beschreibt eine innere Glut, aber an diesem Tag ist die Hitze keine Metapher mehr, sondern eine messbare, tödliche physikalische Größe.
+„Heat Wave“ von Martha and the Vandellas. Der Song aus dem Jahr 1963 beschreibt nicht nur metaphorisch die Intensität von Gefühlen, sondern passt in seiner ganzen wörtlichen Bedeutung zur aktuellen Hitzewelle in Europa. Die treibende Rhythmussektion und die eindringliche Stimme erinnern daran, dass Hitze nicht nur eine Wettererscheinung ist, sondern etwas, das den Alltag durchdringt, den Rhythmus verändert und die Grenzen des Erträglichen auslotet.
 
 
 ---
 
-*Erstellt am 2026-06-25 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-06-26 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
