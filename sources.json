@@ -1,11 +1,63 @@
 {
-  "generated_at": "2026-06-28T13:07:54.057452+00:00",
-  "date": "2026-06-28",
+  "generated_at": "2026-06-29T15:23:51.367331+00:00",
+  "date": "2026-06-29",
   "source_count": 45,
-  "failed_sources": [
-    "ReliefWeb: no element found: line 1, column 0"
-  ],
+  "failed_sources": [],
   "articles": [
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: Mid-Year Review of the Global Humanitarian Overview: Delivering for People in Crisis against the Odds",
+      "url": "https://reliefweb.int/report/world/mid-year-review-global-humanitarian-overview-delivering-people-crisis-against-odds",
+      "summary": "Countries: World, Afghanistan, Bangladesh, Colombia, Cuba, Democratic Republic of the Congo, Haiti, Lebanon, Madagascar, Mozambique, Myanmar, Nigeria, Pakistan, Somalia, South Sudan, Sudan, Syrian Arab Republic, Uganda, Ukraine, Yemen Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Foreword by the ERC When I launched the 2026 Global Humanitarian Overview last December, we set out a rigorous, evidence-based plan to reach 87 million people in crisi",
+      "published": "2026-06-29T14:19:55+00:00",
+      "score": 23
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "oPt: QRCS, JHCO distribute vegetable parcels to displaced families in Gaza [EN/AR]",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/qrcs-jhco-distribute-vegetable-parcels-displaced-families-gaza-enar",
+      "summary": "Country: occupied Palestinian territory Source: Qatar Red Crescent Society Please refer to the attached files. June 28th, 2026 ― Doha, Qatar: A new relief project has been launched by Qatar Red Crescent Society (QRCS), in collaboration with Jordan Hashemite Charity Organization (JHCO), to enhance food security in Gaza, where the latest war left hundreds of thousands of displaced families struggling to find food and other everyday life needs. Dr. Akram Nassar, head of QRCS’s representation office",
+      "published": "2026-06-29T13:33:56+00:00",
+      "score": 19
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan - Market Prices and Availability Report 16: Essential Commodities Prices, Availability, and Market Actors’ Perceptions (May 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-market-prices-and-availability-report-16-essential-commodities-prices-availability-and-market-actors-perceptions-may-2026",
+      "summary": "Country: Sudan Source: International Food Policy Research Institute Please refer to the attached file. Cereals and Flour The following figure shows weekly average local prices of cereals and wheat flour (SDG/kg) from February 2025 to May 2026. Sorghum, millet and wheat flour prices increased slightly in May compared to April 2026. Wheat prices remained stable during April and May, with only a slight increase at the beginning of May before returning to previous levels by the end of the month. Sum",
+      "published": "2026-06-29T13:45:56+00:00",
+      "score": 17
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Health and Nutrition Learning Paper - Surge Approach: Lessons learned from Concern Worldwide’s experience in Ethiopia",
+      "url": "https://reliefweb.int/report/ethiopia/health-and-nutrition-learning-paper-surge-approach-lessons-learned-concern-worldwides-experience-ethiopia",
+      "summary": "Country: Ethiopia Source: Concern Worldwide Please refer to the attached file. Context Ethiopia has a population of approximately 132 million people, making it the 10th most populous country in the world. The percentage of the population living below the poverty line has decreased from 30% in 2011 to 24% in 2016, indicating progress in poverty reduction1. However, recent issues such as the COVID-19 pandemic, the 2021 Northern conflict, and the 2023 Amhara crisis, along with the declaration of a ",
+      "published": "2026-06-29T13:33:08+00:00",
+      "score": 17
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "UNHCR Romania Ukraine Refugee Situation Update - 29 June 2026",
+      "url": "https://reliefweb.int/report/romania/unhcr-romania-ukraine-refugee-situation-update-29-june-2026",
+      "summary": "Countries: Romania, Ukraine Source: UN High Commissioner for Refugees Please refer to the attached file. Response and Advocacy On 22 June, UNHCR, together with partners AIDRom, the Timiș County Youth Foundation (FITT), Save the Children Romania, and the Ukrainian Union of Romania – Timiș Branch, organized the multicultural event Safe Together: A Celebration of Cultures and Hope and the exhibition 75 Voices for 75 Years in Timișoara. Marking World Refugee Day and the 75th anniversary of the 1951 ",
+      "published": "2026-06-29T13:03:30+00:00",
+      "score": 17
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "url": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these",
+      "published": "2026-06-29T11:40:24+00:00",
+      "score": 16
+    },
     {
       "source": "The Hacker News",
       "category": "Technik",
@@ -13,25 +65,61 @@
       "url": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
       "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in Ukraine, Europe, and the U.S. The systematic cyber attacks aimed at stealing sensitive",
       "published": "2026-06-27T17:27:11+00:00",
-      "score": 18
+      "score": 16
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-      "published": "2026-06-28T04:54:50+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Acted Scales Up Emergency Response Following Earthquakes in Venezuela",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/acted-scales-emergency-response-following-earthquakes-venezuela",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: Agency for Technical Cooperation and Development Already present near the epicentre in Caracas, Miranda, Falcón and Yaracuy, Acted rapidly deployed emergency teams to assess needs and prepare life-saving assistance for affected communities. Venezuela is facing a major humanitarian emergency after two powerful earthquakes struck the north-central region of the country on 24 June. The disaster has caused widespread destruction across several stat",
+      "published": "2026-06-29T13:33:12+00:00",
+      "score": 15
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Mapping Earth’s Observations, featuring Betsy Ford",
+      "url": "https://www.nasa.gov/general/mapping-earths-observations-featuring-betsy-ford/",
+      "summary": "NASA’s Earth-observing satellites track an enormous range of phenomena: how aerosols move through the atmosphere, how moisture descends through soil, how land-cover shifts over decades. It’s some of the most consequential data NASA produces, informing science, policy, agriculture, and climate research around the world. As NASA’s Earth Science Division (ESD) manages this vast portfolio, they […]",
+      "published": "2026-06-29T15:16:44+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "url": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is",
-      "published": "2026-06-26T12:31:56+00:00",
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "url": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings,\" JFrog said in a",
+      "published": "2026-06-29T05:36:06+00:00",
       "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Supreme Court rejects Trump's appeal of E Jean Carroll's sexual abuse case",
+      "url": "https://www.bbc.co.uk/news/articles/cn8q2z5wpn2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The decision means the US president will now have to pay her the $5m (£3.6m) in damages she had been awarded.",
+      "published": "2026-06-29T14:45:44+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+      "summary": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
+      "published": "2026-06-28T19:37:07+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s the full Monday recap. ⚡ Threat of the Week New DirtyClone Linux Kernel Flaw Lets Local",
+      "published": "2026-06-29T14:41:07+00:00",
+      "score": 12
     },
     {
       "source": "The Hacker News",
@@ -43,111 +131,111 @@
       "score": 12
     },
     {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "published": "2026-06-29T14:52:10+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Pakistani strikes kill dozens in Afghanistan",
+      "url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Taliban government says civilians were killed, while Pakistan maintains they targeted militants.",
+      "published": "2026-06-29T08:15:29+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Astronaut Chris Williams Preps for Spacewalk",
+      "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-preps-for-spacewalk/",
+      "summary": "Flight engineer Sophie Adenot of ESA (European Space Agency) helps flight engineer Chris Williams of NASA as he tries on his spacesuit on June 23, 2026, testing its comfort and mobility as well as its communications and life support systems inside the International Space Station’s Quest airlock. Williams will go on a spacewalk on June […]",
+      "published": "2026-06-29T15:18:43+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Seeks Industry Input to Accelerate Lunar Surface Technologies",
+      "url": "https://www.nasa.gov/directorates/stmd/nasa-seeks-industry-input-to-accelerate-lunar-surface-technologies/",
+      "summary": "Long-term lunar exploration requires technology, infrastructure, and operations that function together cohesively on the surface of the Moon. To accelerate the development of key lunar surface systems and reduce risk, NASA and industry must work together in the design, development, testing, and evaluation of innovative solutions that support U.S. space priorities. NASA is seeking feedback on a draft solicitation for the Lunar […]",
+      "published": "2026-06-29T14:56:28+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inevitable weakness of metrics There are plenty of useful things a metric can reveal. There are even more that it can obscure or corrupt. Like a lot of people bitten…",
+      "published": "2026-06-29T12:10:00+00:00",
+      "score": 11
+    },
+    {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
-      "published": "2026-06-26T11:05:45+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Uganda's leading media outlets shut down by army chief",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gyk1z7ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "NTV and Daily Monitor say their offices in the capital are under \"military siege\".",
-      "published": "2026-06-28T10:11:35+00:00",
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "url": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
+      "published": "2026-06-29T11:42:16+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Budapest's first Pride since Orban left power",
-      "url": "https://www.bbc.co.uk/news/videos/c23yezpg2ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Budapest held its first Pride march since the end of former prime minister Viktor Orban's 16-year government with thousands turning out to celebrate.",
-      "published": "2026-06-27T21:28:04+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-      "published": "2026-06-27T16:51:17+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Violence displaces thousands in Haiti and Lebanon, Gaza updates, UN food agency delivers in Ebola-stricken DR Congo",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167823",
-      "summary": "More than 2,600 people were displaced in the Artibonite department of Haiti following clashes between armed groups last week as the humanitarian situation continues to worsen, according to the UN’s Office for the Coordination of Humanitarian Assistance (OCHA).",
-      "published": "2026-06-26T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "China Briefing 25 June 2026: Five-year plans passed | Critical-mineral tensions | Industrial decarbonisation plan",
-      "url": "https://www.carbonbrief.org/china-briefing-25-june-2026-five-year-plans-passed-critical-mineral-tensions-industrial-decarbonisation-plan/",
-      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 25 June 2026: Five-year plans passed | Critical-mineral tensions | Industrial decarbonisation plan appeared first on Carbon Brief .",
-      "published": "2026-06-25T14:25:29+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Heatwave breaks records in Germany, Denmark and Czech Republic",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss",
-      "summary": "An estimated 150 million people have been experiencing temperatures of over 35C across Europe.",
-      "published": "2026-06-27T20:48:16+00:00",
+      "title": "Four women and man shot dead at youth welfare centre in northern Germany",
+      "url": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people have been arrested, one of whom is the suspected shooter, local police say.",
+      "published": "2026-06-29T14:39:48+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump's face is added to select US passports for America's 250th birthday",
-      "url": "https://www.bbc.co.uk/news/articles/ce3ewkdgw9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The commemorative special edition passports will be available on 6 July, and can only be applied for in person",
-      "published": "2026-06-27T20:03:26+00:00",
+      "title": "DR Congo bans mass gatherings in the capital to prevent spread of Ebola",
+      "url": "https://www.bbc.co.uk/news/articles/c992k7zk981o?at_medium=RSS&at_campaign=rss",
+      "summary": "Opposition politicians accuse the government of using the outbreak to halt a planned protest.",
+      "published": "2026-06-29T14:40:58+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Could legal 'personhood' help save Lough Neagh?",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vy307xlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rights of Nature could give Lough Neagh the same status as a person, entitled to the same protections.",
-      "published": "2026-06-27T23:01:27+00:00",
+      "title": "Compliant farmers could face fewer inspections under new pollution proposals",
+      "url": "https://www.bbc.co.uk/news/articles/cewq8jvekqgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest draft Nutrients Action Policy caused controversy when it was initially launched last year.",
+      "published": "2026-06-29T12:00:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "summary": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+      "published": "2026-06-28T16:33:50+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s PACE Mission Studies Smoke, Fires",
-      "url": "https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/",
-      "summary": "With the North American fire season underway, and a record number of acres already burned nationwide, NASA’s Plankton, Aerosol, Cloud, and ocean Ecosystem (PACE) satellite’s three instruments are observing vegetation precursors to fires, along with plumes of smoke and their movement. This data will help scientists piece together clues that deepen their understanding of wildfires. […]",
-      "published": "2026-06-26T14:00:00+00:00",
+      "title": "NextSTEP-3 A: Lunar Enabling Technology",
+      "url": "https://www.nasa.gov/directorates/stmd/nextstep-3-a-lunar-enabling-technology/",
+      "summary": "NASA issued a draft Broad Agency Announcement under NextSTEP‑3, Appendix A, on June 29, 2026, to advance concepts that accelerate the technological readiness of critical systems for lunar surface and cislunar architecture. This solicitation seeks to close key technology gaps and mature capabilities in vertical solar arrays, ISRU oxygen production systems, Stirling radioisotope generators, in‑space […]",
+      "published": "2026-06-29T14:56:54+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
-      "published": "2026-06-26T12:10:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
-      "published": "2026-06-26T09:00:00+00:00",
+      "title": "Agent confidence on the technical frontier",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents…",
+      "published": "2026-06-29T14:44:01+00:00",
       "score": 10
     },
     {
@@ -187,30 +275,12 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-      "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers. Wiz",
-      "published": "2026-06-26T13:53:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-      "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
-      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. Tracked as CVE-2026-43503 (CVSS 8.8), it lets a local user corrupt file-backed memory through a cloned network packet and gain root. The patch landed in",
-      "published": "2026-06-26T11:51:35+00:00",
-      "score": 10
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "French court rules Total must revise climate plan to account for all emissions",
-      "url": "https://www.climatechangenews.com/2026/06/26/fossil-fuel-firm-total-must-account-total-emissions-french-court-lawsuit/",
-      "summary": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan The post French court rules Total must revise climate plan to account for all emissions appeared first on Climate Home News .",
-      "published": "2026-06-26T01:21:59+00:00",
+      "title": "We need no-go mining zones for the energy transition to be just: Here’s how it could work",
+      "url": "https://www.climatechangenews.com/2026/06/29/we-need-no-go-mining-zones-for-the-energy-transition-to-be-just-heres-how-it-could-work/",
+      "summary": "As rising demand for critical minerals is compounding threats to fragile ecosystems, NGOs have mapped out areas that should be off-limits to mining The post We need no-go mining zones for the energy transition to be just: Here’s how it could work appeared first on Climate Home News .",
+      "published": "2026-06-29T09:19:50+00:00",
       "score": 10
     },
     {
@@ -223,48 +293,111 @@
       "score": 10
     },
     {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Guest post: Climate change has caused one-fifth of Pine Island glacier retreat",
+      "url": "https://www.carbonbrief.org/guest-post-climate-change-has-caused-one-fifth-of-pine-island-glacier-retreat/",
+      "summary": "The Pine Island glacier in West Antarctica is one of the fastest-changing glaciers in the... The post Guest post: Climate change has caused one-fifth of Pine Island glacier retreat appeared first on Carbon Brief .",
+      "published": "2026-06-28T23:01:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "UNHCR Egypt - Factsheet - June 2026",
+      "url": "https://reliefweb.int/report/egypt/unhcr-egypt-factsheet-june-2026",
+      "summary": "Countries: Egypt, Eritrea, South Sudan, Sudan, Syrian Arab Republic Source: UN High Commissioner for Refugees Please refer to the attached Infographic.",
+      "published": "2026-06-29T13:03:53+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "UNHCR Ethiopia | SENS Final report Gambella refugee camps | 2025",
+      "url": "https://reliefweb.int/report/ethiopia/unhcr-ethiopia-sens-final-report-gambella-refugee-camps-2025",
+      "summary": "Countries: Ethiopia, South Sudan Source: UN High Commissioner for Refugees Please refer to the attached file.",
+      "published": "2026-06-29T13:03:48+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "UNHCR Ethiopia | SENS Final report Afar region | 2025",
+      "url": "https://reliefweb.int/report/ethiopia/unhcr-ethiopia-sens-final-report-afar-region-2025",
+      "summary": "Countries: Ethiopia, South Sudan Source: UN High Commissioner for Refugees Please refer to the attached file.",
+      "published": "2026-06-29T13:03:43+00:00",
+      "score": 10
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "UNHCR Ethiopia | SENS Final report Assosa | 2025",
+      "url": "https://reliefweb.int/report/ethiopia/unhcr-ethiopia-sens-final-report-assosa-2025",
+      "summary": "Countries: Ethiopia, South Sudan, Sudan Source: UN High Commissioner for Refugees Please refer to the attached file.",
+      "published": "2026-06-29T13:03:32+00:00",
+      "score": 10
+    },
+    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Two boys rescued from Venezuela earthquake rubble after days of being trapped",
-      "url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescuers spent six hours carefully digging to reach one of the boys, as many residents continue searching through the rubble by hand, still waiting for heavy machinery to arrive.",
-      "published": "2026-06-28T12:39:41+00:00",
+      "title": "Supreme Court blocks Trump's attempt to fire Federal Reserve governor Lisa Cook",
+      "url": "https://www.bbc.co.uk/news/articles/cy4wwy0nkeno?at_medium=RSS&at_campaign=rss",
+      "summary": "The decision, seen as a win for central bank independence, sends the fight over removal back to the lower courts.",
+      "published": "2026-06-29T14:33:16+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Eleven killed after plane carrying skydivers crashes in eastern France",
-      "url": "https://www.bbc.co.uk/news/articles/c5yz9yj9x74o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pilot and 10 passengers died in the incident, local officials said.",
-      "published": "2026-06-28T12:51:59+00:00",
+      "title": "South Korea football coach quits as president calls for probe into World Cup loss",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7jk0kq4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "South Korea was eliminated after missing out on a spot among the eight best third-placed teams.",
+      "published": "2026-06-29T07:18:14+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Australia to double maximum penalty for platforms in breach of social media ban",
-      "url": "https://www.bbc.co.uk/news/articles/c78yv5g74e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Children under the age of 16 have been prevented from 10 key social media platforms in Australia since December 2025.",
-      "published": "2026-06-27T22:34:11+00:00",
+      "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
+      "summary": "Taylor had an emotional reaction to being presented with the Icon of the Year award by Janet Jackson.",
+      "published": "2026-06-29T12:00:06+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-      "published": "2026-06-27T21:35:40+00:00",
+      "title": "Fitness brand founder and Olympian Les Mills dies aged 91",
+      "url": "https://www.bbc.co.uk/news/articles/c5yzxpzy81vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Les Mills International brand is now known globally for choreographed workouts set to music, like Body Pump and Body Combat.",
+      "published": "2026-06-29T10:55:41+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
-      "published": "2026-06-28T03:15:06+00:00",
+      "title": "Deadly flash flooding hits Kentucky",
+      "url": "https://www.bbc.co.uk/news/videos/c5yzd666r6ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Flash flooding has left at least four people dead, with 60 water rescues and evacuations carried out across Kentucky.",
+      "published": "2026-06-29T14:18:11+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "First dinosaur bone from Antarctica found in a drawer",
+      "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur.",
+      "published": "2026-06-29T05:10:46+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "published": "2026-06-27T16:51:17+00:00",
       "score": 9
     },
     {
@@ -275,141 +408,6 @@
       "summary": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains.",
       "published": "2026-06-27T03:16:46+00:00",
       "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "In pictures: Britain swelters in record-breaking June heat",
-      "url": "https://www.bbc.co.uk/news/articles/cy5vq3q2g19o?at_medium=RSS&at_campaign=rss",
-      "summary": "A rare red weather warning is in place as extreme temperatures continue across much of the UK.",
-      "published": "2026-06-25T13:48:24+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
-      "summary": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
-      "published": "2026-06-26T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Ebola prevention, Yemen child deaths, Colombia elections, Japan climate campaign",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167812",
-      "summary": "The UN's top humanitarian official has allocated $8 million in funding to help Burundi and South Sudan prepare for the potential spread of Ebola.",
-      "published": "2026-06-25T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Tests New Refuel Device for Future In-Space Refueling Missions",
-      "url": "https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/",
-      "summary": "For NASA’s next generation of deep space exploration missions, spacecraft may need to refuel in Earth orbit before pushing farther into the solar system. Similar to how a gas pump needs a nozzle to fit your fuel tank, future spacecraft could require a special device in order to fill up prior to departure, known as […]",
-      "published": "2026-06-26T18:44:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Euclid Sees Heart of Milky Way",
-      "url": "https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/",
-      "summary": "Euclid, an ESA (European Space Agency) mission with NASA contributions, took a new look at the heart of our Milky Way galaxy, seen in this image released on June 24, 2026. This observation overlaps with a region scientists will observe with NASA’s Nancy Grace Roman Space Telescope, launching later this summer. This sneak peek gives […]",
-      "published": "2026-06-26T15:21:18+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half…",
-      "published": "2026-06-25T10:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-      "url": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
-      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has not attributed the activity to a known threat actor, and the operators' end goal is still unclear. The lure plays to how hotels work.",
-      "published": "2026-06-26T09:27:12+00:00",
-      "score": 9
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "UN chief says fossil fuel industry must cut methane for warming “relief”",
-      "url": "https://www.climatechangenews.com/2026/06/23/un-chief-fossil-fuel-industry-cut-methane-warming-relief/",
-      "summary": "The UN Secretary-General urges drastic reductions in methane emissions, starting with the energy sector, to limit an expected overshoot of global warming beyond 1.5C The post UN chief says fossil fuel industry must cut methane for warming “relief” appeared first on Climate Home News .",
-      "published": "2026-06-23T08:42:51+00:00",
-      "score": 9
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "China’s coal-chemicals boom risks repeating the mistakes of the past",
-      "url": "https://www.climatechangenews.com/2026/06/22/chinas-coal-chemicals-boom-risks-repeating-the-mistakes-of-the-past/",
-      "summary": "By reviving the problematic industry in the name of energy security, China runs the risk of higher emissions, stranded assets and setting back its ambitions as a clean energy leader The post China’s coal-chemicals boom risks repeating the mistakes of the past appeared first on Climate Home News .",
-      "published": "2026-06-22T21:02:01+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’",
-      "url": "https://www.carbonbrief.org/debriefed-26-june-2026-heat-records-broken-across-europe-london-climate-action-week-introducing-project-cosmos/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 26 June 2026: Heat records broken across Europe | London climate action week | Introducing ‘Project Cosmos’ appeared first on Carbon Brief .",
-      "published": "2026-06-26T14:27:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Media reaction: How climate change intensified Europe’s record-breaking June heat",
-      "url": "https://www.carbonbrief.org/media-reaction-how-climate-change-intensified-europes-record-breaking-june-heat/",
-      "summary": "For the second time in two months, western and central Europe has been hit by... The post Media reaction: How climate change intensified Europe’s record-breaking June heat appeared first on Carbon Brief .",
-      "published": "2026-06-26T12:44:22+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Livestock heat deaths in transit doubled in UK record-hot summer of 2025",
-      "url": "https://www.carbonbrief.org/livestock-heat-deaths-in-transit-doubled-in-uk-record-hot-summer-of-2025/",
-      "summary": "Twice as many animals died due to heat stress en route to slaughterhouses during the... The post Livestock heat deaths in transit doubled in UK record-hot summer of 2025 appeared first on Carbon Brief .",
-      "published": "2026-06-25T13:30:22+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
-      "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
-      "published": "2026-06-27T14:22:37+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
-      "url": "https://www.bbc.co.uk/news/articles/cpvp3xn489no?at_medium=RSS&at_campaign=rss",
-      "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
-      "published": "2026-06-27T23:10:39+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gqz5lx1eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds more animals are still missing from the California facility as investigators continue excavating the grounds.",
-      "published": "2026-06-28T00:06:19+00:00",
-      "score": 8
     }
   ]
 }
