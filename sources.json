@@ -1,115 +1,126 @@
 {
-  "generated_at": "2026-07-05T13:00:50.075121+00:00",
-  "date": "2026-07-05",
+  "generated_at": "2026-07-06T14:50:35.670598+00:00",
+  "date": "2026-07-06",
   "source_count": 45,
-  "failed_sources": [],
+  "failed_sources": [
+    "ReliefWeb: no element found: line 1, column 0"
+  ],
   "articles": [
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Household Economy Analysis 2025 Haor Basin and Chittagong Hill Tracts Region of Bangladesh",
-      "url": "https://reliefweb.int/report/bangladesh/household-economy-analysis-2025-haor-basin-and-chittagong-hill-tracts-region-bangladesh",
-      "summary": "Country: Bangladesh Source: Food Security Cluster Please refer to the attached file. Context and Purpose Bangladesh’s Haor Basin and Chittagong Hill Tracts (CHT) are repeatedly affected by flash floods and landslides, along with heavy rain fall and monsoon flood events that disrupt lives, livelihoods, production systems, infrastructure and markets, and erode the coping capacity of vulnerable households. This Household Economy Analysis (HEA) provides hazard‑specific, wealth group-disaggregated ev",
-      "published": "2026-07-05T10:26:49+00:00",
-      "score": 20
-    },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-      "published": "2026-07-04T18:41:25+00:00",
+      "title": "Ukraine warns of interceptor missile shortage as 21 killed in Kyiv region",
+      "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+      "published": "2026-07-06T13:41:57+00:00",
+      "score": 16
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
+      "url": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
+      "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere between $150 for one month to $1,200 for lifetime access. Other subscription tiers include $300 for",
+      "published": "2026-07-06T08:13:33+00:00",
       "score": 14
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Venezuela (Bolivarian Republic of): Earthquake Response Situation Report #5 (2 July 2026)",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-bolivarian-republic-earthquake-response-situation-report-5-2-july-2026",
-      "summary": "Country: Venezuela (Bolivarian Republic of) Source: International Organization for Migration Please refer to the attached file. The fifth Situation Report provides an update on the impact of the 24 June earthquakes in the Bolivarian Republic of Venezuela and summarizes IOM’s ongoing and planned response in support of affected populations and national efforts. Highlights As of 2 July 2026, official figures reported at least 2,595 fatalities and 12,400 injuries following the 24 June earthquakes. F",
-      "published": "2026-07-03T23:01:52+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Earthquakes in Venezuela: Situation Report #11 (04 July 2026, Time: 08:00 pm)",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-11-04-july-2026-time-0800-pm",
-      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Situation Report No. 11 Earthquakes in Venezuela 04 July 2026 Time: 8:00 pm Highlights Following the 24 June earthquakes of magnitude 7.2 and 7.5 (18:00 local time), authorities report more than 940 aftershocks. At least seven (7) states have been impacted. La Guaira remains the most affected state. Official toll: 2,954 people dead and 16, 592 injured . A ",
-      "published": "2026-07-05T04:01:50+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+      "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
+      "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode. But TrojPix works only once malware is already on the target machine, so it",
+      "published": "2026-07-06T08:50:54+00:00",
       "score": 13
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-      "published": "2026-07-04T23:17:24+00:00",
-      "score": 12
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "url": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tested more than 90% of the time, and the same team built a runtime checker that catches most of the",
+      "published": "2026-07-06T06:33:56+00:00",
+      "score": 13
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167871",
-      "summary": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
-      "published": "2026-07-03T12:00:00+00:00",
+      "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167873",
+      "summary": "UN chief António Guterres appealed on Monday for far-reaching, worldwide controls on Artificial Intelligence, as increasingly powerful AI chips that are designed for civilian use shift to the battlefield, where “killer robots” are already the norm.",
+      "published": "2026-07-06T12:00:00+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-      "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
-      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc. \"Through forensic analysis of his device, we found that the attackers could have had",
-      "published": "2026-07-03T11:05:43+00:00",
+      "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
+      "url": "https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html",
+      "summary": "A streaming box should not need a threat model. Neither should a username field, a demo repo, a reset flow, or a browser permission prompt. That is the irritating part this week: the risky pieces were ordinary. Home devices became a routing cover. Clean code pulled dirt from a dependency. Identity shortcuts aged badly. AI systems trusted the wrong instructions. Same soft spot throughout: trust",
+      "published": "2026-07-06T13:01:14+00:00",
       "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Terremotos en Venezuela: Reporte de situación #11 (04 de julio de 2026, Hora: 08:00 pm)",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-11-04-de-julio-de-2026-hora-0800-pm",
-      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Reporte de situación N.º 11 Terremotos en Venezuela 4 de julio de 2026 Hora: 8:00 pm Destacados Tras los sismos de magnitud 7,2 y 7,5 del 24 de junio (18:00 hora local), las autoridades reportan más de 940 réplicas. Al menos siete (7) estados impactados. La Guaira se mantiene como el estado más afectado. Balance oficial: 2.954 personas fallecidas y 16.592 ",
-      "published": "2026-07-05T03:56:22+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "url": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.",
+      "published": "2026-07-06T10:58:16+00:00",
       "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Flash Update #40 - Escalation of hostilities in Lebanon (as of 2 July 2026)",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-40-escalation-hostilities-lebanon-2-july-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS At least 4,298 deaths and 12,196 injuries due to hostilities recorded by the Ministry of Public Health since 2 March. 646,107 people having returned to their areas of origin, while nearly 500,000 people remain displaced, including 47,143 Internally Displaced Persons (over 53 per cent women and girls) in 430 collective shelters as of 2 July. Humanitarian and protection nee",
-      "published": "2026-07-03T20:41:14+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "url": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+      "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that",
+      "published": "2026-07-06T07:27:50+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-      "published": "2026-07-05T08:24:32+00:00",
+      "title": "Trump confirms he asked Fifa to review Balogun ban",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+      "summary": "United States President Donald Trump says Fifa \"made the right decision\" to suspend Folarin Balogun's one-match ban, adding that otherwise, it would have left a \"big stain\" on the World Cup.",
+      "published": "2026-07-06T14:39:48+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Former chess champion Kramnik banned over cheating remarks",
-      "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
-      "published": "2026-07-04T15:45:15+00:00",
+      "title": "Thousands of forgotten WW1 soldiers recognised for first time",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjpqjgxzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 10,000 soldiers' names are being added to the official database of war dead, a cherished step for many of their descendants.",
+      "published": "2026-07-06T05:04:06+00:00",
       "score": 11
     },
     {
-      "source": "BBC Science",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Bangladesh courts China even as ties with India improve",
+      "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
+      "published": "2026-07-06T00:02:29+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "As deadly as war and as powerful as governments, global organized crime remains in the shadows",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167867",
+      "summary": "When people think of the world’s deadliest threats, armed conflicts usually come to mind first. Yet every year, organized crime quietly claims a comparable number of lives.",
+      "published": "2026-07-05T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "New heatwave likely to peak at 34C with week-long health alert issued",
-      "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
-      "published": "2026-07-04T15:28:17+00:00",
+      "title": "Examining Algal Blooms in Blue Mesa",
+      "url": "https://science.nasa.gov/earth/earth-observatory/examining-algal-blooms-in-blue-mesa/",
+      "summary": "Using satellite data, researchers connected harmful algal blooms with warm water and low water levels at one of Colorado’s largest reservoirs.",
+      "published": "2026-07-06T04:01:00+00:00",
       "score": 11
     },
     {
@@ -131,57 +142,30 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-      "url": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"",
-      "published": "2026-07-03T13:36:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Earthquakes in Venezuela: Situation Report #10 (03 July 2026, Time: 07:00 pm)",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-10-03-july-2026-time-0700-pm",
-      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Situation Report No. 10 Earthquakes in Venezuela 03 July 2026 Time: 7:00 pm Highlights Following the 24 June earthquakes of magnitude 7.2 and 7.5 (18:00 local time), authorities report more than 800 aftershocks. At least seven (7) states have been impacted. La Guaira remains the most affected state. Official toll: 2,645 people dead and 12,666 injured. A to",
-      "published": "2026-07-04T01:50:10+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CBTWG) - Compte rendu de la réunion mensuelle du CBTWG (Date : 30 juin 2026) [Meeting Minutes]",
-      "url": "https://reliefweb.int/report/haiti/groupe-de-travail-sur-les-transferts-monetaires-en-haiti-gttmcbtwg-compte-rendu-de-la-reunion-mensuelle-du-cbtwg-date-30-juin-2026-meeting-minutes",
-      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Le Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CWG) est un groupe de coordination humanitaire chargé d’organiser, harmoniser et améliorer l’assistance monétaire fournie par les différents acteurs humanitaires. Cette plateforme d’échanges techniques regroupe en Haïti des institutions gouvernementales, des prestataires de services financiers, des agences des Nations u",
-      "published": "2026-07-03T18:12:32+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CBTWG) - Compte rendu de la réunion mensuelle du CBTWG (Date : 24 juin 2026) [Meeting Minutes]",
-      "url": "https://reliefweb.int/report/haiti/groupe-de-travail-sur-les-transferts-monetaires-en-haiti-gttmcbtwg-compte-rendu-de-la-reunion-mensuelle-du-cbtwg-date-24-juin-2026-meeting-minutes",
-      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Le Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CWG) est un groupe de coordination humanitaire chargé d’organiser, harmoniser et améliorer l’assistance monétaire fournie par les différents acteurs humanitaires. Cette plateforme d’échanges techniques regroupe en Haïti des institutions gouvernementales, des prestataires de services financiers, des agences des Nations u",
-      "published": "2026-07-03T17:47:17+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti: Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CBTWG) - Compte rendu de la réunion mensuelle du CBTWG (Date : 22 juin 2026) [Meeting Minutes]",
-      "url": "https://reliefweb.int/report/haiti/groupe-de-travail-sur-les-transferts-monetaires-en-haiti-gttmcbtwg-compte-rendu-de-la-reunion-mensuelle-du-cbtwg-date-22-juin-2026-meeting-minutes",
-      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Le Groupe de Travail sur les Transferts Monétaires en Haïti (GTTM/CWG) est un groupe de coordination humanitaire chargé d’organiser, harmoniser et améliorer l’assistance monétaire fournie par les différents acteurs humanitaires. Cette plateforme d’échanges techniques regroupe en Haïti des institutions gouvernementales, des prestataires de services financiers, des agences des Nations u",
-      "published": "2026-07-03T17:46:10+00:00",
-      "score": 11
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+      "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+      "published": "2026-07-05T23:31:04+00:00",
+      "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Australia probes mystery space balls that washed up on beach",
+      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+      "published": "2026-07-06T00:20:20+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Australia space agency has found 'likely source' of mystery space balls",
       "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
-      "published": "2026-07-05T12:55:58+00:00",
+      "summary": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
+      "published": "2026-07-06T02:49:15+00:00",
       "score": 10
     },
     {
@@ -196,10 +180,37 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167858",
-      "summary": "Aid agencies in Ukraine on Thursday rushed to respond to a massive uptick in deadly strikes by Russia, including one of the largest attacks on Kyiv to date.",
-      "published": "2026-07-02T12:00:00+00:00",
+      "title": "Global push for AI governance amid warnings of ‘catastrophic harm’",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167862",
+      "summary": "Can artificial intelligence benefit all of humanity – safely, fairly and without causing “catastrophic harm”? That is the question at the heart of a major UN summit opening in Geneva on Monday.",
+      "published": "2026-07-05T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Sudan’s people subject to ‘relentless’ drone strikes in El Obeid",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167871",
+      "summary": "The war in Sudan threatens to spiral further as the strategically-important town of El Obeid continues to face “relentless” drone attacks by advancing paramilitary militias, the UN’s human rights chief, Volker Türk, said on Friday.",
+      "published": "2026-07-03T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Webb Uncovers Unusual Galaxy Shaped by Cosmic Collision",
+      "url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
+      "summary": "In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing […]",
+      "published": "2026-07-06T14:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in a matchmaking company a year ago. In a…",
+      "published": "2026-07-06T13:00:00+00:00",
       "score": 10
     },
     {
@@ -212,30 +223,12 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "url": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
-      "published": "2026-07-03T08:03:37+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "url": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
-      "published": "2026-07-02T18:30:33+00:00",
-      "score": 10
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "As food shocks spread, citizens are showing more leadership than governments",
-      "url": "https://www.climatechangenews.com/2026/07/03/as-food-shocks-spread-citizens-are-showing-more-leadership-than-governments/",
-      "summary": "People support efforts to protect forests and curb industrial food production, the results of the latest Global Citizens' Assembly show - but politicians have been slow to act The post As food shocks spread, citizens are showing more leadership than governments appeared first on Climate Home News .",
-      "published": "2026-07-03T10:16:33+00:00",
+      "title": "A supercharged El Niño is coming – are we ready?",
+      "url": "https://www.climatechangenews.com/2026/07/06/a-supercharged-el-nino-is-coming-are-we-ready/",
+      "summary": "We need to urgently build resilience to more extreme weather and rising seas, protecting nature as an ally in adapting to climate impacts The post A supercharged El Niño is coming – are we ready? appeared first on Climate Home News .",
+      "published": "2026-07-06T12:10:50+00:00",
       "score": 10
     },
     {
@@ -257,66 +250,39 @@
       "score": 10
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Terremotos en Venezuela: Reporte de situación #10 (03 de julio de 2026, Hora: 07:00 pm)",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-10-03-de-julio-de-2026-hora-0700-pm",
-      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Reporte de situación N.º 10 Terremotos en Venezuela 3 de julio de 2026 Hora: 7:00 pm Destacados Tras los sismos de magnitud 7,2 y 7,5 del 24 de junio (18:00 hora local), las autoridades reportan 890 réplicas. Al menos siete (7) estados impactados. La Guaira se mantiene como el estado más afectado. Balance oficial: 2.645 personas fallecidas y 12.666 heridas",
-      "published": "2026-07-04T01:20:34+00:00",
-      "score": 10
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
-      "published": "2026-07-05T12:29:18+00:00",
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+      "published": "2026-07-06T12:07:44+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
-      "published": "2026-07-05T09:26:56+00:00",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+      "published": "2026-07-06T13:08:23+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-      "published": "2026-07-04T07:52:55+00:00",
+      "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+      "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+      "summary": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+      "published": "2026-07-06T01:46:29+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Nasa launches mission to save falling space telescope",
-      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
-      "published": "2026-07-03T10:28:17+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
-      "url": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
-      "published": "2026-07-03T10:23:32+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "England's warmest June on record following historic heatwave",
-      "url": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss",
-      "summary": "England saw its warmest June since records began in 1865 and the second warmest for the whole of the UK according to data just released by the Met Office.",
-      "published": "2026-07-01T13:49:42+00:00",
+      "title": "New heatwave likely to peak at 34C with week-long health alert issued",
+      "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
+      "published": "2026-07-04T15:28:17+00:00",
       "score": 9
     },
     {
@@ -340,15 +306,6 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Civilian dangers multiply as drones transform Ukraine's battlefield",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167854",
-      "summary": "As drones reshape the battlefield in Ukraine, they are also creating new and increasingly complex dangers for civilians, threatening recovery efforts, agriculture and global food security long after the fighting ends.",
-      "published": "2026-07-03T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
       "title": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167860",
       "summary": "The 15-member Security Council is meeting in emergency session on Thursday morning to address the escalating tensions in the Gulf region following Iran attacks in recent days on Bahrain and Kuwait while Tehran and Washington continue to trade strikes over the Strait of Hormuz chokepoint. Stay tuned for live updates.",
@@ -356,21 +313,21 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167856",
-      "summary": "Drone attacks by advancing rebel fighters who are besieging El Obeid, Sudan, continue to result in civilian casualties, putting around half a million civilians at grave risk of large-scale atrocities.",
-      "published": "2026-07-01T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "South Korea’s hottest new bachelors are chip workers",
+      "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+      "summary": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to find a good wife for her son. Lately, says Baek (who asked to be…",
+      "published": "2026-07-06T09:00:00+00:00",
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Artemis II Breaks Agency Streaming Record",
-      "url": "https://www.nasa.gov/general/nasas-artemis-ii-breaks-agency-streaming-record/",
-      "summary": "NASA’s live coverage of the Artemis II mission mission drew unprecedented public interest – including more than 149.4 million views of the launch, lunar flyby, splashdown on NASA-owned platforms, including the 24/7 streams covering the mission and the Orion spacecraft views – demonstrating strong, sustained global engagement throughout the mission. Around the Clock Live Broadcast NASA’s Artemis II Crew Launches to the Moon broadcast set unprecedented viewership records across the agency’s […]",
-      "published": "2026-07-02T18:02:21+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "url": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "summary": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation. Whether a platform will materially change outcomes for",
+      "published": "2026-07-06T11:30:02+00:00",
       "score": 9
     },
     {
@@ -383,31 +340,76 @@
       "score": 9
     },
     {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+      "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+      "published": "2026-07-06T05:04:28+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Sri Lanka prison riots leave 26 dead and more than 100 injured",
+      "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two days of violence at Negombo Prison are the worst prison riots in the country in years.",
+      "published": "2026-07-06T14:19:26+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Turbines turning from wind to sustainable products",
+      "url": "https://www.bbc.co.uk/news/articles/cewqzrkvwvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
+      "published": "2026-07-04T05:06:44+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Record-breaking temps in US as 4th July holiday begins",
+      "url": "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway.",
+      "published": "2026-07-03T17:10:24+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Hubble Captures Crimson Cloud Sparkling with White, Blue Stars",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-captures-crimson-cloud-sparkling-with-white-blue-stars/",
+      "summary": "Blue and white stars shine brightly against crimson gas in this image from NASA’s Hubble Space Telescope.",
+      "published": "2026-07-03T15:01:17+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains…",
+      "published": "2026-07-03T17:34:37+00:00",
+      "score": 8
+    },
+    {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs",
-      "published": "2026-07-02T15:24:18+00:00",
-      "score": 9
+      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+      "url": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+      "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider. \"The campaign remains active, and new malicious packages are likely to continue appearing as threat actors compromise maintainer accounts,",
+      "published": "2026-07-04T11:17:24+00:00",
+      "score": 8
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "Tropical forest protection fund at risk after UK stalls on pledge",
-      "url": "https://www.climatechangenews.com/2026/07/03/tropical-forest-protection-fund-at-risk-after-uk-stalls-on-pledge/",
-      "summary": "The Brazil-led TFFF was launched at COP30 as an innovative financial model to keep rainforests standing, but is still short on startup cash The post Tropical forest protection fund at risk after UK stalls on pledge appeared first on Climate Home News .",
-      "published": "2026-07-03T07:04:20+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "DeBriefed 3 July 2026: US faces scorching Independence Day | Record ocean temperatures | Vietnam’s EV surge",
-      "url": "https://www.carbonbrief.org/debriefed-3-july-2026-us-faces-scorching-independence-day-record-ocean-temperatures-vietnams-ev-surge/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 3 July 2026: US faces scorching Independence Day | Record ocean temperatures | Vietnam’s EV surge appeared first on Carbon Brief .",
-      "published": "2026-07-03T14:47:51+00:00",
-      "score": 9
+      "title": "As food shocks spread, citizens are showing more leadership than governments",
+      "url": "https://www.climatechangenews.com/2026/07/03/as-food-shocks-spread-citizens-are-showing-more-leadership-than-governments/",
+      "summary": "People support efforts to protect forests and curb industrial food production, the results of the latest Global Citizens' Assembly show - but politicians have been slow to act The post As food shocks spread, citizens are showing more leadership than governments appeared first on Climate Home News .",
+      "published": "2026-07-03T10:16:33+00:00",
+      "score": 8
     }
   ]
 }
