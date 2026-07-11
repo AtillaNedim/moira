@@ -1,11 +1,63 @@
 {
-  "generated_at": "2026-07-10T13:49:53.234173+00:00",
-  "date": "2026-07-10",
+  "generated_at": "2026-07-11T12:45:23.785571+00:00",
+  "date": "2026-07-11",
   "source_count": 45,
-  "failed_sources": [
-    "ReliefWeb: no element found: line 1, column 0"
-  ],
+  "failed_sources": [],
   "articles": [
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Venezuela: Latin America & The Caribbean Weekly Situation Update as of 10 July 2026",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/latin-america-caribbean-weekly-situation-update-10-july-2026",
+      "summary": "Countries: Venezuela (Bolivarian Republic of), Colombia, Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. KEY FIGURES 3.9K people dead after two powerful earthquakes struck Venezuela on 24 June 7.1K people displaced due to violence in Haiti’s Ouest department since 1 July 4M people may require food assistance between June-January in Colombia VENEZUELA: EARTHQUAKE More than two weeks after the 24 June magnitude 7.2 and 7.5 earthquakes ",
+      "published": "2026-07-10T19:42:28+00:00",
+      "score": 19
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "url": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
+      "published": "2026-07-10T15:57:14+00:00",
+      "score": 16
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Venezuela (Bolivarian Republic of): Earthquake Response Situation Report #10 (9 July 2026)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-bolivarian-republic-earthquake-response-situation-report-10-9-july-2026",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: International Organization for Migration Please refer to the attached file. The tenth Situation Report provides an update on IOM’s response to the 24 June earthquakes in the Bolivarian Republic of Venezuela as of 9 July. It also includes the priorities of IOM’s Funding Appeal to scale up urgent assistance. Highlights In La Guaira, IOM and its partners strengthened assistance in transitory camps. At César Nieves Stadium, they continued improving",
+      "published": "2026-07-10T22:52:11+00:00",
+      "score": 15
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Earthquakes in Venezuela: Situation Report #17 (10 July 2026, Time: 09:00 pm)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-17-10-july-2026-time-0900-pm",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Situation Report No. 17 Earthquakes in Venezuela 10 July 2026 Time: 9:00 pm Highlights Following the 24 June earthquakes of magnitude 7.2 and 7.5 (18:00 local time), authorities report more than 1,100 aftershocks. Official toll: 4,118 people dead and 16,740 injured. A total of 6,462 people have been rescued. Tom Fletcher, the United Nation’s humanitarian c",
+      "published": "2026-07-11T03:28:54+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "published": "2026-07-10T22:54:16+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+      "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+      "published": "2026-07-10T23:02:35+00:00",
+      "score": 13
+    },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
@@ -13,60 +65,15 @@
       "url": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
       "summary": "This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness. Researchers spent two weeks […]",
       "published": "2026-07-09T15:42:58+00:00",
-      "score": 15
+      "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
-      "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls. The firm has confirmed one coordinated sweep on May 27",
-      "published": "2026-07-10T09:00:05+00:00",
-      "score": 15
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-      "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-      "published": "2026-07-09T15:21:17+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-      "url": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-      "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of targeting the passkey enrollment process. The",
-      "published": "2026-07-10T10:30:20+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
-      "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
-      "published": "2026-07-09T20:47:41+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-      "published": "2026-07-09T21:04:09+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913",
-      "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.",
-      "published": "2026-07-10T12:00:00+00:00",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system",
+      "published": "2026-07-10T14:19:50+00:00",
       "score": 13
     },
     {
@@ -79,48 +86,30 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were actually broken into, but the exposed files showed researchers how a mass site-hacking operation runs from the inside. The operation, now tracked as",
-      "published": "2026-07-10T11:30:02+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Venezuela: Latinoamérica y El Caribe Resumen de Situación Semanal al 10 de julio 2026",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-10-de-julio-2026",
+      "summary": "Countries: Venezuela (Bolivarian Republic of), Colombia, Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. CIFRAS CLAVE 3,9K personas fallecidas tras dos poderosos terremotos que sacudieron Venezuela el 24 de junio 7,1K personas desplazadas debido a la violencia en el departamento de Ouest de Haití desde el 1 de julio 4M de personas podrían necesitar asistencia alimentaria entre junio y enero en Colombia VENEZUELA: TERREMOTO Más de dos",
+      "published": "2026-07-10T20:45:10+00:00",
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-      "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
-      "summary": "Datadog Security Labs is warning of \"several overlapping campaigns\" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub API. \"Operators rely on automated scraping tooling with custom or legitimate-sounding user agents, leveraging GitHub 'ghost' accounts that are often years old, or compromised OAuth tokens and personal",
-      "published": "2026-07-09T18:38:49+00:00",
-      "score": 13
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Iran war fuel shocks threaten Africa’s clean cooking push, IEA says",
-      "url": "https://www.climatechangenews.com/2026/07/10/iran-war-fuel-shocks-threaten-africa-clean-cooking-push-iea-says/",
-      "summary": "Disruptions in the Strait of Hormuz have hit supplies of liquefied petroleum gas (LPG), seen as a cleaner cooking alternative to charcoal and wood The post Iran war fuel shocks threaten Africa’s clean cooking push, IEA says appeared first on Climate Home News .",
-      "published": "2026-07-10T08:01:20+00:00",
-      "score": 13
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism",
-      "url": "https://www.carbonbrief.org/china-briefing-9-july-2026-guangxi-floods-beautiful-china-plan-new-eu-china-mechanism/",
-      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism appeared first on Carbon Brief .",
-      "published": "2026-07-09T15:01:34+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Haiti: Bulletin humanitaire OCHA (Mars–Mai 2026)",
+      "url": "https://reliefweb.int/report/haiti/haiti-bulletin-humanitaire-ocha-mars-mai-2026",
+      "summary": "Country: Haiti Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Insécurité alimentaire : près de 5,8 millions de personnes (52 % de la population) sont en insécurité alimentaire aiguë, dont environ 1,9 million en phase d’urgence. Déplacements massifs liés à la violence : plus de 1,5 million de personnes déplacées internes, aggravant les vulnérabilités et la pression sur les ressources. Crise agricole en Artibonite : les violences perturbent fortem",
+      "published": "2026-07-10T19:23:49+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "China lands reusable rocket for first time, state media says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
-      "published": "2026-07-10T06:44:21+00:00",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "published": "2026-07-11T11:42:46+00:00",
       "score": 12
     },
     {
@@ -130,6 +119,15 @@
       "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
       "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
       "published": "2026-07-10T13:40:19+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+      "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East.",
+      "published": "2026-07-10T12:00:00+00:00",
       "score": 12
     },
     {
@@ -153,19 +151,37 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "url": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure. The apps flagged with at least one problem have been installed more than 2.4 billion times. The problems are basic, not sophisticated. 29 apps let user traffic leak outside",
-      "published": "2026-07-10T10:56:23+00:00",
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "url": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. \"The",
+      "published": "2026-07-11T06:45:55+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "url": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working with two other cybersecurity professionals to target additional victims in 2023. In a sentencing memorandum, federal prosecutors described Martino as a \"",
-      "published": "2026-07-10T08:10:12+00:00",
+      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
+      "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says it took \"out of an abundance of caution\" while it works with internal and external security",
+      "published": "2026-07-10T16:30:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out. This is not an emergency for most owners. The attack needs",
+      "published": "2026-07-10T14:51:49+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
+      "url": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
+      "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of targeting the passkey enrollment process. The",
+      "published": "2026-07-10T10:30:20+00:00",
       "score": 12
     },
     {
@@ -187,75 +203,93 @@
       "score": 12
     },
     {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "DeBriefed 10 July 2026: Deadly Europe heat | EU electrification leak | COP31 president interview",
+      "url": "https://www.carbonbrief.org/debriefed-10-july-2026-deadly-europe-heat-eu-electrification-leak-cop31-president-interview/",
+      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post DeBriefed 10 July 2026: Deadly Europe heat | EU electrification leak | COP31 president interview appeared first on Carbon Brief .",
+      "published": "2026-07-10T15:30:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Terremotos en Venezuela: Reporte de situación #17 (10 de julio de 2026, Hora: 09:00 pm)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-reporte-de-situacion-17-10-de-julio-de-2026-hora-0900-pm",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Reporte de situación N.º 17 Terremotos en Venezuela 10 de julio de 2026 Hora: 9:00 pm Destacados Tras los sismos de magnitud 7,2 y 7,5 del 24 de junio (18:00 hora local), las autoridades reportan más de 1.100 réplicas . Balance oficial: 4.118 personas fallecidas y 16.740 heridas. 6.462 personas han sido rescatadas. Tom Fletcher, jefe humanitario de las Nac",
+      "published": "2026-07-11T03:23:48+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Venezuela Earthquakes: Private Sector Contributions Snapshot (As of 9 July 2026)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquakes-private-sector-contributions-snapshot-9-july-2026",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. This snapshot provides an overview of the private sector humanitarian response to the June 2026 earthquakes in Venezuela. As of 9 July 2026, businesses and private foundations have mobilized *US$ 32.9 million* in support of affected communities and humanitarian partners. This response, tracked by the OCHA-UNDP Connecting Business Initiative (CBi), i",
+      "published": "2026-07-10T19:08:39+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Venezuela Earthquakes June 2026: Urban Search and Rescue (USAR) Team Snapshot (As of 10 July, 12:00 GMT-4)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquakes-june-2026-urban-search-and-rescue-usar-team-snapshot-10-july-1200-gmt-4",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "published": "2026-07-10T18:57:58+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Terremotos en Venezuela junio de 2026: Equipos de Búsqueda y Rescate Urbano (USAR) - Datos clave (Al 10 de julio, 12:00 GMT-4)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/terremotos-en-venezuela-junio-de-2026-equipos-de-busqueda-y-rescate-urbano-usar-datos-clave-al-10-de-julio-1200-gmt-4",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "published": "2026-07-10T18:56:48+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Spain, France | Wildfires and UCPM response - DG ECHO Daily Map | 10/07/2026",
+      "url": "https://reliefweb.int/map/spain/spain-france-wildfires-and-ucpm-response-dg-echo-daily-map-10072026",
+      "summary": "Countries: Spain, France Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
+      "published": "2026-07-10T16:17:18+00:00",
+      "score": 12
+    },
+    {
       "source": "BBC World",
       "category": "Politik",
+      "title": "China braced for second typhoon in a week as Bavi approaches landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "published": "2026-07-11T12:06:47+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Australian killer's final police interview footage released",
+      "url": "https://www.bbc.co.uk/news/articles/cvglj4k03w4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bradley Murdoch, 67, died in jail without disclosing where Peter Falconio's remains might be.",
+      "published": "2026-07-11T08:00:27+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
       "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
       "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
       "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-      "published": "2026-07-10T10:42:13+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
-      "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
-      "published": "2026-07-10T12:38:38+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-      "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
-      "published": "2026-07-09T14:37:19+00:00",
+      "published": "2026-07-10T13:53:11+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Aid cuts leave at least one million women and girls without vital support",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167908",
-      "summary": "At least one million women and girls have lost access to critical humanitarian support since January 2025 as unprecedented aid cuts push women's organizations in crisis zones to the brink of collapse, the UN’s gender equality agency, UN Women, said on Friday.",
+      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.",
       "published": "2026-07-10T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
-      "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) […]",
-      "published": "2026-07-09T22:09:27+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar",
-      "url": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/",
-      "summary": "For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]",
-      "published": "2026-07-09T20:08:35+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
-      "published": "2026-07-10T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-      "published": "2026-07-09T20:22:28+00:00",
       "score": 11
     },
     {
@@ -270,146 +304,110 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
-      "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
-      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives. The full ThreatsDay list is below. Global",
-      "published": "2026-07-09T15:09:28+00:00",
+      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
+      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
+      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were actually broken into, but the exposed files showed researchers how a mass site-hacking operation runs from the inside. The operation, now tracked as",
+      "published": "2026-07-10T11:30:02+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Iran war fuel shocks threaten Africa’s clean cooking push, IEA says",
+      "url": "https://www.climatechangenews.com/2026/07/10/iran-war-fuel-shocks-threaten-africa-clean-cooking-push-iea-says/",
+      "summary": "Disruptions in the Strait of Hormuz have hit supplies of liquefied petroleum gas (LPG), seen as a cleaner cooking alternative to charcoal and wood The post Iran war fuel shocks threaten Africa’s clean cooking push, IEA says appeared first on Climate Home News .",
+      "published": "2026-07-10T08:01:20+00:00",
+      "score": 11
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Eight facts about air conditioning amid an overheated global debate",
+      "url": "https://www.carbonbrief.org/eight-facts-about-air-conditioning-amid-an-overheated-global-debate/",
+      "summary": "As successive heatwaves hit Europe, air-conditioning (AC) has emerged as a new front in the... The post Eight facts about air conditioning amid an overheated global debate appeared first on Carbon Brief .",
+      "published": "2026-07-10T14:21:15+00:00",
+      "score": 11
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism",
+      "url": "https://www.carbonbrief.org/china-briefing-9-july-2026-guangxi-floods-beautiful-china-plan-new-eu-china-mechanism/",
+      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism appeared first on Carbon Brief .",
+      "published": "2026-07-09T15:01:34+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Venezuela: Quién hace qué y dónde en la respuesta al terremoto (10 de julio de 2026)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-quien-hace-que-y-donde-en-la-respuesta-al-terremoto-10-de-julio-de-2026",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "published": "2026-07-10T20:03:26+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-      "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
-      "published": "2026-07-09T16:15:10+00:00",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "published": "2026-07-11T09:01:15+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Meet the crypto billionaires building a world where money buys you a vote",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "published": "2026-07-10T23:03:11+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "published": "2026-07-11T08:23:45+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+      "summary": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+      "published": "2026-07-10T22:38:03+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Pressure builds on Europe's biggest port to be greener",
-      "url": "https://www.bbc.co.uk/news/articles/c39y78rwrmno?at_medium=RSS&at_campaign=rss",
-      "summary": "A lawsuit demands that the Port of Rotterdam moves faster to cut its dependence on fossil fuel firms.",
-      "published": "2026-07-09T23:00:51+00:00",
+      "title": "Heatwave to stretch into second week despite cooler air for some this weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
+      "summary": "The sizzling heat continues into next week despite a drop in temperatures over the weekend.",
+      "published": "2026-07-11T10:41:15+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Boxy forms and odd lights: US declassifies more UFO files",
+      "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
+      "published": "2026-07-10T15:28:17+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167905",
-      "summary": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
-      "published": "2026-07-09T12:00:00+00:00",
+      "title": "South Sudan: UN acts ahead of drought to protect thousands",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167915",
+      "summary": "As drought risk intensifies in South Sudan’s Eastern Equatoria state, a new UN-backed plan aims to protect thousands of people before the worst impacts take hold.",
+      "published": "2026-07-10T12:00:00+00:00",
       "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "UN Syria inquiry presses for answers on missing detainees after wide-ranging visit",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167901",
-      "summary": "UN investigators have urged Syria’s Government to trace thousands of missing detainees and hold perpetrators to account after a week-long visit that took in bomb attacks in Damascus, prison visits in the northeast and reports of vigilante violence in Homs.",
-      "published": "2026-07-08T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Curiosity Sees Martian Sulfur Up Close",
-      "url": "https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/",
-      "summary": "This close-up view shows fragments of sulfur crystals — the first ever seen on the Red Planet. The crystals were found after NASA’s Curiosity Mars rover happened to drive over a rock and crush it on May 30, 2024. Several days later, Curiosity used a camera on the end of its robotic arm to take […]",
-      "published": "2026-07-09T16:33:50+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Students Connect NASA Science With Indigenous Knowledge to Study Coastal Erosion",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/",
-      "summary": "For the Pleasant Point Passamaquoddy Reservation, or Sipayik, the ocean has always been a teacher. Situated in what is known as Downeast Maine, along the shores of Passamaquoddy Bay, generations of Indigenous people have lived along the coast, learning from the tides, the land, and their elders. But today, the shoreline is changing more rapidly. Coastal erosion is slowly taking land away. Land that already holds a history of loss.",
-      "published": "2026-07-08T21:04:14+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "url": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and exposure data into a single view, and every downstream security program inherits whatever the inventory gets wrong. Lumen Technologies, a",
-      "published": "2026-07-10T11:39:40+00:00",
-      "score": 10
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "India looks to untapped graphite riches for slice of critical minerals boom",
-      "url": "https://www.climatechangenews.com/2026/07/09/india-looks-to-untapped-graphite-riches-for-slice-of-critical-minerals-boom/",
-      "summary": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain The post India looks to untapped graphite riches for slice of critical minerals boom appeared first on Climate Home News .",
-      "published": "2026-07-09T05:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Ugandan farmers launch UK court case against East African oil pipeline",
-      "url": "https://www.climatechangenews.com/2026/07/07/ugandan-farmers-launch-uk-court-case-against-east-african-oil-pipeline/",
-      "summary": "Crowdfunded lawsuit filed at London’s High Court seeks to enforce Uganda’s laws against EACOP Ltd, the pipeline project's ⁠UK-registered company The post Ugandan farmers launch UK court case against East African oil pipeline appeared first on Climate Home News .",
-      "published": "2026-07-07T17:03:38+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Cited 7 July 2026: ‘Impossible’ heat | Global ocean record | Climate change and the ozone hole",
-      "url": "https://www.carbonbrief.org/cited-7-july-2026-impossible-heat-global-ocean-record-climate-change-and-the-ozone-hole/",
-      "summary": "Welcome to Cited, your essential guide to new climate research. In the news ‘HEAT ALERT’:... The post Cited 7 July 2026: ‘Impossible’ heat | Global ocean record | Climate change and the ozone hole appeared first on Carbon Brief .",
-      "published": "2026-07-07T14:58:43+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
-      "published": "2026-07-09T23:18:18+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-      "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ryanair confirm a passenger was given medical treatment after an incident on a Malta Air flight, which is owned by Ryanair.",
-      "published": "2026-07-10T12:31:08+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ex-Olympian pleads not guilty to Reflecting Pool vandalism charges",
-      "url": "https://www.bbc.co.uk/news/articles/c78y013ny3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "A former US Olympian canoeist denies accusations that he deliberately damaged the lining of the refurbished Lincoln Memorial Reflecting Pool.",
-      "published": "2026-07-09T17:01:15+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Struggling pig farmers say £2m support package 'not enough'",
-      "url": "https://www.bbc.co.uk/news/articles/cn94rl1wj0ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Farmers welcome the Scottish government funding but say it's not enough to stop them losing about £1m a month",
-      "published": "2026-07-10T13:30:31+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "UK bakes in 35C highs as millions under hosepipe bans",
-      "url": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
-      "summary": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year.",
-      "published": "2026-07-10T12:38:19+00:00",
-      "score": 9
     }
   ]
 }

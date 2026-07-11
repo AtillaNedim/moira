@@ -1,104 +1,38 @@
-# Moira — 2026-07-10
+# Moira — 2026-07-11
 
 ## 🌍 Umwelt
 
-Die Unterbrechungen im Straße von Hormuz haben direkte Auswirkungen auf die Bemühungen um sauberes Kochen in Afrika. Die Internationale Energieagentur berichtet, dass die Lieferungen von Flüssiggas, das als sauberere Alternative zu Holzkohle und Holz gilt, durch die Konflikte im Iran beeinträchtigt werden. Dies gefährdet den Fortschritt bei der Umstellung auf weniger schädliche Kochmethoden auf dem Kontinent.
-
-In China haben schwere Überschwemmungen in der Region Guangxi stattgefunden. Die genauen Ausmaße und Opferzahlen sind aus den vorliegenden Quellen nicht im Detail belegt, aber das Ereignis wird als bedeutend eingestuft. Parallel dazu verfolgt die chinesische Regierung ihren „Beautiful China“-Plan, der Umweltziele formuliert, und es wurde ein neuer Mechanismus zwischen der EU und China zu Klimafragen eingerichtet.
-
-Die Ozeankonferenz in Mombasa hat die wachsende Bedeutung der sogenannten blauen Wirtschaft hervorgehoben. Aktivisten warnen, dass Küstengemeinden von diesem wirtschaftlichen Aufschwung profitieren müssen und nicht zurückgelassen werden dürfen, während Regierungen zunehmend auf das Meer als Quelle für Arbeitsplätze und Klimaschutzlösungen setzen.
-
-Indien versucht, sich im Bereich kritischer Mineralien zu positionieren und erkundet ungenutzte Graphitvorkommen. Die Nachfrage nach batteriegeeignetem Graphit steigt durch den Bedarf an sauberer Energie stark an, doch Indien steht vor Hürden, um mit der Dominanz Chinas in der Lieferkette zu konkurrieren.
-
-Ugandische Bauern haben eine Klage vor dem Londoner High Court gegen die Ostafrikanische Rohölpipeline eingereicht. Die Klage, die durch Crowdfunding finanziert wird, zielt darauf ab, ugandisches Recht gegen die im Vereinigten Königreich registrierte Projektgesellschaft durchzusetzen.
-
-Die jüngste Klimaforschung, zusammengefasst in einer Übersicht vom 7. Juli, thematisiert „unmögliche“ Hitzeereignisse, einen globalen Ozeanrekord und den Zusammenhang zwischen Klimawandel und dem Ozonloch. Die genauen Daten und Ergebnisse dieser Studien sind aus den Quellen nicht im Detail ausgeführt.
+Die Hitzewelle in Europa hält an. Nach Angaben des UN-Klimadienstes war der Juni 2026 der heißeste je gemessene Juni für Westeuropa und global der zweitwärmste. Die BBC berichtet, dass die Hitzewelle nun in eine zweite Woche geht, obwohl für das Wochenende lokal etwas kühlere Luft erwartet wird. Die Debatte um Klimaanlagen gewinnt an Schärfe, wie Carbon Brief in einer Analyse von acht Fakten zum Thema darlegt. Parallel dazu warnen Aktivisten auf der Our Ocean Conference in Mombasa, dass die sogenannte blaue Wirtschaft – die wirtschaftliche Nutzung der Meere für Klimaschutz und Wachstum – nicht an den Küstengemeinden vorbeigehen dürfe. Eine weitere Sorge betrifft die künstliche Intelligenz: Naturschutzorganisationen kritisieren, dass die globale Debatte über KI-Risiken die Gefahren für Biodiversität und Ökosysteme weitgehend ignoriere. In China führten Überschwemmungen in Guangxi zu Schäden, während das Land einen neuen „Beautiful China“-Plan vorstellt. Die Internationale Energieagentur warnt zudem, dass kriegsbedingte Unterbrechungen in der Straße von Hormus die Lieferung von Flüssiggas nach Afrika gefährden, das dort als sauberere Alternative zu Holz und Holzkohle gilt.
 
 ## 🔬 Wissenschaft
 
-Die NASA hat eine neue Mission zur Erforschung des arktischen Meereises angekündigt. Ingenieure testen derzeit einen Sensor für ein Raumfahrzeug, der messen soll, wie schnell das arktische Meereis schwindet. Die Vorbereitungen für den Einsatz dieses Instruments, das in einem Jahr starten soll, umfassen eine kürzlich durchgeführte Feldkampagne in der kanadischen Wildnis.
-
-Ein bedeutender Start zur Internationalen Raumstation steht bevor. Der NASA-Astronaut Anil Menon wird am 14. Juli gemeinsam mit den Kosmonauten Pyotr Dubrov und Anna Kikina an Bord der Sojus MS-29 zur ISS aufbrechen, um die Expedition 74 zu verstärken und wissenschaftliche Forschung voranzutreiben.
-
-Erstmals haben Wissenschaftler mit dem NASA-Weltraumteleskop IXPE die Magnetfelder eines Pulsars direkt gemessen. Die Untersuchung von PSR J1101−6101, einem Pulsar im sogenannten Leuchtturmnebel, liefert neue Erkenntnisse über die Struktur dieser extremen kosmischen Objekte.
-
-Der Mars-Rover Curiosity hat auf dem Roten Planeten erstmals Schwefelkristalle aus nächster Nähe aufgenommen. Die Entdeckung erfolgte, als der Rover im Mai 2024 versehentlich über einen Felsen fuhr und ihn zerbrach, wodurch die Kristalle sichtbar wurden.
-
-Ein bemerkenswertes Bildungsprojekt verbindet NASA-Wissenschaft mit indigenem Wissen. Studierende arbeiten mit der Pleasant Point Passamaquoddy Reservation in Maine zusammen, um die zunehmende Küstenerosion zu untersuchen, die das Land der indigenen Gemeinschaft bedroht.
-
-Der Taifun Bavi bewegt sich auf Ostasien zu. Die Vorhersagen deuten auf starke Regenfälle und Überschwemmungen für Taiwan, Japan und China hin. Der Sturm wird als einer der stärksten seit Jahrzehnten beschrieben und hat eine Ausdehnung von etwa 1.000 Kilometern. Auf den Philippinen wurden durch Erdrutsche, die mit dem Sturm in Verbindung stehen, bereits 15 Todesopfer gemeldet.
-
-Der Hitzerekord in Europa wurde gebrochen. Der Juni dieses Jahres war der heißeste je gemessene Juni für Westeuropa und global der zweitwärmste, wie ein Klimabeobachtungsdienst berichtet.
+Die NASA hat eine zweiwöchige Feldkampagne in der kanadischen Wildnis abgeschlossen, um das Abschmelzen des arktischen Meereises zu untersuchen. Ein neuer Satellitensensor wird in einem Jahr starten, doch die Vorbereitungen laufen bereits jetzt. In Ostasien nähert sich Taifun Bavi, der nach BBC-Berichten einer der stärksten Stürme seit Jahrzehnten sein könnte. Der Sturm hat auf den Philippinen bereits Erdrutsche ausgelöst, bei denen 15 Menschen ums Leben kamen. Taiwan, Japan und China bereiten sich auf schwere Regenfälle und Überschwemmungen vor. In Thailand wurde ein neuer pflanzenfressender Dinosaurier entdeckt, der etwa 150 Millionen Jahre alt ist und die Länge eines Cricket-Feldes erreicht. Die US-Regierung hat unterdessen eine vierte Sammlung ungelöster UFO-Fälle veröffentlicht und verspricht, weitere Dateien auf rollierender Basis freizugeben.
 
 ## ⚙️ Technik
 
-Eine schwerwiegende Sicherheitslücke in Kryptowährungs-Wallets wurde ausgenutzt. Die Sicherheitsfirma Coinspect hat eine Schwachstelle namens „Ill Bloom“ identifiziert, die darauf beruht, dass einige Wallet-Software Wiederherstellungsphrasen mit schwacher Zufälligkeit generiert. Angreifer haben diese Lücke bereits genutzt und bei einer koordinierten Aktion am 27. Mai mehr als fünf Millionen US-Dollar aus betroffenen Wallets abgezogen.
-
-Eine neue Betrugskampagne zielt auf Microsoft-365-Nutzer ab. Ein als O-UNC-066 bezeichneter Akteur setzt sprachbasierte, gefälschte Sicherheitsanfragen ein, um Nutzer zur Registrierung eines neuen Entra-Passkeys zu bewegen. Das Ziel ist Datenerpressung, und die Angreifer verwenden ein panelgesteuertes Phishing-Kit.
-
-Die mit China in Verbindung gebrachte Cyberkriminalitätsgruppe Silver Fox hat eine neue Schadsoftware im Einsatz. Der als MODBEACON bezeichnete Remote-Access-Trojaner ist in der Programmiersprache Rust geschrieben und nutzt gRPC-Streaming für verschlüsselte Kommunikation mit den Kontrollservern. Die Gruppe verbreitet die Malware über gefälschte Installationsprogramme mittels Suchmaschinenvergiftung.
-
-Ein exponierter Hackerserver gewährte Einblick in die Arbeitsweise von Massen-Hacking-Operationen. Ein Server, der drei Wochen lang ungeschützt im Internet stand, enthielt Werkzeuge, Aktivitätsprotokolle und Ziellisten mit mehr als 1,4 Millionen Websites. Die tatsächlich kompromittierten Seiten waren weitaus weniger, aber die offengelegten Daten zeigen, wie systematisch solche Angriffe ablaufen.
-
-Sicherheitsforscher von Datadog warnen vor Kampagnen, die schlafende GitHub-Konten ausnutzen. Angreifer verwenden automatisierte Scraping-Werkzeuge mit legitimen Benutzeragenten und Jahre alte „Geister“-Konten, um Unternehmensorganisationen, Repositorys und Benutzerkonten auf GitHub systematisch zu erfassen.
-
-Eine Untersuchung von 281 kostenlosen Android-VPN-Apps hat erhebliche Sicherheitsmängel offenbart. Viele der Apps, die insgesamt mehr als 2,4 Milliarden Mal installiert wurden, erfüllen grundlegende Sicherheitsfunktionen nicht: 29 Apps lassen Datenverkehr austreten, andere übertragen unverschlüsselte Daten oder enthalten Tracking-Funktionen.
-
-Ein ehemaliger Lösegeldverhandler wurde zu 70 Monaten Haft verurteilt. Der 41-Jährige hatte mit den Betreibern der inzwischen aufgelösten BlackCat-Ransomware-Gruppe zusammengearbeitet und mehrere Opfer erpresst. Die Staatsanwaltschaft beschrieb ihn als aktiven Teilnehmer an den Erpressungsaktivitäten.
-
-Anthropic hat neue Einblicke in die Funktionsweise großer Sprachmodelle gewonnen. Das Unternehmen entdeckte einen verborgenen Bereich innerhalb seines Modells Claude, in dem das System Konzepte verarbeitet. Dies stellt den bislang klarsten Blick auf die internen Abläufe solcher KI-Modelle dar.
+Die Sicherheitslage in der digitalen Infrastruktur ist angespannt. Forscher der Firma Binarly haben sechs neue Schwachstellen im U-Boot-Bootloader entdeckt, der in Routern, Kameras und Server-Management-Chips verwendet wird. Vier der Fehler können Geräte zum Absturz bringen, zwei erlauben es Angreifern, eigenen Code auszuführen. Progress Software hat Kunden des Dateiaustauschdienstes ShareFile aufgefordert, ihre Windows-Server abzuschalten, und bestätigt eine „glaubwürdige externe Sicherheitsbedrohung“. Eine kritische Schwachstelle in Zimbra ermöglicht es, durch präparierte E-Mails Schadcode in Benutzersitzungen auszuführen. Das Sicherheitsteam von Ledger Donjon demonstrierte einen Laserangriff auf Tangem-Krypto-Wallet-Karten, der das Passwort ohne Kenntnis des alten Codes zurücksetzen kann. Zudem wurde eine neue Schadsoftware namens MODBEACON entdeckt, die von der chinesischen Gruppe Silver Fox stammt und verschlüsselte Kommunikation nutzt. Ein weiterer Angriff zielt auf Microsoft-365-Nutzer, bei dem Betrüger per Telefon zur Registrierung eines gefälschten Entra-Passkeys auffordern.
 
 ## 🏛️ Politik
 
-Die Ukraine hat Angriffe auf russische Schiffe in der Nähe der Krim durchgeführt. Diese Angriffe scheinen Teil einer anhaltenden Strategie zu sein, Versorgungswege und Routen in und aus dem besetzten Gebiet zu unterbrechen. Die genauen Auswirkungen sind aus den Quellen nicht im Detail belegt.
-
-Ein ukrainischer Agent, der des Mordes an einer Frau in Monaco beschuldigt wird, hat seine Aussage geändert. Zwei Männer mit Verbindungen zum ukrainischen Sicherheitsdienst werden beschuldigt, Anastasiia Berezovska getötet und ihre Leiche in einem Wald abgelegt zu haben. Die Entwicklung des Falls ist unklar.
-
-In Gaza wurde ein palästinensischer Helfer bei einem israelischen Angriff getötet. Mohammed al-Wahidi, der während des Krieges öffentliche Übertragungen von Fußball-Weltmeisterschaftsspielen organisiert hatte, war zu einer prominenten humanitären Figur geworden. Die Umstände seines Todes sind aus den Quellen nicht näher ausgeführt.
-
-China hat nach Angaben staatlicher Medien erstmals eine wiederverwendbare Rakete gelandet. Dies folgt auf ähnliche Landungen wiederverwendbarer Raketen durch die US-amerikanischen Unternehmen SpaceX und Blue Origin und markiert einen technologischen Fortschritt für das chinesische Raumfahrtprogramm.
-
-Der südkoreanische Chip-Hersteller SK Hynix hat mit einem Börsengang in den USA 26,5 Milliarden US-Dollar eingenommen. Die Aktien sollen am Freitag an der Nasdaq gehandelt werden, was das größte Debüt eines ausländischen Unternehmens in der Geschichte darstellt.
-
-Ein demokratischer Kandidat für eine wichtige Senatswahl in den USA hat seinen Wahlkampf ausgesetzt. Graham Platner zog seine Kandidatur zurück, nachdem eine Frau ihn der sexuellen Nötigung beschuldigt hatte, eine Anschuldigung, die er als „eindeutig falsch“ bezeichnet.
-
-Ein griechischer F-16-Kampfjet ist auf dem belebten Flughafen von Zakynthos notgelandet. Die Maschine setzte offenbar ohne ausgefahrenes Fahrwerk auf und ging in Flammen auf. Die Landebahn wurde geschlossen.
+Apple hat OpenAI verklagt. Der Vorwurf lautet auf Diebstahl von Geschäftsgeheimnissen durch Mitarbeiter. Apple bezeichnet in der am Freitag eingereichten Klage das junge Hardware-Geschäft von OpenAI als „von Grund auf verdorben“. In Spanien kämpfen Einsatzkräfte gegen einen der tödlichsten Waldbrände des Landes. Mindestens zwölf Menschen starben, darunter vier britische Staatsbürger, 23 weitere werden vermisst. Die USA verhandeln mit Iran über eine Zusage, keine Schiffe mehr in der Straße von Hormus zu beschießen. Vizepräsident JD Vance soll an den Gesprächen teilnehmen, die am Samstag in Oman wieder aufgenommen werden.
 
 ## 🌐 Geopolitische Lage
 
-Im Sudan ist ein neuer Cholera-Ausbruch ausgebrochen, der bereits mehr als 100 Todesopfer gefordert hat. Die humanitäre Lage ist besonders besorgniserregend in der belagerten Stadt El-Obeid, wo tägliche Drohnenangriffe den Zugang für Hilfslieferungen weiter erschweren.
-
-Die Feindseligkeiten zwischen den USA und dem Iran haben den Schiffsverkehr in der Straße von Hormuz erneut nahezu zum Erliegen gebracht. Nach Angaben der Vereinten Nationen sind etwa 6.000 Seeleute auf Hunderten von Schiffen gestrandet, während die Golfstaaten in erhöhter Alarmbereitschaft vor weiteren Angriffen sind.
-
-Die humanitäre Hilfe für Frauen und Mädchen ist drastisch reduziert worden. Seit Januar 2025 haben mindestens eine Million Frauen und Mädchen den Zugang zu lebenswichtiger Unterstützung verloren, da beispiellose Kürzungen der Hilfsgelder Frauenorganisationen in Krisengebieten an den Rand des Zusammenbruchs gebracht haben.
-
-Der Sicherheitsrat der Vereinten Nationen hat sich mit der Lage in der Ukraine befasst. Die UN-Untergeneralsekretärin für politische Angelegenheiten forderte eine dringende Deeskalation angesichts eskalierender russischer Drohnen- und Raketenangriffe auf ukrainische Zivilisten, die zu einem Anstieg der zivilen Todesopfer geführt haben.
-
-UN-Ermittler haben nach einem einwöchigen Besuch in Syrien die Regierung aufgefordert, das Schicksal Tausender vermisster Häftlinge aufzuklären. Der Besuch umfasste Bombenanschläge in Damaskus, Gefängnisbesuche im Nordosten und Berichte über Selbstjustiz in Homs.
+Die Vereinten Nationen haben vor einem „Verlust der Wissenskontinuität“ über das iranische Atomprogramm gewarnt. Seit den US-amerikanischen und israelischen Angriffen auf Iran Ende Februar sei die Überwachung unterbrochen, erklärte UN-Friedensbeauftragte Rosemary DiCarlo vor dem Sicherheitsrat. In der Ukraine fordert die UN eine dringende Deeskalation angesichts eskalierender russischer Drohnen- und Raketenangriffe auf Zivilisten. Der Sicherheitsrat tagte zu diesem Thema. In Sudan ist ein neuer Cholera-Ausbruch ausgebrochen, der bereits mehr als 100 Todesopfer gefordert hat. Besonders betroffen ist die belagerte Stadt El-Obeid, wo tägliche Drohnenangriffe die humanitäre Hilfe behindern. In Südsudan bereitet die UN eine vorsorgliche Aktion vor, um Tausende Menschen vor einer sich abzeichnenden Dürre zu schützen.
 
 ## ⚔️ Krieg
 
-Die Ukraine hat ihre Angriffe auf russische Schiffe nahe der Krim fortgesetzt. Diese Operationen zielen darauf ab, die Versorgungswege in das besetzte Gebiet zu unterbrechen. Die genauen militärischen Ergebnisse und Schäden sind aus den Quellen nicht im Detail belegt.
-
-Der Sicherheitsrat der Vereinten Nationen befasste sich in einer Dringlichkeitssitzung mit der Eskalation in der Ukraine. Die Vereinten Nationen berichten von einem Anstieg der zivilen Todesopfer durch russische Angriffe. Die genauen Opferzahlen werden in den Quellen nicht genannt.
-
-In Gaza wurde ein humanitärer Helfer bei einem israelischen Angriff getötet. Mohammed al-Wahidi, der während des Krieges durch die Organisation von Fußballübertragungen bekannt geworden war, starb bei dem Angriff. Die genauen Umstände sind nicht näher ausgeführt.
+Die humanitäre Lage in Venezuela bleibt katastrophal. Nach den Erdbeben der Stärken 7,2 und 7,5 am 24. Juni melden die Behörden nun offiziell 4.118 Tote und 16.740 Verletzte. Mehr als 1.100 Nachbeben wurden registriert. 6.462 Menschen konnten gerettet werden. Der UN-Humanitärkoordinator Tom Fletcher besuchte das Land. Der private Sektor hat bislang 32,9 Millionen US-Dollar für die Hilfe bereitgestellt. In Haiti sind seit dem 1. Juli 7.100 Menschen durch Gewalt im Département Ouest vertrieben worden. Fast 5,8 Millionen Menschen, mehr als die Hälfte der Bevölkerung, leiden unter akuter Ernährungsunsicherheit. Die Gewalt in der landwirtschaftlichen Region Artibonite hat die Ernte schwer beeinträchtigt. In der Ukraine verschlechtert sich die Sicherheitslage in der Stadt Saporischschja, die nahe der Frontlinie liegt. Russische Angriffe treffen zunehmend Schulen, Büros und Busse.
 
 ## 💬 Meinung des Tages
 
-Der 10. Juli 2026 zeigt eine Welt, die gleichzeitig an mehreren Fronten unter Druck steht. Die Unterbrechung der Schifffahrt in der Straße von Hormuz, der Cholera-Ausbruch im Sudan, der herannahende Taifun Bavi und die anhaltenden Kämpfe in der Ukraine und Gaza sind keine isolierten Ereignisse. Sie sind miteinander verbunden durch globale Lieferketten, Klimaveränderungen und politische Spannungen.
-
-Bemerkenswert ist, wie viele der heutigen Meldungen indirekte Folgen betreffen: Die LPG-Knappheit in Afrika durch den Iran-Konflikt, die gestrandeten Seeleute im Persischen Golf, die gestrichene Hilfe für Frauen in Krisengebieten. Die unmittelbaren Schlagzeilen handeln von Krieg und Naturkatastrophen, aber die tieferen Geschichten sind die der Verwundbarkeit von Systemen, die wir für selbstverständlich halten.
-
-Die Wissenschaft hingegen arbeitet leise und beständig weiter. Die NASA erforscht das arktische Meereis, misst Magnetfelder von Pulsaren, findet Schwefel auf dem Mars. Diese Arbeiten scheinen weit entfernt von den aktuellen Krisen, aber sie sind die Grundlage dafür, die langfristigen Herausforderungen zu verstehen, vor denen wir stehen.
-
-Der heutige Tag erinnert daran, dass die Welt keine getrennten Sphären kennt. Die Unterbrechung einer Schifffahrtsstraße beeinflusst die Kochgewohnheiten in Afrika. Ein Taifun über Ostasien betrifft Millionen Menschen. Eine Cholera-Epidemie im Sudan ist die Folge von Krieg und zusammengebrochener Infrastruktur. Alles hängt mit allem zusammen, und die Aufgabe besteht darin, diese Verbindungen zu sehen, bevor sie zu Krisen werden.
+Dieser Tag zeigt eine Welt, in der mehrere Krisen gleichzeitig eskalieren, ohne dass eine davon gelöst wird. Die Hitzewelle in Europa, der Taifun in Ostasien, die Erdbeben in Venezuela, der Cholera-Ausbruch im Sudan und der Krieg in der Ukraine – all dies sind nicht separate Nachrichten, sondern miteinander verwobene Belastungen eines Systems, das an seine Grenzen stößt. Auffällig ist, wie oft die UN in dieser Woche zu Deeskalation aufrufen musste: im Iran, in der Ukraine, im Sudan. Die Appelle bleiben ungehört. Gleichzeitig zeigt sich eine wachsende Diskrepanz zwischen technologischen Möglichkeiten und menschlicher Verwundbarkeit. Während Sicherheitsforscher Laserangriffe auf Krypto-Wallets demonstrieren und KI-Debatten die Naturgefahren ausblenden, sterben Menschen in Spanien im Feuer, in Venezuela unter Trümmern und auf den Philippinen im Schlamm. Die Frage, die sich aufdrängt, ist nicht, ob wir die Mittel hätten, diese Krisen zu mildern, sondern warum wir sie nicht entschlossener einsetzen.
 
 ## 🎵 Song des Tages
 
-„The Sound of Silence“ von Simon & Garfunkel. Der Song spricht von Menschen, die ohne Verbindung nebeneinander leben, von Botschaften, die nicht gehört werden. An einem Tag, an dem die Nachrichten von getrennten Welten berichten – von Krieg und Wissenschaft, von Naturkatastrophen und technologischen Durchbrüchen – erinnert dieses Lied daran, dass die Stille zwischen den Ereignissen oft die lauteste Botschaft enthält.
+„The Day the World Went Away“ von Nine Inch Nails. Der Titel passt zur Stimmung dieses Tages: eine ruhige, bedrückende Melodie, die von einer Welt erzählt, die sich langsam entzieht. Kein lauter Schrei, sondern ein leises, resigniertes Erkennen, dass etwas Grundlegendes verloren geht. Genau das spiegelt die Berichte dieses Tages wider – die Stille nach den Erdbeben, die Hitze, die nicht weicht, und die diplomatischen Appelle, die verhallen.
 
 
 ---
 
-*Erstellt am 2026-07-10 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-07-11 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
