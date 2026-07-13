@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T12:46:35.236357+00:00",
-  "date": "2026-07-12",
+  "generated_at": "2026-07-13T13:55:02.663992+00:00",
+  "date": "2026-07-13",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -13,7 +13,7 @@
       "url": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
       "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
       "published": "2026-07-11T17:49:31+00:00",
-      "score": 17
+      "score": 15
     },
     {
       "source": "The Hacker News",
@@ -25,75 +25,48 @@
       "score": 14
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The influential politician had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
-      "published": "2026-07-12T09:47:43+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Scientists Take to Air and Space to Study Arctic Sea Ice",
-      "url": "https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/",
-      "summary": "This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness. Researchers spent two weeks […]",
-      "published": "2026-07-09T15:42:58+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "url": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting out a number of files, and finally creating AD_Report.html to measure the success of the",
+      "published": "2026-07-13T11:02:33+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
-      "published": "2026-07-12T06:49:46+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167914",
-      "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East.",
-      "published": "2026-07-10T12:00:00+00:00",
+      "title": "Men disguised as police kill Ecuadorean drug lord's brother",
+      "url": "https://www.bbc.co.uk/news/articles/c20yx84g103o?at_medium=RSS&at_campaign=rss",
+      "summary": "The victim, David Macías, was the brother of drug lord 'El Fito', who is awaiting trial in the US.",
+      "published": "2026-07-13T10:30:51+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "summary": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
-      "published": "2026-07-12T11:23:09+00:00",
-      "score": 11
+      "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+      "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The veteran Republican says he will not return to work \"quite yet\", in his first statement following weeks of speculation about his health.",
+      "published": "2026-07-12T23:41:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: a donor conception cap and world models for AI",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm…",
+      "published": "2026-07-13T12:10:00+00:00",
+      "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
-      "published": "2026-07-12T07:39:45+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-      "published": "2026-07-11T16:11:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
-      "url": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss",
-      "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
-      "published": "2026-07-11T21:56:52+00:00",
+      "title": "Heavy rains and flash floods in Bangladesh leave 51 dead",
+      "url": "https://www.bbc.co.uk/news/articles/ce8k7e75k7go?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands have lost their homes as flash floods and landslides have hit large parts of the country.",
+      "published": "2026-07-13T06:19:49+00:00",
       "score": 11
     },
     {
@@ -106,92 +79,83 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913",
-      "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.",
-      "published": "2026-07-10T12:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "url": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts. Distributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing",
+      "published": "2026-07-13T13:03:33+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-      "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system",
-      "published": "2026-07-10T14:19:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "url": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it belies their true organizational",
-      "published": "2026-07-10T13:15:23+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites",
-      "url": "https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html",
-      "summary": "A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million websites. Far fewer were actually broken into, but the exposed files showed researchers how a mass site-hacking operation runs from the inside. The operation, now tracked as",
-      "published": "2026-07-10T11:30:02+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Iran war fuel shocks threaten Africa’s clean cooking push, IEA says",
-      "url": "https://www.climatechangenews.com/2026/07/10/iran-war-fuel-shocks-threaten-africa-clean-cooking-push-iea-says/",
-      "summary": "Disruptions in the Strait of Hormuz have hit supplies of liquefied petroleum gas (LPG), seen as a cleaner cooking alternative to charcoal and wood The post Iran war fuel shocks threaten Africa’s clean cooking push, IEA says appeared first on Climate Home News .",
-      "published": "2026-07-10T08:01:20+00:00",
-      "score": 11
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism",
-      "url": "https://www.carbonbrief.org/china-briefing-9-july-2026-guangxi-floods-beautiful-china-plan-new-eu-china-mechanism/",
-      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism appeared first on Carbon Brief .",
-      "published": "2026-07-09T15:01:34+00:00",
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "url": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both rated 10.0 on the CVSS scoring system, are below - CVE-2026-48939 - A vulnerability in the",
+      "published": "2026-07-13T05:36:02+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
-      "published": "2026-07-11T23:58:40+00:00",
+      "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "summary": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+      "published": "2026-07-13T10:29:17+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "published": "2026-07-11T18:00:09+00:00",
+      "title": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+      "published": "2026-07-13T11:36:18+00:00",
       "score": 10
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
-      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
-      "published": "2026-07-10T13:40:19+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "British couple return to village at heart of deadly Spanish wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
+      "published": "2026-07-13T00:29:21+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "South Sudan: UN acts ahead of drought to protect thousands",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167915",
-      "summary": "As drought risk intensifies in South Sudan’s Eastern Equatoria state, a new UN-backed plan aims to protect thousands of people before the worst impacts take hold.",
+      "title": "From NASA to the classroom: The engineer bringing AI to those left behind",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167920",
+      "summary": "Nia Jetter spent two decades building spacecraft and robots. Now she is trying to make sure the artificial intelligence revolution doesn't leave anyone behind.",
+      "published": "2026-07-12T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN chief urges Iran and US to ‘urgently resume negotiations’ as Gulf strikes escalate",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167923",
+      "summary": "Renewed strikes and counterstrikes between Iran and the United States in the Gulf region have raised fears of a return to all‑out war, with Washington denying Tehran’s claim that it had closed the crucial Strait of Hormuz on Sunday.",
+      "published": "2026-07-12T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Thai youth leaders push for inclusion, partnership and lasting change",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167917",
+      "summary": "From local communities to the global stage, a diverse group of young leaders from Thailand is helping shape conversations on public policy, climate action, inclusion, indigenous rights, disability access and youth wellbeing.",
+      "published": "2026-07-11T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: ‘Lost continuity of knowledge’ on Iran’s nuclear programme since US-Israel attacks, top UN official warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167914",
+      "summary": "Since the United States and Israel launched attacks on Iran in late February, there has been a “lost continuity of knowledge” on Tehran’s nuclear programme, Rosemary DiCarlo, the UN peace affairs chief, warned the Security Council on Friday as tensions mounted amid new strikes across the Middle East.",
       "published": "2026-07-10T12:00:00+00:00",
       "score": 10
     },
@@ -202,6 +166,33 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167911",
       "summary": "This year marks the hottest June recorded for Western Europe and the second warmest globally, according to the latest report from a climate tracking service released on Thursday.",
       "published": "2026-07-09T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "url": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it happened: the time, your location, what you were doing, even how you were using your phone. Some versions in the filing would listen all day; others would",
+      "published": "2026-07-13T11:54:46+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "url": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were seeing real value in specific investigations. But as we mapped out the broader architecture, something kept nagging at me. The design they were building",
+      "published": "2026-07-13T11:37:05+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bash_history. From that one lapse, French security firm Lexfo lifted the operator's entire toolkit and pivoted through it to two more",
+      "published": "2026-07-13T07:30:00+00:00",
       "score": 10
     },
     {
@@ -220,15 +211,6 @@
       "url": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
       "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says it took \"out of an abundance of caution\" while it works with internal and external security",
       "published": "2026-07-10T16:30:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "url": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-      "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out. This is not an emergency for most owners. The attack needs",
-      "published": "2026-07-10T14:51:49+00:00",
       "score": 10
     },
     {
@@ -261,91 +243,55 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "At least two killed in Toronto street festival shooting",
-      "url": "https://www.bbc.co.uk/news/articles/ce3e66e1x3go?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say there was an exchange of gunfire between two individuals at the festival, and two firearms had been recovered from the scene.",
-      "published": "2026-07-12T03:56:02+00:00",
+      "title": "Senator Lindsey Graham died of aortic tear, examiner says",
+      "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+      "summary": "Graham, a close Republican ally of Donald Trump, died at the age of 71 on Saturday evening.",
+      "published": "2026-07-13T10:14:01+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
-      "url": "https://www.bbc.co.uk/news/articles/cd6e9zq87xvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tabassum Khan has been facing online abuse after convicting 14 Hindu men in a lynching case.",
-      "published": "2026-07-12T00:49:24+00:00",
+      "title": "Infantino opens door to 64-team World Cup",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj9gm31jwg8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Plans for a 64-team men's world cup are set to be picked up and assessed in detail after the 2026 tournament with Fifa boss Gianni Infantino saying football needs to be \"for the whole world\".",
+      "published": "2026-07-12T19:18:56+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "South Africa World Cup midfielder Adams dies aged 25",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss",
-      "summary": "South Africa and Mamelodi Sundowns midfielder Jayden Adams dies at the age of 25, just weeks after featuring for his country at the World Cup.",
-      "published": "2026-07-11T14:47:47+00:00",
+      "title": "South Africa says more than 53,000 foreigners deported in migration campaign",
+      "url": "https://www.bbc.co.uk/news/articles/cvgj2prd4p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "South Africa is cracking down on undocumented migrants following widespread anti-immigration protests.",
+      "published": "2026-07-12T18:57:17+00:00",
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-      "published": "2026-07-10T13:53:11+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: UN spotlights education aid solution, Sri Lanka prison violence, humanitarian aid to Venezuela",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167918",
-      "summary": "The UN Educational, Scientific and Cultural Organization (UNESCO) urged international lenders to expand debt-for-education swaps, warning in a Friday report that many developing countries are spending more on debt servicing than on schooling their children.",
-      "published": "2026-07-10T12:00:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "published": "2026-07-12T07:39:45+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Aid cuts leave at least one million women and girls without vital support",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167908",
-      "summary": "At least one million women and girls have lost access to critical humanitarian support since January 2025 as unprecedented aid cuts push women's organizations in crisis zones to the brink of collapse, the UN’s gender equality agency, UN Women, said on Friday.",
+      "title": "Reviving communities home by home in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
+      "summary": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
+      "published": "2026-07-12T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "New cholera outbreak alert for Sudan’s war-weary communities",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167913",
+      "summary": "In war-torn Sudan, a deadly new cholera outbreak has already claimed more than 100 lives, heightening serious concerns for vulnerable communities including in besieged El-Obeid, where daily drone attacks have continued to hamper aid access.",
       "published": "2026-07-10T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Sets Coverage for Astronaut Anil Menon Launch to Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/",
-      "summary": "NASA astronaut Anil Menon will launch aboard the Roscosmos Soyuz MS-29 spacecraft to the International Space Station on Tuesday, July 14, accompanied by cosmonauts Pyotr Dubrov and Anna Kikina, where they will join the Expedition 74 crew advancing scientific research. Menon, Dubrov, and Kikina will lift off at 10:47 a.m. EDT (7:47 p.m. Baikonur time) […]",
-      "published": "2026-07-09T22:09:27+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Space Telescope Maps Magnetic Fields of ‘Lighthouse’ Pulsar",
-      "url": "https://science.nasa.gov/missions/ixpe/nasa-space-telescope-maps-magnetic-fields-of-lighthouse-pulsar/",
-      "summary": "For the first time, scientists have used NASA’s IXPE (Imaging X-ray Polarimetry Explorer) to directly measure the magnetic fields of PSR J1101−6101, a pulsar located within what is often referred to as the Lighthouse Nebula. The results provide new insight into the structure of some of the most extreme objects in the cosmos, as NASA […]",
-      "published": "2026-07-09T20:08:35+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
-      "published": "2026-07-10T12:10:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-      "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-      "published": "2026-07-09T20:22:28+00:00",
       "score": 9
     },
     {
@@ -358,6 +304,15 @@
       "score": 9
     },
     {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Iran war fuel shocks threaten Africa’s clean cooking push, IEA says",
+      "url": "https://www.climatechangenews.com/2026/07/10/iran-war-fuel-shocks-threaten-africa-clean-cooking-push-iea-says/",
+      "summary": "Disruptions in the Strait of Hormuz have hit supplies of liquefied petroleum gas (LPG), seen as a cleaner cooking alternative to charcoal and wood The post Iran war fuel shocks threaten Africa’s clean cooking push, IEA says appeared first on Climate Home News .",
+      "published": "2026-07-10T08:01:20+00:00",
+      "score": 9
+    },
+    {
       "source": "Carbon Brief",
       "category": "Umwelt",
       "title": "Eight facts about air conditioning amid an overheated global debate",
@@ -367,12 +322,39 @@
       "score": 9
     },
     {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism",
+      "url": "https://www.carbonbrief.org/china-briefing-9-july-2026-guangxi-floods-beautiful-china-plan-new-eu-china-mechanism/",
+      "summary": "Welcome to Carbon Brief’s China Briefing. China Briefing handpicks and explains the most important climate... The post China Briefing 9 July 2026: Guangxi floods | ‘Beautiful China’ plan | New EU-China mechanism appeared first on Carbon Brief .",
+      "published": "2026-07-09T15:01:34+00:00",
+      "score": 9
+    },
+    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
-      "url": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"I feel happy and elated… I feel joy,\" the head of the local teachers' union tells the BBC.",
-      "published": "2026-07-11T14:19:34+00:00",
+      "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+      "published": "2026-07-13T12:32:08+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'Hero, legend, sweetheart': Tributes to Jurassic Park actor Sam Neill, who has died aged 78",
+      "url": "https://www.bbc.co.uk/news/articles/cy06e5e1lygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Friends, politicians and fellow film stars remember Neill following his \"sudden and unexpected\" death.",
+      "published": "2026-07-13T11:52:55+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "published": "2026-07-11T23:58:40+00:00",
       "score": 8
     },
     {
@@ -403,12 +385,30 @@
       "score": 8
     },
     {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
+      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
+      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
+      "published": "2026-07-10T13:40:19+00:00",
+      "score": 8
+    },
+    {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167905",
-      "summary": "Renewed hostilities between the United States and Iran reportedly brought shipping to a near-standstill in the Strait of Hormuz on Thursday, leaving around 6,000 seafarers stranded aboard hundreds of vessels and Gulf countries on high alert for further attacks.",
-      "published": "2026-07-09T12:00:00+00:00",
+      "title": "South Sudan: UN acts ahead of drought to protect thousands",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167915",
+      "summary": "As drought risk intensifies in South Sudan’s Eastern Equatoria state, a new UN-backed plan aims to protect thousands of people before the worst impacts take hold.",
+      "published": "2026-07-10T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Wild, Scenic, and Increasingly Rusty",
+      "url": "https://science.nasa.gov/earth/earth-observatory/wild-scenic-and-increasingly-rusty/",
+      "summary": "Orange streams are now being spotted in hundreds of watersheds in permafrost areas throughout Alaska’s Brooks Range.",
+      "published": "2026-07-13T04:01:00+00:00",
       "score": 8
     }
   ]
