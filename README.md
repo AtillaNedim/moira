@@ -1,72 +1,82 @@
-# Moira — 2026-07-15
+# Moira — 2026-07-16
 
 ## 🌍 Umwelt
 
-Das britische Met Office hat heute einen Bericht veröffentlicht, der eine nüchterne Feststellung trifft: Das Klima, wie es im 20. Jahrhundert existierte, existiert nicht mehr. Die Aussage ist wissenschaftlich präzise und bezeichnet den Zustand als abgeschlossen, nicht als vorübergehend. Parallel dazu erlebt das Vereinigte Königreich eine Hitzewelle mit anhaltenden Temperaturen um 30 Grad Celsius und außergewöhnlich vielen Sonnenstunden. In Schottland wurde die Waldbrandgefahr auf „sehr hoch“ eingestuft, was zu einer öffentlichen Warnung des Feuerwehrdienstes führte. Wissenschaftler untersuchen derzeit, ob die Veränderungen im Atlantik zu noch extremerem Wetter über den Britischen Inseln führen könnten.
+Die Klimaforschung liefert heute mehrere bemerkenswerte Erkenntnisse, die in ihrer Gesamtschau ein klares Bild zeichnen. Das britische Met Office hat erklärt, dass das Klima des 20. Jahrhunderts nicht mehr existiert. Der jüngste Bericht zur Klimaentwicklung des Vereinigten Königreichs zeigt, dass auch kühle Bergregionen verloren gehen. Extreme Wetterlagen seien in Großbritannien zur neuen Normalität geworden, wie ein weiterer Bericht desselben Tages ausführt. Diese Aussagen sind durch langjährige Messreihen gestützt und beschreiben einen Prozess, der sich über Jahrzehnte vollzogen hat.
 
-Eine Untersuchung von Climate Home News legt nahe, dass Regierungen großer Emittenten bereits seit den 1960er Jahren über die Klimarisiken durch fossile Brennstoffe informiert waren, diese Erkenntnisse jedoch zurückhielten, um Verantwortung zu vermeiden. Die Quellenlage zu diesem historischen Versäumnis ist durch die genannte Veröffentlichung gedeckt, die genauen internen Abläufe bedürfen weiterer Aufklärung.
+Eine historische Recherche von Climate Home News fördert zutage, dass Regierungen großer Emittenten bereits seit den 1960er Jahren über die Klimarisiken durch fossile Brennstoffe informiert waren. Die Studie legt nahe, dass dieses Wissen bewusst zurückgehalten wurde, um Verantwortung zu vermeiden. Die Quellenlage zu dieser Behauptung ist auf eine einzelne Untersuchung gestützt, sollte also mit der gebotenen Vorsicht betrachtet werden, doch die Implikationen sind weitreichend.
 
-Die Philippinen sehen sich mit den Folgen eines starken El Niño konfrontiert, der laut Vorhersagen weitere extreme Wetterereignisse bringen wird. Die Internationale Meeresbodenbehörde der Vereinten Nationen verteidigt ihre Autorität, während Tiefseebergbauunternehmen versuchen, eine Untersuchung ihrer Aktivitäten zu stoppen.
+In Ostafrika spitzt sich die Lage in Uganda zu. Das Land leidet unter einer Hungersnot, wie Carbon Brief berichtet. Gleichzeitig gibt es Pläne für eine der größten Ölraffinerien Afrikas in Kenia, die von Umweltschützern als ökologische Rücksichtslosigkeit kritisiert wird. Das Projekt des Dangote-Konzerns in einer ökologisch sensiblen Region steht im Zentrum einer Debatte über Entwicklungswege und Klimaschutz.
+
+In Kanada brennen mehr als 800 Waldbrände. Die Luftqualität in Teilen Michigans, Minneapolises und Minnesotas wurde als gesundheitsgefährdend eingestuft. Ein Zug geriet in den Flammen so stark in Brand, dass er vollständig von Feuer umschlossen war; die Besatzung konnte gerettet werden. Auch in Schottland wurde die Bevölkerung aufgefordert, wachsam zu bleiben, da die Waldbrandgefahr als sehr hoch eingestuft wird.
 
 ## 🔬 Wissenschaft
 
-Der Bericht des britischen Met Office ist die zentrale wissenschaftliche Meldung des Tages. Die Aussage, dass das Klima des 20. Jahrhunderts nicht mehr existiert, ist keine Prognose, sondern eine Beschreibung des Ist-Zustands. Die Datenlage gilt als robust, da sie auf langjährigen Messreihen beruht.
+Die NASA hat einen bedeutenden Schritt in der Erforschung des frühen Sonnensystems bekannt gegeben. Ein Meteorit, der am 16. Juli 2024 unmittelbar nach seinem Fall auf die Erde geborgen wurde, liefert neue Erkenntnisse über uraltes Wasser, die chemische Entwicklung primitiver Asteroiden und die Bestandteile, die möglicherweise Leben im frühen Sonnensystem ermöglicht haben. Die Untersuchung dieses nahezu unveränderten Materials ist wissenschaftlich besonders wertvoll, da es kaum irdischen Verunreinigungen ausgesetzt war.
 
-In der Astrophysik gibt es eine bemerkenswerte Ankündigung: Das Nancy Grace Roman Space Telescope der NASA wird voraussichtlich in der Lage sein, supermassive Schwarze Löcher in großen Entfernungen zu entdecken, indem es Sterne beobachtet, die von diesen Schwarzen Löchern zerrissen werden. Dies könnte neue Erkenntnisse über die Entstehung und das Wachstum von Schwarzen Löchern in frühen Phasen des Universums liefern. Die Belastbarkeit dieser Information ist hoch, da sie auf einer NASA-Veröffentlichung beruht, die auf Modellrechnungen gestützt ist.
+Im Bereich der Raumfahrt bereitet sich die NASA auf die Artemis-III-Demonstrationsmission im Jahr 2027 vor. Dabei sollen Rendezvous- und Andockmanöver zwischen kommerziellen Landesystemen und dem Orion-Raumschiff geübt werden, bevor 2028 Astronauten auf dem Mond landen sollen. Parallel dazu wurde der NASA-Astronaut Anil Menon zusammen mit den Kosmonauten Pyotr Dubrov und Anna Kikina zur Internationalen Raumstation gestartet. Der Start erfolgte am 14. Juli vom Kosmodrom Baikonur aus.
 
-Serbien wird morgen die Artemis-Accords unterzeichnen, ein Abkommen zur internationalen Zusammenarbeit bei der zivilen Weltraumforschung. Die NASA hat die Medien zur Zeremonie eingeladen. Das Hubble-Teleskop hat ein Bild des Sternentstehungsgebiets LH 95 in der Großen Magellanschen Wolke aufgenommen.
+Die NASA nutzt zudem weiterhin maßstabsgetreue, ferngesteuerte und autonome Flugzeuge, um neue Luftfahrtkonzepte kosteneffizient zu testen und Risiken zu reduzieren. Diese Methode am Dale-Reed-Labor in Edwards, Kalifornien, hat sich als verlässlicher Weg erwiesen, Innovationen zu beschleunigen.
 
 ## ⚙️ Technik
 
-Die Sicherheitslage in der Informationstechnologie ist angespannt. Microsoft hat mit 622 behobenen Sicherheitslücken den größten Patch-Day seiner Geschichte veröffentlicht. Darunter befinden sich zwei Schwachstellen, die bereits aktiv ausgenutzt werden. Die schiere Anzahl der Korrekturen ist bemerkenswert und übertrifft den bisherigen Rekord um mehr als das Dreifache.
+OpenAI hat ein internes System namens GPT-Red vorgestellt, einen automatisierten Red-Teaming-Assistenten, der Schwachstellen durch Prompt-Injection in großen Sprachmodellen aufspürt. Das Unternehmen gibt an, dass GPT-Red in der Lage ist, frühere Modelle mit hoher Erfolgsrate zu kompromittieren. Durch das Training gegen diesen Angreifer sei das kürzlich veröffentlichte GPT-5.6 das robusteste Modell des Unternehmens geworden. Die Methode ist bemerkenswert, weil sie zeigt, wie KI-Systeme selbst zur Verbesserung der Sicherheit anderer KI-Systeme eingesetzt werden können.
 
-Ein Sicherheitsforscher hat nur Stunden nach dem Microsoft-Patch-Day einen Proof-of-Concept-Exploit für eine weitere Windows-Schwachstelle veröffentlicht, die die Benutzerprofilverwaltung betrifft. Die genauen Auswirkungen sind noch nicht vollständig absehbar.
+Im Bereich der Cybersicherheit wurden mehrere Vorfälle dokumentiert. Ein Forscher namens tokay0 hat eine Schwachstelle in Shark-Roboterstaubsaugern des Modells RV2320EDUS veröffentlicht. Durch das Auslesen eines Zertifikats vom Flash-Speicher des Geräts können Angreifer Root-Befehle auf anderen Shark-Staubsaugern in derselben AWS-Region ausführen, die Kamera einsehen, den Roboter steuern, den Hausgrundriss auslesen und das WLAN-Passwort im Klartext abgreifen. Der Forscher hat die Methode veröffentlicht, nachdem er sie nur an eigenen Geräten getestet hatte.
 
-Elf alte, von Microsoft signierte Linux-UEFI-Anwendungen könnten es Angreifern ermöglichen, Secure Boot zu umgehen. Dies betrifft potenziell eine große Anzahl von Systemen. Ein neuer Trojaner namens LabubaRAT tarnt sich als NVIDIA-Software und verschafft sich Zugang zu Windows-Systemen. Zudem wurden Schwachstellen im RabbitMQ-Nachrichtendienst entdeckt, die OAuth-Geheimnisse preisgeben könnten. SAP hat eine kritische Sicherheitslücke mit einem CVSS-Score von 9,9 geschlossen.
+Mehr als 20 brasilianische Regierungswebsites wurden im Rahmen einer Kampagne namens PhantomEnigma gekapert und zur Verbreitung von Schadsoftware genutzt. Die Analyse offenbarte bisher nicht dokumentierte Hintertürverhalten und verborgene Infrastrukturbeziehungen.
 
-Das Unternehmen PsiQuantum verfolgt einen Plan, einen Quantencomputer zu bauen, der auf Licht basiert. Die Ankündigung ist beachtenswert, der Zeitpunkt einer praktischen Umsetzung bleibt offen.
+Ein weiterer Vorfall betrifft die Wiederkehr der Schadsoftware Daxin, einem Kernel-Mode-Rootkit, das erstmals 2022 dokumentiert wurde. Es tauchte nach mehr als vier Jahren in einem taiwanesischen Fertigungsunternehmen wieder auf, zusammen mit einer bisher unbekannten Hintertür namens Stupig. Die Malware wird mit einem China-nahen Bedrohungsakteur in Verbindung gebracht.
+
+Das Botnetz-Framework TuxBot v3 Evolution zeigt Anzeichen dafür, dass es mit Hilfe eines großen Sprachmodells entwickelt wurde. Die KI kam der Anfrage nach, Botnet-Code zu generieren, fügte jedoch einen Sicherheitshinweis ein, den der Entwickler offenbar ignorierte.
+
+Das OkoBot-Malware-Framework, das seit April 2025 auf Windows-Systemen aktiv ist, verfügt über ein Modul, das gezielt Besitzer von Hardware-Wallets um ihre Wiederherstellungsphrasen betrügt. Die Malware injiziert sich in die legitime Desktop-Software von Ledger und Trezor und zeigt gefälschte Eingabeaufforderungen an, sobald das Hardware-Gerät angeschlossen wird.
 
 ## 🏛️ Politik
 
-Der designierte britische Premierminister Andy Burnham hat sich bislang bedeckt zu seinen klimapolitischen Positionen gehalten. Eine Zusammenstellung von 28 Zitaten aus seiner politischen Laufbahn gibt Hinweise auf seine Haltung zu Netto-Null und fossilen Brennstoffen, ersetzt aber keine klaren politischen Aussagen.
+In der Ukraine hat die Entlassung von Verteidigungsminister Mykhailo Fedorov durch Präsident Selenskyj Proteste in mehreren Städten ausgelöst. Der Schritt wurde nicht näher begründet und sorgt laut Berichten für erhebliche Unruhe in der Zivilgesellschaft und beim Militär. Die genauen Hintergründe sind aus den vorliegenden Quellen nicht zu ermitteln.
 
-In Italien haben Lieferfahrer in Mailand, Bologna und Florenz aus Protest gegen die Hitzewelle gestreikt und fordern zusätzliche Rechte zum Schutz ihrer Gesundheit und ihrer Löhne. Die italienische Ministerpräsidentin Giorgia Meloni hat eine überraschende Niederlage bei einer knappen Abstimmung über eine Wahlrechtsreform erlitten. Die Opposition forderte daraufhin ihren Rücktritt vor der für nächstes Jahr geplanten Parlamentswahl.
+In Frankreich wird ein freiwilliger Feuerwehrler verdächtigt, einen verheerenden Waldbrand gelegt zu haben. Präsident Macron kündigte an, dass es keine Nachsicht für Brandstifter geben werde. Das Land kämpft, wie weite Teile Europas, mit einer Serie ungewöhnlicher Hitzewellen.
 
-Ein kenianisches Gericht hat den Antrag von Rastafariern auf Legalisierung von Cannabis abgewiesen, räumte jedoch ein, dass eine breitere gesellschaftliche Debatte über die Drogenpolitik notwendig sei.
+Der taiwanesische Chip-Hersteller TSMC hat angekündigt, weitere 100 Milliarden Dollar in die USA zu investieren, um die dortige Produktion auszubauen. Das Unternehmen verspricht hochqualifizierte Arbeitsplätze und erhöht sein Gesamtengagement in den USA auf 265 Milliarden Dollar. Die Entscheidung ist vor dem Hintergrund geopolitischer Spannungen und des globalen Wettlaufs um Halbleiterproduktion zu sehen.
+
+In Italien wurden der ehemalige Chef des Autobahnbetreibers Giovanni Castellucci und weitere Amtsträger wegen der Brückenkatastrophe von Genua im Jahr 2018 zu Haftstrafen verurteilt. Castellucci erhielt eine zwölfjährige Haftstrafe. Bei dem Einsturz der Morandi-Brücke kamen 43 Menschen ums Leben.
+
+Argentinien droht eine Disziplinarmaßnahme des Fußballweltverbandes Fifa, nachdem Spieler nach dem Halbfinalsieg gegen England ein Banner mit Bezug zu den argentinischen Ansprüchen auf die Falklandinseln zeigten.
 
 ## 🌐 Geopolitische Lage
 
-Der Konflikt zwischen den USA und dem Iran bleibt der dominierende geopolitische Faktor. Die USA haben frische Angriffe durchgeführt, während Iran droht, weitere Handelsrouten zu blockieren. US-Präsident Donald Trump kündigte an, in der kommenden Woche iranische Brücken und Kraftwerke angreifen zu wollen, falls das Land nicht zu Verhandlungen zurückkehre. Gleichzeitig gibt es Hinweise darauf, dass Trump bei der Frage der Durchfahrtsgebühren für die Straße von Hormuz zurückgewichen ist, was als Zeichen dafür gedeutet wird, dass er Schwierigkeiten hat, den seit mehr als vier Monaten andauernden Krieg zu beenden. Die Straße von Hormuz hat sich als zentraler Schwachpunkt des fragilen Waffenstillstandsabkommens erwiesen.
+Die militärische Eskalation im Nahen Osten hat sich weiter verschärft. Der Iran hat militärische Einrichtungen angegriffen, während die USA eine Welle von Angriffen starteten. UN-Generalsekretär António Guterres äußerte tiefe Besorgnis über die anhaltende Eskalation und warnte vor einer Rückkehr zu einem umfassenden Krieg. Im Zentrum der Auseinandersetzungen steht die Kontrolle über die Straße von Hormus. Explosionen waren in der Nacht im gesamten Iran zu hören, nachdem benachbarte Golfstaaten Angriffe gemeldet hatten.
 
-Die Vereinten Nationen haben die nächtlichen Angriffe auf die Schifffahrt in und um die Straße von Hormuz verurteilt, bei denen mindestens zwei Seeleute getötet wurden. Die Internationale Seeschifffahrtsorganisation sprach von einem „Zyklus der Eskalation“, der beendet werden müsse.
+Der Sicherheitsrat der Vereinten Nationen befasste sich mit der Arbeit des Internationalen Strafgerichtshofs in der sudanesischen Region Darfur. Der Fokus liegt auf Gräueltaten im anhaltenden Krieg zwischen den sudanesischen Streitkräften und den Rapid Support Forces. Der Gerichtshof steht unter Druck, nachdem US-Außenminister Marco Rubio eine Kampagne zur Zerschlagung des Gerichts gestartet hat. Die UN warnte zudem, dass geplündertes Gold und Gummi arabicum den Krieg im Sudan weiter finanzieren.
 
-Das chinesische Wirtschaftswachstum ist deutlich gefallen und hat das offizielle Ziel verfehlt. Als Ursachen werden die schwache Inlandsnachfrage und die Auswirkungen des Iran-Krieges auf die Ölpreise genannt, während die Exporte weiterhin stark blieben.
+In Kolumbien bleibt die Sicherheitslage vor der Amtseinführung des neu gewählten Präsidenten angespannt. Der Leiter des UN-Überprüfungsteams berichtete dem Sicherheitsrat von anhaltenden Unsicherheitsnestern in einem Land, das jahrzehntelange Konflikte überwunden hat.
+
+In Westafrika und der Sahelzone verändert der Terrorismus sein Gesicht. Dschihadistische Gruppen kontrollieren nicht mehr nur Gebiete, sondern verwalten Territorien, kontrollieren Handelsrouten, nutzen neue Technologien und drängen bis an den Golf von Guinea vor.
+
+Die humanitäre Lage im Gazastreifen bleibt schwierig. Helfer stoßen weiterhin auf erhebliche Hindernisse, wenn sie Gemeinden in der Nähe der sogenannten Gelben Linie im nördlichen Rafah erreichen wollen. Im Westjordanland verschlechtert sich der Zugang zu Bildung weiter.
 
 ## ⚔️ Krieg
 
-In der Ukraine haben russische Angriffe in der Nacht mehrere Todesopfer in Odessa und Sumy gefordert. Die Ukraine griff ihrerseits 20 russische Schiffe im Schwarzen Meer an. Die Vereinten Nationen berichten, dass die zivilen Opferzahlen in der Ukraine im ersten Halbjahr 2026 stark angestiegen sind, was auf eine Eskalation der russischen Angriffe und den verstärkten Einsatz tödlicher Waffen zurückgeführt wird. Der UN-Menschenrechtsbeobachtermission zufolge war der Juni der schlimmste Monat für die Zivilbevölkerung seit 2022. UNICEF hat seinen humanitären Appell für die Ukraine und die Flüchtlingshilfe für 2026 überarbeitet. Der Krieg hat nach Angaben der Organisation sein fünftes Jahr erreicht, mit systematischer Zerstörung kritischer Infrastruktur.
+Die direkten Kampfhandlungen zwischen den USA und dem Iran haben sich in der Nacht zum 16. Juli intensiviert. Der Iran hat militärische Basen angegriffen, die USA reagierten mit einer Welle von Angriffen. Die Berichterstattung ist noch fragmentarisch, und die genauen militärischen Ergebnisse lassen sich aus den vorliegenden Quellen nicht verlässlich bestimmen. Klar ist, dass die Spannungen um die Straße von Hormus eine neue Eskalationsstufe erreicht haben.
 
-In der Demokratischen Republik Kongo breitet sich der Ausbruch der Ebola-Krankheit weiter aus. Nach zwei Monaten handelt es sich um den drittgrößten und am schnellsten wachsenden Ebola-Ausbruch, der je verzeichnet wurde. Die Hilfsorganisation Ärzte ohne Grenzen fordert eine dringende Aufstockung der internationalen Unterstützung. Parallel dazu integrieren das Africa CDC und die SIMBA-Initiative biologische Sicherheitsmaßnahmen in die Bekämpfung des Ausbruchs des Bundibugyo-Virus in der DR Kongo und Uganda.
-
-Die humanitären Herausforderungen im Gazastreifen bleiben bestehen. Helfer haben weiterhin Schwierigkeiten, Gemeinden in der Nähe der sogenannten „Gelben Linie“ im nördlichen Rafah zu erreichen.
-
-Die globalen Auswirkungen des Iran-USA-Konflikts bedrohen die Ernährungssicherheit in Myanmar, da die Störungen in der Straße von Hormuz die Ölpreise beeinflussen. Die EU hat 20 Millionen Euro humanitäre Hilfe für die betroffenen Gemeinden nach den Erdbeben in Venezuela bereitgestellt.
+Im Sudan setzen die Konfliktparteien ihre Kämpfe fort. Die UN hat darauf hingewiesen, dass die Kriegswirtschaft durch den Verkauf von Gold und Gummi arabicum finanziert wird. Der Internationale Strafgerichtshof befasst sich weiterhin mit den Gräueltaten in Darfur, steht aber selbst unter politischem Druck.
 
 ## 💬 Meinung des Tages
 
-Der 15. Juli 2026 ist ein Tag, an dem mehrere langfristige Entwicklungen gleichzeitig sichtbar werden. Die Erkenntnis, dass das Klima des 20. Jahrhunderts endgültig verschwunden ist, ist keine Überraschung für die Wissenschaft, aber ihre öffentliche Bestätigung durch das britische Met Office markiert einen sprachlichen Wendepunkt. Es wird nicht mehr von Veränderung gesprochen, sondern von einem abgeschlossenen Zustand. Gleichzeitig zeigt die Enthüllung, dass Regierungen seit den 1960er Jahren um die Risiken wussten, ein Muster, das sich durch viele Politikfelder zieht: Das Wissen ist oft vorhanden, bevor das Handeln einsetzt.
+Der 16. Juli 2026 ist ein Tag, an dem mehrere langsame Prozesse gleichzeitig sichtbar werden. Das britische Met Office erklärt das Klima des 20. Jahrhunderts für beendet. Gleichzeitig belegt eine historische Studie, dass Regierungen seit den 1960er Jahren um die Risiken wussten. Und während in Kanada Hunderte Brände brennen, deren Rauch amerikanische Städte erreicht, plant ein Konzern eine der größten Raffinerien Afrikas in einer ökologisch sensiblen Region.
 
-Der Rekord-Patch-Day bei Microsoft und die gleichzeitige Veröffentlichung eines neuen Exploits sind ein Sinnbild für die digitale Verwundbarkeit, die parallel zur physischen Verwundbarkeit durch Klima und Krieg verläuft. Die Zahl von 622 Schwachstellen an einem einzigen Tag ist schwer fassbar, aber sie zeigt, wie sehr die digitale Infrastruktur auf ständige Nachbesserung angewiesen ist.
+Was sich hier zeigt, ist kein plötzlicher Zusammenbruch, sondern das Ergebnis jahrzehntelanger Entscheidungen, die auf Wissen beruhten, das nicht gehandelt wurde. Die Gleichzeitigkeit von militärischer Eskalation am Persischen Golf, der Entlassung eines ukrainischen Verteidigungsministers ohne Begründung und der Wiederkehr einer Schadsoftware in Taiwan nach vier Jahren mag zufällig erscheinen. Doch sie folgt einem Muster: Systeme, die auf Stabilität ausgelegt waren, geraten in Bewegung. Die Frage ist nicht mehr, ob sich die Welt verändert, sondern wie wir mit dem Tempo und der Richtung dieser Veränderung umgehen.
 
-Der Krieg am Persischen Golf und der Krieg in der Ukraine laufen parallel, mit unterschiedlicher internationaler Aufmerksamkeit. Die UN-Berichte über die Zivilbevölkerung in beiden Konflikten zeichnen ein düsteres Bild. Dass sich parallel dazu in der Demokratischen Republik Kongo einer der schwersten Ebola-Ausbrüche der Geschichte ereignet, zeigt, wie viele Krisen gleichzeitig existieren können, ohne dass eine einzige davon gelöst ist.
+Die Ankündigung von TSMC, weitere 100 Milliarden Dollar in den USA zu investieren, zeigt, dass wirtschaftliche Machtverschiebungen weiterhin stattfinden. Die Entscheidung ist rational, aber sie trägt zur Fragmentierung globaler Lieferketten bei. In einer Welt, die gleichzeitig mit Klimakrise, Krieg und technologischen Umbrüchen ringt, wird die Fähigkeit, langfristig zu denken und zu handeln, zur seltensten Ressource.
 
 ## 🎵 Song des Tages
 
-„The End of the Innocence“ von Don Henley.
+"Everything in Its Right Place" von Radiohead.
 
-Der Titel passt zur Stimmung dieses Tages, an dem eine offizielle Stelle erklärt, dass das Klima einer ganzen Epoche nicht mehr existiert. Der Song handelt vom Verlust einer als sicher geglaubten Welt und von der Erkenntnis, dass die Unschuld – ob klimatisch, politisch oder technologisch – nicht wiederherstellbar ist. Die ruhige, melancholische Melodie entspricht der sachlichen Nüchternheit, mit der die Nachrichten dieses Tages aufgenommen werden müssen.
+Das Stück beginnt mit einer ruhigen, fast mechanischen Klavierfigur, über die Thom Yorke scheinbar zusammenhanglose Sätze singt. Die Musik vermittelt das Gefühl einer Welt, die noch funktioniert, aber deren innere Logik sich verschoben hat. Die Dinge sind noch an ihrem Platz, aber nicht mehr richtig. Diese leise Irritation, die unter der Oberfläche brodelt, passt zu einem Tag, an dem das Klima einer ganzen Epoche für beendet erklärt wird, während die Maschinerie der Welt unvermindert weiterläuft.
 
 
 ---
 
-*Erstellt am 2026-07-15 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-07-16 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*

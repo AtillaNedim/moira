@@ -1,151 +1,108 @@
 {
-  "generated_at": "2026-07-15T13:02:52.075454+00:00",
-  "date": "2026-07-15",
+  "generated_at": "2026-07-16T13:11:06.266286+00:00",
+  "date": "2026-07-16",
   "source_count": 45,
-  "failed_sources": [],
+  "failed_sources": [
+    "ReliefWeb: no element found: line 1, column 0"
+  ],
   "articles": [
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: Africa CDC and SIMBA integrate Biological Security into the Response to the Bundibugyo virus disease (BVD) Outbreak",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/africa-cdc-and-simba-integrate-biological-security-response-bundibugyo-virus-disease-bvd-outbreak",
-      "summary": "Countries: Democratic Republic of the Congo, Uganda Source: Africa Centres for Disease Control and Prevention Please refer to the attached file. Biological risks, whether naturally occurring, accidental, or deliberate, do not respect geopolitical borders. The current Bundibugyo Virus Disease (BVD) outbreak in the Democratic Republic of the Congo and Uganda once again demonstrates how rapidly highly infectious diseases can evolve into regional and international health security threats, particular",
-      "published": "2026-07-15T09:55:06+00:00",
-      "score": 21
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Humanitarian Action for Children - Ukraine and Refugee Response - 2026 Revision 1 (July 2026)",
-      "url": "https://reliefweb.int/report/ukraine/humanitarian-action-children-ukraine-and-refugee-response-2026-revision-1-july-2026",
-      "summary": "Countries: Ukraine, Belarus, Bulgaria, Moldova, Poland, Romania Source: UN Children's Fund Please refer to the attached file. Appeal highlights The war in Ukraine has entered in its fifth devastating year, marked by an escalation of unrelenting attacks since April 2025 and the systematic destruction of critical infrastructure. The war continues to endanger children’s lives, disrupt essential services and take a severe toll on mental health. In 2026, an estimated 10.8 million people inside Ukrain",
-      "published": "2026-07-15T12:02:36+00:00",
-      "score": 20
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: DRC Ebola outbreak response needs urgent scale-up after two months",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/drc-ebola-outbreak-response-needs-urgent-scale-after-two-months",
-      "summary": "Country: Democratic Republic of the Congo Source: Médecins Sans Frontières The Ebola disease outbreak in Democratic Republic of Congo continues to outpace response efforts. In two months, this outbreak has become the third largest, and fastest growing, Ebola disease outbreak on record. Expanded international support is urgently needed to ensure the response is adequately resourced. BUNIA — Two months after the Ebola disease outbreak was officially declared in Democratic Republic of Congo (DRC) ,",
-      "published": "2026-07-15T10:00:37+00:00",
-      "score": 18
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "url": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
-      "published": "2026-07-14T16:52:37+00:00",
-      "score": 16
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-      "url": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
-      "published": "2026-07-14T13:48:07+00:00",
-      "score": 16
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Spillover Effects: How the Middle East crisis threatens food security - Focus on Myanmar (Date Released: 9 July 2026 / Reporting period: Week of 29 June)",
-      "url": "https://reliefweb.int/report/myanmar/spillover-effects-how-middle-east-crisis-threatens-food-security-focus-myanmar-date-released-9-july-2026-reporting-period-week-29-june",
-      "summary": "Country: Myanmar Source: World Food Programme Please refer to the attached file. Overview The Iran–United States crisis in 2026 has evolved from a high-intensity conflict into a fragile and uncertain de-escalation phase, but its global repercussions remain significant and ongoing. While recent pauses in military exchanges and indirect negotiations have reduced immediate violence, disruptions to the Strait of Hormuz—through which around one-fifth of global oil supply flows—have already triggered ",
-      "published": "2026-07-15T10:57:58+00:00",
-      "score": 16
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "WFP Guatemala Country Brief, July 2026",
-      "url": "https://reliefweb.int/report/guatemala/wfp-guatemala-country-brief-july-2026",
-      "summary": "Country: Guatemala Source: World Food Programme Please refer to the attached file. KEY HIGHLIGHTS • In June, WFP provided assistance to 2,411 people (93 percent women) through a combination of emergency assistance, capacity strengthening, and malnutrition prevention activities. • In parallel, WFP prepared and prepositioned over 322,300 food rations (January-June) to enable a rapid, Government-led emergency response. • Guatemala faces a convergence of acute food insecurity and malnutrition, seaso",
-      "published": "2026-07-15T12:06:25+00:00",
-      "score": 15
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "EU provides €20 million in humanitarian funding following earthquakes in Venezuela",
-      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/eu-provides-eur20-million-humanitarian-funding-following-earthquakes-venezuela",
-      "summary": "Country: Venezuela (Bolivarian Republic of) Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations The European Union is releasing an additional €10 million in humanitarian funding to help the most affected communities in Venezuela, following the recent earthquakes. The other €10 million, subject to the approval of the Budgetary Authority, support the search and rescue, medical and other expert teams' operations, along with in-kind assista",
-      "published": "2026-07-15T10:33:06+00:00",
-      "score": 15
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Major emitting countries knew of climate risks decades earlier than claimed",
-      "url": "https://www.climatechangenews.com/2026/07/15/major-emitting-countries-knew-of-climate-risks-decades-earlier-than-claimed/",
-      "summary": "Governments have known since at least the 1960s that fossil fuel use was warming the planet. They kept quiet to avoid responsibility. The post Major emitting countries knew of climate risks decades earlier than claimed appeared first on Climate Home News .",
-      "published": "2026-07-15T10:51:19+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+      "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
+      "published": "2026-07-16T12:56:24+00:00",
       "score": 14
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Ukraine: Rehabilitation Technical Working Group (RTWG) - Meeting Minutes, July 03, 2026 [EN/UK]",
-      "url": "https://reliefweb.int/report/ukraine/ukraine-rehabilitation-technical-working-group-rtwg-meeting-minutes-july-03-2026-enuk",
-      "summary": "Country: Ukraine Source: World Health Organization Please refer to the attached files. Chairs: World Health Organization (WHO), Momentum Wheels for Humanity Ukraine (MWH) Participants: Momentum Wheels for Humanity, GIZ, CF ‘ZDOROVI’, MSF OCB, Central Project Management Agency (CPVA), NGO ‘Fight for Right’, National Committee of Red Cross of Ukraine, CF \"Save Ukraine\", NGO \"SHDC\", International Medical Corps, Direct Relief, IREX, UNDP, World Relief, MEHAD, Handicap, Sunnaas, Care Ukraine, Ukraine",
-      "published": "2026-07-15T09:55:00+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "url": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results. \"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed",
+      "published": "2026-07-15T18:43:08+00:00",
       "score": 14
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Russian attacks kill six as Ukraine targets Black Sea oil tankers",
-      "url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Overnight Russia attacked sites in Odesa and Sumy, while Ukraine attacked 20 Russian vessels in the Black Sea.",
-      "published": "2026-07-15T12:19:30+00:00",
+      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
+      "published": "2026-07-16T12:44:26+00:00",
       "score": 13
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Uses Subscale Aircraft to Accelerate Flight Innovation",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-uses-subscale-aircraft-to-accelerate-flight-innovation/",
+      "summary": "Testing new aerospace concepts in flight remains one of NASA’s most effective ways to advance knowledge and reduce risk. The Dale Reed Subscale Flight Research Laboratory at NASA’s Armstrong Flight Research Center in Edwards, California, supports this mission by using small, remotely piloted and autonomous aircraft as cost‑effective platforms to mature innovative ideas, accelerate learning, […]",
+      "published": "2026-07-15T21:56:38+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+      "published": "2026-07-16T12:10:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+      "published": "2026-07-15T17:09:37+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
+      "url": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+      "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext. A researcher publishing under the handle tokay0 put the method online on Monday, having tested it only against vacuums he",
+      "published": "2026-07-16T09:23:19+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+      "url": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"We use GPT‑Red to adversarially train",
+      "published": "2026-07-16T08:42:31+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Iran targets military bases as US launches wave of strikes",
+      "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+      "published": "2026-07-16T11:48:49+00:00",
+      "score": 12
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Climate we had in 20th Century 'has now gone' - Met Office",
-      "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
-      "published": "2026-07-15T11:11:32+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
-      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments. \"The PoC requires",
-      "published": "2026-07-15T11:07:07+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-      "url": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
-      "published": "2026-07-14T18:17:57+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
-      "published": "2026-07-15T12:26:38+00:00",
+      "title": "Canada wildfires leave train 'encased in flames' as smoke drifts towards US",
+      "url": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several major US cities.",
+      "published": "2026-07-15T17:44:54+00:00",
       "score": 12
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "summary": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-      "published": "2026-07-14T23:17:27+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: International Criminal Court briefs on Darfur",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167945",
+      "summary": "On Wednesday, the Security Council heard an update on the International Criminal Court's work in Sudan's Darfur region, referred to the Court back in 2005. Focus has recently turned to atrocities in the ongoing war between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF). The briefing was held as the ICC faces mounting pressure: this week, US Secretary of State Marco Rubio launched a campaign to “dismantle” the Court, which prosecutes individuals for genocide, war crimes, crime",
+      "published": "2026-07-15T12:00:00+00:00",
       "score": 12
     },
     {
@@ -160,82 +117,64 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Invites Media to Serbia Artemis Accords Signing Ceremony",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-serbia-artemis-accords-signing-ceremony/",
-      "summary": "The Republic of Serbia will sign the Artemis Accords at 5 p.m. EDT Thursday, July 16, during a ceremony at NASA Headquarters in Washington. NASA Deputy Administrator Matt Anderson will host Serbia’s Minister of Foreign Affairs Marko Đurić and U.S. State Department Assistant Secretary for Oceans and International Environmental and Scientific Affairs Wesley Brooks for the ceremony. This […]",
-      "published": "2026-07-14T21:03:29+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Roman Telescope Will Spot Distant Black Holes That Shred Stars",
-      "url": "https://www.nasa.gov/missions/roman-space-telescope/nasas-roman-telescope-will-spot-distant-black-holes-that-shred-stars/",
-      "summary": "Lee esta nota de prensa en español aquí. How do black holes at the center of galaxies form and grow over time? To answer this question, scientists need to detect and study supermassive black holes at great distances, which existed much earlier in the universe’s history. New research suggests NASA’s Nancy Grace Roman Space Telescope, which […]",
-      "published": "2026-07-14T14:00:00+00:00",
+      "title": "How NASA’s Artemis III Lander Test Will Pave Way for Moon Landings",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/",
+      "summary": "Before Artemis astronauts land on the Moon’s surface in 2028, NASA will conduct the Artemis III demonstration mission in 2027, allowing teams on Earth and in orbit to practice rendezvous and docking operations between commercial human landing systems and the Orion spacecraft. Data from that mission, along with future uncrewed demonstration missions at the Moon, […]",
+      "published": "2026-07-15T18:50:52+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
-      "url": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
-      "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, regulator, or attacker finds it first. The Reality of the Approval Gap It's a pattern every",
-      "published": "2026-07-15T11:06:57+00:00",
+      "title": "20+ Hijacked Government Websites Became an Attack Channel",
+      "url": "https://thehackernews.com/2026/07/20-hijacked-government-websites.html",
+      "summary": "More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat intelligence solutions. The investigation revealed previously undocumented backdoor behavior, hidden infrastructure relationships, and multiple attack arms behind a campaign",
+      "published": "2026-07-16T11:58:00+00:00",
       "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Pakistan: Minimum Expenditure Basked and Cash Transfer Values analysis report",
-      "url": "https://reliefweb.int/report/pakistan/minimum-expenditure-basked-and-cash-transfer-values-analysis-report",
-      "summary": "Country: Pakistan Source: World Food Programme Please refer to the attached file. In 2026, the Inter-Agency Humanitarian Cash Working Group (CWG) in Pakistan established a taskforce to develop a report providing members with guidelines for calculating the Minimum Expenditure Basket (MEB) as well as multipurpose and sectoral cash transfer values. The report is intended to guide humanitarian and development partners in the design of cash-based transfer interventions in Pakistan. The drafting proce",
-      "published": "2026-07-15T12:36:44+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
+      "url": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
+      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Broadcom-owned Symantec in March 2022, with evidence indicating its use in targeted attacks aimed",
+      "published": "2026-07-16T11:17:23+00:00",
       "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Cash Working Group (CWG) au Mali : Cartographie Rapide de l'Assistance Monétaire, Juin 2026",
-      "url": "https://reliefweb.int/report/mali/cash-working-group-cwg-au-mali-cartographie-rapide-de-lassistance-monetaire-juin-2026",
-      "summary": "Country: Mali Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. OBJECTIFS DE LA CARTOGRAPHIE 1. Identifier les acteurs, zones & modalités 2. Documenter les secteurs d'intervention 3. Recenser les besoins d'appui CWG 4. Disposer d'un instantané pour guider la stratégie commune",
-      "published": "2026-07-15T12:10:47+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "url": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and",
+      "published": "2026-07-15T15:30:30+00:00",
+      "score": 12
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Major emitting countries knew of climate risks decades earlier than claimed",
+      "url": "https://www.climatechangenews.com/2026/07/15/major-emitting-countries-knew-of-climate-risks-decades-earlier-than-claimed/",
+      "summary": "Governments have known since at least the 1960s that fossil fuel use was warming the planet. They kept quiet to avoid responsibility. The post Major emitting countries knew of climate risks decades earlier than claimed appeared first on Climate Home News .",
+      "published": "2026-07-15T10:51:19+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
-      "published": "2026-07-14T19:13:49+00:00",
+      "title": "More than 800 Canadian wildfires burning as air quality alerts extend to US",
+      "url": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The air quality in large parts of Michigan, Minneapolis and Minnesota is deemed \"hazardous\" by authorities.",
+      "published": "2026-07-16T12:09:13+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "China economic growth falls sharply, missing target",
-      "url": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-      "published": "2026-07-15T10:21:48+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Heatwave prompts Italy's delivery riders to strike for extra rights",
-      "url": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss",
-      "summary": "Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.",
-      "published": "2026-07-15T11:38:37+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
-      "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
-      "summary": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
-      "published": "2026-07-15T08:06:00+00:00",
+      "title": "Chip giant TSMC pledges another $100bn to expand US production",
+      "url": "https://www.bbc.co.uk/news/articles/c62x8ldxr7eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The company says it will create \"high-tech, high-paying jobs\", and raises its total commitment to the US to $265bn.",
+      "published": "2026-07-16T10:23:00+00:00",
       "score": 11
     },
     {
@@ -244,8 +183,197 @@
       "title": "Scots urged to 'stay vigilant' as wildfire risk very high",
       "url": "https://www.bbc.co.uk/news/articles/c33y3815p77o?at_medium=RSS&at_campaign=rss",
       "summary": "The Scottish Fire and Rescue Service has issued a warning for central Highlands, southern and eastern Scotland from Wednesday.",
-      "published": "2026-07-15T05:19:39+00:00",
+      "published": "2026-07-15T15:34:38+00:00",
       "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Climate we had in 20th Century 'has now gone' - Met Office",
+      "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
+      "published": "2026-07-15T11:11:32+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167949",
+      "summary": "UN Secretary-General António Guterres voiced deep concern on Wednesday over the continuing military escalation in the Middle East amid ongoing strikes by the United States and Iran over control of the Strait of Hormuz.",
+      "published": "2026-07-15T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
+      "url": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
+      "summary": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the agent's task. Each one just corrupts the facts it trusts and lets it carry on with the job you",
+      "published": "2026-07-16T11:32:28+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
+      "url": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
+      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive testing workflows at impressive speed. That is a real advantage for security teams. It also",
+      "published": "2026-07-16T10:10:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+      "url": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments. \"The PoC requires",
+      "published": "2026-07-15T11:07:07+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Campaigners oppose Dangote’s planned Kenya refinery over climate and ecological risks",
+      "url": "https://www.climatechangenews.com/2026/07/15/campaigners-oppose-dangotes-planned-kenya-refinery-over-climate-and-ecological-risks/",
+      "summary": "Plans to build Africa's second largest oil refinery in ecologically sensitive region criticised as \"environmental recklessness\" The post Campaigners oppose Dangote’s planned Kenya refinery over climate and ecological risks appeared first on Climate Home News .",
+      "published": "2026-07-15T14:47:31+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Extreme weather in the UK is the 'new normal'",
+      "url": "https://www.bbc.co.uk/news/videos/cp8e1jm1delo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sarah Keith-Lucas details five things you need to know about how the UK climate has changed.",
+      "published": "2026-07-16T12:02:49+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Colombia: Pockets of insecurity challenge ‘vibrant democracy’, Security Council told",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167946",
+      "summary": "As Colombia awaits the inauguration of its newly elected president, pockets of insecurity remain a challenge for a nation that has overcome decades of conflict, the head of the UN verification team there told the Security Council on Wednesday.",
+      "published": "2026-07-15T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Looted gold and gum arabic are bankrolling Sudan's war, UN warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167944",
+      "summary": "Alongside gold, the little-known Sudanese commodity gum arabic – used in soft drinks, food, cosmetics and pharmaceuticals – continues to fuel the war.",
+      "published": "2026-07-15T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World Cup football’s other goal: Helping young people talk about mental health",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167941",
+      "summary": "When Dr. Sahira Al Nahari founded Shifā Art, a Saudi Arabia-based organization using art to create conversations around mental health, she noticed that men attending her therapeutic art workshops often felt uncomfortable opening up about their feelings.",
+      "published": "2026-07-14T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "West Africa and the Sahel: Terrorism is changing its face",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167940",
+      "summary": "Jihadist groups are no longer content with launching attacks in West Africa and the Sahel: they administer territories, control trade routes, exploit new technologies and are gradually pushing their influence all the way to the Gulf of Guinea.",
+      "published": "2026-07-14T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Study of Pristine Meteorite Adds to Story of Ancient Asteroids",
+      "url": "https://science.nasa.gov/science-research/astromaterials/nasa-study-of-pristine-meteorite-adds-to-story-of-ancient-asteroids/",
+      "summary": "A meteorite recovered immediately upon its fall to Earth on July 16, 2024, is helping NASA scientists uncover new clues about ancient water, the chemical evolution of primitive asteroids, and the ingredients that may have helped make life possible throughout the early solar system.",
+      "published": "2026-07-15T19:28:53+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Anil Menon Launches to Space Station",
+      "url": "https://www.nasa.gov/image-article/anil-menon-launches-to-space-station/",
+      "summary": "NASA astronaut candidate Anna Menon and her children watch as a Soyuz rocket launches to the International Space Station with NASA astronaut Anil Menon and Roscosmos cosmonauts Pyotr Dubrov and Anna Kikina, Tuesday, July 14, 2026, at the Baikonur Cosmodrome in Kazakhstan. The trio lifted off for the Soyuz MS-29 mission at 7:47 p.m. local […]",
+      "published": "2026-07-15T18:48:36+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+      "url": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows. \"Improper Input Validation in Zoom Desktop Client for Windows, Zoom VDI Client for",
+      "published": "2026-07-16T07:22:44+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "url": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation component \"We are aware that exploit code for this is public, however we are not aware of",
+      "published": "2026-07-15T13:18:53+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Cropped 15 July 2026: Uganda starves | Trump opens endangered habitats | UK cuts rainforest aid",
+      "url": "https://www.carbonbrief.org/cropped-15-july-2026-uganda-starves-trump-opens-endangered-habitats-uk-cuts-rainforest-aid/",
+      "summary": "We handpick and explain the most important stories at the intersection of climate, land, food... The post Cropped 15 July 2026: Uganda starves | Trump opens endangered habitats | UK cuts rainforest aid appeared first on Carbon Brief .",
+      "published": "2026-07-15T14:49:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+      "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
+      "published": "2026-07-16T13:03:24+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Argentina face action over Falklands banner",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+      "published": "2026-07-16T12:01:37+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "published": "2026-07-15T23:02:49+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Actor Sam Neill died from pneumonia, agent confirms",
+      "url": "https://www.bbc.co.uk/news/articles/cddj7e8v767o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neill died in Sydney on Monday, with his family saying his death was 'sudden and unexpected'.",
+      "published": "2026-07-16T04:28:22+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
+      "summary": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
+      "published": "2026-07-15T08:06:00+00:00",
+      "score": 9
     },
     {
       "source": "BBC Science",
@@ -254,7 +382,16 @@
       "url": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss",
       "summary": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
       "published": "2026-07-14T23:08:13+00:00",
-      "score": 11
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Schools closed in West Bank, AI in healthcare, Indigenous rights",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167950",
+      "summary": "Access to education continues to worsen in the West Bank, the United Nations reported on Wednesday.",
+      "published": "2026-07-15T12:00:00+00:00",
+      "score": 9
     },
     {
       "source": "UN News",
@@ -263,151 +400,16 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167942",
       "summary": "Global childhood immunization programmes continued to recover in 2025, but conflict, poverty and growing vaccine hesitancy are still leaving millions vulnerable to preventable diseases, according to new UN data released on Wednesday.",
       "published": "2026-07-15T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167935",
-      "summary": "Civilian casualties in Ukraine soared during the first half of 2026 amid escalating Russian attacks and intensifying use of deadly weapons, the UN human rights monitoring mission in the country, HRMMU, said on Tuesday.",
-      "published": "2026-07-14T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
-      "summary": "The UN maritime agency, IMO, condemned overnight attacks on shipping in and around the Strait of Hormuz that killed at least two seafarers as fresh strikes were reported early Tuesday in the escalating US-Iran war.",
-      "published": "2026-07-14T12:00:00+00:00",
-      "score": 11
+      "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Hubble Sees Crimson Cloud and Stars",
-      "url": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/",
-      "summary": "Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s Hubble Space Telescope. LH 95 is a region in the Large Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in […]",
-      "published": "2026-07-14T18:06:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Jets Turn Red, White, and Blue",
-      "url": "https://www.nasa.gov/image-article/nasa-jets-turn-red-white-and-blue/",
-      "summary": "In honor of America’s 250th birthday, two of NASA’s most iconic aircraft got a fresh coat of red, white, and blue paint ahead of a flyover in Washington on July 4, 2026, with other NASA aircraft. An F-15 and an F/A-18 from NASA’s Armstrong Flight Research Center in Edwards, California, recently were repainted in […]",
-      "published": "2026-07-14T17:13:53+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change the world will be housed in a room that looks like a data…",
-      "published": "2026-07-15T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-      "url": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200. Those two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
-      "published": "2026-07-14T20:25:47+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-      "url": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
-      "published": "2026-07-14T12:46:18+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "UN seabed regulator defends authority as mining firms seek to halt inquiry",
-      "url": "https://www.climatechangenews.com/2026/07/14/deep-sea-mining-firms-sue-un-seabed-body-inquiry-isa-itlos-metals-company/",
-      "summary": "Campaigners accused deep-sea mining frontrunner The Metals Company of obstructing an inquiry into its subsidiaries. The firm says it is being targeted without procedural basis The post UN seabed regulator defends authority as mining firms seek to halt inquiry appeared first on Climate Home News .",
-      "published": "2026-07-14T18:02:01+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "A strong El Niño spells more climate pain for the Philippines",
-      "url": "https://www.climatechangenews.com/2026/07/14/a-strong-el-nino-spells-more-climate-pain-for-the-philippines/",
-      "summary": "As forecasters warn that the weather phenomenon will bring more extreme weather, its effects are already being felt in a country reeling from a series of disasters The post A strong El Niño spells more climate pain for the Philippines appeared first on Climate Home News .",
-      "published": "2026-07-14T13:31:57+00:00",
-      "score": 11
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels",
-      "url": "https://www.carbonbrief.org/28-quotes-from-next-uk-leader-andy-burnham-on-climate-net-zero-and-fossil-fuels/",
-      "summary": "The UK’s incoming prime minister Andy Burnham has remained tight-lipped on his views on climate... The post 28 quotes from next UK leader Andy Burnham on climate, net-zero and fossil fuels appeared first on Carbon Brief .",
-      "published": "2026-07-14T14:43:57+00:00",
-      "score": 11
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Cash Working Group (CWG) au Mali : Compte rendu de la Réunion CWG du mardi, 30 avril 2026 - Réunion en présentiel et en ligne",
-      "url": "https://reliefweb.int/report/mali/cash-working-group-cwg-au-mali-compte-rendu-de-la-reunion-cwg-du-mardi-30-avril-2026-reunion-en-presentiel-et-en-ligne",
-      "summary": "Country: Mali Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. THEMES 1. Suivi des recommandations 2. Echanges sur l'impact de l'augmentation du prix carburant : Mesures à prendre 3. Présentations du taux d’inflation au niveau national. 4. Points sur la campagne de 87 millions de vies et sur le futur HNRP pour le CWG 5. Evolution de la situation humanitaire à Mopti, Ga-Menaka et Kidal. 6. Divers",
-      "published": "2026-07-15T12:02:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Italy's Meloni suffers surprise setback in close vote on electoral reform",
-      "url": "https://www.bbc.co.uk/news/articles/c1kykx3vnyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.",
-      "published": "2026-07-15T11:44:28+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
-      "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
-      "published": "2026-07-15T10:50:09+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Sierra Leone drops treason charge against ex-president over attempted coup",
-      "url": "https://www.bbc.co.uk/news/articles/cx2w2k3vklgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ernest Bai Koroma was arrested in 2023 after gunmen broke into an armoury and some jails, freeing inmates.",
-      "published": "2026-07-15T11:43:15+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
-      "summary": "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.",
-      "published": "2026-07-15T12:21:32+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
-      "url": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The case has gripped Nigeria since President Bola Tinubu ordered a corruption investigation last week.",
-      "published": "2026-07-15T09:42:09+00:00",
-      "score": 10
+      "title": "Curiosity Finds Evidence of an Ancient Sandstorm",
+      "url": "https://science.nasa.gov/photojournal/curiosity-finds-evidence-of-an-ancient-sandstorm/",
+      "summary": "Description Billions of years ago, an hours-long Martian sandstorm blew so intensely that sand ripples began to climb upon one another as they moved across the surface. These layers of sediment eventually hardened into the multilayered rocks seen in this image, which was taken by NASA’s Curiosity rover on Dec. 12, 2024, the 4,391st Martian […]",
+      "published": "2026-07-15T18:16:45+00:00",
+      "score": 9
     }
   ]
 }
