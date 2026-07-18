@@ -1,68 +1,88 @@
-# Moira — 2026-07-17
+# Moira — 2026-07-18
 
 ## 🌍 Umwelt
 
-Die Klimakrise zeigt sich derzeit in mehreren Regionen gleichzeitig mit unterschiedlichen Gesichtern. In Europa hat eine Serie ungewöhnlicher Hitzewellen zu einer erhöhten Zahl von Hitzetoten geführt, deren genaue Erfassung Gegenstand wissenschaftlicher Debatten ist. Die Weltgesundheitsorganisation hat neue Leitlinien veröffentlicht, um Krankenhäuser besser auf extreme Temperaturen vorzubereiten, und betont dabei, dass Hitzetode nicht unvermeidbar seien. In Großbritannien wird der Begriff „Firewave“ verwendet, um die aktuelle Kombination aus extremer Hitze und erhöhter Waldbrandgefahr zu beschreiben. In Frankreich steht ein freiwilliger Feuerwehrmann im Verdacht, einen verheerenden Waldbrand gelegt zu haben; Präsident Macron kündigte an, dass es keine Nachsicht für Brandstifter geben werde.
+Die Bedenken über eine mögliche Überschwemmung des neuen UN-Kohlenstoffmarktes mit umweltlich fragwürdigen Gutschriften haben sich vorerst zerstreut. Nach einer aktuellen Analyse können die meisten älteren Projekte, die sogenannten „Zombie-Gutschriften“, nicht in den neuen Markt übertreten, nachdem China und Indien sich gegen eine Teilnahme entschieden haben. Dies verhindert, dass eine große Anzahl von Emissionsgutschriften mit unklarer Umweltwirkung in das neue System gelangt.
 
-In Nordamerika sorgen mehr als 800 Brände in Kanada für eine massive Rauchbelastung, die Städte von Toronto bis New York und Teile des Mittleren Westens und der Großen Seen erreicht. Die Luftqualitätswarnungen in den USA wurden entsprechend verschärft. In Texas kam es erneut zu schweren Überschwemmungen in derselben Region, in der bereits im Vorjahr bei einer Flutkatastrophe mehr als 130 Menschen ums Leben kamen, darunter 25 Kinder und zwei Betreuer eines Ferienlagers. Mindestens eine Person kam diesmal ums Leben.
+Gleichzeitig zeigt eine neu veröffentlichte historische Untersuchung, dass Regierungen großer Emittenten bereits seit den 1960er Jahren von den Klimarisiken durch fossile Brennstoffe wussten. Die Studie legt nahe, dass dieses Wissen über Jahrzehnte hinweg nicht offen kommuniziert wurde, um Verantwortlichkeiten zu vermeiden. Die Quellenlage zu diesem Thema ist auf diese eine Untersuchung gestützt, die jedoch auf umfangreicher Archivarbeit beruht.
 
-Eine Recherche von Climate Home News legt nahe, dass Regierungen großer Emittenten bereits seit den 1960er Jahren über die Klimarisiken durch fossile Brennstoffe informiert waren, diese Erkenntnisse aber zurückhielten, um Verantwortung zu vermeiden. Die Belastbarkeit dieser historischen Einordnung hängt von der weiteren Quellenlage ab, doch das Muster wirft grundsätzliche Fragen zum Umgang von Regierungen mit wissenschaftlichen Frühwarnungen auf.
+In Europa hat die Hitzewelle der Monate Mai und Juni zu einer erhöhten Zahl von Todesfällen geführt. Die genauen Zahlen werden derzeit von Gesundheitsbehörden und Wissenschaftlern erhoben, wobei die Methodik der Zählung selbst Gegenstand einer aktuellen Analyse ist. In Großbritannien wird der Begriff „Feuerwelle“ verwendet, um die anhaltende Hitzebelastung zu beschreiben. Die Vorhersagen für die zweite Sommerhälfte deuten auf wechselhafteres Wetter hin, aber das Risiko weiterer Hitzewellen bleibt bestehen.
+
+In Nordamerika wüten weiterhin Waldbrände in Ontario, deren Rauch mehrere Städte in Kanada und den USA bedeckt. Die Luftqualität ist vielerorts gefährlich schlecht. In Texas hat dasselbe Gebiet, das bereits im Vorjahr von verheerenden Überschwemmungen mit mehr als 130 Todesopfern betroffen war, erneut schwere Regenfälle erlebt. Mindestens zwei Menschen kamen ums Leben.
 
 ## 🔬 Wissenschaft
 
-Die NASA hat einen nahe der Erde entdeckten Himmelskörper neu identifiziert: Was zunächst als Asteroid galt, entpuppt sich bei genauerer Untersuchung als Komet. Die Entdeckung gelang durch präzise Bahnverfolgung und den Einsatz leistungsstarker Observatorien. Frühere Aufnahmen hatten keine typische Kometenaktivität gezeigt, was die Einordnung erschwerte.
+Die NASA hat eine Arbeitsgruppe eingerichtet, die einen Risikoscore für venöse Thromboembolien bei Astronauten entwickeln soll. Hintergrund sind aktualisierte Fallinformationen und neue Daten, die auf veränderte Blutflusszustände innerhalb einer Astronautenkohorte hinweisen. Ziel ist es, das Risiko von Blutgerinnseln während Raumflügen besser einschätzen und mindern zu können.
 
-In Venezuela sind drei Wochen nach den verheerenden Erdbeben noch immer tausende Menschen vertrieben. Die Internationale Organisation für Migration warnt davor, dass ein mögliches starkes El-Niño-Ereignis die ohnehin prekäre Lage weiter verschärfen könnte. Die Prognose ist mit Unsicherheit behaftet, aber die Kombination von Naturkatastrophen birgt erhebliches humanitäres Risiko.
+Ein neues zusammengesetztes Bild des Pulsars im Leuchtturmnebel wurde veröffentlicht. Es kombiniert Röntgendaten des Chandra-Observatoriums mit Messungen des Imaging X-ray Polarimetry Explorer. Die Aufnahmen zeigen einen schnell rotierenden Neutronenstern mit starkem Magnetfeld.
 
-Ein neu entdecktes Affenart wurde von Wissenschaftlern als „erstaunliche Entdeckung“ bezeichnet. Die genauen Umstände und die Bedeutung für den Artenschutz lassen sich aus den vorliegenden Informationen noch nicht abschließend bewerten.
+Mauritius ist als 70. Unterzeichnerstaat den Artemis-Abkommen beigetreten. Es ist der siebte afrikanische Staat, der sich der internationalen Vereinbarung zur verantwortungsvollen Weltraumforschung anschließt.
 
-Die Frage, wie Hitzetote in Europa gezählt werden, ist Gegenstand einer aktuellen wissenschaftlichen und öffentlichen Debatte. Die Methodik der Erfassung beeinflusst maßgeblich die Wahrnehmung des Problems und damit auch politische Handlungsoptionen.
+Die NASA hat zudem einen neuen Flügeldesign-Prototypen namens SWEET-15 bis an seine strukturellen Grenzen getestet. Die Ergebnisse wurden als ermutigend bewertet, auch wenn das Design über seine vorgesehenen Belastungsgrenzen hinaus beansprucht wurde.
 
 ## ⚙️ Technik
 
-Im Bereich der Cybersicherheit sind mehrere Entwicklungen zu verzeichnen. Eine bisher unbekannte Schadsoftware namens GoSerpent wurde entdeckt, die seit Ende 2025 gezielt Regierungs- und Diplomatieeinrichtungen in Südostasien angreift. Das russische Unternehmen Kaspersky, das die Aktivitäten im Februar 2026 aufdeckte, beschreibt die Malware als auf langfristigen Zugang und Informationssammlung ausgelegt.
+Im Bereich der Cybersicherheit wurden mehrere Vorfälle dokumentiert. Sieben bösartige npm-Pakete wurden in der Vite-Entwicklungsumgebung entdeckt. Die als ViteVenom bezeichnete Kampagne nutzt eine vierstufige Blockchain-basierte Kommando- und Kontrollinfrastruktur, die auf den Netzwerken Tron und anderen läuft.
 
-In Großbritannien wurden zwei Mitglieder der Hackergruppe Scattered Spider zu fünfeinhalb Jahren Haft verurteilt. Die beiden 18 und 20 Jahre alten Täter hatten 2024 einen Angriff auf Transport for London durchgeführt, bei dem 148 Systeme lahmgelegt wurden und alle 27.000 Mitarbeiter ihre Passwörter persönlich zurücksetzen mussten. Die Schadenssumme wird von den Ermittlungsbehörden auf umgerechnet etwa 29 Millionen Pfund beziffert.
+Eine bislang unbekannte Schadsoftware namens GoSerpent wurde identifiziert, die seit Ende 2025 gezielt Regierungs- und Diplomatieeinrichtungen in Südostasien angreift. Die Malware ist auf langfristigen Zugriff und Informationssammlung ausgelegt.
 
-OpenAI hat ein KI-Modell namens GPT-Red entwickelt, das als Sparringspartner für andere Modelle fungiert, um deren Abwehrfähigkeiten gegen Cyberangriffe zu verbessern. Das Unternehmen gibt an, dass das Training mit GPT-Red das jüngste Modell GPT-5.6 zum robustesten Release gemacht habe. Die Methode automatisiert Penetrationstests und könnte die Sicherheitsarchitektur großer Sprachmodelle verändern.
+Einem Bericht zufolge wird der Sicherheitsvorfall bei DigiCert vom April 2026 einer als CylindricalCanine bezeichneten Bedrohungsgruppe zugeschrieben, die als Untergruppe der chinesischen Cyberkriminalitätsgruppe GoldenEyeDog gilt.
 
-Im Bereich militärischer Autonomie beschleunigen die USA, Großbritannien und die NATO die Entwicklung und Einsatzbereitschaft autonomer Systeme. Die Frage, ob die vertrauenswürdige Informationsinfrastruktur mit diesem Tempo Schritt halten kann, bleibt offen.
+OpenAI hat ein KI-Modell namens GPT-Red entwickelt, das als „Super-Hacker“ fungiert und dazu dient, andere Modelle im Unternehmen gegen Cyberangriffe zu härten. Das jüngste Modell GPT-5.6 wurde nach Angaben des Unternehmens durch das Training mit GPT-Red zur robustesten Veröffentlichung bisher.
+
+Ein neues Botnet namens NadMesh wurde Anfang Juli entdeckt, das gezielt exponierte KI-Dienste nach Cloud-Schlüsseln und Kubernetes-Token durchsucht. Nach Angaben der Entdecker wurden bereits Tausende von AWS-Schlüsseln erfasst.
+
+Eine kritische Sicherheitslücke im WordPress-Kern wurde öffentlich gemacht. Die Schwachstelle, die als wp2shell bezeichnet wird, erlaubt es nicht authentifizierten Angreifern, Code auf betroffenen Websites auszuführen. Betroffen sind die Versionen 6.9 und 7.0. Ein funktionierender Proof-of-Concept wurde veröffentlicht.
 
 ## 🏛️ Politik
 
-Der frühere US-Präsident Donald Trump hat China beschuldigt, sich in die US-Wahl 2020 eingemischt zu haben, und gleichzeitig die Sicherheit der bevorstehenden Zwischenwahlen in Frage gestellt. China wies die Vorwürfe als erfunden zurück, während US-Demokraten argumentierten, Trump bereite den Boden für eine Anfechtung der Novemberwahlen.
+Die Europäische Union hat vorgeschlagen, die Geschwindigkeit der Emissionsreduktionen im Emissionshandelssystem zu verlangsamen. Unternehmen sollen mehr Zeit erhalten, um ihre CO₂-Emissionen zu senken. Die genauen Auswirkungen dieser politischen Kehrtwende sind noch nicht abschließend bewertet.
 
-Japan hat seine Thronfolgeregeln gelockert, allerdings ohne die Beschränkung auf männliche Thronfolger aufzuheben. Das neue Gesetz erlaubt die Adoption entfernter männlicher Verwandter über 15 Jahren in die kaiserliche Familie. Die Reform ist ein Kompromiss, der die grundsätzliche Frage der weiblichen Thronfolge weiterhin offen lässt.
+In Russland wurden zwei oppositionelle Stimmen sanktioniert. Der Politiker Boris Nadezhdin wurde von der Kandidatur für das Parlament ausgeschlossen, während der Blogger Ilya Remeslo in Untersuchungshaft genommen wurde. Dies ist Teil einer anhaltenden Welle der Unterdrückung von Dissens.
 
-Die Philippinen haben ein von KI generiertes Video des chinesischen Staatsmediums China Daily als rassistisch verurteilt. Das Video zeigte einen Affen in philippinischer Kleidung, der Ansprüche auf das Südchinesische Meer besang. Der Vorfall verschärft die Spannungen zwischen beiden Ländern in einem bereits konfliktreichen Seegebiet.
+In der Ukraine löste die Entlassung von Verteidigungsminister Mykhailo Fedorov öffentliche Proteste aus. Auch Soldaten äußerten nach BBC-Berichten Unmut über die Entscheidung. Die genauen Gründe für die Entlassung sind aus den vorliegenden Quellen nicht eindeutig zu entnehmen.
 
-Trump Media kündigt einen neuen Dienst an, der Wall-Street-Händlern gegen Gebühr sofortigen Zugang zu den einflussreichsten Social-Media-Beiträgen des Unternehmens bieten soll. Die Nachricht wirft Fragen zur Regulierung von marktbewegenden Informationen auf.
+Ein Erdbeben der Stärke 7,3 vor der Küste Mexikos hat Tsunamiwellen von bis zu 0,3 Metern Höhe in Puerto Madero und Chiapas ausgelöst. Größere Schäden wurden zunächst nicht gemeldet.
 
-Australien hat sich „zutiefst frustriert“ über die geplanten Anklagen in Laos im Zusammenhang mit Methanolvergiftungen geäußert. Medienberichten zufolge drohen den Verantwortlichen Haftstrafen von bis zu einem Jahr.
+In Vietnam kamen bei einem Brand in einem Kinderheim elf Menschen ums Leben, darunter Kinder. Die Polizei gab an, dass eine Klimaanlage den Brand ausgelöst habe.
 
 ## 🌐 Geopolitische Lage
 
-Der UN-Sicherheitsrat hat eine Anhörung zur Arbeit des Internationalen Strafgerichtshofs im Sudan abgehalten, insbesondere zur Region Darfur. Der Fokus liegt auf Gräueltaten im anhaltenden Krieg zwischen den sudanesischen Streitkräften und den Rapid Support Forces. Gleichzeitig steht der Gerichtshof selbst unter Druck: Der US-Außenminister Marco Rubio hat eine Kampagne zur „Demontage“ des Gerichts gestartet, das für die Verfolgung von Völkermord, Kriegsverbrechen und Verbrechen gegen die Menschlichkeit zuständig ist.
+Die militärische Eskalation zwischen den USA und Iran hält an. Die USA haben Iran zum siebten Mal in Folge angegriffen. Iran reagierte mit Angriffen auf Verbündete der USA in der Region. Kuwait meldete, dass ein Kraft- und Wasserwerk getroffen wurde. Der UN-Generalsekretär rief zu einer neuen diplomatischen Initiative auf und zeigte sich tief besorgt über die anhaltende Eskalation, bei der auch zivile Infrastruktur zerstört wurde.
 
-UN-Generalsekretär António Guterres hat sich angesichts der anhaltenden militärischen Eskalation im Nahen Osten tief besorgt gezeigt. Die USA und Iran liefern sich weiterhin Angriffe um die Kontrolle der Straße von Hormus. Guterres warnte vor einer Rückkehr zu einem umfassenden Krieg.
+US-Präsident Trump drohte Kanada mit neuen Zöllen mit der Begründung, die kanadischen Waldbrände ließen „schmutzige“ Luft in US-Städte strömen. Der kanadische Premierminister Mark Carney entgegnete, beide Länder trügen gleichermaßen Verantwortung für den Klimawandel, der die Waldbrandbedingungen verschärfe.
 
-Der Iran beschuldigt die USA, zivile Infrastruktur getroffen zu haben. Das US-Militär erklärte, die Angriffe dienten der „weiteren Schwächung iranischer Militärfähigkeiten“. Die widersprüchlichen Darstellungen sind typisch für diesen Konflikt und erschweren eine unabhängige Bewertung.
+Der UN-Generalsekretär äußerte sich auch zur Entwicklung der künstlichen Intelligenz und forderte, dass KI nicht von einer Handvoll Mächte gestaltet werden dürfe, sondern der gesamten Menschheit dienen müsse.
+
+Die Welthungerhilfe wies auf die wachsende Not vertriebener Familien in der sudanesischen Stadt El Obeid hin, wo mehr als 100.000 Menschen in Lagern Schutz suchen.
+
+Die Weltgesundheitsorganisation warnte, dass der Ebola-Ausbruch in der Demokratischen Republik Kongo sich schneller ausbreite als jeder frühere Ausbruch im ersten Monat. Es handle sich bereits um den drittgrößten Ausbruch seit Beginn der Aufzeichnungen. Uganda hingegen habe einen Meilenstein erreicht, ohne dass die genaue Bedeutung dieses Meilensteins aus den Quellen näher erläutert wird.
+
+In Venezuela sind drei Wochen nach den verheerenden Erdbeben weiterhin Tausende Menschen vertrieben. Die Internationale Organisation für Migration warnte, dass ein mögliches starkes El-Niño-Ereignis die ohnehin prekäre Lage weiter verschlechtern könnte.
 
 ## ⚔️ Krieg
 
-Die anhaltenden Kämpfe zwischen den USA und Iran um die Straße von Hormus dominieren die militärische Lage. Die UN hat zur Deeskalation aufgerufen, während beide Seiten ihre Positionen bekräftigen. Die humanitären Auswirkungen sind erheblich, aber die genauen Opferzahlen und Schäden lassen sich aus den vorliegenden Quellen nicht unabhängig verifizieren.
+Die Ukraine hat nach eigenen Angaben Drohnenangriffe auf russische Online-Einzelhandelslager durchgeführt. Ziel waren Einrichtungen des Unternehmens Wildberries nahe Moskau und in Tambow. Der ukrainische Führer bezeichnete die Anlagen als „große Logistikeinrichtungen“, die mit „sanktionierten Komponenten“ beliefert würden. Die genauen Auswirkungen der Angriffe sind aus den vorliegenden Quellen nicht im Detail zu belegen.
 
-Im Sudan setzt der Internationale Strafgerichtshof seine Arbeit zu den Gräueltaten in Darfur fort, während der Krieg zwischen den sudanesischen Streitkräften und den Rapid Support Forces andauert. Die politische Kampagne gegen den Gerichtshof selbst könnte die Strafverfolgung von Kriegsverbrechen weltweit schwächen.
+Die anhaltenden US-amerikanischen Angriffe auf Iran und die iranischen Vergeltungsschläge gegen US-Verbündete in der Region wurden auch unter der Kategorie Krieg erfasst, da es sich um bewaffnete Konflikte mit klarer militärischer Dimension handelt. Die humanitären Folgen, insbesondere die Zerstörung ziviler Infrastruktur, wurden vom UN-Generalsekretär thematisiert.
 
 ## 💬 Meinung des Tages
 
-Der 17. Juli 2026 zeigt ein Muster, das sich durch alle Kategorien zieht: Die Kluft zwischen Wissen und Handeln wird immer sichtbarer. Regierungen wussten seit den 1960er Jahren von den Klimarisiken, doch die Emissionen stiegen weiter. Die Wissenschaft identifiziert Kometen, entdeckt neue Arten und warnt vor Hitzetoten, während parallel dazu die Infrastruktur an ihre Grenzen stößt. Die Technik entwickelt Sicherheitslösungen und neue Bedrohungen gleichzeitig. Die Politik ringt um Thronfolgen und Wahlintegrität, während die Weltgesundheitsorganisation Krankenhäuser für eine heiße Zukunft rüsten muss. Die geopolitische Lage zeigt eine Welt, die gleichzeitig fragmentiert und vernetzt ist: Ein Gerichtshof soll Verbrechen ahnden, während eine Großmacht seine Auflösung betreibt. Was dieser Tag lehrt, ist die Erkenntnis, dass die größte Herausforderung nicht im Mangel an Wissen liegt, sondern in der kollektiven Unfähigkeit, aus diesem Wissen zu handeln, bevor die Ereignisse uns zum Handeln zwingen.
+Der 18. Juli 2026 zeigt ein Muster, das sich durch mehrere Kontinente und Themenfelder zieht: Die Folgen vergangener Entscheidungen holen die Gegenwart ein. Die Enthüllung, dass Regierungen bereits in den 1960er Jahren über die Klimarisiken fossiler Brennstoffe informiert waren, ist kein neues Wissen im engeren Sinne, aber sie verändert den moralischen Rahmen der aktuellen Debatte. Wenn jahrzehntelanges Wissen systematisch zurückgehalten wurde, dann ist die heutige Klimakrise nicht nur eine Frage unzureichender Technologie oder fehlender wirtschaftlicher Anreize, sondern auch eine Frage politischer Verantwortung, die nie eingefordert wurde.
+
+Gleichzeitig zeigt die Entscheidung der EU, die Emissionsreduktionen zu verlangsamen, wie schwer es politischen Systemen fällt, langfristige Risiken gegen kurzfristige wirtschaftliche Interessen abzuwägen. Die Blockade der alten Kohlenstoffgutschriften durch China und Indien verhindert zwar einen bestimmten Missbrauch, aber sie löst nicht das grundlegende Problem, dass die Welt weiterhin zu langsam handelt.
+
+Die gleichzeitigen Krisen – Kriege, Erdbeben, Waldbrände, Überschwemmungen, Seuchenausbrüche – sind nicht alle direkt miteinander verbunden, aber sie überlagern sich in einer Weise, die die Grenzen internationaler Kooperation und humanitärer Kapazitäten deutlich macht. Der UN-Generalsekretär ruft zu Diplomatie und gemeinsamer Verantwortung auf, während die Realität von einseitigen Militärschlägen, protektionistischen Drohungen und der Unterdrückung von Opposition geprägt ist.
+
+Vielleicht ist die wichtigste Erkenntnis dieses Tages, dass die Welt nicht an mangelndem Wissen leidet, sondern an der mangelnden Bereitschaft, aus diesem Wissen zu handeln.
 
 ## 🎵 Song des Tages
 
-„The Sound of Silence“ von Simon & Garfunkel. Das Lied aus dem Jahr 1964 – jenem Jahrzehnt, in dem Regierungen bereits von den Klimarisiken wussten – spricht von Worten, die ungesagt bleiben, und von Menschen, die nicht hören. Es passt zu einem Tag, an dem sich zeigt, wie oft das Wissen um die Gefahr vorhanden war, aber das Handeln ausblieb, bis die Stille von Feuern, Fluten und Konflikten durchbrochen wurde.
+„The Day Before You Came“ von ABBA.
+
+Der Song beschreibt einen Alltag, der sich in seiner Gleichförmigkeit kaum von anderen Tagen unterscheidet – und doch ist alles anders, weil etwas Entscheidendes geschehen ist. Diese Spannung zwischen scheinbarer Normalität und grundlegender Veränderung passt zu einem Tag, an dem deutlich wird, wie viel schon lange bekannt war und wie wenig daraus folgte, bis die Folgen unübersehbar wurden. Die ruhige, fast nüchterne Erzählweise des Liedes entspricht dem Ton, den eine Chronistin an einem solchen Tag wählen muss.
 
 
 ---
 
-*Erstellt am 2026-07-17 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-07-18 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
