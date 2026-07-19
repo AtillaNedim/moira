@@ -1,38 +1,11 @@
 {
-  "generated_at": "2026-07-18T12:42:56.542323+00:00",
-  "date": "2026-07-18",
+  "generated_at": "2026-07-19T12:44:28.718898+00:00",
+  "date": "2026-07-19",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
-      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
-      "published": "2026-07-17T18:54:51+00:00",
-      "score": 15
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "published": "2026-07-18T11:55:54+00:00",
-      "score": 14
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
-      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
-      "published": "2026-07-17T21:01:38+00:00",
-      "score": 14
-    },
     {
       "source": "The Hacker News",
       "category": "Technik",
@@ -43,30 +16,21 @@
       "score": 14
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
-      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-      "summary": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market The post Most “zombie credits” locked out of new UN carbon market after China and India snub appeared first on Climate Home News .",
-      "published": "2026-07-17T16:38:23+00:00",
-      "score": 14
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
-      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
-      "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data from NASA’s Chandra X-ray Observatory in purple, X-rays from NASA’s IXPE (Imaging X-ray Polarimetry Explorer) in blue, and […]",
-      "published": "2026-07-17T20:05:23+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+      "published": "2026-07-19T11:28:24+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
-      "published": "2026-07-17T16:39:16+00:00",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "url": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
+      "published": "2026-07-17T18:54:51+00:00",
       "score": 13
     },
     {
@@ -81,82 +45,64 @@
     {
       "source": "BBC World",
       "category": "Politik",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "published": "2026-07-19T11:57:10+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "New EU border system tripling time at passport control, airport boss says",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "published": "2026-07-19T01:47:59+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
       "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
       "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
       "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "published": "2026-07-18T01:29:47+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "One anti-war critic fined, another held as Russia clamps down on dissent",
-      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
-      "published": "2026-07-17T20:00:54+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
-      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
-      "published": "2026-07-17T18:34:04+00:00",
+      "published": "2026-07-18T17:29:50+00:00",
       "score": 12
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
-      "summary": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s Ames Research Center in California’s Silicon Valley. The Ames Facilities Support Services II contract ensures that the center’s historic and specialized facilities are properly maintained, fully operational, and capable of supporting the agency’s missions and tenant partners in the NASA Research Park. The hybrid contract has a five-year period […]",
-      "published": "2026-07-17T20:34:59+00:00",
+      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
+      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
+      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
+      "published": "2026-07-17T21:01:38+00:00",
+      "score": 12
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
+      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+      "summary": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market The post Most “zombie credits” locked out of new UN carbon market after China and India snub appeared first on Climate Home News .",
+      "published": "2026-07-17T16:38:23+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-      "published": "2026-07-17T19:04:09+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US strikes hit Iran for seventh consecutive night",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "published": "2026-07-18T11:48:44+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
-      "published": "2026-07-17T18:12:54+00:00",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "published": "2026-07-19T11:04:50+00:00",
       "score": 11
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Second half of summer to bring chances for rain but heatwave threat persists",
-      "url": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Forecasts suggest the weather could turn more changeable during late July and August but the risk of heatwaves remains.",
-      "published": "2026-07-18T01:05:29+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "At least two dead in Texas floods ravaging same area where campers died",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-      "published": "2026-07-17T14:56:26+00:00",
+      "title": "Toronto, New York and Washington top list of most polluted cities as wildfires burn",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian officials say that fire activity in Ontario is beginning to ease, with air quality expected to improve in US cities too.",
+      "published": "2026-07-18T17:18:47+00:00",
       "score": 11
     },
     {
@@ -171,55 +117,46 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
-      "summary": "The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius […]",
-      "published": "2026-07-17T14:48:27+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
-      "published": "2026-07-16T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
-      "published": "2026-07-15T17:09:37+00:00",
+      "title": "NASA’s Chandra and IXPE Study Pulsar in Lighthouse Nebula",
+      "url": "https://www.nasa.gov/image-article/nasas-chandra-and-ixpe-study-pulsar-in-lighthouse-nebula/",
+      "summary": "This composite image, released on July 9, 2026, shows the region around a pulsar – a neutron star with a strong magnetic field that spins incredibly fast – within the Lighthouse nebula. The image contains X-ray data from NASA’s Chandra X-ray Observatory in purple, X-rays from NASA’s IXPE (Imaging X-ray Polarimetry Explorer) in blue, and […]",
+      "published": "2026-07-17T20:05:23+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
-      "published": "2026-07-17T17:12:23+00:00",
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
+      "published": "2026-07-17T16:39:16+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Air conditioner sparked deadly blaze at children's orphanage - police",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8ylw60e9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people, including children, died in the fire that also injured 19 others.",
-      "published": "2026-07-17T16:20:45+00:00",
+      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "published": "2026-07-19T07:47:02+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Hungary's president agrees to stand down after parliament backs removal",
+      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+      "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+      "published": "2026-07-18T19:34:16+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "What to know about the Canadian and US wildfires and their impact",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
-      "published": "2026-07-17T23:50:29+00:00",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
+      "published": "2026-07-17T18:34:04+00:00",
       "score": 10
     },
     {
@@ -232,48 +169,12 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167964",
-      "summary": "Thousands of people remain displaced three weeks after the devastating earthquakes in Venezuela and the possible formation of a strong El Niño climate pattern could worsen their already dire situation, the International Organization for Migration (IOM) warned on Thursday.",
-      "published": "2026-07-16T12:00:00+00:00",
-      "score": 10
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Pushes New Wing Design to Find Structural Limits",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […]",
-      "published": "2026-07-17T23:08:33+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
-      "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars. Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for […]",
-      "published": "2026-07-17T17:38:38+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
-      "url": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
-      "summary": "Updated July 18, 2026: the two flaws now carry CVE IDs, the full mechanism has been published, a persistent-object-cache condition has surfaced, and a working proof-of-concept is public. The story below reflects all of it. An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until",
-      "published": "2026-07-17T21:20:10+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "url": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a",
-      "published": "2026-07-17T13:48:56+00:00",
+      "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
+      "summary": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s Ames Research Center in California’s Silicon Valley. The Ames Facilities Support Services II contract ensures that the center’s historic and specialized facilities are properly maintained, fully operational, and capable of supporting the agency’s missions and tenant partners in the NASA Research Park. The hybrid contract has a five-year period […]",
+      "published": "2026-07-17T20:34:59+00:00",
       "score": 10
     },
     {
@@ -306,64 +207,46 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Space start-up launches India’s first commercial rocket designed for orbit",
-      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-      "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
-      "published": "2026-07-18T07:05:19+00:00",
+      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
+      "published": "2026-07-19T09:59:41+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Laos says it can't determine cause of tourist deaths linked to methanol",
-      "url": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted.",
-      "published": "2026-07-18T11:10:20+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Indian activist on hunger strike for 20 days forcibly taken to hospital",
-      "url": "https://www.bbc.co.uk/news/articles/cjej3dxxg2do?at_medium=RSS&at_campaign=rss",
-      "summary": "Cockroach Janta Party founder Abhijeet Dipke has now begun an indefinite fast in Sonam Wangchuk's place.",
-      "published": "2026-07-18T05:58:48+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "White House defends Argentina team over Falklands banner",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
-      "published": "2026-07-17T22:12:54+00:00",
+      "title": "German politician resigns over surrogacy child controversy",
+      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
+      "published": "2026-07-18T15:23:31+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "What this desert city can teach the world about tackling heat deaths",
-      "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
-      "summary": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
-      "published": "2026-07-17T23:56:08+00:00",
+      "title": "Second half of summer to bring chances for rain but heatwave threat persists",
+      "url": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Forecasts suggest the weather could turn more changeable during late July and August but the risk of heatwaves remains.",
+      "published": "2026-07-18T01:05:29+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "UK heatwave hits two-week mark",
-      "url": "https://www.bbc.co.uk/news/videos/cly9zk1wrw9o?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the longest dry spell in 30 years for parts of England as the UK heatwave reaches 14 days.",
-      "published": "2026-07-17T15:18:17+00:00",
+      "title": "At least two dead in Texas floods ravaging same area where campers died",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
+      "published": "2026-07-17T14:56:26+00:00",
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers have found an Earth-like, rocky planet orbiting within the habitable zone of a distant star with an atmosphere.",
-      "published": "2026-07-17T12:58:37+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Baristas behind bars: Thai prisoners brew a path back to daily life",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167954",
+      "summary": "It looks like a regular coffee shop, albeit set up in an old red bus. Stairs lead up to a serving hatch, with a menu of drink options. A selection of jaunty coffee-related messages like “My one and only love: Americano” and “Miss you a latte,” adorn the side of the bus.",
+      "published": "2026-07-17T12:00:00+00:00",
       "score": 9
     },
     {
@@ -376,40 +259,157 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Haiti: Training the next generation to fight corruption",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167931",
-      "summary": "How do you tackle corruption in a country grappling with insecurity, weak institutions and widespread impunity? In Haiti, the Government and the United Nations are betting on the country's youth.",
-      "published": "2026-07-16T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Welcomes Mauritius as 70th Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
+      "summary": "The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius […]",
+      "published": "2026-07-17T14:48:27+00:00",
       "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,…",
+      "published": "2026-07-17T12:10:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other…",
+      "published": "2026-07-16T12:10:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates…",
+      "published": "2026-07-15T17:09:37+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
+      "published": "2026-07-17T17:12:23+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed. Now the focus shifts to the trusted",
+      "published": "2026-07-17T11:30:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026. The vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
+      "published": "2026-07-17T06:42:23+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "As blue economy gathers pace, communities must benefit from ocean boom, activists say",
+      "url": "https://www.climatechangenews.com/2026/07/08/blue-economy-coastal-communities-mombasa-ocean-finance/",
+      "summary": "As governments turn to the ocean for jobs, growth and climate solutions, campaigners at the Our Ocean Conference in Mombasa warned coastal communities must not be left behind The post As blue economy gathers pace, communities must benefit from ocean boom, activists say appeared first on Climate Home News .",
+      "published": "2026-07-08T14:58:57+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "AI governance debate silent on risks to nature, campaigners warn",
+      "url": "https://www.climatechangenews.com/2026/07/08/ai-governance-debate-silent-on-risks-to-nature-campaigners-warn/",
+      "summary": "Global efforts to ensure AI does more good than harm must consider how it could fuel exploitation of biodiversity and ecosystems, conservationists say The post AI governance debate silent on risks to nature, campaigners warn appeared first on Climate Home News .",
+      "published": "2026-07-08T14:13:42+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "From coffee grounds to guinea pig bedding - the composters keeping it local",
+      "url": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&at_campaign=rss",
+      "summary": "Food waste is a resource like water and should be kept in communities, compost champions say.",
+      "published": "2026-07-19T11:33:19+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
+      "published": "2026-07-19T09:52:48+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Perseid meteors to light up night sky in one of the year's most active showers",
+      "url": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Perseid meteor shower will light up the night sky over the next five weeks.",
+      "published": "2026-07-19T08:22:01+00:00",
+      "score": 8
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167959",
-      "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has become the third largest on record and is spreading faster than any previous one during the first month of exposure, the head of the World Health Organization (WHO) warned on Thursday.",
+      "title": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167974",
+      "summary": "Jean Todt spent decades around the deadliest motorsport on Earth. He was a rally co‑driver, then ran Ferrari’s Formula One team, then became president of world motorsport’s governing body. In his early years, a driver dying at the track barely made news.",
+      "published": "2026-07-18T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, Ebola deaths mount, 12th anniversary of MH17",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167970",
+      "summary": "The UN human rights chief, Volker Türk, has appealed for calm in Pakistan-Administered Kashmir amid unrest ahead of regional elections.",
+      "published": "2026-07-17T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167964",
+      "summary": "Thousands of people remain displaced three weeks after the devastating earthquakes in Venezuela and the possible formation of a strong El Niño climate pattern could worsen their already dire situation, the International Organization for Migration (IOM) warned on Thursday.",
       "published": "2026-07-16T12:00:00+00:00",
-      "score": 9
+      "score": 8
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "The Growing Crescent of Mars as NASA’s Psyche Mission Approaches",
-      "url": "https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/",
-      "summary": "Description This composite of images taken by NASA’s Psyche mission shows the crescent of Mars grow as the spacecraft approached the planet for a gravity assist from May 2 to May 15, 2026. The series begins with the smallest crescent at the center of the of the image as Mars is farthest from the spacecraft, and progressively […]",
-      "published": "2026-07-17T22:32:27+00:00",
-      "score": 9
+      "title": "NASA Pushes New Wing Design to Find Structural Limits",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
+      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […]",
+      "published": "2026-07-17T23:08:33+00:00",
+      "score": 8
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
-      "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at […]",
-      "published": "2026-07-17T18:00:57+00:00",
-      "score": 9
+      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
+      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
+      "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars. Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for […]",
+      "published": "2026-07-17T17:38:38+00:00",
+      "score": 8
     }
   ]
 }
