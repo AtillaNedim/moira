@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T12:44:28.718898+00:00",
-  "date": "2026-07-19",
+  "generated_at": "2026-07-20T13:43:51.050870+00:00",
+  "date": "2026-07-20",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,19 +9,28 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-      "url": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering. Russian cybersecurity company Kaspersky, which uncovered the activity in February 2026, said it was aimed at government and diplomatic entities in",
-      "published": "2026-07-17T08:46:45+00:00",
-      "score": 14
+      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
+      "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
+      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops. That is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence",
+      "published": "2026-07-20T12:13:39+00:00",
+      "score": 19
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
-      "published": "2026-07-19T11:28:24+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+      "url": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo (versions 1.1.3, 1.1.4) -",
+      "published": "2026-07-20T05:15:39+00:00",
+      "score": 15
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "url": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's",
+      "published": "2026-07-19T13:30:55+00:00",
       "score": 13
     },
     {
@@ -34,39 +43,30 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "url": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots airport, held up a phone with a photo of him off his VKontakte page, and walked him into a side",
-      "published": "2026-07-17T10:53:31+00:00",
-      "score": 13
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-      "published": "2026-07-19T11:57:10+00:00",
+      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "published": "2026-07-20T11:18:40+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
-      "published": "2026-07-19T01:47:59+00:00",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "published": "2026-07-19T18:25:40+00:00",
       "score": 12
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "published": "2026-07-18T17:29:50+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Moon Day focuses growing concerns around space junk",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167976",
+      "summary": "Amid surging lunar exploration, the UN on Monday urged governments to ensure that humanity's return to the Moon does not come at the expense of planet Earth – or the long-term sustainability of space.",
+      "published": "2026-07-20T12:00:00+00:00",
       "score": 12
     },
     {
@@ -76,6 +76,42 @@
       "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
       "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
       "published": "2026-07-17T21:01:38+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
+      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
+      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
+      "published": "2026-07-20T11:30:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "url": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. The overflow lets an attacker \"execute code in the context of the current process,\" per the",
+      "published": "2026-07-20T09:10:56+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      "url": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
+      "published": "2026-07-20T05:27:26+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "url": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade. Triggering it can crash or restart the worker, causing a denial of",
+      "published": "2026-07-19T20:42:49+00:00",
       "score": 12
     },
     {
@@ -90,28 +126,19 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "published": "2026-07-19T11:04:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Toronto, New York and Washington top list of most polluted cities as wildfires burn",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian officials say that fire activity in Ontario is beginning to ease, with air quality expected to improve in US cities too.",
-      "published": "2026-07-18T17:18:47+00:00",
+      "title": "US soldier killed and one injured after Iranian attack in Iraq",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
+      "published": "2026-07-19T19:45:12+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167973",
-      "summary": "The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.",
-      "published": "2026-07-17T12:00:00+00:00",
+      "title": "Ukraine: UN condemns overnight attack on Kyiv",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167975",
+      "summary": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
+      "published": "2026-07-19T12:00:00+00:00",
       "score": 11
     },
     {
@@ -126,28 +153,64 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "url": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
-      "published": "2026-07-17T16:39:16+00:00",
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "url": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
+      "published": "2026-07-20T09:07:11+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Flood deaths in West African cities raise fraught issue of slum evictions",
+      "url": "https://www.climatechangenews.com/2026/07/20/flood-deaths-in-west-african-megacities-raise-fraught-issue-of-slum-evictions/",
+      "summary": "Deadly floods expose poor urban planning, over-population and spread of informal settlements on disaster-prone land - a problem authorities are struggling to manage The post Flood deaths in West African cities raise fraught issue of slum evictions appeared first on Climate Home News .",
+      "published": "2026-07-20T11:22:57+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
-      "published": "2026-07-19T07:47:02+00:00",
+      "title": "Food delivery rider wins China's top literary prize",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydr3xd0kvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
+      "published": "2026-07-20T03:53:07+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
-      "published": "2026-07-18T19:34:16+00:00",
+      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+      "url": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning.",
+      "published": "2026-07-20T11:28:30+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Utah firefighter and four family members killed in flash flooding",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8l88jnwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A husband, wife and their three sons died - meaning that only a daughter who did not join the outing is still alive.",
+      "published": "2026-07-20T12:13:58+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Controversial farm subsidy scheme gets billion pound budget",
+      "url": "https://www.bbc.co.uk/news/articles/cr7kn49y3vdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The protest-hit Sustainable Farming Scheme has been introduced after almost a decade in development.",
+      "published": "2026-07-20T05:49:38+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "published": "2026-07-18T17:29:50+00:00",
       "score": 10
     },
     {
@@ -160,21 +223,39 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Guterres: AI must be shaped by 'all of humanity', not a handful of powers",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167965",
-      "summary": "UN Secretary-General António Guterres on Friday urged governments and technology companies to work together to ensure artificial intelligence (AI) benefits all countries.",
-      "published": "2026-07-17T12:00:00+00:00",
-      "score": 10
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
       "title": "NASA Awards Facilities Support Services Contract for Ames Research Center",
       "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-awards-facilities-support-services-contract-for-ames-research-center/",
       "summary": "CONTRACT RELEASE NASA has selected Chugach Intelligence Solutions LLC to provide comprehensive operations, maintenance, and repair services for NASA’s Ames Research Center in California’s Silicon Valley. The Ames Facilities Support Services II contract ensures that the center’s historic and specialized facilities are properly maintained, fully operational, and capable of supporting the agency’s missions and tenant partners in the NASA Research Park. The hybrid contract has a five-year period […]",
       "published": "2026-07-17T20:34:59+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s…",
+      "published": "2026-07-20T12:10:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own biases from…",
+      "published": "2026-07-20T08:39:01+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "url": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
+      "published": "2026-07-19T13:18:56+00:00",
       "score": 10
     },
     {
@@ -187,39 +268,66 @@
       "score": 10
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Debriefed 17 July 2026: UK ‘firewave’ | Fossil-fuelled heat deaths | London’s Natural History Museum spotlights climate",
-      "url": "https://www.carbonbrief.org/debriefed-17-july-2026-uk-firewave-fossil-fuelled-heat-deaths-londons-natural-history-museum-spotlights-climate/",
-      "summary": "Welcome to Carbon Brief’s DeBriefed. An essential guide to the week’s key developments relating to climate... The post Debriefed 17 July 2026: UK ‘firewave’ | Fossil-fuelled heat deaths | London’s Natural History Museum spotlights climate appeared first on Carbon Brief .",
-      "published": "2026-07-17T12:38:43+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Q&A: Europe’s May and June heatwave deaths – and how they were counted",
-      "url": "https://www.carbonbrief.org/qa-europes-may-and-june-heatwave-deaths-and-how-they-were-counted/",
-      "summary": "Recent weeks have seen a flurry of reports from public health authorities and scientists that... The post Q&A: Europe’s May and June heatwave deaths – and how they were counted appeared first on Carbon Brief .",
-      "published": "2026-07-17T11:17:09+00:00",
-      "score": 10
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The vessel capsized between Georgetown and Port Kaituma, with 53 people so far rescued.",
-      "published": "2026-07-19T09:59:41+00:00",
+      "title": "Boy, 13, dies during World Cup celebrations in Spain",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvdy0jv05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two other young people were injured after a fountain partially collapsed in Salamanca's Ciudad Rodrigo.",
+      "published": "2026-07-20T10:02:44+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "German politician resigns over surrogacy child controversy",
-      "url": "https://www.bbc.co.uk/news/articles/cq56e9n1ddzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jens Spahn faced criticism over his use of a surrogate, a ban on which he previously backed.",
-      "published": "2026-07-18T15:23:31+00:00",
+      "title": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+      "published": "2026-07-20T13:13:29+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Norway opens new memorial for victims of 2011 massacre",
+      "url": "https://www.bbc.co.uk/news/articles/c07r9m22gyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The artwork in the capital Oslo was unveiled on Sunday ahead of the 15th anniversary of the attack.",
+      "published": "2026-07-20T01:11:08+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "published": "2026-07-19T12:53:20+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "summary": "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift.",
+      "published": "2026-07-19T14:50:11+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Going with the flow: Renewable energy battery breakthrough",
+      "url": "https://www.bbc.co.uk/news/articles/c3dyd4l8250o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 3D-printed battery designed at Queen's University Belfast could speed up energy storage research.",
+      "published": "2026-07-20T08:20:07+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Toronto, New York and Washington top list of most polluted cities as wildfires burn",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canadian officials say that fire activity in Ontario is beginning to ease, with air quality expected to improve in US cities too.",
+      "published": "2026-07-18T17:18:47+00:00",
       "score": 9
     },
     {
@@ -232,29 +340,11 @@
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "At least two dead in Texas floods ravaging same area where campers died",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-      "published": "2026-07-17T14:56:26+00:00",
-      "score": 9
-    },
-    {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Baristas behind bars: Thai prisoners brew a path back to daily life",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167954",
-      "summary": "It looks like a regular coffee shop, albeit set up in an old red bus. Stairs lead up to a serving hatch, with a menu of drink options. A selection of jaunty coffee-related messages like “My one and only love: Americano” and “Miss you a latte,” adorn the side of the bus.",
-      "published": "2026-07-17T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167967",
-      "summary": "UN humanitarians working in war-torn Sudan on Friday highlighted rapidly growing needs among the more than 100,000 displaced people now sheltering in camps in the city of El Obeid.",
+      "title": "US-Iran war: UN chief calls for new diplomatic push following attacks on civilian areas",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167973",
+      "summary": "The UN Secretary-General remains deeply concerned by the continuing deadly military escalation between Iran and the United States, his spokesperson said on Friday as attacks destroyed key civilian and military infrastructure across the Gulf region.",
       "published": "2026-07-17T12:00:00+00:00",
       "score": 9
     },
@@ -265,15 +355,6 @@
       "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-mauritius-as-70th-artemis-accords-signatory/",
       "summary": "The Republic of Mauritius has officially joined the global coalition committed to responsible space exploration, becoming the newest signatory and seventh African country to join the Artemis Accords. NASA’s Deputy Administrator Matt Anderson contributed video remarks for a signing ceremony on Friday, in the island nation’s city of Ébène. “We are honored to welcome Mauritius […]",
       "published": "2026-07-17T14:48:27+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,…",
-      "published": "2026-07-17T12:10:00+00:00",
       "score": 9
     },
     {
@@ -295,33 +376,6 @@
       "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "url": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
-      "published": "2026-07-17T17:12:23+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-      "url": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed. Now the focus shifts to the trusted",
-      "published": "2026-07-17T11:30:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "url": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026. The vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
-      "published": "2026-07-17T06:42:23+00:00",
-      "score": 9
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
       "title": "As blue economy gathers pace, communities must benefit from ocean boom, activists say",
@@ -331,21 +385,12 @@
       "score": 9
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "AI governance debate silent on risks to nature, campaigners warn",
-      "url": "https://www.climatechangenews.com/2026/07/08/ai-governance-debate-silent-on-risks-to-nature-campaigners-warn/",
-      "summary": "Global efforts to ensure AI does more good than harm must consider how it could fuel exploitation of biodiversity and ecosystems, conservationists say The post AI governance debate silent on risks to nature, campaigners warn appeared first on Climate Home News .",
-      "published": "2026-07-08T14:13:42+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "From coffee grounds to guinea pig bedding - the composters keeping it local",
-      "url": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&at_campaign=rss",
-      "summary": "Food waste is a resource like water and should be kept in communities, compost champions say.",
-      "published": "2026-07-19T11:33:19+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sixty-seven people have been rescued but the ferry is thought to have had more than 130 people on board.",
+      "published": "2026-07-20T11:37:32+00:00",
       "score": 8
     },
     {
@@ -354,61 +399,16 @@
       "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
       "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
       "summary": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
-      "published": "2026-07-19T09:52:48+00:00",
+      "published": "2026-07-19T14:27:15+00:00",
       "score": 8
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Perseid meteors to light up night sky in one of the year's most active showers",
-      "url": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Perseid meteor shower will light up the night sky over the next five weeks.",
-      "published": "2026-07-19T08:22:01+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167974",
-      "summary": "Jean Todt spent decades around the deadliest motorsport on Earth. He was a rally co‑driver, then ran Ferrari’s Formula One team, then became president of world motorsport’s governing body. In his early years, a driver dying at the track barely made news.",
-      "published": "2026-07-18T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, Ebola deaths mount, 12th anniversary of MH17",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167970",
-      "summary": "The UN human rights chief, Volker Türk, has appealed for calm in Pakistan-Administered Kashmir amid unrest ahead of regional elections.",
-      "published": "2026-07-17T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167964",
-      "summary": "Thousands of people remain displaced three weeks after the devastating earthquakes in Venezuela and the possible formation of a strong El Niño climate pattern could worsen their already dire situation, the International Organization for Migration (IOM) warned on Thursday.",
-      "published": "2026-07-16T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Pushes New Wing Design to Find Structural Limits",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/",
-      "summary": "NASA researchers recently put a new wing design, appearing long and thin with a lightweight structural design, through a series of grueling tests to find its structural limits. What they found left them encouraged about the wing’s potential, even when they pushed it past its intended limits. The 15-foot Structural Wing Experiment Evaluating Truss-bracing (SWEET-15) […]",
-      "published": "2026-07-17T23:08:33+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Psyche Mission Images Details of Martian Surface During Flyby",
-      "url": "https://science.nasa.gov/photojournal/nasas-psyche-mission-images-details-of-martian-surface-during-flyby/",
-      "summary": "Description Captured by the multispectral imager instrument on NASA’s Psyche mission, this is an enhanced-color mosaic created from four individual images acquired on May 15, 2026, during the spacecraft’s flyby of Mars. Psyche was traveling from right to left (northeast to southwest on Mars) during the six minutes that it took to acquire the images for […]",
-      "published": "2026-07-17T17:38:38+00:00",
+      "title": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "summary": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+      "published": "2026-07-18T07:05:19+00:00",
       "score": 8
     }
   ]
