@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T13:08:59.040676+00:00",
-  "date": "2026-07-21",
+  "generated_at": "2026-07-22T13:14:49.300983+00:00",
+  "date": "2026-07-22",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,65 +9,38 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine",
-      "url": "https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html",
-      "summary": "At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv, and the locations of Ukrainian troops. That is the finding of a cybersecurity advisory published July 10 by the AIVD and MIVD, the Netherlands' civilian and military intelligence",
-      "published": "2026-07-20T12:13:39+00:00",
-      "score": 17
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-      "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
-      "published": "2026-07-20T18:16:51+00:00",
-      "score": 14
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading…",
-      "published": "2026-07-21T12:10:00+00:00",
+      "title": "Why Modern SOCs Need Multi-Layered Detections",
+      "url": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
+      "summary": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Global Threat Report estimates around 79% of attacks are malware-free, as threat actors rely on",
+      "published": "2026-07-22T11:25:35+00:00",
       "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
-      "published": "2026-07-21T11:24:50+00:00",
+      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
+      "url": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
+      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot",
+      "published": "2026-07-21T15:09:28+00:00",
       "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "url": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code. Patches for the flaw were",
-      "published": "2026-07-21T06:29:26+00:00",
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "url": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway",
+      "published": "2026-07-21T14:04:57+00:00",
       "score": 14
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "url": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit. \"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
-      "published": "2026-07-20T18:23:03+00:00",
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Energy transition policymaking must evolve to fit an age of rupture",
+      "url": "https://www.climatechangenews.com/2026/07/21/energy-transition-policymaking-must-evolve-to-fit-an-age-of-rupture/",
+      "summary": "Economic competitiveness, energy security and green industrialisation are driving real-world change - but will this damage our collective mission for a fair green shift? The post Energy transition policymaking must evolve to fit an age of rupture appeared first on Climate Home News .",
+      "published": "2026-07-21T14:50:51+00:00",
       "score": 14
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167983",
-      "summary": "In the Democratic Republic of the Congo (DRC), UN health teams and partners are still racing to contain the rapidly expanding Ebola outbreak, despite ongoing insecurity in eastern areas where the virus has taken hold. As of 19 July, the DRC Government has recorded 2,423 confirmed cases, including 967 deaths and 469 recoveries.",
-      "published": "2026-07-21T12:00:00+00:00",
-      "score": 13
     },
     {
       "source": "UN News",
@@ -79,30 +52,66 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NISAR’s L-Band Radar Reveals ‘Hummingbird’ in Antarctica",
+      "url": "https://science.nasa.gov/photojournal/nisars-l-band-radar-reveals-hummingbird-in-antarctica/",
+      "summary": "Description Data from the Earth-orbiting U.S.-India NISAR (NASA-ISRO Synthetic Aperture Radar) satellite’s L-band radar was used to produce an image of Nunatak Zaterjavshijsja — a mountaintop in East Antarctica — poking out amid a stream of ice flowing northeast to the ocean. The obstruction causes stresses in the ice, heavily fracturing the surrounding surfaces with […]",
+      "published": "2026-07-22T00:33:08+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
-      "url": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem. The entry",
-      "published": "2026-07-21T07:34:32+00:00",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…",
+      "published": "2026-07-22T12:10:00+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
-      "url": "https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html",
-      "summary": "A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools. The paths were often simple: exposed systems, weak checks, old drivers, fake prompts, and public code used for malware delivery. Some bugs were new. Others were already being used before defenders had time to patch. Here is the full",
-      "published": "2026-07-20T13:32:26+00:00",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "url": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the",
+      "published": "2026-07-22T06:00:06+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "url": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+      "published": "2026-07-22T04:18:33+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "url": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE",
+      "published": "2026-07-21T14:57:51+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "published": "2026-07-21T09:48:20+00:00",
+      "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
+      "published": "2026-07-22T10:15:03+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
+      "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
+      "published": "2026-07-20T18:16:51+00:00",
       "score": 12
     },
     {
@@ -115,246 +124,264 @@
       "score": 12
     },
     {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NIAC 2026 Selections",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/",
+      "summary": "Phase I Saptarshi BandyopadhyayDimming the Sun (DimSun) Using Controllable Dust Cloud to Reduce Solar InsolationNASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I David BugbyCombinatory Architecture offering Neomobility, on-Venus Adaptability, and Survivability (CANVAS)NASA Jet Propulsion LaboratoryPasadena, CA 91109-80012026 Phase I Anish DamodaranPS21: Transforming Submillimeter Space Interferometry with Photonic TechnologiesUniversity of Central FloridaOrlando, FL 32826-2933202",
+      "published": "2026-07-21T15:30:15+00:00",
+      "score": 12
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Interworld Slingshot Resource Surveys",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/",
+      "summary": "Pablo Sobron SanchezSETI Institute This proposal explores a new class of reconnaissance spacecraft that map minerals from orbit using Raman spectroscopy during high-speed flybys–without landing, sample return, or extended dwell. If feasible, this concept would enable NASA to evaluate ice and ilmenite at the Moon, ore content at asteroids, and volatile-bearing minerals at Mars’ moons–all […]",
+      "published": "2026-07-21T15:23:49+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading…",
+      "published": "2026-07-21T12:10:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "url": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts. Hide My Email",
+      "published": "2026-07-21T18:46:32+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+      "published": "2026-07-22T10:00:04+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "published": "2026-07-22T05:37:43+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+      "published": "2026-07-22T08:02:04+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
+      "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
+      "published": "2026-07-22T03:32:56+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl3zgr3v4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The seizure follows a long-running investigation into drug-trafficking networks, police say.",
+      "published": "2026-07-22T11:32:11+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Fate of massive 20m-high space radar in ministers' hands",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The MoD wants to put 27 giant radar dishes in Pembrokeshire, which campaigners have strongly opposed.",
+      "published": "2026-07-22T12:04:20+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Great Apes kiss and cuddle to keep the peace, says study",
+      "url": "https://www.bbc.co.uk/news/articles/c5y045vprg5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes.",
+      "published": "2026-07-21T23:48:38+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Guterres calls for stepping up diplomatic efforts to end US-Iran conflict",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167989",
+      "summary": "The United Nations again called for restraint as war ramps up in the Middle East, underscoring the need for dialogue and an end to attacks on “vital infrastructure” across the region.",
+      "published": "2026-07-21T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167984",
+      "summary": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres heads to Damascus for his first visit to the country as Secretary-General.",
+      "published": "2026-07-21T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "DR Congo: Ebola outbreak still expanding, WHO sees signs of stabilization",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167983",
+      "summary": "In the Democratic Republic of the Congo (DRC), UN health teams and partners are still racing to contain the rapidly expanding Ebola outbreak, despite ongoing insecurity in eastern areas where the virus has taken hold. As of 19 July, the DRC Government has recorded 2,423 confirmed cases, including 967 deaths and 469 recoveries.",
+      "published": "2026-07-21T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "US-India Satellite Delivers Data, Reveals ‘Hummingbird’ in Antarctica",
+      "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/",
+      "summary": "As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite’s L-band and S-band radars on an ongoing basis, helping researchers and other users track the movement of Earth’s […]",
+      "published": "2026-07-21T18:14:52+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Robotically Assembled Electromagnetic Metamaterials for Long-Range Space Situational Awareness",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/",
+      "summary": "David SmithDuke University The increasing population of spacefaring vehicles and satellites motivates increasingly powerful technologies for space situational awareness (SSA). While the US space surveillance network (SSN) is able to monitor objects down to about four inches in size using, for example, the latest upgrade to the space fence, the associated requirements limit implementation to ground-based […]",
+      "published": "2026-07-21T15:23:46+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "url": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it. In a joint announcement on Monday, the Frankfurt public prosecutor's cybercrime unit (ZIT) and Germany's Federal Criminal Police Office (BKA)",
+      "published": "2026-07-22T06:38:45+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "url": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
+      "published": "2026-07-22T04:57:52+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
+      "url": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
+      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been",
+      "published": "2026-07-21T16:06:12+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Allegations of harms at China-backed transition minerals projects rise",
+      "url": "https://www.climatechangenews.com/2026/07/22/allegations-of-harms-at-china-backed-transition-minerals-projects-rise/",
+      "summary": "The growing number of recorded abuses linked to Chinese mineral projects come as a new mediation mechanism between Chinese firms and affected communities gets underway The post Allegations of harms at China-backed transition minerals projects rise appeared first on Climate Home News .",
+      "published": "2026-07-22T00:01:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
+      "published": "2026-07-22T02:15:05+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
+      "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+      "published": "2026-07-22T12:08:41+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+      "published": "2026-07-21T22:26:19+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "France passes law banning under-15s from social media",
+      "url": "https://www.bbc.co.uk/news/articles/cq56l9p4y93o?at_medium=RSS&at_campaign=rss",
+      "summary": "The law will require social media platforms in France to verify all users age from January.",
+      "published": "2026-07-22T03:50:55+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Rebel Wilson cleared in defamation case brought by actress in her own film",
+      "url": "https://www.bbc.co.uk/news/articles/c80nv4eevero?at_medium=RSS&at_campaign=rss",
+      "summary": "Wilson was accused of defaming young Australian actress Charlotte MacInnes, but cleared by a Sydney court.",
+      "published": "2026-07-22T05:33:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Sexual violence in DR Congo, deaths in Ukraine and Russia, crime in Southeast Asia",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167992",
+      "summary": "Independent UN human rights experts on Tuesday condemned the M23 armed group’s “reign of terror” over territory it controls in eastern Democratic Republic of the Congo (DRC), calling for an end to the Rwanda-backed group’s sexual torture and violence against civilians.",
+      "published": "2026-07-21T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Precision Astrometry Using Optically Independent Spacecraft for Graviational Wave Detection",
+      "url": "https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/",
+      "summary": "Paul StankusBrookhaven Science Associates The scientific goal is to enable a new method for observing gravitational waves at low frequencies, based on the astrometric GW signature — gravitational waves passing by the Earth will cause a (very small) coordinated apparent motion of all sky objects. Our innovation is to deploy a new approach to precision […]",
+      "published": "2026-07-21T15:23:54+00:00",
+      "score": 10
+    },
+    {
       "source": "MIT Technology Review",
       "category": "Technik",
       "title": "China’s AI models have Trump’s AI world at war with itself",
       "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until…",
       "published": "2026-07-20T18:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Q&A: What the EU’s carbon market review means for climate action",
-      "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action/",
-      "summary": "The European Commission has put forward new plans to cut emissions under the EU carbon... The post Q&A: What the EU’s carbon market review means for climate action appeared first on Carbon Brief .",
-      "published": "2026-07-20T16:11:23+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Row escalates in Ukraine over army chief's future",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgel8374yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
-      "published": "2026-07-21T12:33:15+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-      "published": "2026-07-21T12:48:37+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167979",
-      "summary": "As the United States and Iran trade deadly attacks for a second week, the UN continues to call for de-escalation while highlighting the devastation caused to civilians and critical infrastructure across the Middle East.",
-      "published": "2026-07-20T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167972",
-      "summary": "Haiti’s future success depends on “security, political engagement, and humanitarian action reinforcing each other,” the UN’s most senior official in Haiti has told the UN Security Council which met in New York on Monday to discuss the way forward for the embattled Caribbean island nation.",
-      "published": "2026-07-20T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ukraine: UN condemns overnight attack on Kyiv",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167975",
-      "summary": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
-      "published": "2026-07-19T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Sets Briefings for SpaceX Crew-13 Mission to Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/",
-      "summary": "NASA and its partners will discuss the upcoming crew rotation mission to the International Space Station during a pair of news conferences on Monday, Aug. 3, from the agency’s Johnson Space Center in Houston. Mission leadership will provide an overview of NASA’s SpaceX Crew‑13 mission at 12 p.m. EDT. Next, crew members will discuss their […]",
-      "published": "2026-07-20T20:00:52+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "url": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six other attacks, against five open-source mobile agent frameworks: AppAgent, AppAgentX,",
-      "published": "2026-07-21T11:58:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "url": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV. What makes it more than a",
-      "published": "2026-07-20T17:29:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Extreme heat costing India’s poorest workers 2% of GDP, survey finds",
-      "url": "https://www.climatechangenews.com/2026/07/21/extreme-heat-costing-india-poor-workers-2-gdp-survey-finds/",
-      "summary": "India's informal workers are estimated to be losing $78 billion in wages per year because of productivity declines and illness caused by intensifying heat The post Extreme heat costing India’s poorest workers 2% of GDP, survey finds appeared first on Climate Home News .",
-      "published": "2026-07-21T08:30:03+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Top maritime court rejects bid to halt UN deep-sea mining inquiry",
-      "url": "https://www.climatechangenews.com/2026/07/20/top-maritime-court-rejects-bid-to-halt-un-deep-sea-mining-inquiry/",
-      "summary": "Two subsidiaries of The Metals Company sought to block the probe into potential contract breaches launched after the firm's application for US-sponsored permits The post Top maritime court rejects bid to halt UN deep-sea mining inquiry appeared first on Climate Home News .",
-      "published": "2026-07-20T18:12:46+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
-      "summary": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
-      "published": "2026-07-21T10:43:48+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "India's 'cockroach' protest continues a day after police crackdown",
-      "url": "https://www.bbc.co.uk/news/articles/c98v349r9lro?at_medium=RSS&at_campaign=rss",
-      "summary": "Delhi witnessed overwhelming violence on Monday, with at least 60 protesters wounded. Police said 118 of their men were also injured.",
-      "published": "2026-07-21T08:44:43+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Traffic officers arrested for allegedly seeking bribe from Nigeria's anti-corruption boss",
-      "url": "https://www.bbc.co.uk/news/articles/c9q97028ex5o?at_medium=RSS&at_campaign=rss",
-      "summary": "They are accused of stopping Musa Aliyu at a fake roadblock and telling him to drive to a cash machine.",
-      "published": "2026-07-21T11:40:53+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Tate brothers appear in US court for extradition proceedings",
-      "url": "https://www.bbc.co.uk/news/articles/c6294y87wk6o?at_medium=RSS&at_campaign=rss",
-      "summary": "They were arrested on Saturday after the UK announced dozens of new charges, including rape and sex trafficking, which they deny.",
-      "published": "2026-07-20T19:05:50+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Hosepipe ban in force for millions of households - is your area affected?",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
-      "published": "2026-07-21T12:02:58+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Tropical Storm Bertha threatens US Gulf coast",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
-      "published": "2026-07-21T02:42:44+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-      "published": "2026-07-18T17:29:50+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Moon Day focuses growing concerns around space junk",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167976",
-      "summary": "Amid surging lunar exploration, the UN on Monday urged governments to ensure that humanity's return to the Moon does not come at the expense of planet Earth – or the long-term sustainability of space.",
-      "published": "2026-07-20T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA, GE Aerospace Work Enables Hybrid-Electric Flight Demonstration",
-      "url": "https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/",
-      "summary": "An aircraft powered by a megawatt-class hybrid-electric engine developed in collaboration with NASA and built by GE Aerospace, demonstrated flight of an innovation that can inform new generations of fuel-saving aircraft power systems. Mounted to a Saab 340B aircraft, the engine flew at Farnborough International Air Show in the United Kingdom. It was the public […]",
-      "published": "2026-07-20T18:54:44+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "From Hampton to Mars: How NASA Langley Helped Land on the Red Planet",
-      "url": "https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/",
-      "summary": "Fifty years ago, NASA’s Viking 1 and 2 landers made the first successful landings on Mars, opening a new era in planetary exploration. Behind that achievement was a team at NASA’s Langley Research Center in Hampton, Virginia, whose steady leadership and technical expertise helped turn an ambitious idea into a mission that reshaped how we […]",
-      "published": "2026-07-20T15:47:15+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Establishing a VTE Risk Score for Astronauts Algorithm",
-      "url": "https://www.nasa.gov/organizations/ochmo/establishing-a-vte-risk-score-for-astronauts-algorithm/",
-      "summary": "In April 2026, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review updated VTE case information, additional data gathered revealing altered blood flow status within a cohort of astronauts, and discuss progress of research and clinical activities intended to mitigate the risk of VTE during spaceflight with new […]",
-      "published": "2026-07-17T21:01:38+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Advancing next-gen AI with materials science innovation",
-      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-      "summary": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes them possible: advanced materials. Every new generation of AI technology demands more processing power, more memory, greater energy efficiency, and…",
-      "published": "2026-07-21T10:37:34+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
-      "url": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
-      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell. \"By the early hours of Saturday morning (UTC), successful exploitation was already well",
-      "published": "2026-07-21T08:59:30+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
-      "url": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
-      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks",
-      "published": "2026-07-20T14:33:43+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "url": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
-      "published": "2026-07-20T11:30:00+00:00",
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "url": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled. Also patched",
+      "published": "2026-07-21T13:18:31+00:00",
       "score": 10
     },
     {
@@ -367,48 +394,21 @@
       "score": 10
     },
     {
-      "source": "Climate Home News",
+      "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "Major emitting countries knew of climate risks decades earlier than claimed",
-      "url": "https://www.climatechangenews.com/2026/07/15/major-emitting-countries-knew-of-climate-risks-decades-earlier-than-claimed/",
-      "summary": "Governments have known since at least the 1960s that fossil fuel use was warming the planet. They kept quiet to avoid responsibility. The post Major emitting countries knew of climate risks decades earlier than claimed appeared first on Climate Home News .",
-      "published": "2026-07-15T10:51:19+00:00",
+      "title": "Q&A: What the EU’s carbon market review means for climate action",
+      "url": "https://www.carbonbrief.org/qa-what-the-eus-carbon-market-review-means-for-climate-action",
+      "summary": "The European Commission has put forward new plans to cut emissions under the EU carbon market more slowly, from 2031… The post Q&A: What the EU’s carbon market review means for climate action appeared first on Carbon Brief .",
+      "published": "2026-07-20T16:22:59+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "published": "2026-07-21T11:42:41+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'Anti-ICE' army veteran started fire outside Manhattan federal building, say officials",
-      "url": "https://www.bbc.co.uk/news/articles/c1m1rr90dzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Andrew Arrabaca, 43, was armed with two axes, a machete, three knives and fireworks, says the FBI.",
-      "published": "2026-07-21T02:16:05+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Shock and anger after top Ghanaian politician sentenced to 20 years for illegal mining",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwnjllwvwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Bernard Antwi Boasiako, known as \"Chairman Wontumi\", was also fined more than $10,000 (£7,450).",
-      "published": "2026-07-21T12:02:47+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
-      "published": "2026-07-21T02:07:48+00:00",
+      "title": "Police station opens at Hitler's birthplace in bid to rid site of Nazi link",
+      "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
+      "published": "2026-07-22T12:32:13+00:00",
       "score": 9
     }
   ]
