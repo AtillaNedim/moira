@@ -1,66 +1,88 @@
-# Moira — 2026-07-23
+# Moira — 2026-07-24
 
 ## 🌍 Umwelt
 
-Die Energie- und Klimapolitik durchläuft derzeit eine Phase grundlegender Neuausrichtung. Ein Artikel aus dem Bereich Klimaberichterstattung beschreibt, dass wirtschaftliche Wettbewerbsfähigkeit, Energiesicherheit und grüne Industrialisierung zunehmend die treibenden Kräfte der Energiewende sind, warnt jedoch davor, dass dieser Pragmatismus das gemeinsame Ziel einer fairen Transformation beschädigen könnte. In Großbritannien hat der neue Premierminister Andy Burnham Maßnahmen angekündigt, die Busfahrpreise und die Haushaltsstromsteuer senken sollen. Dies soll die heimische Klimapolitik stärken, wird aber teilweise dadurch finanziert, dass internationale Klimafinanzierungen von Zuschüssen auf Kredite umgestellt werden – eine Verschiebung, die Entwicklungsländer härter treffen könnte.
+Ein sich rasch entwickelndes El Niño-Ereignis rückt in den Fokus der Klimabeobachtung. Nach Angaben von Klimaforschern gehört es zu den am schnellsten intensivierenden Ereignissen dieser Art, was die Wahrscheinlichkeit eines rekordwarmen Jahres 2026 erhöht. Die genauen Auswirkungen lassen sich noch nicht abschließend bewerten, doch die Dynamik ist ungewöhnlich.
 
-Auf dem internationalen Kohlenstoffmarkt zeichnet sich eine Entwicklung ab, die viele Beobachter als positiv bewerten: Die befürchtete Flut von umweltlich fragwürdigen „Zombie-Krediten“ ist ausgeblieben. Nachdem China und Indien sich gegen die Übernahme alter Projekte in den neuen UN-Markt ausgesprochen haben, bleiben die meisten dieser Altlasten ausgeschlossen. Die Europäische Union wiederum hat ihren Emissionshandel überprüft und schlägt vor, die Emissionskürzungen ab 2031 langsamer vorzunehmen als ursprünglich geplant – ein Schritt, der die Klimaziele der EU abschwächen könnte.
+In Europa zeigen sich bereits konkrete Folgen von Trockenheit und Hitze. In Wales wurden etwa fünf Prozent der durchschnittlichen Juli-Niederschlagsmenge gemessen, nach mehreren aufeinanderfolgenden Hitzewellen. Mehr als acht Millionen Haushalte in Großbritannien sind von einem Verbot der Schlauchnutzung betroffen. In Frankreich und Spanien haben sich großflächige Waldbrände ausgebreitet. An der französischen Atlantikküste wurde die gesamte Halbinsel Cap Ferret evakuiert, Zehntausende Menschen sind betroffen.
 
-In Großbritannien sind mehr als acht Millionen Haushalte von einem Schlauchverbot betroffen, was Fragen zur Effizienz der Wasserversorgung aufwirft. Parallel dazu sind geheime Gerichtsdokumente durchgesickert, die das potenzielle Ausmaß illegaler Abwassereinleitungen durch die Wasserwirtschaft offenlegen. Ein prominenter Wasseraktivist hat diese Dokumente analysiert, die genauen Zahlen sind jedoch noch nicht vollständig verifiziert.
+Eine neue Studie zeigt, dass der verbesserte Zugang zu Finanzmitteln für Frauen in Subsahara-Afrika die Widerstandsfähigkeit von Haushalten gegenüber Klimaschocks stärken kann. Die Ergebnisse sind ein Hinweis darauf, dass soziale und wirtschaftliche Faktoren eine zentrale Rolle bei der Anpassung an den Klimawandel spielen.
+
+Im Bereich der internationalen Klimapolitik zeichnet sich eine Entwicklung ab: Die meisten sogenannten „Zombie-Credits“ aus früheren Klimaschutzprojekten können nicht in den neuen UN-Kohlenstoffmarkt überführt werden, nachdem China und Indien sich gegen eine Übertragung ausgesprochen haben. Die Befürchtung einer Überschwemmung des Marktes mit ökologisch fragwürdigen Zertifikaten hat sich damit vorerst nicht bestätigt.
 
 ## 🔬 Wissenschaft
 
-Die NASA hat neue Daten der Juno-Mission veröffentlicht, die erstmals die Temperatur unter der Oberfläche von Jupiters Mond Io messen. Io ist der vulkanisch aktivste Himmelskörper im Sonnensystem, und die Mikrowellenradiometer-Daten zeigen eine erhebliche Erwärmung im flachen Untergrund. Während Infrarotinstrumente nur die Oberflächentemperatur messen, können die niederfrequenten Mikrowellenkanäle zwischen sechs und mehr Kilometern Tiefe eindringen. Die Daten wurden während zweier naher Vorbeiflüge im Dezember 2023 und Februar 2024 gesammelt.
+Die NASA-Raumsonde MAVEN hat neue Erkenntnisse über die Entstehung von Polarlichtern auf dem Mars geliefert. Die in Nature Communications veröffentlichten Ergebnisse zeigen, dass bestimmte Arten von Mars-Auroras durch denselben Mechanismus entstehen wie auf der Erde: geladene Teilchen werden durch Magnetfeldprozesse in die Atmosphäre katapultiert. Dies ist ein wichtiger Schritt zum Verständnis der marsianischen Atmosphäre.
 
-Ebenfalls am 21. Juli startete eine robotische Servicemission von Cape Canaveral an Bord einer SpaceX Falcon 9. Die Mission Robotic Vehicle (MRV) trägt die von der NASA unterstützte Nutzlast RSGS (Robotic Servicing of Geosynchronous Satellites) und befindet sich nun auf dem Weg in den geosynchronen Orbit. Dort soll sie fortschrittliche Robotik zur Wartung von Satelliten einsetzen.
+Eine grundlegende Entdeckung zur Vogelstimme wurde veröffentlicht: Forscher haben ein einfaches akustisches Prinzip identifiziert, das die spektakuläre Vielfalt des Vogelgesangs verbindet. Die Studie liefert eine einheitliche Erklärung für ein Phänomen, das bislang als rätselhaft galt.
 
-Die NASA hat sich zudem der sogenannten Genesis-Mission angeschlossen, einer nationalen Initiative zur Förderung des Einsatzes künstlicher Intelligenz in wissenschaftlichen und technischen Herausforderungen. Die Mission wurde durch eine Exekutivanordnung von Präsident Trump im November 2025 ins Leben gerufen. Die NASA wird ihr neues Windtunnelprojekt, die Flight Dynamics Research Facility in Virginia, am 31. Juli der Öffentlichkeit vorstellen – es ist der erste neue Windtunnel der Behörde seit mehr als 40 Jahren.
+Der NASA-Astronaut Chris Williams kehrt nach acht Monaten auf der Internationalen Raumstation zur Erde zurück. Während seiner Mission forschte er unter anderem zu neuen Krebstherapien und zur Herstellung verbesserter Materialien für Computer und Elektronik. Zudem führte er zwei Weltraumspaziergänge durch.
+
+Die NASA hat zudem angekündigt, dass ihr Programm NASA+ nun auch auf Amazon Fire TV verfügbar ist. Das Nancy Grace Roman Space Telescope soll frühestens Ende August starten und könnte mit seinen verformbaren Spiegeln die Beobachtung von Jupiter-ähnlichen Planeten ermöglichen.
 
 ## ⚙️ Technik
 
-Mehrere Sicherheitslücken wurden in dieser Woche bekannt. Eine Schwachstelle in snap-confine, einem Bestandteil des Ubuntu-Paketsystems, ermöglicht es lokalen Benutzern, auf Standard-Desktop-Installationen von Ubuntu 24.04, 25.10 und 26.04 Root-Rechte zu erlangen. Die als CVE-2026-8933 eingestufte Schwachstelle hat einen CVSS-Score von 7,8 und gilt als hochriskant.
+Mehrere Sicherheitslücken in KI-Systemen und Software wurden bekannt. In OpenAI's ChatGPT Workspace Agents wurde eine als AgentForger bezeichnete Schwachstelle entdeckt, die es einem einzelnen Phishing-Link ermöglichen konnte, einen autonomen KI-Agenten innerhalb einer Organisation zu installieren. OpenAI hat das Problem nach Angaben der Forscher am 8. Juni behoben.
 
-Eine weitere Sicherheitslücke betrifft die Adobe Acrobat Chrome-Erweiterung, die von über 314 Millionen Nutzern verwendet wird. Die als HermeticReader bezeichnete Schwachstelle (CVE-2026-48294, CVSS 7,4) könnte es bösartigen Websites ermöglichen, WhatsApp-Web-Daten stillschweigend auszulesen. Der Fehler wurde inzwischen behoben.
+Bei Anthropics Claude Cowork wurde eine Sandbox-Escape-Schwachstelle gefunden. Sie erlaubte es, aus der Linux-VM, in der der KI-Agent läuft, auszubrechen und auf Mac-Dateien zuzugreifen. Rund 500.000 macOS-Nutzer waren potenziell betroffen.
 
-In einer groß angelegten Kampagne haben Angreifer kompromittierte GitHub-Repositories in verteilte Angriffsinfrastruktur umgewandelt, um cPanel- und WHM-Server anzugreifen. Die Aktivität umfasst bösartige Packagist-Entwicklungsversionen von zehn Paketen, die mit einem legitimen PHP-Entwickler in Verbindung stehen und zwischen dem 12. und 13. Juli verbreitet wurden.
+Eine russische, staatlich unterstützte Spionagegruppe hat über Monate hinweg westliche E-Mail-Postfächer ausgespäht. Sie nutzte eine damals unbekannte Schwachstelle in Zimbras Webmail-Client aus. Die Schadsoftware griff auf die letzten 90 Tage E-Mails, das gesamte Adressbuch, gespeicherte Passwörter und Zwei-Faktor-Wiederherstellungscodes zu. Das bloße Öffnen der Nachricht genügte. NSA, CISA und Partnerbehörden haben eine gemeinsame Warnung veröffentlicht.
 
-Ein Bericht zur Cybersicherheit stellt fest, dass etwa 79 Prozent der Angriffe heute ohne Malware auskommen, da Angreifer zunehmend auf legitime Anmeldedaten und systemeigene Werkzeuge setzen. Die Entwicklung künstlicher Intelligenz für die Medikamentenentwicklung schreitet ebenfalls voran: Ein Fachartikel beschreibt, wie KI-Werkzeuge Wissenschaftlern helfen, die nächste Generation von Arzneimitteln zu entwickeln, insbesondere bei biologischen Medikamenten aus gentechnisch veränderten Proteinen.
+Das ukrainische CERT-UA warnte vor einer Kampagne, bei der ein als Notepad++-Plugin getarnter Schadcode namens MATCHBOIL.V2 auf Windows-Systeme abzielt. Die Gruppe UAC-0099, die zuvor Sicherheitslücken in WinRAR ausgenutzt hatte, wird dafür verantwortlich gemacht.
+
+Acht Sicherheitslücken in der Forensoftware NodeBB wurden durch KI-gestützte Penetrationstests in nur sechs Stunden entdeckt. Alle Versionen vor 4.14.0 sind betroffen; das Update auf 4.14.2 wird empfohlen.
+
+Redis hat sieben Sicherheitsupdates veröffentlicht, nachdem Forscher des Kimi K3-Teams Schwachstellen fanden, die eine Remotecodeausführung ermöglichen.
 
 ## 🏛️ Politik
 
-Der indische Aktivist Sonam Wangchuk befindet sich seit 26 Tagen im Hungerstreik in Delhi und hat nach eigenen Angaben elf Kilogramm Gewicht verloren. Er ist die zentrale Figur der Cockroach Janta Party-Proteste, die auf politische Missstände aufmerksam machen wollen.
+Die USA haben eine neue Welle von Zöllen gegen Dutzende Länder verhängt. Die Maßnahmen werden mit Bedenken wegen Zwangsarbeit begründet und ersetzen eine vorübergehende globale Zollregelung, die nach der Aufhebung von Zöllen durch den Obersten Gerichtshof im Februar notwendig geworden war.
 
-In Peru kamen bei einem Brand in Lima zehn Mitglieder derselben Familie ums Leben. Die Behörden ermitteln zur Brandursache, lokale Medien berichten von einem möglichen Brandanschlag.
+Der Ölpreis hat erstmals seit Mai wieder die Marke von 100 US-Dollar pro Barrel erreicht. Der Preis für Brent-Rohöl stieg am Donnerstag um mehr als sechs Prozent, was mit der Eskalation des Krieges im Nahen Osten in Verbindung gebracht wird.
 
-Eine britische Frau wurde in Hongkong zu einer Haftstrafe verurteilt, weil sie einen britischen Bankier erpresst und den Strafvollzug behindert haben soll. Isabel Rose wurde schuldig gesprochen, versucht zu haben, 100.000 Pfund von dem Bankier zu erpressen, den sie zuvor der Vergewaltigung beschuldigt hatte.
+In der Ukraine weigert sich der entlassene Verteidigungsminister Mychajlo Fedorow, ein alternatives Amt anzunehmen, und besteht auf seiner Wiedereinsetzung. Der Machtkampf mit Präsident Selenskyj hält an.
 
-Elon Musk äußerte sich in einem Interview mit The Economist zu den wachsenden Ängsten vor künstlicher Intelligenz und sagte, es sei ihm egal, ob die Leute ihn hassten, und er sei kein Rassist.
+In Indien haben Vertreter der sogenannten „Kakerlaken“-Protestbewegung Gespräche mit der Regierung aufgenommen. Der Aktivist Sonam Wangchuk beendete zuvor seinen 26-tägigen Hungerstreik. Der Konflikt um die Autonomierechte in der Region Ladakh bleibt ungelöst.
+
+In Tansania wurde ein Hochschuldozent unter Terrorismusanklage gestellt, nachdem er an geplanten regierungskritischen Protesten beteiligt war. Er ist einer von mehr als 130 Inhaftierten, die für demokratische Reformen demonstrieren wollten.
 
 ## 🌐 Geopolitische Lage
 
-Die Vereinten Nationen haben erneut zur Zurückhaltung im Konflikt zwischen den USA und dem Iran aufgerufen. UN-Generalsekretär Guterres betonte die Notwendigkeit von Dialog und ein Ende der Angriffe auf „lebenswichtige Infrastruktur“ in der Region. Die Huthi-Rebellen haben nach eigenen Angaben Angriffe auf Öltanker im Roten Meer verübt – die ersten seit der Ankündigung einer „maritimen Blockade“ gegen Saudi-Arabien. Die USA haben als Reaktion weitere Angriffe gegen den Iran durchgeführt.
+Die Spannungen zwischen den USA und dem Iran haben sich weiter verschärft. Beide Seiten haben erneut militärische Schläge im Golf ausgetauscht. Der Iran verurteilte zudem die US-Pläne, eingefrorene iranische Vermögenswerte zur Finanzierung von Kriegsschäden zu verwenden. Die Vereinten Nationen haben bekräftigt, dass die Erhebung von Gebühren für die sichere Durchfahrt durch die Straße von Hormus gegen das Völkerrecht verstößt. Die Frage, wie die Schifffahrt künftig organisiert werden soll, bleibt unbeantwortet. Zahlreiche Seeleute sitzen weiterhin in der Region fest.
 
-Präsident Trump hat erklärt, dass ein Abkommen zur Entwicklung von Kernenergie in Saudi-Arabien davon abhänge, dass das Königreich Israel anerkenne und den Abraham-Abkommen beitrete. Kanadas Milchwirtschaft steht unterdessen im Fokus von Trumps Handelspolitik: Der Präsident hat das kanadische Angebotsmanagementsystem für Milchprodukte als einen von drei Hauptgründen für neue Zölle genannt.
+US-Präsident Trump hat erklärt, dass ein Abkommen zur Entwicklung der Kernenergie in Saudi-Arabien davon abhängt, dass das Königreich Israel anerkennt und den Abraham-Abkommen beitritt.
 
-Die UN-Partner haben einen Winterhilfeplan für die Ukraine gestartet, um 2,1 Millionen Menschen durch die kommende Kälteperiode zu helfen. Tausende Menschen können weiterhin nicht in ihre Häuser im Südlibanon zurückkehren, da die Kämpfe dort andauern. Unabhängige UN-Menschenrechtsexperten verurteilten die „Schreckensherrschaft“ der M23-Gruppe in Gebieten der östlichen Demokratischen Republik Kongo, die von der ruandisch unterstützten Gruppe kontrolliert werden, und forderten ein Ende der sexuellen Gewalt gegen Zivilisten.
+In Afghanistan kamen bei Sturzfluten mindestens 26 Menschen ums Leben, die meisten davon in der Provinz Nuristan. Häuser, Märkte und Straßen wurden weggespült, Suchtrupps sind im Einsatz.
+
+Die Vereinten Nationen warnen, dass Nicaragua weiterhin die politischen Freiheiten einschränkt. UN-Menschenrechtskommissar Volker Türk verurteilte neue Drohungen von Co-Präsident Daniel Ortega gegen Andersdenkende und die Behinderung ihrer Teilnahme an Wahlen.
 
 ## ⚔️ Krieg
 
-Ukrainische Drohnen haben innerhalb weniger Tage mehrere Lagerhäuser des größten russischen Online-Einzelhändlers Wildberries getroffen. Dies setzt die russische Wirtschaft zusätzlich unter Druck, da die Angriffe gezielt auf logistische Infrastruktur abzielen.
+Die humanitäre Lage im Gazastreifen hat sich nach UN-Angaben verbessert. Die Ernährungssicherheit und die Kindergesundheit haben sich durch verstärkte humanitäre Hilfe und kommerziellen Verkehr positiv entwickelt. Die Fortschritte sind jedoch fragil und könnten sich ohne anhaltende Unterstützung und Wiederaufbauhilfe schnell umkehren.
 
-Die Huthi-Rebellen haben Angriffe auf Öltanker im Roten Meer gemeldet. Es wäre der erste Vorfall dieser Art seit der Ankündigung einer Seeblockade gegen Saudi-Arabien durch die vom Iran unterstützte Gruppe. Die USA haben als Reaktion weitere Luftangriffe gegen den Iran durchgeführt.
+In der Ukraine haben UN-Partner den Winterhilfeplan gestartet, um 2,1 Millionen Menschen in der kommenden kalten Jahreszeit zu unterstützen. Der Krieg dauert an.
 
-Die UN hat einen Winterhilfeplan für die Ukraine aufgelegt, um 2,1 Millionen Menschen zu unterstützen. Die humanitäre Lage in der Ukraine bleibt angespannt, während der Krieg andauert. In der Demokratischen Republik Kongo verurteilten UN-Experten die sexuelle Gewalt der M23-Gruppe gegen Zivilisten in den von ihr kontrollierten Gebieten. Die genauen Opferzahlen in allen Konflikten sind durch die vorliegenden Quellen nicht ausreichend gedeckt, um sie hier zu nennen.
+Im Libanon sind Tausende Menschen weiterhin daran gehindert, in ihre Häuser im Süden des Landes zurückzukehren. Die monatelangen Kämpfe haben weite Teile der Region zerstört, viele Familien haben keinen Zugang zu Unterkünften und medizinischer Versorgung.
+
+Der Sudan ist von Drohnenangriffen betroffen, über die die Vereinten Nationen berichtet haben. Die Sicherheitslage bleibt angespannt.
 
 ## 💬 Meinung des Tages
 
-Der 23. Juli 2026 zeigt ein Muster, das sich durch alle Bereiche zieht: Die Welt bewegt sich in einem Zustand permanenter Spannung zwischen pragmatischen Lösungen und grundsätzlichen Werten. In der Klimapolitik wird die Energiewende zunehmend mit wirtschaftlichen und sicherheitspolitischen Argumenten vorangetrieben, während gleichzeitig die internationale Solidarität – etwa durch die Umstellung von Klimafinanzierungen auf Kredite – zu bröckeln droht. In der Technik werden Sicherheitslücken geschlossen, während gleichzeitig neue Angriffsmethoden entstehen. In der Geopolitik ruft die UN zur Diplomatie auf, während die Kämpfe zwischen den USA und dem Iran sowie im Jemen und in der Ukraine weitergehen. Dieser Tag lehrt uns, dass Fortschritt selten linear verläuft und dass jede Entscheidung – ob in der Klimapolitik, der Cybersicherheit oder der Außenpolitik – Nebenwirkungen hat, die oft erst später sichtbar werden. Die Kunst besteht nicht darin, perfekte Lösungen zu finden, sondern in der Fähigkeit, mit diesen Spannungen umzugehen, ohne die grundlegenden Werte aus den Augen zu verlieren.
+Der 24. Juli 2026 ist ein Tag der Gleichzeitigkeit von Beschleunigung und Blockade. Ein El Niño entwickelt sich mit ungewöhnlicher Geschwindigkeit, während in Europa Wälder brennen und Flüsse versiegen. Gleichzeitig zeigt eine Studie, dass finanzielle Inklusion von Frauen in Afrika die Widerstandsfähigkeit gegen Klimaschocks stärkt – ein kleiner, aber bedeutsamer Hinweis darauf, dass Anpassung nicht nur technisch, sondern auch sozial gedacht werden muss.
+
+Die Sicherheitslücken in KI-Systemen sind kein Randphänomen mehr. Sie betreffen die Infrastruktur, mit der Unternehmen und Regierungen arbeiten. Dass Schwachstellen in ChatGPT und Claude Cowopk gefunden wurden, zeigt, dass die Sicherheitsarchitektur dieser Systeme noch nicht mit ihrer Verbreitung Schritt hält. Gleichzeitig nutzen staatliche Akteure weiterhin konventionelle Schwachstellen in E-Mail-Systemen aus. Die Bedrohungslage ist breit und erfordert eine ebenso breite Antwort.
+
+Die geopolitischen Linien werden schärfer. Der Ölpreis steigt, die USA und Iran tauschen Schläge aus, und die USA verhängen neue Zölle gegen Dutzende Länder. Die Welt bewegt sich in einem Modus, den man als fragmentierte Eskalation bezeichnen könnte: viele Konflikte, viele Fronten, aber keine klare Achse. Die UN versuchen, mit Winterhilfeplänen und Appellen zur Konfliktprävention gegenzusteuern, aber die Mittel sind begrenzt.
+
+Was dieser Tag zeigt, ist die Zerbrechlichkeit von Fortschritt. Die Ernährungssicherheit im Gazastreifen verbessert sich – aber nur, solange Hilfe fließt. Die Klimaresilienz von Frauen in Subsahara-Afrika steigt – aber nur, wenn Finanzzugang gewährleistet ist. Nichts ist selbstverständlich. Alles muss immer wieder neu erkämpft, finanziert und geschützt werden. Das ist keine hoffnungslose Erkenntnis, aber eine, die Demut erfordert.
 
 ## 🎵 Song des Tages
 
-„The Sound of Silence“ von Simon & Garfunkel. Die ruhige, melancholische Melodie und der Text über das Verstummen von Kommunikation und das Fortbestehen von Konflikten unter der Oberfläche passen zu einem Tag, an dem Diplomatie und Krieg, Klimaschutz und wirtschaftliche Interessen, technischer Fortschritt und neue Sicherheitsrisiken nebeneinander existieren – oft ohne dass die eine Seite die andere wirklich hört.
+**"The End of the Innocence" – Don Henley**
+
+Dieses Lied handelt vom Verlust einer unbeschwerten Zeit und dem Eintritt in eine Ära, in der nichts mehr selbstverständlich ist. Es passt zu einem Tag, an dem sich Klima, Konflikte und Technologie gleichzeitig verändern, ohne dass klar ist, wohin die Reise geht. Die Melodie ist ruhig, aber der Text ist unruhig – genau wie die Stimmung dieses Tages.
 
 
 ---
 
-*Erstellt am 2026-07-23 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-07-24 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
