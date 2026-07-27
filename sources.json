@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T12:50:50.328277+00:00",
-  "date": "2026-07-26",
+  "generated_at": "2026-07-27T14:04:18.411548+00:00",
+  "date": "2026-07-27",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
@@ -10,20 +10,74 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
-      "published": "2026-07-25T12:52:43+00:00",
+      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+      "url": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
+      "published": "2026-07-27T08:48:47+00:00",
+      "score": 15
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Oil price dives as US and Iran pause attacks",
+      "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
+      "published": "2026-07-27T11:50:23+00:00",
+      "score": 14
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Building the enterprise environment for agentic AI",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
+      "published": "2026-07-27T11:32:58+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "How 'fire-generated thunderstorms' make wildfires more deadly",
+      "url": "https://www.bbc.co.uk/news/articles/c2350xnl4j5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Certain types of severe wildfire can create pyrocumulonimbus - something that Nasa calls the \"fire-breathing dragon of clouds\".",
+      "published": "2026-07-27T11:11:07+00:00",
       "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "More than 600 US military service members injured since Iran War began in February",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest figure includes casualties from Operation Fury and a new category called \"Overseas Operations\".",
+      "published": "2026-07-27T13:31:57+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Zelensky arrives in UK ahead of meeting Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ukrainian president will be the new prime minister's first international visitor since taking office.",
+      "published": "2026-07-27T12:33:40+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
+      "published": "2026-07-27T11:40:16+00:00",
+      "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "url": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,",
-      "published": "2026-07-24T11:53:55+00:00",
-      "score": 13
+      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+      "url": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. According to a new analysis by Proofpoint, Cruciferra has been utilized by various unrelated cybercriminal threat clusters to deliver a wide array of remote",
+      "published": "2026-07-27T10:51:45+00:00",
+      "score": 12
     },
     {
       "source": "The Hacker News",
@@ -46,127 +100,109 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "What we know so far about the Berlin Pride ramming attack",
-      "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-      "summary": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
-      "published": "2026-07-26T11:41:04+00:00",
+      "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+      "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+      "summary": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+      "published": "2026-07-27T12:33:31+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
-      "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-      "published": "2026-07-26T11:29:07+00:00",
+      "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
+      "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say two suspects were shooting at each other and one of them is in custody and one at large.",
+      "published": "2026-07-27T10:46:50+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "India's 'cockroach' protest called off after education minister quits",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "published": "2026-07-25T17:44:46+00:00",
+      "title": "Pirlo out of Italy football top job after backlash over Russian betting firm links",
+      "url": "https://www.bbc.co.uk/news/articles/c4g49r2338xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The uproar throws the Italian Football Federation into further disarray following Italy's third consecutive failure to qualify for the World Cup.",
+      "published": "2026-07-27T11:03:15+00:00",
       "score": 11
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "More than 300,000 flee wildfires in France and Spain",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "published": "2026-07-26T00:54:06+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168023",
-      "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expected to keep functioning – ensuring the essential rule of law is maintained.",
-      "published": "2026-07-24T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Wildfires surge across Europe as Spain and France battle major blazes",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168013",
-      "summary": "The amount of land burned by wildfires across Europe has increased by 57 per cent in four years, according to new data from the World Health Organization (WHO) in Europe.",
-      "published": "2026-07-24T12:00:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
+      "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+      "published": "2026-07-27T09:59:15+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
-      "published": "2026-07-25T18:48:44+00:00",
+      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+      "url": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming that Microsoft Teams had to be updated before the shared document could be opened,\" ZeroBEC said in",
+      "published": "2026-07-27T12:37:49+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "url": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
+      "published": "2026-07-25T12:52:43+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "published": "2026-07-25T00:06:53+00:00",
+      "title": "Bali bans Dutch expats whose run club allegedly excluded Indonesians",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1m6e08e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two men, who are accused of favouring foreigners for their events, allegedly violated immigration laws.",
+      "published": "2026-07-27T10:59:13+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "published": "2026-07-25T06:34:40+00:00",
+      "title": "'Dr Death', Body Worlds creator Gunther von Hagens, dies at 81",
+      "url": "https://www.bbc.co.uk/news/articles/czjlnrn47lwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The family of the anatomist vowed to carry out his wish for his body to be preserved using the plastination technique he developed himself.",
+      "published": "2026-07-27T12:28:07+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump vows to investigate EU over fining of US tech companies",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "published": "2026-07-24T20:23:58+00:00",
+      "title": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
+      "summary": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula.",
+      "published": "2026-07-27T10:19:34+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK's iconic Jodrell Bank telescope faces axe in science cuts",
+      "url": "https://www.bbc.co.uk/news/articles/c5y6r9rdxygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Astronomers warn it would tear the heart out of UK science, and leave a generation untrained.",
+      "published": "2026-07-27T11:50:13+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
+      "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate.",
+      "published": "2026-07-27T02:04:10+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168021",
-      "summary": "One month after twin earthquakes rocked Venezuela, thousands of women and girls continue to face difficulty in accessing essential healthcare and protection services, a senior official with the UN reproductive and sexual health agency UNFPA said on Friday.",
-      "published": "2026-07-24T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
-      "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.",
-      "published": "2026-07-24T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168012",
-      "summary": "In El Obeid, women and girls now face an impossible choice over something as basic as a bucket of water: risk a drone strike by collecting it in daylight, or risk rape by waiting until dark.",
-      "published": "2026-07-24T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-      "summary": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
-      "published": "2026-07-23T12:00:00+00:00",
+      "title": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
+      "summary": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice-weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
+      "published": "2026-07-26T12:00:00+00:00",
       "score": 10
     },
     {
@@ -181,10 +217,10 @@
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former advisers to President Donald Trump on AI publicly lobbed insults at the country’s leading…",
-      "published": "2026-07-21T12:10:00+00:00",
+      "title": "The path to artificial superintelligence",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
+      "published": "2026-07-27T12:00:00+00:00",
       "score": 10
     },
     {
@@ -217,28 +253,19 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "published": "2026-07-25T13:51:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
-      "published": "2026-07-26T10:26:05+00:00",
+      "title": "US deports Kenyan former NFL player Daniel Adongo",
+      "url": "https://www.bbc.co.uk/news/articles/c74gzg27v8no?at_medium=RSS&at_campaign=rss",
+      "summary": "The authorities say the ex-sportsman had overstayed his visa and had been arrested multiple times.",
+      "published": "2026-07-27T10:56:36+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "'It's like having an amusement park and not opening it' - algae closures take toll",
-      "url": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss",
-      "summary": "There are currently 245 algae blooms across water systems in Northern Ireland.",
-      "published": "2026-07-26T07:01:30+00:00",
+      "title": "More than 300,000 flee wildfires in France and Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+      "published": "2026-07-26T00:54:06+00:00",
       "score": 9
     },
     {
@@ -251,111 +278,75 @@
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
-      "published": "2026-07-25T02:29:36+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Scientists find the secret of birdsong's 'spectacular diversity'",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
-      "summary": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple",
-      "published": "2026-07-23T23:55:29+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "After war took her leg, this Ukrainian gymnast refused to give up",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168020",
+      "summary": "When 10-year-old Ukrainian gymnast Sasha Paskal stepped onto the stage in New York's Times Square this week, she carried a message far bigger than her performance.",
+      "published": "2026-07-26T12:00:00+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Security Council debrief: Race for critical minerals intensifies amidst warnings of conflict",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168024",
-      "summary": "The world needs more critical minerals than ever before for electric vehicles, wind turbines, solar panels, batteries and smartphones.",
+      "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168027",
+      "summary": "Syria has an opportunity not only to recover from conflict but to build “a future that is more stable, more inclusive and more prosperous for all Syrians”, UN Secretary-General António Guterres said in Damascus on Saturday as he began a landmark visit to the country.",
+      "published": "2026-07-25T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168023",
+      "summary": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expected to keep functioning – ensuring the essential rule of law is maintained.",
       "published": "2026-07-24T12:00:00+00:00",
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Astronaut Chris Williams, Crewmates Return from Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-crewmates-return-from-space-station/",
-      "summary": "Concluding an eight-month science mission aboard the International Space Station, NASA astronaut Chris Williams returned to Earth on Sunday alongside Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. The crew made its safe, parachute-assisted landing at 5:27 a.m. CDT (3:27 p.m., Kazakhstan time), southeast of Dzhezkazgan, after departing the space station at 2:03 a.m., aboard the […]",
-      "published": "2026-07-26T10:59:44+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Look for NASA+ Now Streaming on Amazon Fire TV",
-      "url": "https://www.nasa.gov/news-release/look-for-nasa-now-streaming-on-amazon-fire-tv/",
-      "summary": "Continuing agency efforts to bring space closer to home, NASA+ is heading to more streaming platforms. On Thursday, NASA announced its programming is on Fire TV Channels. Fire TV customers can easily access this content by asking Alexa+ on compatible devices. Future programming on Fire TV may include science mission launches, a test flight for […]",
-      "published": "2026-07-23T19:11:29+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Wildfires surge across Europe as Spain and France battle major blazes",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168013",
+      "summary": "The amount of land burned by wildfires across Europe has increased by 57 per cent in four years, according to new data from the World Health Organization (WHO) in Europe.",
+      "published": "2026-07-24T12:00:00+00:00",
       "score": 9
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-      "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Nancy Grace Roman Space Telescope launches, as early as the end of next month, it will…",
-      "published": "2026-07-22T12:10:00+00:00",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…",
+      "published": "2026-07-27T12:10:00+00:00",
       "score": 9
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "url": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
-      "published": "2026-07-24T14:15:21+00:00",
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "url": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected ranges are <2.31.5 and >=2.32.0,<2.32.1. n8n fixed the flaw in versions 2.31.5 and",
+      "published": "2026-07-27T13:05:15+00:00",
       "score": 9
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Access to finance ‘strengthens climate resilience’ among sub-Saharan women",
-      "url": "https://www.carbonbrief.org/access-to-finance-strengthens-climate-resilience-among-sub-saharan-women",
-      "summary": "Empowering women through greater access to finance could “strengthen” households’ resilience to “climate shocks”, according to a new study. Published… The post Access to finance ‘strengthens climate resilience’ among sub-Saharan women appeared first on Carbon Brief .",
-      "published": "2026-07-24T11:29:45+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "State of the climate: Rapidly developing El Niño raises chance of record-warm 2026",
-      "url": "https://www.carbonbrief.org/state-of-the-climate-rapidly-developing-el-nino-raises-chance-of-record-warm-2026",
-      "summary": "As 2026 passes its halfway point, the world is watching one of the most rapidly intensifying El Niño events in… The post State of the climate: Rapidly developing El Niño raises chance of record-warm 2026 appeared first on Carbon Brief .",
-      "published": "2026-07-24T10:59:37+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "url": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
+      "published": "2026-07-25T18:48:44+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-      "published": "2026-07-24T23:01:06+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-      "published": "2026-07-24T22:49:59+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "How to see July's full Buck Moon as it rises in the night sky",
-      "url": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
-      "summary": "July's full Moon, know as the Buck Moon, is set to light up the night sky next week.",
-      "published": "2026-07-26T00:03:08+00:00",
+      "title": "Millions see leaked copy of The Odyssey movie on X",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1ev5j3m2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Film studio Universal takes down a high-quality bootleg version of the film, which appeared on X.",
+      "published": "2026-07-27T09:21:10+00:00",
       "score": 8
     },
     {
@@ -388,9 +379,27 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168018",
-      "summary": "A new mobile UN peacekeeping base in the Democratic Republic of the Congo (DRC) has allowed local authorities to continue responding to the fast-moving Ebola outbreak there after violence disrupted the work of medics at a treatment centre set up to contain the spread.",
+      "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168028",
+      "summary": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads.",
+      "published": "2026-07-26T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168021",
+      "summary": "One month after twin earthquakes rocked Venezuela, thousands of women and girls continue to face difficulty in accessing essential healthcare and protection services, a senior official with the UN reproductive and sexual health agency UNFPA said on Friday.",
+      "published": "2026-07-24T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Middle East: UN warns against wider escalation after Houthi attacks in the Red Sea",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168016",
+      "summary": "As fighting intensifies in the Middle East, the United Nations on Friday warned against further escalation in the US-Iran war and the risks to global shipping amid the fight over control of the Strait of Hormuz.",
       "published": "2026-07-24T12:00:00+00:00",
       "score": 8
     },
@@ -401,15 +410,6 @@
       "url": "https://science.nasa.gov/image-article/centers-and-facilities/goddard/nasas-escapade-snaps-family-portrait-of-earth-moon/",
       "summary": "On July 3, one of NASA’s two Mars-destined ESCAPADE (Escape and Plasma Acceleration and Dynamics Explorers) spacecraft captured photos of Earth and the Moon in visible and thermal infrared light. At the time, the spacecraft was 363,250 miles (584,600 kilometers) from Earth and 115,600 miles (186,100 kilometers) from the Moon, making the Moon appear relatively […]",
       "published": "2026-07-24T17:47:06+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "New Crew Members Welcomed to International Space Station",
-      "url": "https://www.nasa.gov/image-article/new-crew-members-welcomed-to-international-space-station/",
-      "summary": "From left, Expedition 74 flight engineers Anna Kikina and Pyotr Dubrov of Roscosmos, and Anil Menon of NASA pose for a July 18, 2026, photo while holding a cake celebrating their recent arrival aboard the International Space Station. The trio arrived at the space station on July 14, 2026, after launching from the Baikonur Cosmodrome […]",
-      "published": "2026-07-24T16:43:02+00:00",
       "score": 8
     }
   ]
