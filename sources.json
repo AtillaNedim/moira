@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T13:30:30.125780+00:00",
-  "date": "2026-07-29",
+  "generated_at": "2026-07-30T13:20:32.215028+00:00",
+  "date": "2026-07-30",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/",
@@ -10,92 +10,92 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "url": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
-      "published": "2026-07-29T07:51:00+00:00",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "url": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors. The activity, which began on July 22, 2026, involves the",
+      "published": "2026-07-30T07:40:48+00:00",
+      "score": 16
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which…",
+      "published": "2026-07-30T10:15:19+00:00",
+      "score": 15
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "url": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+      "published": "2026-07-30T05:08:39+00:00",
+      "score": 15
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
+      "published": "2026-07-30T12:10:00+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
+      "url": "https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html",
+      "summary": "South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security software and infect targeted visitors with SIGNBT or COPPERHEDGE backdoors. A compromised page could infect a system running a vulnerable AnySign4PC version without a prompt or",
+      "published": "2026-07-30T10:33:15+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "url": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
+      "published": "2026-07-29T15:39:30+00:00",
       "score": 14
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Russia charges Telegram founder Durov with facilitating terrorism",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kexqkpzno?at_medium=RSS&at_campaign=rss",
-      "summary": "The FSB claims the messenger app, created by Pavel Durov, has failed to remove accounts and channels used for recruitment by Ukraine's secret service.",
-      "published": "2026-07-29T10:23:29+00:00",
+      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+      "published": "2026-07-30T11:48:50+00:00",
       "score": 13
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
-      "published": "2026-07-29T09:07:40+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC Science",
+      "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Devastating European wildfires in maps - and how they're being tackled",
-      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
-      "published": "2026-07-29T11:53:40+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168030",
-      "summary": "Cyberattacks, data breaches, online harassment and other forms of technology-facilitated violence are becoming significant obstacles to HIV prevention and treatment, according to a UNAIDS specialist who says digital security has become inseparable from the fight against the epidemic itself.",
-      "published": "2026-07-27T12:00:00+00:00",
+      "title": "NASA Sets Coverage for August Northern Hemisphere Total Solar Eclipse",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-august-northern-hemisphere-total-solar-eclipse/",
+      "summary": "On Wednesday, Aug. 12, a total solar eclipse will be visible in parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. NASA will stream the eclipse live with views across the path and interviews with subject matter experts through a variety of platforms. Learn where to watch online: […]",
+      "published": "2026-07-29T16:49:37+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "url": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
-      "published": "2026-07-29T11:00:00+00:00",
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "url": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls",
+      "published": "2026-07-30T11:32:46+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "url": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
-      "published": "2026-07-29T08:58:27+00:00",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "url": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
+      "published": "2026-07-29T18:10:00+00:00",
       "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "url": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
-      "published": "2026-07-29T07:07:23+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
-      "published": "2026-07-29T09:39:56+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Thousands in Spain return home but new heatwave raises wildfire fears",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain and France are both braced for the start of the fourth heatwave so far this summer and some fires have continued to burn.",
-      "published": "2026-07-29T12:29:07+00:00",
-      "score": 12
     },
     {
       "source": "UN News",
@@ -107,156 +107,165 @@
       "score": 12
     },
     {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Building the enterprise environment for agentic AI",
-      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
-      "published": "2026-07-27T11:32:58+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Understanding How Martian Auroras Are Made",
+      "url": "https://www.nasa.gov/image-article/understanding-how-martian-auroras-are-made/",
+      "summary": "This July 23, 2026, illustration depicts charged particles from a solar storm stripping away charged particles of Mars’ atmosphere, one of the processes of Martian atmosphere loss studied by NASA’s MAVEN (Mars Atmosphere and Volatile Evolution) mission. NASA MAVEN mission scientists have found that certain types of auroras on Mars form in a similar way […]",
+      "published": "2026-07-29T15:20:28+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "url": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack. According to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
-      "published": "2026-07-29T11:13:10+00:00",
+      "title": "SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT",
+      "url": "https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html",
+      "summary": "The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector to ultimately deliver ValleyRAT (aka Winos 4.0) for persistent remote access. \"In this campaign, the group combines new vulnerable-driver abuse, newly observed abuse of legitimate",
+      "published": "2026-07-30T10:32:59+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-      "url": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
-      "published": "2026-07-29T07:47:19+00:00",
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "url": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
+      "published": "2026-07-30T07:28:43+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-      "url": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
-      "published": "2026-07-28T18:59:07+00:00",
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "url": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls. Braham's water plant went offline, and the city asked residents to minimize",
+      "published": "2026-07-29T13:48:36+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ghana hit by nationwide blackout as power plants fail",
-      "url": "https://www.bbc.co.uk/news/articles/crmrkgr4z0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The massive outage has left homes, businesses and some essential services severely disrupted.",
-      "published": "2026-07-29T12:10:40+00:00",
+      "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+      "published": "2026-07-30T10:49:14+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump administration bans new Chinese humanoid robots",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e2ex3ekyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and China are locked in a race to the lead the world in robotics and artificial intelligence.",
-      "published": "2026-07-29T02:30:50+00:00",
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "published": "2026-07-29T18:41:31+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Thousands evacuated in Crete as Europe battles wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/c9w01781981o?at_medium=RSS&at_campaign=rss",
+      "summary": "Strong winds have fanned the flames in the Rethymno region as wildfires continue to ravage the Greek island.",
+      "published": "2026-07-30T12:46:16+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump considering AI controls after OpenAI hacking incidents",
+      "url": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
+      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
+      "published": "2026-07-30T07:23:11+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Singapore fines French teen $465 for viral straw-licking stunt",
+      "url": "https://www.bbc.co.uk/news/articles/crrvqjw8epko?at_medium=RSS&at_campaign=rss",
+      "summary": "The 19-year-old was \"truly sorry\" for causing trouble, his lawyers said.",
+      "published": "2026-07-30T02:54:54+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Australia takes Telegram to court over alleged failure to remove 'pro-terror' material",
+      "url": "https://www.bbc.co.uk/news/articles/crmrv4pnexmo?at_medium=RSS&at_campaign=rss",
+      "summary": "Telegram told the BBC it rejects the allegations and will contest them in court.",
+      "published": "2026-07-30T03:03:12+00:00",
       "score": 11
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Hosepipe bans in force as drought declared - is your area affected?",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
-      "published": "2026-07-29T13:03:18+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "More than half of England officially in drought, Environment Agency says",
+      "title": "More than half of England in drought, Environment Agency declares",
       "url": "https://www.bbc.co.uk/news/articles/ckg35n7yny3o?at_medium=RSS&at_campaign=rss",
       "summary": "The drought declarations follow an exceptionally hot and dry period, which has hit rivers, crops and nature.",
-      "published": "2026-07-29T12:55:03+00:00",
+      "published": "2026-07-29T14:37:30+00:00",
       "score": 11
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Wildfires 'stark reminder' of extreme climate challenge, says William",
-      "url": "https://www.bbc.co.uk/news/articles/cvg97dj5n16o?at_medium=RSS&at_campaign=rss",
-      "summary": "The prince's warning comes as wildfires rage in parts of Europe and the UK during a spell of extreme heat.",
-      "published": "2026-07-27T19:59:01+00:00",
+      "title": "Devastating European wildfires in maps - and how they're being tackled",
+      "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain and France have so far borne the burnt of this summer's wildfires, caused by a succession of heatwaves and prolonged dry spells.",
+      "published": "2026-07-29T11:53:40+00:00",
       "score": 11
     },
     {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
-      "published": "2026-07-29T12:10:00+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN warns West Bank settler violence hits ‘all-time high’ as calls grow to end occupation",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168045",
+      "summary": "Violence in the occupied West Bank is worsening as the Israeli Government continues to approve new settlements while settlers and Israeli security forces have “often” acted together to attack local Palestinian communities, the UN’s human rights office (OHCHR) warned on Wednesday.",
+      "published": "2026-07-29T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Johnson Interns Shaping the Future of Exploration",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-johnson-interns-shaping-the-future-of-exploration/",
+      "summary": "NASA interns at Johnson Space Center are applying their talents to real-world projects while working alongside the engineers, scientists, communicators, and innovators advancing human spaceflight. Learn how these students are gaining hands-on experience, contributing to real missions, and preparing to join the nation’s highly skilled and competitive aerospace workforce. Meet the students behind the work and discover what inspired them to pursue careers at […]",
+      "published": "2026-07-30T08:08:55+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Awards 2026 Innovative Technology Concepts",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-2026-innovative-technology-concepts/",
+      "summary": "The NASA Innovative Advanced Concepts (NIAC) program has created 18 new awards to support visionary ideas to improve aerospace technologies in areas ranging from the exploration of the solar system to understanding the universe. The 18 NIAC Phase I awards total $3.2 million. Each award provides up to $175,000 for a nine-month initial investigation. The […]",
+      "published": "2026-07-29T21:04:20+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "url": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update. \"No settings or additional user interaction are required,\" Eten Zou,",
-      "published": "2026-07-29T11:57:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-      "url": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force. Tengu supports 25 distributed denial-of-service (",
-      "published": "2026-07-28T15:01:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "url": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
-      "published": "2026-07-28T14:41:36+00:00",
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "url": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter. \"A malicious actor with network access to vCenter",
+      "published": "2026-07-29T15:31:15+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
-      "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
-      "published": "2026-07-29T06:10:19+00:00",
+      "title": "Salman Rushdie attacker convicted of terror offences",
+      "url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hadi Matar, 28, was convicted of attempting to help Hezbollah by attacking the British-Indian author.",
+      "published": "2026-07-29T22:15:33+00:00",
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "75 years later, the promise to protect refugees faces its greatest test",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168036",
-      "summary": "As the world marks the 75th anniversary of the Refugee Convention, the UN refugee agency (UNHCR) has launched a global campaign urging governments, organizations and individuals to renew their commitment to protecting people forced to flee war, violence and persecution.",
-      "published": "2026-07-27T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Lebanon: Israeli strikes ‘could amount to international crimes,’ warns Türk",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168034",
-      "summary": "UN Human Rights Chief Volker Türk expressed concern about ongoing displacement and destruction caused by Israeli strikes against Lebanon as he concluded a two-day visit to the country on Monday.",
-      "published": "2026-07-27T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it showed off a pair of new, impressively dexterous (and, to some,…",
-      "published": "2026-07-29T08:42:57+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Can a heatwave cause trees to fall?",
+      "url": "https://www.bbc.co.uk/news/videos/clyqle52l9po?at_medium=RSS&at_campaign=rss",
+      "summary": "Don't sit under a tree during a heatwave - here's why.",
+      "published": "2026-07-29T15:53:42+00:00",
       "score": 10
     },
     {
@@ -269,40 +278,22 @@
       "score": 10
     },
     {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-      "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
-      "published": "2026-07-27T11:40:16+00:00",
-      "score": 10
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Nicaraguan leader proposes extending presidential term by another year",
+      "url": "https://www.bbc.co.uk/news/articles/c0m78k3k31jo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
+      "published": "2026-07-30T10:34:07+00:00",
+      "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "url": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change? The honest answer is",
-      "published": "2026-07-29T12:15:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "url": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 The two packages \"contain an import-time JavaScript implant that resolves encrypted code",
-      "published": "2026-07-29T04:20:57+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Q&A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change?",
-      "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-renewables-mean-for-climate-change",
-      "summary": "China has released its “15th five-year plan for the development of renewable energy”, outlining key targets and policies for the… The post Q&A: What does China’s 15th ‘five-year plan’ for renewables mean for climate change? appeared first on Carbon Brief .",
-      "published": "2026-07-29T12:08:55+00:00",
-      "score": 10
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
+      "url": "https://www.bbc.co.uk/news/articles/c0m78xl1k2po?at_medium=RSS&at_campaign=rss",
+      "summary": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
+      "published": "2026-07-30T09:34:00+00:00",
+      "score": 9
     },
     {
       "source": "BBC World",
@@ -310,52 +301,43 @@
       "title": "Four women accuse Jared Leto of criminal sexual conduct",
       "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
       "summary": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "published": "2026-07-29T05:00:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
-      "published": "2026-07-29T13:11:10+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'Delulu', 'Clock it': 'Cockroach' protest brings Gen Z slang to India's parliament",
-      "url": "https://www.bbc.co.uk/news/articles/c9q90qvwe14o?at_medium=RSS&at_campaign=rss",
-      "summary": "From \"delulu\" to \"FOMO\", Gen Z slang has made an unlikely journey from Instagram to parliament.",
-      "published": "2026-07-29T09:02:48+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "French DJ ​and electronic ‌musician Kavinsky dies aged 50",
-      "url": "https://www.bbc.co.uk/news/articles/c204n74xyv3o?at_medium=RSS&at_campaign=rss",
-      "summary": "He had a hit with Nightfall, which featured on the Drive soundtrack and at the Paris 2024 Olympics.",
-      "published": "2026-07-29T10:35:13+00:00",
+      "published": "2026-07-29T21:36:06+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Mysterious deaths of elephants in Kenya prompts urgent inquiry",
-      "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
-      "published": "2026-07-29T09:06:45+00:00",
+      "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "published": "2026-07-30T12:14:00+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Spain and France brace for new heatwaves as wildfire closes in on Bordeaux",
-      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Temperatures are expected to soar past 40C in some regions as a heatwave builds, further hampering firefighting efforts.",
-      "published": "2026-07-28T04:51:27+00:00",
+      "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
+      "url": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
+      "published": "2026-07-30T09:17:18+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Hosepipe bans in force as drought declared - is your area affected?",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
+      "published": "2026-07-29T13:03:18+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168048",
+      "summary": "The United Nations Secretary-General said on Wednesday that he plans to convene fresh talks on Cyprus to resolve the decades-long division on the Mediterranean island, stressing that the moment calls for rebuilding trust between its two communities.",
+      "published": "2026-07-29T12:00:00+00:00",
       "score": 9
     },
     {
@@ -368,30 +350,39 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "High prices and funding cuts stall HIV prevention revolution",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168033",
-      "summary": "The AIDS epidemic could stage a comeback amid unequal access to breakthrough prevention medicines and a sharp decline in global funding, according to a UN report released on Monday ahead of the opening of the 26th International AIDS Conference in Rio de Janeiro, Brazil.",
-      "published": "2026-07-27T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Conflict and crisis put six World Heritage sites at risk",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168031",
-      "summary": "Armed conflict, insecurity and environmental pressures are threatening ancient cities, historic castles and one of the world's greatest wildlife migrations.",
-      "published": "2026-07-27T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "APOD: July 30 – Red Sun trough Wildfire Smoke",
+      "url": "https://science.nasa.gov/image-article/apod-july-30-red-sun-trough-wildfire-smoke/",
+      "summary": "APOD Science APOD APOD: July 30 – Red Sun… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Red Sun […]",
+      "published": "2026-07-30T04:05:00+00:00",
       "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA to Cover Three US Spacewalks, Host Preview News Conference",
-      "url": "https://www.nasa.gov/news-release/nasa-to-cover-three-us-spacewalks-host-preview-news-conference/",
-      "summary": "Editor’s note: This media advisory was updated July 27, 2026 to reflect an updated start time for the spacewalk on Thursday, Aug. 6. NASA will provide coverage as astronauts venture outside the International Space Station during three spacewalks in August to continue upgrading solar arrays, replace a communications antenna, and connect power and data cables […]",
-      "published": "2026-07-27T14:35:11+00:00",
+      "title": "NASA’s Curiosity Discovers a Field of Martian Polygons",
+      "url": "https://science.nasa.gov/photojournal/nasas-curiosity-discovers-a-field-of-martian-polygons/",
+      "summary": "Description NASA’s Curiosity Mars rover captured this 360-degree view of an expanse of terrain covered in surface features called polygons on June 19 and 20, 2026, the 4,930th and 4,931st Martian days, or sols, of the mission. The rover has found polygons several times in the past, but never so many in one place. Across […]",
+      "published": "2026-07-29T16:06:39+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Curiosity Mars Rover Discovers Field of Honeycomb Textures",
+      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-discovers-field-of-honeycomb-textures/",
+      "summary": "As NASA’s Curiosity rover recently began climbing up a Martian valley nicknamed “Valle Grande,” it sent back images that were a familiar sight to mission scientists: honeycomb-like textures called polygonal fractures, each one about 1.5 to 3 inches (4 to 8 centimeters) across. The mission has spotted small patches of these geometric shapes several times […]",
+      "published": "2026-07-29T15:30:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor division, used to work late. But lately, he’s been clocking out on time and heading…",
+      "published": "2026-07-29T12:10:00+00:00",
       "score": 9
     },
     {
@@ -404,12 +395,21 @@
       "score": 9
     },
     {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "url": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them. The original Aikido and Wiz reports did not attribute the",
+      "published": "2026-07-30T06:05:17+00:00",
+      "score": 9
+    },
+    {
       "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025",
-      "url": "https://www.carbonbrief.org/analysis-84-of-nations-miss-deadline-to-identify-nature-harming-subsidies-by-2025",
-      "summary": "Most countries failed to meet a 2025 target to identify all of their subsidies that could be “harmful” to biodiversity,… The post Analysis: 84% of nations miss deadline to identify ‘nature-harming’ subsidies by 2025 appeared first on Carbon Brief .",
-      "published": "2026-07-28T11:41:55+00:00",
+      "title": "World falling short on 22 of 23 nature targets for 2030, says draft UN report",
+      "url": "https://www.carbonbrief.org/world-falling-short-on-22-of-23-nature-targets-for-2030-says-draft-un-report",
+      "summary": "The global goal to halt and reverse nature loss by 2030 “will not be achieved” unless action by countries “accelerates… The post World falling short on 22 of 23 nature targets for 2030, says draft UN report appeared first on Carbon Brief .",
+      "published": "2026-07-29T15:00:21+00:00",
       "score": 9
     }
   ]
