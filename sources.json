@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T12:48:11.198373+00:00",
-  "date": "2026-08-01",
+  "generated_at": "2026-08-02T12:50:24.539638+00:00",
+  "date": "2026-08-02",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,11 +9,29 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+      "published": "2026-08-01T17:17:22+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
       "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
       "url": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
       "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across several sectors, such as healthcare, research, government offices,",
       "published": "2026-07-31T18:52:04+00:00",
-      "score": 16
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "published": "2026-08-02T11:12:00+00:00",
+      "score": 13
     },
     {
       "source": "The Hacker News",
@@ -22,97 +40,7 @@
       "url": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
       "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
       "published": "2026-07-31T16:39:31+00:00",
-      "score": 15
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "published": "2026-08-01T11:52:29+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-      "url": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ceuta \"shocking\".",
-      "published": "2026-08-01T12:43:21+00:00",
       "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168052",
-      "summary": "Aid workers and first responders raced to help people across Ukraine after a wave of deadly Russian missile and drone strikes overnight as concerns mounted over military activity near nuclear power plants on Thursday.",
-      "published": "2026-07-30T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which…",
-      "published": "2026-07-30T10:15:19+00:00",
-      "score": 13
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "UN chief warns climate crisis “in overdrive” as El Niño threatens to fuel the fire",
-      "url": "https://www.climatechangenews.com/2026/07/31/un-chief-warns-climate-crisis-in-overdrive-as-el-nino-threatens-to-fuel-the-fire/",
-      "summary": "Top politicians and scientists blamed the deadly fires on the climate crisis and said it should inspire more emissions reductions and adaptation measures The post UN chief warns climate crisis “in overdrive” as El Niño threatens to fuel the fire appeared first on Climate Home News .",
-      "published": "2026-07-31T16:51:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168055",
-      "summary": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the region.",
-      "published": "2026-07-30T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
-      "published": "2026-07-30T12:10:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect authorization that could result in",
-      "published": "2026-08-01T07:12:42+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
-      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
-      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
-      "published": "2026-08-01T06:29:05+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019. The same apps have a second job. When a box",
-      "published": "2026-07-31T14:45:01+00:00",
-      "score": 12
     },
     {
       "source": "The Hacker News",
@@ -135,73 +63,37 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Uefa has 'lost confidence' in Infantino's Fifa leadership",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The governing body of European football says Fifa president Gianni Infantino has \"failed to deliver\" on promises he made when elected 10 years ago.",
-      "published": "2026-08-01T09:51:05+00:00",
+      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+      "published": "2026-08-02T10:32:28+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-      "published": "2026-08-01T05:01:56+00:00",
+      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
+      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
+      "published": "2026-08-01T23:03:35+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
-      "url": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contractors caused the damage.",
-      "published": "2026-08-01T00:20:43+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Attacks ‘getting worse’: Deadly Russian strikes hit Ukrainian cities",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168052",
+      "summary": "Aid workers and first responders raced to help people across Ukraine after a wave of deadly Russian missile and drone strikes overnight as concerns mounted over military activity near nuclear power plants on Thursday.",
+      "published": "2026-07-30T12:00:00+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-      "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
-      "published": "2026-07-30T15:35:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
-      "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
-      "summary": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, […]",
-      "published": "2026-07-31T20:19:37+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
-      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
-      "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The […]",
-      "published": "2026-07-31T18:39:47+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-      "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-      "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances […]",
-      "published": "2026-07-31T17:11:14+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
+      "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
-      "published": "2026-08-01T09:03:07+00:00",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "summary": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI conference, this month. The claim has huge implications for the safety of this technology, which…",
+      "published": "2026-07-30T10:15:19+00:00",
       "score": 11
     },
     {
@@ -216,46 +108,37 @@
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "Hormuz crisis speeds up transition to electric cars, IEA data shows",
-      "url": "https://www.climatechangenews.com/2026/07/30/hormuz-crisis-speeds-up-transition-to-electric-cars-iea-data-shows/",
-      "summary": "With the oil price soaring amid the Iran war, drivers increasingly chose electric cars over internal combustion engines from April to June this year The post Hormuz crisis speeds up transition to electric cars, IEA data shows appeared first on Climate Home News .",
-      "published": "2026-07-30T05:00:00+00:00",
+      "title": "UN chief warns climate crisis “in overdrive” as El Niño threatens to fuel the fire",
+      "url": "https://www.climatechangenews.com/2026/07/31/un-chief-warns-climate-crisis-in-overdrive-as-el-nino-threatens-to-fuel-the-fire/",
+      "summary": "Top politicians and scientists blamed the deadly fires on the climate crisis and said it should inspire more emissions reductions and adaptation measures The post UN chief warns climate crisis “in overdrive” as El Niño threatens to fuel the fire appeared first on Climate Home News .",
+      "published": "2026-07-31T16:51:00+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
+      "published": "2026-08-01T23:03:15+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
+      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
+      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
+      "published": "2026-08-02T10:54:44+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
       "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nepali-born climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "published": "2026-08-01T12:27:10+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "published": "2026-08-01T02:21:29+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Hundreds escape Greek wildfire by sea as blazes continue across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
-      "published": "2026-07-31T14:26:07+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
-      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
-      "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
-      "published": "2026-07-31T23:43:10+00:00",
+      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+      "published": "2026-08-02T10:11:26+00:00",
       "score": 10
     },
     {
@@ -279,46 +162,46 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Wildfires: Prevention is the best defence, UN says",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168054",
-      "summary": "The wildfires burning across Europe and North America highlight the urgent need for action now – as climate change, land-use pressures and human activity make severe fires more likely in the future.",
+      "title": "Middle East crisis: Humanitarian fallout ‘worsening by the day’",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168055",
+      "summary": "The humanitarian toll is mounting as fighting continues in the Middle East beyond strikes and counterstrikes between the US and Iran, the UN aid coordination office OCHA warned on Thursday, with civilians increasingly at risk and essential infrastructure disrupted in several countries across the region.",
       "published": "2026-07-30T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
-      "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
-      "summary": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announcement, held in the XLV Hangar at the Shuttle Landing Facility, will preview a new event at NASA Kennedy later this […]",
-      "published": "2026-07-31T21:08:10+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
-      "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian missions. Testing demonstrated that a webbing composed of 60% Kevlar®/40% polybenzimidazole (PBI) from Sturges Manufacturing Company, Inc., specifically the natural version, passed flammability testing per NASA-STD-6001B Test 1 using a […]",
-      "published": "2026-07-31T19:05:25+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
-      "url": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
-      "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The names were submitted by people globally, including astronauts from Artemis II and Artemis III. The memory card will travel with the Roman observatory […]",
-      "published": "2026-07-31T14:11:34+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a…",
+      "published": "2026-07-30T12:10:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "url": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
-      "published": "2026-07-30T18:18:24+00:00",
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect authorization that could result in",
+      "published": "2026-08-01T07:12:42+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "url": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "summary": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
+      "published": "2026-08-01T06:29:05+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019. The same apps have a second job. When a box",
+      "published": "2026-07-31T14:45:01+00:00",
       "score": 10
     },
     {
@@ -331,12 +214,39 @@
       "score": 10
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "England and Wales on course for driest July on record",
-      "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago.",
-      "published": "2026-07-31T15:37:17+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
+      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
+      "published": "2026-08-01T22:23:20+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Italy putting nearly all major cities on highest heat alert",
+      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
+      "published": "2026-08-01T17:51:46+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "The Sopranos star Vincent Pastore dies aged 80",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
+      "published": "2026-08-01T22:57:55+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+      "published": "2026-08-01T05:01:56+00:00",
       "score": 9
     },
     {
@@ -351,6 +261,15 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
+      "title": "Recovery in Ukraine, one life at a time",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168053",
+      "summary": "In classrooms, maternity wards, hospital corridors and local communities across Ukraine, people are rebuilding their lives despite the ongoing war.",
+      "published": "2026-08-01T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
       "title": "Strong El Niño ahead, UN weather agency warns",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168059",
       "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteorological Organization (WMO) warned on Friday that El Niño, a powerful climate pattern shaping global weather, will intensify starting next month.",
@@ -358,30 +277,30 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Fear grows as freedoms shrink in Uganda",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168057",
-      "summary": "Uganda is experiencing a growing climate of fear as increasing restrictions on fundamental freedoms leave opposition supporters, journalists, human rights defenders and civil society groups at heightened risk of abuse, according to the UN Human Rights Office (OHCHR).",
-      "published": "2026-07-30T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+      "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
+      "summary": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA’s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langley Research Center in Hampton, Virginia. The state-of-the-art facility will support research and technology development that will advance the agency’s aeronautics, exploration, and science goals, […]",
+      "published": "2026-07-31T20:19:37+00:00",
       "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "What’s Up: August 2026 Skywatching Tips from NASA",
-      "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
-      "summary": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best meteor showers, Venus at its brightest in the evening sky, and a lunar eclipse to close out the month. That’s “What’s Up” for August. On Aug. […]",
-      "published": "2026-07-31T22:35:36+00:00",
+      "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+      "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+      "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducted at NASA’s Ames Research Center in California’s Silicon Valley, focused on better understanding the extreme aerodynamic forces the rocket can experience during re-entry. The […]",
+      "published": "2026-07-31T18:39:47+00:00",
       "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
-      "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to climb her way up through the layers of Mount Sharp, exploring the sedimentary rock strip chart of Martian history. The rover has reached a layer where the science […]",
-      "published": "2026-07-31T14:41:02+00:00",
+      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+      "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+      "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances […]",
+      "published": "2026-07-31T17:11:14+00:00",
       "score": 9
     },
     {
@@ -396,10 +315,10 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined",
-      "url": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
-      "summary": "Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined. Both versions were released last month. In its latest patch for Chrome 151, released Wednesday, the tech giant resolved 370 flaws, out of which 349 were reported by Google itself. Seven of the",
-      "published": "2026-07-31T12:51:52+00:00",
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
+      "published": "2026-08-01T09:03:07+00:00",
       "score": 9
     },
     {
@@ -410,6 +329,87 @@
       "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-cases that it wasn't originally",
       "published": "2026-07-31T11:24:59+00:00",
       "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Hormuz crisis speeds up transition to electric cars, IEA data shows",
+      "url": "https://www.climatechangenews.com/2026/07/30/hormuz-crisis-speeds-up-transition-to-electric-cars-iea-data-shows/",
+      "summary": "With the oil price soaring amid the Iran war, drivers increasingly chose electric cars over internal combustion engines from April to June this year The post Hormuz crisis speeds up transition to electric cars, IEA data shows appeared first on Climate Home News .",
+      "published": "2026-07-30T05:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Energy transition policymaking must evolve to fit an age of rupture",
+      "url": "https://www.climatechangenews.com/2026/07/21/energy-transition-policymaking-must-evolve-to-fit-an-age-of-rupture/",
+      "summary": "Economic competitiveness, energy security and green industrialisation are driving real-world change - but will this damage our collective mission for a fair green shift? The post Energy transition policymaking must evolve to fit an age of rupture appeared first on Climate Home News .",
+      "published": "2026-07-21T14:50:51+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
+      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+      "summary": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market The post Most “zombie credits” locked out of new UN carbon market after China and India snub appeared first on Climate Home News .",
+      "published": "2026-07-17T16:38:23+00:00",
+      "score": 9
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Factcheck: No, Europe is not having its ‘quietest’ year for wildfires",
+      "url": "https://www.carbonbrief.org/factcheck-no-europe-is-not-having-its-quietest-year-for-wildfires",
+      "summary": "In recent days, prominent climate sceptics and rightwing commentators have shared charts on social media incorrectly implying that Europe is… The post Factcheck: No, Europe is not having its ‘quietest’ year for wildfires appeared first on Carbon Brief .",
+      "published": "2026-07-30T14:51:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
+      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
+      "published": "2026-08-02T11:49:40+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "published": "2026-08-02T00:29:55+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
+      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
+      "summary": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
+      "published": "2026-07-31T23:43:10+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Drought conditions may worsen before improving as little rain in sight",
+      "url": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts.",
+      "published": "2026-07-31T01:28:46+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "India wants to join the strawberry superpowers",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+      "published": "2026-07-30T22:04:09+00:00",
+      "score": 8
     }
   ]
 }
