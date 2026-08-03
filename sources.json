@@ -1,18 +1,27 @@
 {
-  "generated_at": "2026-08-02T12:50:24.539638+00:00",
-  "date": "2026-08-02",
+  "generated_at": "2026-08-03T14:08:51.220135+00:00",
+  "date": "2026-08-03",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "The Hacker News",
+      "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
-      "published": "2026-08-01T17:17:22+00:00",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
+      "published": "2026-08-03T12:08:00+00:00",
+      "score": 16
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "summary": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
+      "published": "2026-08-03T10:29:24+00:00",
       "score": 14
     },
     {
@@ -27,10 +36,19 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "published": "2026-08-02T11:12:00+00:00",
+      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+      "published": "2026-08-03T03:32:21+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
+      "published": "2026-08-03T08:30:05+00:00",
       "score": 13
     },
     {
@@ -43,39 +61,66 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-      "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
-      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session. The findings have been released by a group of researchers from Singapore's Nanyang Technological University",
-      "published": "2026-07-31T11:55:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
+      "summary": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+      "published": "2026-08-03T10:58:48+00:00",
+      "score": 12
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Brings Space Exploration to the FIFA World Cup",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
+      "summary": "From June 11 through July 19, NASA’s free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston. More than 500,000 visitors explored the exhibit during the tournament, learning how the agency’s missions, research, and technology benefit life on Earth. The exhibit introduced a global audience to the Artemis program, Moon Base, the International Space Station, […]",
+      "published": "2026-08-03T13:55:32+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-      "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-      "summary": "Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without its knowledge. The AI firm said the earliest incidents date back to April 2026, adding it made the discoveries after launching a \"",
-      "published": "2026-07-31T06:41:44+00:00",
+      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers. The incident, identified on July 26, also exposed some names",
+      "published": "2026-08-03T09:13:56+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented. Thermo Fisher tracks the issue as CVE-2026-17583 and rates it",
+      "published": "2026-08-03T08:05:30+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
+      "published": "2026-08-03T06:40:31+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+      "published": "2026-08-01T17:17:22+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
-      "published": "2026-08-02T10:32:28+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics.",
-      "published": "2026-08-01T23:03:35+00:00",
+      "title": "Hundreds flee fighting in northern Ethiopia as fears rise of return to civil war",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv6r3xgyeo?at_medium=RSS&at_campaign=rss",
+      "summary": "There are concerns of a full-scale conflict once again as a peace deal has not been fully implemented.",
+      "published": "2026-08-03T11:49:48+00:00",
       "score": 11
     },
     {
@@ -85,6 +130,15 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168052",
       "summary": "Aid workers and first responders raced to help people across Ukraine after a wave of deadly Russian missile and drone strikes overnight as concerns mounted over military activity near nuclear power plants on Thursday.",
       "published": "2026-07-30T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Ike Theriot Helps Prepare Astronauts to Work on the Moon",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/",
+      "summary": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA through discipline and determination. Theriot serves as the Flight Operations Surface Testing lead in the Exploration Extravehicular Activity Operations Branch within the EVA, Robotics, and Crew Operations Division at NASA’s Johnson Space Center in Houston. He integrates flight operations testing needs […]",
+      "published": "2026-08-03T14:00:00+00:00",
       "score": 11
     },
     {
@@ -99,10 +153,19 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks",
-      "url": "https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html",
-      "summary": "Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously. After an initial Telegram instruction, the agent found internet-facing systems and selected public exploits. The researchers recovered no further operator input in the session. The operator, tracked through the aliases knaithe and KnYuan,",
-      "published": "2026-07-31T11:21:27+00:00",
+      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit. \"",
+      "published": "2026-08-03T10:49:06+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Egypt seeks to unlock renewable potential to power regional clean energy hub",
+      "url": "https://www.climatechangenews.com/2026/08/03/egypt-seeks-to-unlock-renewable-riches-to-power-regional-clean-energy-hub/",
+      "summary": "Europe is investing in Egypt’s bid to position itself as a clean electricity exporter to reduce its emissions and generate a new source of income The post Egypt seeks to unlock renewable potential to power regional clean energy hub appeared first on Climate Home News .",
+      "published": "2026-08-03T10:14:16+00:00",
       "score": 11
     },
     {
@@ -117,46 +180,19 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-      "url": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago.",
-      "published": "2026-08-01T23:03:15+00:00",
+      "title": "Iran denies Trump's claim that new talks will begin on Monday",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "summary": "While Iran denies that talks with the US are taking place, it is currently in negotiations with Oman over Strait of Hormuz access.",
+      "published": "2026-08-03T12:44:09+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "summary": "Security officials said a woman tried to enter the restaurant with explosives but was stopped by a security guard.",
-      "published": "2026-08-02T10:54:44+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Body of mountaineer Nirmal Purja recovered after Pakistan avalanche",
-      "url": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
-      "summary": "The renowned climber was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-      "published": "2026-08-02T10:11:26+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
-      "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
-      "published": "2026-07-31T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Wildfire smoke poses hidden health threat",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168060",
-      "summary": "Wildfires are often associated with the destruction they leave behind, but the smoke they produce can pose a serious health threat far beyond the fire zone, the World Health Organization (WHO) has warned.",
-      "published": "2026-07-31T12:00:00+00:00",
+      "title": "US and Japan take action to prop up yen in rare joint move",
+      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+      "published": "2026-08-03T07:30:52+00:00",
       "score": 10
     },
     {
@@ -180,6 +216,15 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version. N-central is the remote monitoring and management platform",
+      "published": "2026-08-03T06:41:46+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
       "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
       "url": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
       "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect authorization that could result in",
@@ -196,15 +241,6 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
-      "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-      "summary": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019. The same apps have a second job. When a box",
-      "published": "2026-07-31T14:45:01+00:00",
-      "score": 10
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
       "title": "The case for making polluters pay has moved into the mainstream",
@@ -216,46 +252,46 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pressure is building on Gianni Infantino. Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?",
-      "published": "2026-08-01T22:23:20+00:00",
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "url": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says.",
+      "published": "2026-08-03T10:59:12+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
-      "published": "2026-08-01T17:51:46+00:00",
+      "title": "Moroccan king's letter confirms naming of major highway in honour of Trump",
+      "url": "https://www.bbc.co.uk/news/articles/c3r0vg88zr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The highway enters Western Sahara, a disputed territory that Morocco claims sovereignty over.",
+      "published": "2026-08-03T12:20:11+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report.",
-      "published": "2026-08-01T22:57:55+00:00",
+      "title": "Massive Attack respond after Singapore ban over Palestine display",
+      "url": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK band says they are \"surprised and disappointed\" by their treatment over shouting \"free Palestine\" at a concert there.",
+      "published": "2026-08-03T01:31:05+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-      "published": "2026-08-01T05:01:56+00:00",
+      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "url": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal.",
+      "published": "2026-08-03T11:07:13+00:00",
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Hosepipe bans in force as drought declared - is your area affected?",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
-      "published": "2026-07-30T14:50:42+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Malaysian boy on trial for allegedly murdering girl in school",
+      "url": "https://www.bbc.co.uk/news/articles/cgewq549988o?at_medium=RSS&at_campaign=rss",
+      "summary": "The high-profile case has shocked Malaysia and sparked debate about the effect of social media on children.",
+      "published": "2026-08-03T01:43:16+00:00",
       "score": 9
     },
     {
@@ -265,15 +301,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168053",
       "summary": "In classrooms, maternity wards, hospital corridors and local communities across Ukraine, people are rebuilding their lives despite the ongoing war.",
       "published": "2026-08-01T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Strong El Niño ahead, UN weather agency warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1168059",
-      "summary": "As much of the world faces grapples with above normal temperatures and major rainfall changes, the UN Meteorological Organization (WMO) warned on Friday that El Niño, a powerful climate pattern shaping global weather, will intensify starting next month.",
-      "published": "2026-07-31T12:00:00+00:00",
       "score": 9
     },
     {
@@ -295,21 +322,12 @@
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
-      "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
-      "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles. Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances […]",
-      "published": "2026-07-31T17:11:14+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
-      "published": "2026-07-31T12:16:00+00:00",
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
+      "published": "2026-08-03T11:30:00+00:00",
       "score": 9
     },
     {
@@ -319,15 +337,6 @@
       "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
       "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
       "published": "2026-08-01T09:03:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026",
-      "url": "https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html",
-      "summary": "Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months. Designed for input-constrained devices like smart TVs, printers, and so on, the device authorization login flow has been adopted by a wide range of apps and use-cases that it wasn't originally",
-      "published": "2026-07-31T11:24:59+00:00",
       "score": 9
     },
     {
@@ -349,39 +358,21 @@
       "score": 9
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
-      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-      "summary": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market The post Most “zombie credits” locked out of new UN carbon market after China and India snub appeared first on Climate Home News .",
-      "published": "2026-07-17T16:38:23+00:00",
-      "score": 9
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Factcheck: No, Europe is not having its ‘quietest’ year for wildfires",
-      "url": "https://www.carbonbrief.org/factcheck-no-europe-is-not-having-its-quietest-year-for-wildfires",
-      "summary": "In recent days, prominent climate sceptics and rightwing commentators have shared charts on social media incorrectly implying that Europe is… The post Factcheck: No, Europe is not having its ‘quietest’ year for wildfires appeared first on Carbon Brief .",
-      "published": "2026-07-30T14:51:00+00:00",
-      "score": 9
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Five dead, 41 missing, after Indonesia ferry catches fire",
-      "url": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The vessel with at least 250 people on board caught fire off Madura island.",
-      "published": "2026-08-02T11:49:40+00:00",
+      "title": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two women's employer has apologised for sending them back to Aeon Mall to secure cash.",
+      "published": "2026-08-03T08:40:22+00:00",
       "score": 8
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "url": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "published": "2026-08-02T00:29:55+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "'You can't describe the loss' - the reality of bovine TB on farmers",
+      "url": "https://www.bbc.co.uk/news/articles/c982m8p74lvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wildlife intervention proposals are controversial but farmers say they are needed to reduce bTB.",
+      "published": "2026-08-02T23:00:07+00:00",
       "score": 8
     },
     {
@@ -394,21 +385,30 @@
       "score": 8
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Drought conditions may worsen before improving as little rain in sight",
-      "url": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts.",
-      "published": "2026-07-31T01:28:46+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Trapped by a Facebook job advert, freed by a stranger in a taxi",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168058",
+      "summary": "Sofia* was 27, raising her seven-year-old son alone in Venezuela, and running out of options. For years she had distributed personal hygiene products door to door, but as her customers’ finances collapsed, so did her income.",
+      "published": "2026-08-02T12:00:00+00:00",
       "score": 8
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "India wants to join the strawberry superpowers",
-      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
-      "published": "2026-07-30T22:04:09+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
+      "summary": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
+      "published": "2026-07-31T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Wildfire smoke poses hidden health threat",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1168060",
+      "summary": "Wildfires are often associated with the destruction they leave behind, but the smoke they produce can pose a serious health threat far beyond the fire zone, the World Health Organization (WHO) has warned.",
+      "published": "2026-07-31T12:00:00+00:00",
       "score": 8
     }
   ]
