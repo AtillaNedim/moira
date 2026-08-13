@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-08-12T12:37:36.530629+00:00",
-  "date": "2026-08-12",
+  "generated_at": "2026-08-13T12:38:35.994587+00:00",
+  "date": "2026-08-13",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
+      "published": "2026-08-12T17:39:27+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "published": "2026-08-13T04:55:58+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Deadly attack on Red Sea ship adds to global supply chain uncertainty",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168121",
+      "summary": "A strike on a merchant ship off the southern coast of Yemen that reportedly killed several seafarers on Tuesday threatens to reignite deep concerns about global trade, amid the ongoing Iran-US war that has choked shipping in the Strait of Hormuz.",
+      "published": "2026-08-12T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "2026 Total Solar Eclipse in Spain",
+      "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
+      "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of […]",
+      "published": "2026-08-12T20:08:28+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Scientists just created female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice. “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
+      "published": "2026-08-12T18:59:48+00:00",
+      "score": 12
+    },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
@@ -13,7 +58,7 @@
       "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025. That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the next day. And the reason? R/FIMI, as the office…",
       "published": "2026-08-11T17:58:57+00:00",
-      "score": 14
+      "score": 12
     },
     {
       "source": "The Hacker News",
@@ -22,34 +67,70 @@
       "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
       "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
       "published": "2026-08-12T09:01:54+00:00",
-      "score": 14
+      "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
-      "published": "2026-08-11T19:36:37+00:00",
-      "score": 14
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Pushing the climate crisis: How advertising fuels high-carbon lifestyles",
+      "url": "https://www.climatechangenews.com/2026/08/13/pushing-the-climate-crisis-how-advertising-fuels-high-carbon-lifestyles/",
+      "summary": "With little regulation, the advertising industry continues to promote emissions-heavy activities like flying and meat-eating while making token green efforts The post Pushing the climate crisis: How advertising fuels high-carbon lifestyles appeared first on Climate Home News .",
+      "published": "2026-08-13T08:18:28+00:00",
+      "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-      "published": "2026-08-12T03:44:55+00:00",
-      "score": 13
+      "title": "French ambassador to CAR accused of bringing women to official residence faces disciplinary action",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7pp3yd25o?at_medium=RSS&at_campaign=rss",
+      "summary": "The accusations against Bruno Foucher prompted investigations into a potential security breach.",
+      "published": "2026-08-13T08:15:10+00:00",
+      "score": 11
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
-      "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
-      "published": "2026-08-11T23:17:15+00:00",
-      "score": 13
+      "title": "Temperatures to soar to 38C as amber extreme heat warning in effect",
+      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+      "summary": "Heat will spike again on Thursday with a rare warning in place and more records set to tumble.",
+      "published": "2026-08-13T08:01:32+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
+      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
+      "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
+      "published": "2026-08-12T20:40:27+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "What’s behind this summer’s heat, and why 2027 could be worse",
+      "url": "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+      "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead…",
+      "published": "2026-08-13T10:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Scaling AI agents with trustworthy data",
+      "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
+      "published": "2026-08-12T16:51:57+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
+      "published": "2026-08-12T14:09:50+00:00",
+      "score": 11
     },
     {
       "source": "The Hacker News",
@@ -58,141 +139,60 @@
       "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
       "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
       "published": "2026-08-12T06:15:58+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Myanmar: UN investigators document deliberate military attacks on civilians",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168110",
-      "summary": "Myanmar's military has carried out a sustained campaign of deliberate attacks on civilians – including airstrikes on homes, schools and camps for displaced people, alongside arbitrary detention, torture and sexual violence – according to Human Rights Council-appointed investigators.",
-      "published": "2026-08-11T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Fighting deepens needs and fuels further displacement in Sudan",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168109",
-      "summary": "Ongoing conflict, displacement and funding shortages continue to deepen needs in Sudan, the UN Office for the Coordination of Humanitarian Affairs (OCHA) warned on Monday, underscoring the need for greater civilian protection.",
-      "published": "2026-08-10T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
-      "published": "2026-08-12T11:13:03+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
-      "published": "2026-08-12T08:04:52+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
-      "published": "2026-08-12T07:31:40+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
-      "published": "2026-08-11T18:36:47+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
-      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoint Server 2016. Microsoft's",
-      "published": "2026-08-11T16:47:44+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
-      "url": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
-      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat",
-      "published": "2026-08-11T16:35:27+00:00",
-      "score": 12
+      "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "South Africa’s offshore oil push meets grassroots resistance in court",
-      "url": "https://www.climatechangenews.com/2026/08/11/south-africas-offshore-oil-push-ground-resistance-courts-litigation-ocean/",
-      "summary": "Two court cases against oil majors TotalEnergies and Shell could derail South Africa's plan to expand offshore fossil fuels The post South Africa’s offshore oil push meets grassroots resistance in court appeared first on Climate Home News .",
-      "published": "2026-08-11T16:30:26+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Telescopes Create Colorful ‘Craft’ From Nearby Nebula",
-      "url": "https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/",
-      "summary": "Like a collage made of layered sheets of colored cellophane, a vibrant new image layers observations of a famous star-forming nebula from NASA space telescopes. The resulting cosmic “craft” reveals new details about the star formation region known as 30 Doradus, or the Tarantula Nebula. Located in the Large Magellanic Cloud, a small neighbor galaxy […]",
-      "published": "2026-08-11T15:19:15+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Shares Station Research Today Supporting Moon, Mars Tomorrow",
-      "url": "https://www.nasa.gov/missions/station/iss-research/nasa-shares-station-research-today-supporting-moon-mars-tomorrow/",
-      "summary": "The International Space Station has been busy throughout 2026, as it continues to be a bustling workspace for astronauts conducting a variety of scientific experiments that lay the groundwork for missions to the Moon and beyond. NASA’s Artemis II mission in April was the first crewed flight around the Moon in more than 50 years, […]",
-      "published": "2026-08-11T14:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet. RoguePlanet has been described",
-      "published": "2026-08-12T06:41:38+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
-      "published": "2026-08-11T20:10:55+00:00",
+      "title": "“We’ve gone backwards” – new plastics treaty text dims hopes for production curbs",
+      "url": "https://www.climatechangenews.com/2026/08/12/weve-gone-backwards-new-plastics-treaty-text-dims-hopes-for-production-curbs/",
+      "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the problem The post “We’ve gone backwards” – new plastics treaty text dims hopes for production curbs appeared first on Climate Home News .",
+      "published": "2026-08-12T14:11:10+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israeli settlers besieging Palestinian families in West Bank village",
-      "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-      "published": "2026-08-12T12:16:22+00:00",
+      "title": "UK defends seizing shadow fleet tanker after Putin threat",
+      "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
+      "published": "2026-08-13T11:05:03+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Singapore and S Korea pull Trader Joe's seasoning over poppy seeds",
-      "url": "https://www.bbc.co.uk/news/articles/cdewpklnzwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trader Joe's Everything But the Bagel seasoning contains poppy seeds which are banned in both countries.",
-      "published": "2026-08-12T07:44:44+00:00",
+      "title": "Zambians voting as president bids for second term",
+      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
+      "published": "2026-08-13T10:51:35+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+      "published": "2026-08-13T09:54:03+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "published": "2026-08-12T23:19:28+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+      "published": "2026-08-12T21:53:45+00:00",
       "score": 10
     },
     {
@@ -201,16 +201,16 @@
       "title": "Generations of fish 'wiped out' after pollution incident",
       "url": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&at_campaign=rss",
       "summary": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted.",
-      "published": "2026-08-12T11:50:02+00:00",
+      "published": "2026-08-12T15:21:34+00:00",
       "score": 10
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Watch: Severe storms overturn vehicle and trigger flooding in Ohio",
-      "url": "https://www.bbc.co.uk/news/videos/cy451xqkdz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents are being urged to prepare for additional severe storms in the coming days, as officials also report at least one fatality.",
-      "published": "2026-08-11T20:56:08+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Sudan: Attacks and further displacement in Blue Nile and North Kordofan",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168126",
+      "summary": "The United Nations has once again urged warring parties in Sudan to protect civilians as the fighting continues to take a heavy toll on the population.",
+      "published": "2026-08-12T12:00:00+00:00",
       "score": 10
     },
     {
@@ -223,192 +223,192 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Afghanistan: UN tells Taliban to open up on abuses committed by security forces",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168104",
-      "summary": "Five years into Taliban rule, Afghans still have almost no way of knowing whether soldiers, police and morality officers who abuse their power ever face consequences – and that secrecy is corroding trust in the State, the UN said Monday.",
-      "published": "2026-08-10T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Upgrades Vertical Motion Simulator for Modern Mission Needs",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/",
+      "summary": "Imagine stepping into a machine that can make you feel like you’re flying a spacecraft, piloting a next generation air taxi, or landing on the Moon, all without leaving the ground. NASA’s Vertical Motion Simulator, the largest of its kind in the world, does exactly that. And now, with new upgrades, it’s more powerful and […]",
+      "published": "2026-08-12T17:55:36+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Stops Along the Path of Totality",
-      "url": "https://science.nasa.gov/earth/earth-observatory/stops-along-the-path-of-totality/",
-      "summary": "Western Iceland and northern Spain are among the few Northern Hemisphere locations experiencing a total solar eclipse on August 12, 2026.",
-      "published": "2026-08-12T04:01:00+00:00",
+      "title": "NASA Astronaut Mike Fincke Leaves NASA, Career Includes 4 Spaceflights",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+      "summary": "NASA astronaut Mike Fincke is departing the agency on Wednesday after 30 years of service. Throughout his career, he flew four missions, spent 549 days in space, and completed nine spacewalks in support of the International Space Station. “Few people have had the opportunity to shape as many chapters of NASA’s history as Mike Fincke,” […]",
+      "published": "2026-08-12T16:03:05+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "What Is the Nancy Grace Roman Space Telescope? (Grades 5-8)",
-      "url": "https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-nancy-grace-roman-space-telescope-grades-5-8/",
-      "summary": "This article is for students grades 5-8. The Nancy Grace Roman Space Telescope is NASA’s newest astrophysics observatory. The telescope will scan large sections of space. Roman will help astronomers answer questions about dark energy, dark matter, exoplanets, and more. ______________________________________________________________________ Words to Know Astrophysics: a branch of space science that applies physics and mathematics to […]",
-      "published": "2026-08-11T21:04:39+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Completes Astronaut-Deployed Science Instrument for Lunar Surface",
-      "url": "https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/",
-      "summary": "NASA has declared “wrenches down” on the first completed payload designed for Artemis astronauts to deploy on the Moon’s surface. Engineers working on NASA’s Lunar Environment Monitoring Station, or LEMS, have completed hardware development and testing and the payload is ready for its permanent home near the lunar South Pole. With the hardware complete, LEMS […]",
-      "published": "2026-08-11T19:41:34+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Lion Nebula Roars in Webb’s Sights",
-      "url": "https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/",
-      "summary": "Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. The nebula’s “mane” is clear and detailed in this image released on Aug. 10, 2026, due to Webb’s high-resolution imaging. See more images of the Lion Nebula from Webb. Image: NASA, ESA, […]",
-      "published": "2026-08-11T17:02:49+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Building the Moon Base: NASA Stories at the Ion",
-      "url": "https://www.nasa.gov/missions/moon-base/building-the-moon-base-nasa-stories-at-the-ion/",
-      "summary": "As NASA prepares to return astronauts to the lunar surface for longer stays and increasingly complex operations, building the Moon Base will require new ideas, advanced technologies, and expertise across many fields. During NASA Stories at the Ion on July 30, Shatel Bhakta, principal systems engineer for NASA’s Moon Base Program, presented “Building the Moon Base: Challenges and Opportunities at the Lunar South Pole.” He discussed the work required to establish a sustained human […]",
-      "published": "2026-08-11T14:16:45+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/",
-      "summary": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center Earth planning date: Friday, July 31, 2026 As mentioned in the previous blog, Curiosity has been exploring a large-scale feature in Gale’s sedimentary record suspected to be an “erosional supersurface.” The “supersurface” represents a period in time when a net depositional environment changed […]",
-      "published": "2026-08-11T06:50:07+00:00",
+      "title": "Pursuing a Dream of Working for NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/kennedy/pursuing-a-dream-of-working-for-nasa/",
+      "summary": "As a young girl raised in Worcester, Massachusetts, Lindsey Waitt dreamed of working for NASA. Her dream is now a reality as she embarks on her role as a NASA test project engineer with the Artemis launch team – an integral part of the agency’s missions that will enable humans to return to the surface […]",
+      "published": "2026-08-12T15:38:51+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "How we picked 35 of the world’s top young scientists and engineers",
-      "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems. By finding the top young innovators globally and learning what they’re focused on in their work,…",
-      "published": "2026-08-12T09:08:40+00:00",
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out…",
+      "published": "2026-08-13T12:10:00+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
-      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work…",
-      "published": "2026-08-10T12:10:00+00:00",
+      "title": "How kids feel about AI, in their own words",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
+      "published": "2026-08-13T09:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people…",
+      "published": "2026-08-12T12:10:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates. \"The authentication",
+      "published": "2026-08-13T06:09:48+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
+      "published": "2026-08-12T11:47:38+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
+      "published": "2026-08-12T11:13:03+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
+      "published": "2026-08-12T08:04:52+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
+      "published": "2026-08-12T07:31:40+00:00",
+      "score": 10
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "South Africa’s offshore oil push meets grassroots resistance in court",
+      "url": "https://www.climatechangenews.com/2026/08/11/south-africas-offshore-oil-push-ground-resistance-courts-litigation-ocean/",
+      "summary": "Two court cases against oil majors TotalEnergies and Shell could derail South Africa's plan to expand offshore fossil fuels The post South Africa’s offshore oil push meets grassroots resistance in court appeared first on Climate Home News .",
+      "published": "2026-08-11T16:30:26+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-      "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-      "summary": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
-      "published": "2026-08-12T00:14:42+00:00",
+      "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
+      "published": "2026-08-13T08:12:53+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
-      "published": "2026-08-12T11:28:05+00:00",
+      "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+      "published": "2026-08-13T01:31:21+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Zhu Rongji, who helped turn China into a trading giant, dies at 97",
-      "url": "https://www.bbc.co.uk/news/articles/c75g9777wwxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zhu brought China into the WTO and championed reforms that fuelled growth.",
-      "published": "2026-08-12T12:10:45+00:00",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift: 'Best night of my life'",
+      "url": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "published": "2026-08-13T01:19:23+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-      "url": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The couple have tied the knot after the Portuguese captain played his last ever World Cup this summer.",
-      "published": "2026-08-12T04:29:02+00:00",
+      "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
+      "url": "https://www.bbc.co.uk/news/articles/cly8p8lpyvmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
+      "published": "2026-08-13T11:10:31+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tata Group Chairman N Chandrasekaran to step down in February",
-      "url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chandrasekaran said he would not seek reappointment when his term ends due to a lack of support from the Tata Sons board.",
-      "published": "2026-08-12T08:50:52+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "At least 15 die as boat sinks in Zimbabwe's Lake Kariba",
-      "url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
-      "summary": "The vessel is said to have overturned after being hit by strong waves.",
-      "published": "2026-08-12T12:01:34+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-      "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
-      "published": "2026-08-11T21:14:56+00:00",
+      "title": "Three men will be executed on the same day as death penalties rise in US",
+      "url": "https://www.bbc.co.uk/news/articles/cn5n399n6zvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Despite growing opposition to the death penalty, one state is behind the rising numbers.",
+      "published": "2026-08-13T12:04:44+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "What time and where to see the solar eclipse in Scotland",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
-      "summary": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
-      "published": "2026-08-12T10:01:43+00:00",
+      "title": "Eclipse warning: The key signs you may have damaged your eyes",
+      "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+      "published": "2026-08-13T11:57:28+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Best places to see partial solar eclipse across England",
-      "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
-      "published": "2026-08-12T08:28:13+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Solar eclipse 2026 weather forecast – where and when will the best view be?",
-      "url": "https://www.bbc.co.uk/weather/articles/c23592z7gppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.",
-      "published": "2026-08-11T15:02:33+00:00",
+      "title": "Watch: Hydrogen car breaks land speed record at 406 mph",
+      "url": "https://www.bbc.co.uk/news/videos/cvgjz88zpr1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new record surpasses the previous official hydrogen combustion title set in 2004 by more than double the speed.",
+      "published": "2026-08-12T16:30:07+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "After post-pandemic improvement, youth unemployment is rising again",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168120",
-      "summary": "Frustrated by skyrocketing youth unemployment, among other issues, tens of thousands of Gen Z activists took to the streets of Nepal last year, demanding a stake in the country’s economic growth. The protest worked and the prime minister resigned.",
-      "published": "2026-08-11T12:00:00+00:00",
+      "title": "Cholera spreads across borders in West and Central Africa",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168125",
+      "summary": "Cholera is spreading rapidly across West and Central Africa, with active outbreaks now in six countries and millions of children at growing risk, UN children’s agency UNICEF has said.",
+      "published": "2026-08-12T12:00:00+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "South Sudan: UN mission decries deadly attacks, works to calm tensions after ‘nothing but devastation’",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168118",
-      "summary": "The UN Mission in South Sudan (UNMISS) has condemned recent armed group attacks in Warrap state which reportedly left more than 60 civilians dead and 50 others injured.",
-      "published": "2026-08-11T12:00:00+00:00",
+      "title": "WHO chief voices concern over Trump Administration’s executive order on vaccines",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168124",
+      "summary": "The head of the World Health Organization (WHO) on Wednesday upheld the safety of childhood vaccines in response to a new directive from the White House to overhaul the recommended inoculation schedule.",
+      "published": "2026-08-12T12:00:00+00:00",
       "score": 9
     }
   ]

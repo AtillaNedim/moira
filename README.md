@@ -1,78 +1,76 @@
-# Moira — 2026-08-12
+# Moira — 2026-08-13
 
 ## 🌍 Umwelt
 
-Der Juli 2026 war nach Angaben der Weltorganisation für Meteorologie der zweitwärmste Juli seit Beginn der Aufzeichnungen. In mehreren Regionen sorgten Hitze, Dürre, Waldbrände und andere Extremwetterereignisse für erhebliche Belastungen. Die Behörden betonen die Notwendigkeit besserer Vorhersagesysteme und Frühwarnungen, um Leben und Lebensgrundlagen zu schützen. In Ohio führten schwere Stürme zu einem umgestürzten Fahrzeug und Überschwemmungen; mindestens eine Person kam dabei ums Leben. Die Bewohner wurden aufgefordert, sich auf weitere schwere Stürme in den kommenden Tagen vorzubereiten.
+Die Verhandlungen über ein neues Plastikabkommen sind nach Einschätzung von Beobachtern deutlich zurückgeworfen worden. Der vorliegende Vertragstext konzentriert sich offenbar vor allem auf die Bewältigung von Plastikmüll, während Maßnahmen zur Begrenzung der Produktion weitgehend fehlen. Insbesondere erdölfördernde Nationen haben sich dafür eingesetzt, den Geltungsbereich des Abkommens eng zu halten. Die Formulierung, man sei „rückwärts gegangen“, stammt aus der Berichterstattung über die schwierigen Gespräche und verweist auf die wachsende Kluft zwischen den Positionen der Verhandler.
 
-In Südafrika gibt es Widerstand gegen die Pläne der Regierung, die Offshore-Ölförderung auszuweiten. Zwei Gerichtsverfahren gegen die Ölkonzerne TotalEnergies und Shell könnten diese Pläne gefährden. Die Klagen wurden von Graswurzelorganisationen eingebracht, die sich gegen die Erschließung neuer fossiler Brennstoffe vor der Küste des Landes wenden. Der Ausgang dieser Verfahren könnte richtungsweisend für die künftige Energiepolitik Südafrikas sein.
+In Südafrika zeichnet sich ein Konflikt zwischen dem staatlichen Interesse an Offshore-Ölförderung und zivilgesellschaftlichem Widerstand ab. Zwei Gerichtsverfahren gegen die Unternehmen TotalEnergies und Shell könnten die Pläne zur Ausweitung der fossilen Förderung vor der Küste gefährden. Die Klagen werden von Graswurzelorganisationen unterstützt und zeigen, dass die juristische Auseinandersetzung zu einem zentralen Mittel des Klimaprotests geworden ist.
 
-Der gesunkene Wasserstand der Donau hat Überreste von Soldaten aus dem Zweiten Weltkrieg sowie ein bemerkenswert gut erhaltenes Motorrad und Erkennungsmarken freigelegt. Der Fund verdeutlicht, wie der Klimawandel durch Niedrigwasser auch historische Spuren sichtbar macht, die lange unter der Wasseroberfläche verborgen waren.
+Ein weiterer Bericht beleuchtet die Rolle der Werbeindustrie im Klimakontext. Mit geringer Regulierung fördert sie weiterhin emissionsintensive Lebensstile wie Flugreisen und hohen Fleischkonsum, während gleichzeitig punktuelle grüne Maßnahmen beworben werden. Die Berichterstattung weist darauf hin, dass dieser Widerspruch bislang kaum politisch adressiert wird.
 
 ## 🔬 Wissenschaft
 
-Am 12. August 2026 findet eine totale Sonnenfinsternis statt, die in Teilen Spaniens, Grönlands, Islands, Portugals und Russlands zu beobachten ist. In Großbritannien werden bis zu 96 Prozent der Sonne vom Mond bedeckt sein. Es handelt sich um die beste Sonnenfinsternis im Vereinigten Königreich seit 1999. Die NASA weist darauf hin, dass westliche Teile Islands und Nordspanien zu den wenigen Orten der Nordhalbkugel gehören, an denen die Totalität erlebt werden kann.
+Am 12. August 2026 zog eine totale Sonnenfinsternis über Teile Grönlands, Islands, Nordrusslands, des Atlantiks, Spaniens und einen kleinen Teil Portugals. In Spanien wurde das Ereignis in San Millán de los Caballeros beobachtet, und Millionen Menschen in Großbritannien und Europa verfolgten die partielle Phase, bei der in Cornwall mehr als 95 Prozent der Sonne bedeckt waren. Die NASA dokumentierte das Ereignis mit Bildmaterial. Die Berichterstattung spricht von einem Ereignis, wie es nur einmal in einer Generation vorkommt.
 
-Die NASA hat die Fertigstellung des Lunar Environment Monitoring Station genannten Instruments bekannt gegeben, das von Astronauten der Artemis-Missionen auf der Mondoberfläche eingesetzt werden soll. Die Hardware-Entwicklung und Tests sind abgeschlossen; das Instrument ist für seinen Einsatz in der Nähe des lunaren Südpols vorgesehen. Es ist das erste vollständig fertiggestellte Nutzlastinstrument, das von Artemis-Astronauten auf dem Mond deployt werden soll.
+Die NASA hat Daten zur Verfügung gestellt, die kommerziellen Unternehmen bei der Planung helfen sollen, Ressourcen auf dem Mond zu nutzen. Wasser sowie Mineralien wie Eisen und Titan sind auf dem Mond vorhanden, aber ihre Gewinnung erfordert spezielle Ausrüstung. Die genaue Kenntnis der Fundorte wird darüber entscheiden, wo gelandet und wie abgebaut werden kann. Das Unternehmen Lunar Station Corp. nutzt diese Daten bereits.
 
-Die Forschung auf der Internationalen Raumstation hat im Jahr 2026 eine Vielzahl wissenschaftlicher Experimente hervorgebracht, die Grundlagen für künftige Missionen zum Mond und darüber hinaus legen sollen. Die Artemis-II-Mission im April war der erste bemannte Flug um den Mond seit mehr als 50 Jahren. Die NASA betont den Zusammenhang zwischen den Ergebnissen der Stationsforschung und den langfristigen Zielen der Weltraumfahrt.
+In Nigeria kämpft ein als „Vulture King“ bekannter Naturschützer gegen das Verschwinden der Geier. Die Vögel gelten vielerorts als unheimlich oder werden für rituelle Zwecke gejagt, obwohl sie eine wichtige Rolle im natürlichen Kreislauf spielen. Die Berichterstattung zeigt, wie lokaler Artenschutz gegen kulturelle Vorbehalte und praktische Gefahren arbeiten muss.
 
-In Nordirland wurde ein erheblicher Umweltvorfall gemeldet: Eine Verschmutzung im Kilkeel River im Gebiet der Mournes hat nach Angaben des Umweltministeriums Generationen von Fischen ausgelöscht. Fünf Kilometer des Flusses seien betroffen. Die genaue Ursache der Verschmutzung wird nicht genannt, die Auswirkungen auf das Ökosystem sind jedoch erheblich.
+Ein schwerwiegender Umweltvorfall in Nordirland hat nach Angaben der Umweltbehörde fünf Kilometer des Kilkeel River in den Mournes beeinträchtigt. Die Rede ist davon, dass ganze Generationen von Fischen ausgelöscht wurden. Weitere Details zu Ursache und Ausmaß sind in den vorliegenden Quellen nicht enthalten.
 
-Die NASA hat außerdem ein neues Bild des Sternentstehungsgebiets 30 Doradus, auch Tarantelnebel genannt, veröffentlicht. Die Aufnahme kombiniert Beobachtungen mehrerer Weltraumteleskope und zeigt neue Details über die Sternentstehung in der Großen Magellanschen Wolke, einer Nachbargalaxie der Milchstraße.
+Der Juli 2026 war nach Angaben der Weltorganisation für Meteorologie der zweitwärmste Juli seit Beginn der Aufzeichnungen. Die WMO betont die Notwendigkeit besserer Vorhersagen und Frühwarnsysteme, um Leben und Lebensgrundlagen zu schützen.
 
 ## ⚙️ Technik
 
-Mehrere kritische Sicherheitslücken wurden in dieser Woche gemeldet und teilweise bereits aktiv ausgenutzt. Eine Schwachstelle im VMware vCenter Server mit einem CVSS-Score von 9,8 wird von Angreifern aktiv ausgenutzt, um dauerhaften Fernzugriff zu erlangen. Es handelt sich um eine Directory-Traversal-Schwachstelle, die es einem Angreifer mit Netzwerkzugriff ermöglicht, beliebigen Code auszuführen. Patches wurden bereits bereitgestellt.
+Die nordkoreanische Hackergruppe Lazarus hat nach Erkenntnissen von Check Point Research eine neu gepatchte Sicherheitslücke in Microsoft Windows ausgenutzt, um eine bislang unbekannte Hintertür zu installieren. Die Angriffe richteten sich gegen Verteidigungs- und Luftfahrtunternehmen in Frankreich, Deutschland, Brasilien und Indien. Die Aktivität wird der langjährigen Operation Dream Job zugeschrieben, einer Cyber-Spionagekampagne.
 
-Cisco hat vor einer Schwachstelle in der Secure Firewall Adaptive Security Appliance Software und der Secure Firewall Threat Defense Software gewarnt, die in freier Wildbahn ausgenutzt wird. Die als hoch eingestufte Schwachstelle mit einem CVSS-Score von 8,6 beruht auf unzureichender Fehlerprüfung bei der Verarbeitung von HTTP-Anfragen und kann von einem nicht authentifizierten Angreifer aus der Ferne ausgelöst werden.
+Eine kritische Sicherheitslücke in VMware vCenter wird aktiv ausgenutzt. Die Schwachstelle CVE-2026-59310 mit einem CVSS-Score von 9,8 erlaubt Angreifern mit Netzwerkzugriff die Ausführung beliebigen Codes. Patches wurden bereits bereitgestellt, doch die Angriffe laufen. Auch Cisco warnt vor einer in freier Wildbahn ausgenutzten Schwachstelle in den Produkten ASA und FTD, die einen Remote-Denial-of-Service auslösen kann.
 
-Adobe hat Updates für mehrere kritische Sicherheitslücken in ColdFusion, Commerce und Campaign Classic veröffentlicht. Drei der Schwachstellen weisen den maximalen CVSS-Score von 10,0 auf. Bei erfolgreicher Ausnutzung könnten Angreifer beliebigen Code ausführen oder Privilegien erweitern. Auch SAP hat einen Patch für eine Schwachstelle im Commerce Cloud Data Hub Adapter bereitgestellt, die ebenfalls mit 10,0 bewertet ist und es nicht authentifizierten Angreifern ermöglichen könnte, beliebigen Code auszuführen.
+Im Chrome Web Store wurden 737 VPN- und Proxy-Erweiterungen entdeckt, die den Browserverkehr abfangen und über eine Proxy-Infrastruktur leiten. Sie zielen vor allem auf russischsprachige Nutzer, die Zugang zu blockierten Diensten suchen. 274 der Erweiterungen imitieren bekannte Marken. Insgesamt wurden 75.486 Installationen gezählt.
 
-Eine neue Version des Android- und IoT-Botnets Kimwolf wurde entdeckt. Die als Kimwolf v7 bezeichnete Variante wurde von Palo Alto Networks im Februar 2026 identifiziert und weist erhebliche Verbesserungen auf, die die operative Widerstandsfähigkeit erhöhen. Sie nutzt HTTP/2-basierten DDoS-Verkehr, der wie legitimes Browserverhalten aussieht.
+In der Biotechnologie gelang einem japanischen Team erstmals die gezielte Umwandlung männlicher Mausembryonen in weibliche. Mit einer CRISPR-basierten Methode wurde das Y-Chromosom aus männlichen Zellen entfernt, wodurch weibliche Klone männlicher Mäuse entstanden. Die Fachwelt bezeichnet dies als Novum.
 
-Zwei bösartige LiteLLM-Releases auf PyPI enthielten für etwa 40 Minuten im März Code, der Anmeldeinformationen stehlen konnte. Nach Angaben des Threat-Intelligence-Unternehmens CloudSEK könnten mehr als 2.100 Organisationen betroffen sein. Die Angreifer erbeuteten Daten aus rund 434.000 Dateien, darunter Cloud-Schlüssel, SSH-Schlüssel, Kubernetes-Tokens und Datenbankpasswörter.
-
-Das ukrainische CERT-UA hat eine Social-Engineering-Kampagne offengelegt, die der mit Sandworm verbundenen Gruppe UAC-0145 zugeschrieben wird. Die Angreifer gaben sich als Personalvermittler aus und lockten IT-Mitarbeiter in der Ukraine dazu, eine schädliche VPN-Anwendung zu installieren, die Befehle ausführen kann.
-
-Der Begriff "Zensur-Industriekomplex" beschreibt laut einem Bericht die Veränderung der Internet- und US-Politik durch Maßnahmen zur Bekämpfung ausländischer Desinformation. Ein kleines Büro im US-Außenministerium, das sich mit der Überwachung und Bekämpfung von Desinformation aus Russland, Iran und China befasste, stand vor der Schließung. Die Entwicklungen werfen Fragen zur Zukunft der Desinformationsbekämpfung auf.
+Ein Bericht des MIT Technology Review befasst sich mit dem sogenannten „Zensur-Industriekomplex“. Gemeint ist das Zusammenspiel von staatlichen Stellen, Technologieunternehmen und politischen Akteuren, das die Internetpolitik in den USA zunehmend prägt. Der Bericht beschreibt, wie ein kleines Büro im US-Außenministerium, das Desinformation aus Russland, Iran und China überwachen sollte, geschlossen wurde.
 
 ## 🏛️ Politik
 
-Der frühere chinesische Premierminister Zhu Rongji ist im Alter von 97 Jahren gestorben. Er brachte China in die Welthandelsorganisation WTO und setzte Reformen durch, die das Wirtschaftswachstum des Landes erheblich förderten. Sein Tod markiert das Ende einer Ära in der chinesischen Wirtschaftspolitik.
+In Sambia finden Präsidentschaftswahlen statt. Amtsinhaber Hakainde Hichilema strebt eine zweite Amtszeit an, sieht sich jedoch mit anhaltenden Lebenshaltungskostenproblemen konfrontiert, die seine Beliebtheit beeinträchtigt haben. Der Ausgang der Wahl gilt als offen.
 
-US-Präsident Donald Trump hat bestätigt, dass er nach dem NATO-Gipfel das Flugzeug gewechselt hat, weil eine mögliche Bedrohung bestand. Journalisten und Mitarbeiter des Weißen Hauses an Bord des ursprünglichen Flugzeugs waren sich des Wechsels nicht bewusst. Die Ereignisse stehen im Zusammenhang mit den angespannten Beziehungen zu Iran und deuten auf persönliche Sicherheitsbedenken hin.
+Der russische Präsident Wladimir Putin hat die Kurilen-Inseln besucht, die zwischen Russland und Japan umstritten sind. Japans Premierminister bezeichnete den Besuch als „absolut inakzeptabel“. Es war der erste Besuch Putins auf den Inseln seit Beginn des Krieges gegen die Ukraine, wie staatliche Medien berichten.
 
-In Singapur und Südkorea wurden Gewürzmischungen des US-Händlers Trader Joe's aus dem Verkehr gezogen, weil sie Mohnsamen enthalten, die in beiden Ländern verboten sind. Der Fall zeigt, wie unterschiedlich Lebensmittelregulierungen international sein können.
+Die britische Regierung verteidigt die Beschlagnahmung eines Tankers aus der sogenannten Schattenflotte. Man handle im Einklang mit dem Gesetz und wolle Schattenflotten-Vessels „stören und abschrecken“. Die Maßnahme folgt auf eine Drohung Putins.
 
-Der Vorsitzende der Tata Group, N Chandrasekaran, wird im Februar zurücktreten. Er erklärte, er werde sich nicht um eine Wiederernennung bemühen, da ihm die Unterstützung des Vorstands von Tata Sons fehle. Der Führungswechsel bei einem der größten indischen Konzerne könnte weitreichende Folgen haben.
+Im Westjordanland eskaliert die Lage um das Dorf Qusra. Zwei palästinensische Familien sind seit Sonntag in ihren Häusern eingeschlossen, Wasser und Strom wurden abgestellt. Die israelische Regierung kündigte an, zusätzliche Truppen in das Dorf zu entsenden, das von israelischen Siedlern belagert wird.
+
+Der französische Botschafter in der Zentralafrikanischen Republik sieht sich Disziplinarmaßnahmen gegenüber. Bruno Foucher wird beschuldigt, Frauen in die offizielle Residenz gebracht zu haben. Die Vorwürfe haben Untersuchungen zu einem möglichen Sicherheitsverstoß ausgelöst.
+
+Die Weltgesundheitsorganisation hat sich besorgt über eine neue Exekutivanordnung der US-Regierung geäußert, die den empfohlenen Impfplan für Kinder überarbeiten soll. Der WHO-Chef bekräftigte die Sicherheit von Kinderimpfstoffen.
 
 ## 🌐 Geopolitische Lage
 
-UN-Ermittler haben eine anhaltende Kampagne gezielter Angriffe des Militärs in Myanmar auf Zivilisten dokumentiert. Dazu gehören Luftangriffe auf Wohnhäuser, Schulen und Lager für Vertriebene sowie willkürliche Inhaftierungen, Folter und sexuelle Gewalt. Die vom Menschenrechtsrat eingesetzten Ermittler haben die Angriffe als vorsätzlich eingestuft.
+Ein Angriff auf ein Handelsschiff vor der Südküste Jemens hat mehrere Seeleute getötet. Die Vereinten Nationen warnen, dass der Vorfall die globalen Lieferketten weiter verunsichern könnte. Die Lage wird durch den anhaltenden Iran-US-Krieg verschärft, der die Schifffahrt in der Straße von Hormus bereits stark beeinträchtigt hat.
 
-In Afghanistan haben die Vereinten Nationen die Taliban aufgefordert, sich zu Misshandlungen durch ihre Sicherheitskräfte zu äußern. Fünf Jahre nach der Machtübernahme der Taliban haben Afghanen nach Angaben der UN nahezu keine Möglichkeit zu erfahren, ob Soldaten, Polizisten und Sittenwächter, die ihre Macht missbrauchen, jemals zur Rechenschaft gezogen werden. Diese Geheimhaltung untergrabe das Vertrauen in den Staat.
+Im Sudan kommt es weiterhin zu Angriffen und Vertreibungen, insbesondere in Blue Nile und Nord-Kordofan. Die Vereinten Nationen appellieren erneut an die Konfliktparteien, die Zivilbevölkerung zu schützen. Die humanitäre Lage bleibt angespannt, genaue Zahlen sind in den Quellen nicht enthalten.
 
-Die Jugendarbeitslosigkeit steigt nach einer Verbesserung nach der Pandemie wieder an. In Nepal führte die Frustration über die hohe Jugendarbeitslosigkeit zu Massenprotesten von Zehntausenden Gen-Z-Aktivisten im vergangenen Jahr. Der Protest war erfolgreich und führte zum Rücktritt des Premierministers. Die Entwicklungen zeigen, dass wirtschaftliche Perspektivlosigkeit junger Menschen politische Instabilität auslösen kann.
+In West- und Zentralafrika breitet sich Cholera über Grenzen hinweg aus. Nach Angaben von UNICEF gibt es aktive Ausbrüche in sechs Ländern, Millionen Kinder sind gefährdet. Die Lage wird als sich schnell verschlechternd beschrieben.
+
+Der WHO-Chef hat sich zudem zur Ebola-Lage geäußert. Der Ausbruch, der am 15. Mai erklärt wurde, hat nach offiziellen Angaben mehr als 2.000 Todesopfer gefordert, mit tausenden weiteren gemeldeten Fällen. Er könnte auf dem Weg sein, der tödlichste aller Zeiten zu werden.
 
 ## ⚔️ Krieg
 
-Die humanitäre Lage in Sudan verschlechtert sich weiter. Der anhaltende Konflikt, Vertreibung und Finanzierungsengpässe vertiefen die Not der Bevölkerung. Das UN-Büro für die Koordinierung humanitärer Angelegenheiten betont die Notwendigkeit eines größeren Schutzes der Zivilbevölkerung. Konkrete Zahlen zu Opfern oder Vertriebenen werden in den vorliegenden Informationen nicht genannt.
+Der Krieg in der Ukraine dauert nun im fünften Jahr an. Der russische Präsident Putin könne nicht mehr behaupten, den Krieg zu gewinnen, sagte der Nobelpreisträger Dmitri Muratow in einem Interview mit der BBC. Putin könne die Ukraine nur „zerstören, nicht erobern“. Diese Einschätzung eines russischen Journalisten, der für seine Meinungsfreiheit bekannt ist, wiegt schwer, auch wenn sie eine persönliche Bewertung darstellt.
 
-In Südsudan hat die UN-Mission Angriffe bewaffneter Gruppen im Bundesstaat Warrap verurteilt. Bei den Angriffen sollen mehr als 60 Zivilisten getötet und 50 weitere verletzt worden sein. Die Mission arbeitet daran, die Spannungen zu beruhigen. Die genauen Umstände der Angriffe sind nicht vollständig geklärt.
-
-Im Westjordanland belagern israelische Siedler palästinensische Familien in einem Dorf. Die israelischen Sicherheitskräfte haben sich nach Angaben der BBC zurückgezogen, während etwa ein Dutzend Siedler an dem Ort verbleiben, an dem zwei Familien seit Sonntag belagert werden. Die Situation bleibt angespannt.
+Die britische Regierung hat die Beschlagnahmung eines Tankers der Schattenflotte verteidigt. Diese Schiffe werden genutzt, um russisches Öl unter Umgehung von Sanktionen zu transportieren. Die Maßnahme ist Teil einer Strategie, die Aktivitäten dieser Flotte zu stören.
 
 ## 💬 Meinung des Tages
 
-Der 12. August 2026 zeigt sich als ein Tag der Gleichzeitigkeit: Während die Menschheit nach Europa blickt, wo eine seltene totale Sonnenfinsternis tausende Menschen in Staunen versetzen wird, arbeiten Sicherheitsforscher weltweit daran, die nächsten digitalen Angriffswellen abzuwehren. Die Sonnenfinsternis erinnert an die Größe des Kosmos und die winzige Position der Erde darin. Gleichzeitig zeigen die Sicherheitslücken in VMware, Cisco, Adobe und SAP, wie verwundbar die digitale Infrastruktur ist, auf der moderne Gesellschaften beruhen.
-
-Die Meldungen über die toten Soldaten in der Donau und die zerstörten Fischbestände in Nordirland verbinden Vergangenheit und Gegenwart auf unheimliche Weise. Der Klimawandel verändert nicht nur die Zukunft, sondern legt auch die Spuren der Vergangenheit frei. Die UN-Berichte aus Myanmar, Afghanistan, Sudan und Südsudan zeigen, dass Gewalt gegen Zivilisten und mangelnde Rechenschaftspflicht weiterhin zu den größten globalen Problemen gehören. Es ist ein Tag, an dem die Gleichzeitigkeit von wissenschaftlichem Fortschritt, technischer Verwundbarkeit und menschlichem Leid besonders deutlich wird.
+Der 13. August 2026 zeigt ein Muster, das sich durch viele der berichteten Ereignisse zieht: Die Kluft zwischen wissenschaftlicher Erkenntnis und politischem Handeln bleibt groß. Die Plastikverhandlungen gehen rückwärts, die Werbeindustrie fördert weiter emissionsintensive Lebensstile, und die WHO muss die Sicherheit von Impfstoffen gegen politische Anordnungen verteidigen. Gleichzeitig gibt es Gegenbewegungen: Gerichte werden genutzt, um Ölförderung zu stoppen, und lokale Initiativen wie der Schutz der Geier in Nigeria zeigen, dass Veränderung auch von unten entstehen kann. Der Tag ist geprägt von Widersprüchen, die ausgehalten werden müssen, ohne die Hoffnung auf Besserung aufzugeben.
 
 ## 🎵 Song des Tages
 
-"Total Eclipse of the Heart" von Bonnie Tyler. Der Titel passt zur totalen Sonnenfinsternis, die heute über Europa zu sehen ist, und nimmt zugleich die dunklen Untertöne des Tages auf: die Schattenseiten von Konflikten, die Verwundbarkeit digitaler Systeme und die Vergänglichkeit, die der Fund der Soldatenüberreste in der Donau sichtbar macht.
+„Fix You“ von Coldplay. Der Song passt zu diesem Tag, weil er von dem Versuch handelt, Zerbrochenes zu reparieren, ohne zu verschweigen, dass es zerbrochen ist. In einer Zeit, in der Verhandlungen scheitern, Kriege andauern und Klimarekorde gebrochen werden, ist das eine angemessene musikalische Begleitung.
 
 
 ---
 
-*Erstellt am 2026-08-12 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-08-13 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
