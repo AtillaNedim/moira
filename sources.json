@@ -1,63 +1,45 @@
 {
-  "generated_at": "2026-08-14T12:34:06.216400+00:00",
-  "date": "2026-08-14",
+  "generated_at": "2026-08-15T12:11:54.068425+00:00",
+  "date": "2026-08-15",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s COFFIES Uses AI to Predict Storm-Causing Active Regions on Sun",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasas-coffies-uses-ai-to-predict-storm-causing-active-regions-on-sun/",
+      "summary": "As humanity looks to the Moon and stars for future exploration, predicting space weather — conditions in space primarily driven by the Sun — is more important than ever. Now, a team of astrophysicists and data scientists with NASA’s COFFIES (Consequence Of Fields and Flows in the Interior and Exterior of the Sun) has developed a […]",
+      "published": "2026-08-14T17:00:23+00:00",
+      "score": 14
+    },
+    {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168131",
-      "summary": "As tensions triggered by the US-Iran war continue to ripple across the Middle East, the Security Council held an open debate Thursday on Yemen, where escalating deadly military clashes are worsening an already fragile humanitarian situation amid fears that recent Houthi missile strikes on Saudi Arabia and commercial vessels could threaten the 2022 truce between Houthi militia and the internationally-recognised Government. UN News app users can follow our live coverage here.",
-      "published": "2026-08-13T12:00:00+00:00",
-      "score": 14
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Will the world’s drying lands get relief from COP17 in Mongolia?",
-      "url": "https://www.climatechangenews.com/2026/08/13/will-the-worlds-drying-lands-get-relief-from-cop17-in-mongolia/",
-      "summary": "Governments will discuss ways to combat drought and protect herders and their pastures from land degradation in a warming world The post Will the world’s drying lands get relief from COP17 in Mongolia? appeared first on Climate Home News .",
-      "published": "2026-08-13T13:49:42+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "'The department has lost touch with farmers' - call for minister's resignation over cattle cull",
-      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-      "summary": "The minister has previously said there was \"no reasonable alternative\" to the cattle being euthanised on site after the 51 cattle were culled following a court order.",
-      "published": "2026-08-14T11:08:27+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
-      "url": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
-      "published": "2026-08-14T11:37:31+00:00",
+      "title": "Sudan: The harrowing reality of giving birth in a war zone",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168141",
+      "summary": "Sudanese women about to give birth are losing their babies and sometimes their own lives because of a lack of specialist healthcare support, amid the ongoing war, UN humanitarians said on Friday.",
+      "published": "2026-08-14T12:00:00+00:00",
       "score": 12
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s 737 Reveals New Paint",
-      "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
-      "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June. The aircraft will perform lunar-gravity parabolic flights to validate […]",
-      "published": "2026-08-13T19:41:23+00:00",
+      "title": "Volunteer Develops Machine-Learning Tool to Identify Rare Clouds",
+      "url": "https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/",
+      "summary": "Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes, scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project.",
+      "published": "2026-08-14T17:35:46+00:00",
       "score": 12
     },
     {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
-      "published": "2026-08-13T21:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Total Solar Eclipse in Sunflower Field",
+      "url": "https://www.nasa.gov/image-article/total-solar-eclipse-in-sunflower-field/",
+      "summary": "This composite image shows the progression of a total solar eclipse over San Millán de los Caballeros, Spain on, Wednesday, Aug. 12, 2026. A total solar eclipse swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of Portugal. A partial eclipse was visible in parts of the U.S., […]",
+      "published": "2026-08-14T14:48:55+00:00",
       "score": 12
     },
     {
@@ -70,102 +52,120 @@
       "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
-      "published": "2026-08-12T09:01:54+00:00",
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "South Africa’s top court blocks Shell’s offshore oil exploration right",
+      "url": "https://www.climatechangenews.com/2026/08/14/south-africas-top-court-blocks-shells-offshore-oil-exploration-right/",
+      "summary": "South Africa's Constitutional Court ruled that Shell and its partners failed to consult affected communities and did not properly consider the environmental risks of offshore oil exploration The post South Africa’s top court blocks Shell’s offshore oil exploration right appeared first on Climate Home News .",
+      "published": "2026-08-14T17:18:04+00:00",
+      "score": 12
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Will the world’s drying lands get relief from COP17 in Mongolia?",
+      "url": "https://www.climatechangenews.com/2026/08/13/will-the-worlds-drying-lands-get-relief-from-cop17-in-mongolia/",
+      "summary": "Governments will discuss ways to combat drought and protect herders and their pastures from land degradation in a warming world The post Will the world’s drying lands get relief from COP17 in Mongolia? appeared first on Climate Home News .",
+      "published": "2026-08-13T13:49:42+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "'Unprecedented' rain in Japan kills eight people",
-      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-      "published": "2026-08-14T10:36:14+00:00",
+      "title": "South Korea proposes talks to officially end war with North",
+      "url": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+      "published": "2026-08-15T09:35:23+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "An attack on healthcare every six hours, and no one held to account",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168144",
+      "summary": "Across the world, healthcare has suffered more than 10,000 attacks in the past eight years, including during the brutal conflict in Ukraine and efforts to contain the current Ebola outbreak spreading rapidly in the eastern Democratic Republic of the Congo (DRC).",
+      "published": "2026-08-14T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Competition Invites Students to Help Imagine a Future Enabled by Lunar Technologies",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-competition-invites-students-to-help-imagine-a-future-enabled-by-lunar-technologies/",
+      "summary": "NASA is asking U.S.-based collegiate teams to submit bold, original concepts to the 2027 edition of a student challenge focused on aerospace innovation that could help the agency envision a future on the Moon shaped by new technology. The latest NASA Revolutionary Aerospace Systems Concepts – Academic Linkage (RASC-AL) competition invites student teams to explore new operations paradigms and advance the technologies needed to […]",
+      "published": "2026-08-14T20:00:38+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Announces MAX POWER: America’s Newest Aerospace Expo, Airshow",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-max-power-americas-newest-aerospace-expo-airshow/",
+      "summary": "In honor of America’s historic 250th anniversary, NASA announced on Friday MAX POWER, a public exposition of American air and space innovation, Nov. 7 and Nov. 8, on and near the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define […]",
+      "published": "2026-08-14T18:44:36+00:00",
+      "score": 11
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Q&A: What does China’s 15th five-year plan for coal mean for climate action?",
+      "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action",
+      "summary": "China has published a new five-year plan for coal, the latest in a slew of important policy documents for the… The post Q&A: What does China’s 15th five-year plan for coal mean for climate action? appeared first on Carbon Brief .",
+      "published": "2026-08-14T14:09:31+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US says dozens of countries helped China dodge Trump's tariffs",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "published": "2026-08-14T08:39:46+00:00",
-      "score": 11
+      "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
+      "published": "2026-08-15T00:01:53+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+      "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "published": "2026-08-14T17:36:27+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "published": "2026-08-14T16:35:06+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "url": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
+      "published": "2026-08-14T20:22:56+00:00",
+      "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
-      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
-      "summary": "Heat is spiking again on Thursday with a rare warning in place and more records falling.",
-      "published": "2026-08-13T15:53:37+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "This scientist is helping build a missing map of childhood",
-      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
-      "published": "2026-08-14T09:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
-      "published": "2026-08-12T06:15:58+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "New coal mine openings slow as East Asian demand plateaus",
-      "url": "https://www.climatechangenews.com/2026/08/14/new-coal-mine-openings-slow-as-east-asian-demand-plateaus/",
-      "summary": "China and Australia drove global decline in new capacity additions in 2025, but planned production kept growing The post New coal mine openings slow as East Asian demand plateaus appeared first on Climate Home News .",
-      "published": "2026-08-14T11:39:49+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-      "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
-      "published": "2026-08-13T21:43:47+00:00",
+      "title": "'Days of the farmers' union dictating policy are over' - Muir",
+      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union.",
+      "published": "2026-08-14T16:07:57+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "published": "2026-08-13T23:06:23+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "published": "2026-08-13T19:46:27+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-      "url": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-      "summary": "A fifth has been reinstated, though an appeals board found that the whole group broke Hockey Canada's code of conduct.",
-      "published": "2026-08-13T14:51:44+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Warned but not protected’: Four in ten adults in England ignore heat alerts",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168149",
+      "summary": "As amber heat-health alerts spread across England this summer, a new study has found that the warnings are being received – but not changing behaviour.",
+      "published": "2026-08-14T12:00:00+00:00",
       "score": 10
     },
     {
@@ -178,30 +178,12 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Sudan: Attacks and further displacement in Blue Nile and North Kordofan",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168126",
-      "summary": "The United Nations has once again urged warring parties in Sudan to protect civilians as the fighting continues to take a heavy toll on the population.",
-      "published": "2026-08-12T12:00:00+00:00",
-      "score": 10
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "For West Virginia Engineer, Home Is Where the Heart Is… and NASA, Too",
-      "url": "https://www.nasa.gov/centers-and-facilities/goddard/for-west-virginia-engineer-home-is-where-the-heart-is-and-nasa-too/",
-      "summary": "Growing up in Grafton, West Virginia, engrossed in Star Wars and all things science fiction, Fletcher Newell had an early interest in space exploration. That interest only grew when, in 2013, his fourth-grade class took a field trip to a nearby NASA facility he had not yet heard of – NASA’s Katherine Johnson Independent Verification […]",
-      "published": "2026-08-13T19:03:19+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "2026 Total Solar Eclipse in Spain",
-      "url": "https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/",
-      "summary": "A total solar eclipse is seen from San Millán de los Caballeros, Spain, Wednesday, Aug. 12, 2026. A total solar eclipse – the Moon passing between the Sun and Earth, completely blocking the face of the Sun – swept across parts of Greenland, Iceland, northern Russia, the Atlantic Ocean, Spain, and a small corner of […]",
-      "published": "2026-08-12T20:08:28+00:00",
+      "title": "NASA’s 737 Reveals New Paint",
+      "url": "https://www.nasa.gov/image-article/nasas-737-reveals-new-paint/",
+      "summary": "NASA’s 737 aircraft was painted this week in Oklahoma as it progresses with modifications for use as a reduced gravity test aircraft for the agency. NASA’s Armstrong Flight Research Center in Edwards, California, took ownership of the aircraft from the United States Air Force in June. The aircraft will perform lunar-gravity parabolic flights to validate […]",
+      "published": "2026-08-13T19:41:23+00:00",
       "score": 10
     },
     {
@@ -216,64 +198,19 @@
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Job titles of the future: Space travel agent",
-      "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-      "summary": "Roman Chiporukha has long turned wild travel dreams into reality. Over two decades as co-owner of the luxury lifestyle firm Roman & Erica, he has orchestrated everything from the construction of a client’s superyacht to vacations in the Bahamas at a location so private that guests must sign an NDA. The experiences earned him “the…",
-      "published": "2026-08-14T09:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Cloning could be used to save species—or make human “organ sacks”",
-      "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-      "summary": "This week I spoke to scientists who have found a way to turn male mouse embryos female. They’ve developed a CRISPR-based approach to essentially cut out the Y chromosome. It allowed them to create female clones of male mice. That’s right: female animals that are genetically identical to males, except for the missing Y chromosome.…",
-      "published": "2026-08-14T09:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
-      "published": "2026-08-13T13:41:10+00:00",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+      "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
+      "published": "2026-08-13T21:00:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
-      "published": "2026-08-12T11:47:38+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
-      "published": "2026-08-12T11:13:03+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
-      "published": "2026-08-12T08:04:52+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
-      "published": "2026-08-12T07:31:40+00:00",
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+      "published": "2026-08-12T09:01:54+00:00",
       "score": 10
     },
     {
@@ -286,66 +223,66 @@
       "score": 10
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "South Africa’s offshore oil push meets grassroots resistance in court",
-      "url": "https://www.climatechangenews.com/2026/08/11/south-africas-offshore-oil-push-ground-resistance-courts-litigation-ocean/",
-      "summary": "Two court cases against oil majors TotalEnergies and Shell could derail South Africa's plan to expand offshore fossil fuels The post South Africa’s offshore oil push meets grassroots resistance in court appeared first on Climate Home News .",
-      "published": "2026-08-11T16:30:26+00:00",
-      "score": 10
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "published": "2026-08-14T10:55:39+00:00",
+      "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Among those killed in the strike on Ansar included three children and two women, state media reports.",
+      "published": "2026-08-15T11:24:24+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US missionary released following kidnap in Niger, Christian group says",
-      "url": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials.",
-      "published": "2026-08-14T10:18:02+00:00",
+      "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
+      "summary": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+      "published": "2026-08-15T10:56:22+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-      "published": "2026-08-13T20:12:17+00:00",
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "published": "2026-08-14T17:03:17+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Person fined after using foghorn to wake sleeping polar bear",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Under local regulations in the region, \"it is forbidden to needlessly disturb, attract or pursue a polar bear\".",
-      "published": "2026-08-13T15:30:57+00:00",
+      "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+      "published": "2026-08-14T18:25:38+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Air India to test all pilots for banned substances",
-      "url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after one of its planes suddenly lost altitude last week, with a number of passengers injured.",
-      "published": "2026-08-13T16:52:15+00:00",
+      "title": "'Unprecedented' rain in Japan kills eight people",
+      "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+      "published": "2026-08-14T10:36:14+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
-      "published": "2026-08-14T02:13:27+00:00",
+      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+      "published": "2026-08-14T15:58:21+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Temperatures soar to 38C as amber extreme heat warning in effect",
+      "url": "https://www.bbc.co.uk/weather/articles/ce85pj0e20po?at_medium=RSS&at_campaign=rss",
+      "summary": "Heat is spiking again on Thursday with a rare warning in place and more records falling.",
+      "published": "2026-08-13T15:53:37+00:00",
       "score": 9
     },
     {
@@ -367,39 +304,12 @@
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Cholera spreads across borders in West and Central Africa",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168125",
-      "summary": "Cholera is spreading rapidly across West and Central Africa, with active outbreaks now in six countries and millions of children at growing risk, UN children’s agency UNICEF has said.",
-      "published": "2026-08-12T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "A Sunflower’s View of Totality",
-      "url": "https://science.nasa.gov/earth/earth-observatory/a-sunflowers-view-of-totality/",
-      "summary": "The Moon slid between the Sun and Earth to produce a stunning celestial show visible from Spain in August 2026.",
-      "published": "2026-08-14T04:01:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Data Helps Commercial Space Plan Living Off Our Moon",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/",
-      "summary": "The barren lunar landscape has some important resources, such as water and minerals like iron and titanium, but extracting and processing them will require special equipment. Where those resources can be found will dictate where to land and how to mine them. To help with that, Lunar Station Corp. is using a wealth of NASA […]",
-      "published": "2026-08-12T20:40:27+00:00",
-      "score": 9
-    },
-    {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Building a practical path to post-quantum cryptography",
-      "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
-      "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
-      "published": "2026-08-13T18:11:42+00:00",
+      "title": "This scientist is helping build a missing map of childhood",
+      "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "summary": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body. Taylor was floored, and then concerned. As details emerged, she discovered that the…",
+      "published": "2026-08-14T09:00:00+00:00",
       "score": 9
     },
     {
@@ -410,6 +320,96 @@
       "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature. The heat isn’t over yet, but some scientists are already looking ahead…",
       "published": "2026-08-13T10:00:00+00:00",
       "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
+      "published": "2026-08-12T14:09:50+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
+      "published": "2026-08-12T06:15:58+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "New coal mine openings slow as East Asian demand plateaus",
+      "url": "https://www.climatechangenews.com/2026/08/14/new-coal-mine-openings-slow-as-east-asian-demand-plateaus/",
+      "summary": "China and Australia drove global decline in new capacity additions in 2025, but planned production kept growing The post New coal mine openings slow as East Asian demand plateaus appeared first on Climate Home News .",
+      "published": "2026-08-14T11:39:49+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "“We’ve gone backwards” – new plastics treaty text dims hopes for production curbs",
+      "url": "https://www.climatechangenews.com/2026/08/12/weve-gone-backwards-new-plastics-treaty-text-dims-hopes-for-production-curbs/",
+      "summary": "During troubled talks, fossil fuel-producing nations have pushed for a global pact to tackle only plastic waste rather than reducing the size of the problem The post “We’ve gone backwards” – new plastics treaty text dims hopes for production curbs appeared first on Climate Home News .",
+      "published": "2026-08-12T14:11:10+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
+      "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+      "published": "2026-08-15T11:48:58+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+      "published": "2026-08-14T13:18:08+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "published": "2026-08-13T19:46:27+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+      "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
+      "published": "2026-08-12T23:19:28+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Once-in-a-generation solar eclipse wows millions in UK and Europe",
+      "url": "https://www.bbc.co.uk/news/articles/ckgdp4923rdo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 95% of the Sun was covered by the Moon in Cornwall, while parts of Spain experienced the magic of a total eclipse.",
+      "published": "2026-08-12T21:53:45+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Generations of fish 'wiped out' after pollution incident",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted.",
+      "published": "2026-08-12T15:21:34+00:00",
+      "score": 8
     }
   ]
 }
