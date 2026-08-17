@@ -1,38 +1,76 @@
-# Moira — 2026-08-16
+# Moira — 2026-08-17
 
 ## 🌍 Umwelt
 
-Die Weltgemeinschaft bereitet sich auf die siebzehnte Vertragsstaatenkonferenz zur Bekämpfung der Wüstenbildung in der Mongolei vor, wo Regierungen über Maßnahmen gegen Dürre und den Schutz von Weideflächen beraten wollen. In diesem Zusammenhang rückt die Bedeutung von Grasland und Weideökosystemen in den Vordergrund, wie ein Bericht aus Nordkenia zeigt, wo Hirten auf ausbleibenden Regen warten und das Gras für ihre Tiere zunehmend dünner wird. Südafrikas Verfassungsgericht hat derweil ein geplantes Offshore-Ölexplorationsvorhaben von Shell blockiert, da das Unternehmen betroffene Gemeinschaften nicht ausreichend konsultiert und Umweltrisiken nicht angemessen berücksichtigt habe. Parallel dazu verlangsamt sich der weltweite Zubau neuer Kohleminen, wobei China und Australien den Rückgang neuer Kapazitäten im Jahr 2025 anführten, während die geplante Produktionsmenge weiter anstieg. China hat zudem einen neuen Fünfjahresplan für Kohle veröffentlicht, dessen Bedeutung für die Klimapolitik Fachleute derzeit einordnen. Die Werbeindustrie steht derweil in der Kritik, weil sie mit wenig Regulierung weiterhin emissionsintensive Lebensstile wie Flugreisen und hohen Fleischkonsum bewirbt.
+Südafrikas Verfassungsgericht hat Shells Recht auf Offshore-Ölexploration vor der Küste blockiert. Das Gericht befand, dass Shell und seine Partner es versäumt hatten, betroffene Gemeinschaften zu konsultieren und Umweltrisiken angemessen zu berücksichtigen. Dies ist ein bemerkenswerter juristischer Präzedenzfall, der die wachsende Bedeutung von Konsultationspflichten und Umweltprüfungen bei Rohstoffprojekten unterstreicht.
+
+In der Mongolei bereiten sich Regierungen auf die COP17 vor, die sich mit der Bekämpfung von Dürre und Landdegradation befassen soll. Besonders betroffen sind Hirten und ihre Weideflächen in einer sich erwärmenden Welt. Die Konferenz findet in einem Land statt, das selbst unmittelbar von diesen Problemen betroffen ist.
+
+China hat einen neuen Fünfjahresplan für Kohle veröffentlicht. Die genauen Auswirkungen auf die Klimapolitik sind noch nicht abschließend bewertet, aber das Dokument reiht sich in eine Serie wichtiger politischer Veröffentlichungen ein, die für die globale Emissionsentwicklung von Bedeutung sein dürften.
+
+Ein weiterer Bericht thematisiert die Rolle der Werbung bei der Förderung kohlenstoffintensiver Lebensstile. Die Branche bewerbe weiterhin Flugreisen und Fleischkonsum, während sie nur symbolische grüne Anstrengungen unternehme, so die Analyse. Regulierung fehle weitgehend.
 
 ## 🔬 Wissenschaft
 
-Ein Großbrand im belgischen Naturreservat wird als der schlimmste des Landes seit Jahren beschrieben, während Feuerwehrleute gegen die Flammen kämpfen. In Großbritannien gelten bei Temperaturen von bis zu 38 Grad Celsius seltene extreme Hitzewarnungen, und weitere Temperaturrekorde fallen. Rumänien musste sein einziges Kernkraftwerk Cernavodă abschalten, das etwa zwanzig Prozent des Stroms des Landes produziert, weil der Wasserstand der Donau durch die Hitze drastisch gesunken ist; eine Wiederinbetriebnahme wird nicht vor zehn Tagen erwartet. Die indische Sonnenmission Aditya-L1 hat neue Erkenntnisse zu einem langjährigen Rätsel der Sonnenphysik geliefert, nämlich warum die Korona der Sonne Millionen Grad heißer ist als ihre Oberfläche. Eine Studie aus England zeigt, dass vier von zehn Erwachsenen Hitzewarnungen zwar empfangen, ihr Verhalten jedoch nicht entsprechend anpassen. Im Osten der Demokratischen Republik Kongo beteiligen sich ehemalige Rebellenkämpfer aktiv an öffentlichen Informationskampagnen gegen die sich ausbreitende Ebola-Epidemie.
+Ein Team von Astrophysikern und Datenwissenschaftlern hat im Rahmen des NASA-Projekts COFFIES ein KI-Modell entwickelt, das aktive Regionen auf der Sonne vorhersagen kann, die Stürme verursachen. Angesichts der geplanten Mond- und Weltraummissionen gewinnt die Vorhersage von Weltraumwetter zunehmend an Bedeutung.
+
+Ein Freiwilliger hat im Rahmen des NASA-unterstützten Projekts Space Cloud Watch ein maschinelles Lernwerkzeug entwickelt, um seltene Wolkenarten zu identifizieren. Bestimmte Wolken erscheinen demnach häufiger und tiefer als früher, was Wissenschaftler dazu veranlasst, die Faktoren dieser Veränderungen zu untersuchen.
+
+Die totale Sonnenfinsternis vom 12. August wurde über Teilen Grönlands, Islands, Nordrusslands, des Atlantiks, Spaniens und eines kleinen Teils Portugals beobachtet. Eine Teilfinsternis war in Teilen der USA sichtbar. Die NASA veröffentlichte ein zusammengesetztes Bild des Ereignisses über einem Sonnenblumenfeld in Spanien.
+
+Der Hurrikan Lala hat auf Hawaii etwa hundert Häuser weggespült. Der Gouverneur des Bundesstaates erklärte, es habe erstaunlicherweise außer einem Autounfall keine Todesfälle gegeben. Die genauen Umstände des Autounfalls werden nicht näher ausgeführt.
+
+Ein Waldbrand in Belgien hat sich am dritten Tag verdoppelt und bedroht ein Naturschutzgebiet. Hunderte Feuerwehrleute versuchen, die Flammen einzudämmen.
 
 ## ⚙️ Technik
 
-Die nordkoreanische Hackergruppe Lazarus hat eine kürzlich gepatchte Sicherheitslücke in Microsoft Windows als Zero-Day ausgenutzt, um Systemzugriff zu erlangen und eine bislang unbekannte Hintertür zu installieren, wobei Verteidigungs- und Luftfahrtunternehmen in Frankreich, Deutschland, Brasilien und Indien betroffen sind. Angreifer nutzen außerdem aktiv eine kürzlich gepatchte kritische Schwachstelle in VMware vCenter aus, die eine Codeausführung ermöglicht. Cisco warnt vor einer weiteren Schwachstelle in seinen Firewall-Produkten ASA und FTD, die bereits in freier Wildbahn ausgenutzt wird und einen Denial-of-Service auslösen kann. Das Polizeitechnologieunternehmen Flock verschärft angesichts wachsender Überwachungskritik die Zugriffsregeln für Beamte auf sein landesweites Netzwerk von Kennzeichenerfassungskameras. In der Biotechnologie haben Wissenschaftler einen CRISPR-basierten Ansatz entwickelt, um männliche Mausembryonen in weibliche zu verwandeln, indem das Y-Chromosom entfernt wird, was Diskussionen über mögliche Anwendungen von Klonen zur Arterhaltung oder zur Erzeugung menschlicher Organe anregt. Die Idee eines sogenannten Zensur-Industriekomplexes, wonach Regierung, Technologieunternehmen und Forschungseinrichtungen gemeinsam konservative Online-Sprache unterdrücken, hat Eingang in die US-Politik gefunden.
+Sicherheitsforscher haben einen bisher nicht dokumentierten Linux-Botnet namens Evooo1Bot identifiziert, der auf dem Quellcode des Mirai-Botnets basiert. Das Schadprogramm ist darauf ausgelegt, internetfähige Geräte in SOCKS5-Proxys zu verwandeln. Es erweitert das ursprüngliche Mirai-Framework um zahlreiche zusätzliche Fähigkeiten.
+
+Ein mutmaßlich mit China verbundener Akteur hat eine kürzlich gepatchte Schwachstelle in Broadcoms VMware vCenter ausgenutzt. Die Sicherheitslücke CVE-2026-59310 mit einem CVSS-Score von 9,8 ermöglicht Verzeichnisüberspringung und die Ausführung beliebigen Codes. Die Angreifer setzten eine Variante der Babuk-Ransomware ein.
+
+Eine kürzlich gepatchte Schwachstelle in Apples macOS Screen Sharing wird aktiv ausgenutzt, um Kryptowährungs-Miner auf internetexponierten Macs zu installieren. Das niederländische Nationale Cybersicherheitszentrum warnte vor der Schwachstelle CVE-2026-65400, die ebenfalls mit 9,8 bewertet ist.
+
+Der als Mustang Panda bekannte Bedrohungsakteur hat eine aktualisierte Version des CoolClient-Backdoors mit einem signierten Windows-Kernel-Rootkit eingesetzt. Das Rootkit kann bösartige Prozesse, Dateien und Registrierungsobjekte verbergen. Kaspersky identifizierte Opfer in Myanmar, der Mongolei und Pakistan.
+
+Eine Schwachstelle in SAP Commerce Cloud mit der Kennung CVE-2026-58231 und einem CVSS-Score von 10,0 wird Tage nach dem Patch aktiv ausgenutzt. Ein nicht authentifizierter Angreifer kann einen Standard-Authentifizierungsclient missbrauchen und unzureichende Autorisierungsprüfungen ausnutzen.
+
+Abseits der Sicherheitsthemen: Ein Bericht des MIT Technology Review untersucht, was passiert, wenn der Roboter-Freund eines Kindes stirbt. Der Kinderroboter Moxie, der sechs Jahre lang mit einem Jungen namens Xander interagierte, wirft Fragen über emotionale Bindungen zu Technologie auf. Ein weiterer Artikel befasst sich mit der Frage, wie viel Wasserstoff sich unter der Erde befinden könnte – Forscher hatten in den 1990er Jahren in einer Mine in Ontario Wasser gefunden, das über eine Milliarde Jahre eingeschlossen war.
 
 ## 🏛️ Politik
 
-Bei russischen Luftangriffen auf die Ukraine wurden nach Angaben ukrainischer Stellen fünf Menschen getötet, und Präsident Wolodymyr Selenskyj beschuldigt Russland, zivile Infrastruktur ins Visier zu nehmen; Moskau meldet seinerseits einen getroffenen Lagerkomplex. In Marokko haben Sicherheitskräfte Dutzende Migranten festgenommen, die versuchten, die spanische Enklave Ceuta zu erreichen, nachdem in sozialen Medien zu einem weiteren Massenübertritt aufgerufen worden war. Liechtenstein hat an seinem Nationalfeiertag die Thronfolgeregelung geändert, sodass künftig auch Frauen den Thron besteigen können. In Virginia ereignete sich eine Schießerei auf dem Campus der Virginia State University, bei der fünf Menschen verletzt wurden und mehrere Verdächtige flüchtig sind. Die britische Regierung erwägt, das Ziel für den Verkauf neuer Elektroautos von achtzig auf fünfzig Prozent bis 2030 zu senken, nachdem Automobilhersteller Druck ausgeübt hatten. In Nordirland erklärte Landwirtschaftsminister Andrew Muir, die Zeit, in der der Bauernverband die Politik diktiere, sei vorbei, kündigte aber an, den Dialog fortzusetzen.
+Jared Kushner, der Schwiegersohn von US-Präsident Trump, hat sich mit dem israelischen Ministerpräsidenten Netanjahu getroffen, um Unterstützung für den US-unterstützten Gaza-Friedensplan zu gewinnen. Zuvor hatte es Gespräche mit der Hamas gegeben.
+
+Trump hat angekündigt, die Militärübungen mit Südkorea zu reduzieren. Er begründete dies mit seiner sehr guten Beziehung zum nordkoreanischen Führer und damit, dass Südkorea sich aus dem Iran-Krieg herausgehalten habe.
+
+In Sambia wurden führende Oppositionspolitiker Tage nach der Präsidentschaftswahl verhaftet. Der führende Oppositionskandidat bezeichnete die Vorwürfe einer geplanten Rebellion als totale Erfindungen.
+
+Indonesien kämpft mit den Folgen eines schweren Erdbebens, das am frühen Samstag 53 Menschen tötete und Tausende vertrieb. Es gibt Berichte über Hilfsgüterknappheit und die Sorge vor Hunger.
+
+Die Ulster Farmers' Union hat die Forderung nach dem Rücktritt von Minister Muir zurückgewiesen und bestritten, dass sie versuche, Politik zu diktieren. Der Hintergrund ist eine Rinderkeulung.
 
 ## 🌐 Geopolitische Lage
 
-Katar hat die Behauptung des Iran zurückgewiesen, es halte drei iranische Piloten gefangen, die abgeschossen worden sein sollen, als Katar zu Beginn des US-Iran-Krieges zwei Kampfjets niedergeschossen habe. Im Westjordanland sind die Zugangsbeschränkungen für humanitäre Hilfe auf rund neunhundert Hindernisse angewachsen, wodurch Familien eingeschlossen und Hilfslieferungen erschwert werden. Die Zerstörung von Gebäuden in Gaza ist seit der brüchigen Waffenruhe vom Oktober um fast zehn Prozent gestiegen, wie neue Satellitenauswertungen zeigen. Der Methamphetaminhandel über den Nahen Osten wird nach Angaben des UN-Büros für Drogen- und Verbrechensbekämpfung immer ausgefeilter; der Iran hat im ersten Quartal 2026 mehr als dreieinhalb Tonnen der Droge abgefangen, die für Europa und den Persischen Golf bestimmt waren. Weltweit werden Angriffe auf das Gesundheitswesen dokumentiert, mit mehr als zehntausend Attacken in den letzten acht Jahren, einschließlich solcher während des Konflikts in der Ukraine und bei den Bemühungen zur Eindämmung von Ebola in der Demokratischen Republik Kongo.
+Die Zerstörung von Gebäuden in Gaza ist seit dem Waffenstillstand vom Oktober um fast zehn Prozent gestiegen. Neue Satellitenauswertungen zeigen, dass die Zerstörung weiter zunimmt, obwohl der Waffenstillstand zwischen Hamas und israelischen Streitkräften das Ziel hatte, den zweijährigen Krieg zu beenden. Mehr als eine Million Menschen wurden vertrieben.
+
+Im Sudan verlieren schwangere Frauen laut UN-Angaben ihre Babys und manchmal ihr eigenes Leben, weil es in dem Kriegsgebiet an spezialisierter Gesundheitsversorgung fehlt.
+
+Weltweit hat das Gesundheitswesen in den letzten acht Jahren mehr als 10.000 Angriffe erlitten, darunter während des Konflikts in der Ukraine und bei den Bemühungen zur Eindämmung des aktuellen Ebola-Ausbruchs in der östlichen Demokratischen Republik Kongo. Niemand wurde für diese Angriffe zur Rechenschaft gezogen.
 
 ## ⚔️ Krieg
 
-Bei israelischen Angriffen auf den Süden des Libanon wurden nach Behördenangaben elf Menschen getötet; die israelische Armee erklärte, sie habe Terrorinfrastruktur der Hisbollah als Reaktion auf vorherige Aktionen gegen ihre Soldaten angegriffen. Im Sudan erleben Frauen, die inmitten des anhaltenden Krieges gebären, den Verlust ihrer Babys und manchmal ihr eigenes Leben, weil spezialisierte medizinische Versorgung fehlt. Die humanitäre Lage in Gaza bleibt angespannt, wobei Hilfsorganisationen trotz Hindernissen weiterhin lebensrettende Unterstützung leisten. Die Quellenlage zu Opferzahlen ist begrenzt, und es werden keine ungeprüften Zahlen wiedergegeben.
+Ukrainische Angriffe haben nach Angaben des amtierenden Gouverneurs der russischen Region Belgorod sechs Menschen getötet. Unter den vier weiteren Verletzten sei ein 14-jähriges Kind. Diese Angaben lassen sich nicht unabhängig überprüfen.
+
+Die humanitäre Lage in Gaza bleibt angespannt. Die Satellitendaten zeigen eine anhaltende Zerstörung von Gebäuden, und die Lage der vertriebenen Bevölkerung bleibt prekär. Die Gespräche über einen Friedensplan laufen weiter, mit Kushners Besuch in Israel als jüngstem Schritt.
 
 ## 💬 Meinung des Tages
 
-Der heutige Tag zeigt ein Muster, das sich durch viele Berichte zieht: Die Auswirkungen von Klimaextremen treffen auf Infrastrukturen und Gesellschaften, die nicht ausreichend vorbereitet sind. Rumäniens Atomkraftwerk steht still, weil der Flusspegel sinkt, Hitzewarnungen in England ändern kaum Verhalten, und in Belgien brennt ein Naturreservat. Gleichzeitig gibt es Entscheidungen, die Hoffnung machen, wie das Urteil gegen Shell in Südafrika oder die langsamere Öffnung neuer Kohleminen. Doch die geplanten Produktionskapazitäten wachsen weiter, und die Werbung pusht weiterhin emissionsintensive Lebensstile. Es ist ein Tag der Widersprüche, an dem sich zeigt, dass rechtliche Erfolge und technologische Fortschritte nicht ausreichen, solange die zugrunde liegenden Verhaltensmuster und wirtschaftlichen Anreize sich nicht ändern. Die Frage ist nicht mehr allein, ob wir die Probleme erkennen, sondern ob wir bereit sind, unser Handeln danach auszurichten.
+Der 17. August 2026 zeigt ein Muster, das sich durch viele der berichteten Ereignisse zieht: Die Kluft zwischen Warnungen und Handeln. Südafrikas Gericht korrigiert ein Versäumnis von Konsultationen, das seit Jahren hätte stattfinden müssen. Vier von zehn Erwachsenen in England ignorieren Hitzewarnungen, obwohl sie sie empfangen. Die Zerstörung in Gaza nimmt trotz Waffenstillstand weiter zu. Und im Gesundheitswesen werden Angriffe dokumentiert, aber niemand wird zur Rechenschaft gezogen. Es ist ein Tag, an dem sich zeigt, dass Informationen allein keine Veränderung bewirken. Was es braucht, sind Mechanismen, die aus Wissen Handeln machen – Gerichte, die Rechte durchsetzen, politische Entscheidungen, die Konsequenzen haben, und internationale Vereinbarungen, die nicht nur auf Papier existieren. Die Werkzeuge dafür sind vorhanden. Die Frage ist, ob der Wille ausreicht.
 
 ## 🎵 Song des Tages
 
-"Big Yellow Taxi" von Joni Mitchell. Der Song beschreibt mit ruhiger Melodie und klaren Worten, wie Fortschritt oft auf Kosten der Natur geht, und passt damit zu einem Tag, an dem brennende Wälder, sinkende Flusspegel und die Frage nach nachhaltiger Entwicklung im Zentrum stehen.
+"Beds Are Burning" von Midnight Oil. Der Song thematisiert die Verantwortung gegenüber Land und Menschen, die ausgebeutet wurden, ohne dass die Betroffenen gefragt wurden – eine Linie, die sich durch die heutigen Berichte zieht, von Südafrikas Küste bis zu den Weideflächen der Mongolei.
 
 
 ---
 
-*Erstellt am 2026-08-16 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-08-17 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
