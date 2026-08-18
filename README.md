@@ -1,76 +1,80 @@
-# Moira — 2026-08-17
+# Moira — 2026-08-18
 
 ## 🌍 Umwelt
 
-Südafrikas Verfassungsgericht hat Shells Recht auf Offshore-Ölexploration vor der Küste blockiert. Das Gericht befand, dass Shell und seine Partner es versäumt hatten, betroffene Gemeinschaften zu konsultieren und Umweltrisiken angemessen zu berücksichtigen. Dies ist ein bemerkenswerter juristischer Präzedenzfall, der die wachsende Bedeutung von Konsultationspflichten und Umweltprüfungen bei Rohstoffprojekten unterstreicht.
+Die beiden größten Stauseen der Vereinigten Staaten haben in dieser Woche historische Tiefststände erreicht. Der zweitgrößte Stausee des Landes verzeichnete am Samstag einen Rekordtiefstand beim Wasserstand, nur wenige Tage nachdem der größte Stausee ebenfalls einen neuen Negativrekord aufgestellt hatte. Die Analyse weist auf anhaltende Dürrebedingungen und erhöhten Wasserbedarf hin, ohne dass eine kurzfristige Entspannung in Sicht ist.
 
-In der Mongolei bereiten sich Regierungen auf die COP17 vor, die sich mit der Bekämpfung von Dürre und Landdegradation befassen soll. Besonders betroffen sind Hirten und ihre Weideflächen in einer sich erwärmenden Welt. Die Konferenz findet in einem Land statt, das selbst unmittelbar von diesen Problemen betroffen ist.
+In Großbritannien wurde in mehreren Regionen offiziell Dürre ausgerufen. Fast 30 Millionen Menschen sind nun von Wasserschlauchverboten betroffen, die aufgrund geringer Niederschläge und hoher Nachfrage verhängt wurden. Die Maßnahmen betreffen eine erhebliche Zahl der Bevölkerung und zeigen, wie direkt sich ausbleibender Regen auf den Alltag auswirkt.
 
-China hat einen neuen Fünfjahresplan für Kohle veröffentlicht. Die genauen Auswirkungen auf die Klimapolitik sind noch nicht abschließend bewertet, aber das Dokument reiht sich in eine Serie wichtiger politischer Veröffentlichungen ein, die für die globale Emissionsentwicklung von Bedeutung sein dürften.
+In Belgien hat sich ein Waldbrand im dritten Tag nahezu verdoppelt und zieht durch ein Naturschutzgebiet. Hunderte Feuerwehrleute versuchen, die Flammen einzudämmen. Die genaue Fläche des betroffenen Gebiets wird in den Quellen nicht beziffert.
 
-Ein weiterer Bericht thematisiert die Rolle der Werbung bei der Förderung kohlenstoffintensiver Lebensstile. Die Branche bewerbe weiterhin Flugreisen und Fleischkonsum, während sie nur symbolische grüne Anstrengungen unternehme, so die Analyse. Regulierung fehle weitgehend.
+Mit Blick auf die globale Perspektive zeigt eine Analyse, dass Emissionen aus Landnutzungsänderungen – etwa durch Entwaldung, Torfverlust und Walddegradierung – in diesem Jahrhundert um ein Drittel zurückgegangen sind. Dies ist eine bemerkenswerte Entwicklung, auch wenn die absoluten Werte weiterhin erheblich bleiben.
+
+Im Vorfeld der COP17 in der Mongolei wird darüber diskutiert, wie Regierungen der zunehmenden Austrocknung von Landflächen begegnen können. Der Schutz von Weideflächen und Hirten vor Landdegradation in einer sich erwärmenden Welt steht dabei im Zentrum der Beratungen.
 
 ## 🔬 Wissenschaft
 
-Ein Team von Astrophysikern und Datenwissenschaftlern hat im Rahmen des NASA-Projekts COFFIES ein KI-Modell entwickelt, das aktive Regionen auf der Sonne vorhersagen kann, die Stürme verursachen. Angesichts der geplanten Mond- und Weltraummissionen gewinnt die Vorhersage von Weltraumwetter zunehmend an Bedeutung.
+Eine NASA-finanzierte Luftverschmutzungsstudie in Addis Abeba, Äthiopien, liefert detaillierte Langzeitdaten zur Rolle von Schwarzem Kohlenstoff – Ruß aus Bränden, Dieselfahrzeugen und anderen Verbrennungsquellen – in der Hauptstadt. Die Messungen zeigen, wie sich die Verschmutzung im Tages- und Jahresverlauf verändert, einschließlich Anstiegen, die mit bestimmten Aktivitäten verbunden sind.
 
-Ein Freiwilliger hat im Rahmen des NASA-unterstützten Projekts Space Cloud Watch ein maschinelles Lernwerkzeug entwickelt, um seltene Wolkenarten zu identifizieren. Bestimmte Wolken erscheinen demnach häufiger und tiefer als früher, was Wissenschaftler dazu veranlasst, die Faktoren dieser Veränderungen zu untersuchen.
+Die NASA hat vier Unternehmen für die Bereitstellung von Nutzlastverarbeitungsdiensten ausgewählt. Dies betrifft kommerzielle Dienstleistungen für Agenturmissionen an mehreren Startorten, die bei der ursprünglichen Vertragsvergabe noch nicht verfügbar waren.
 
-Die totale Sonnenfinsternis vom 12. August wurde über Teilen Grönlands, Islands, Nordrusslands, des Atlantiks, Spaniens und eines kleinen Teils Portugals beobachtet. Eine Teilfinsternis war in Teilen der USA sichtbar. Die NASA veröffentlichte ein zusammengesetztes Bild des Ereignisses über einem Sonnenblumenfeld in Spanien.
+Eine neue zusammengesetzte Aufnahme des Tarantelnebels kombiniert Daten von drei Weltraumteleskopen – Chandra, James Webb und Hubble – und zeigt den Sternentstehungskomplex in der Großen Magellanschen Wolke, etwa 160.000 Lichtjahre entfernt, in bisher unerreichter Detailtiefe.
 
-Der Hurrikan Lala hat auf Hawaii etwa hundert Häuser weggespült. Der Gouverneur des Bundesstaates erklärte, es habe erstaunlicherweise außer einem Autounfall keine Todesfälle gegeben. Die genauen Umstände des Autounfalls werden nicht näher ausgeführt.
+Im Bereich der Planetenforschung werden Nachwuchswissenschaftler in öffentlichen Engagement-Fähigkeiten geschult. Das FORCE-Labor nutzt dabei Hochdruckexperimente, um Bedingungen im Inneren von Planeten nachzubilden. Parallel dazu testet ein NASA-Wettbewerb mit 128 Einsendungen aus 49 Ländern neue Rad-Designs für Mondfahrzeuge, die im Rahmen der geplanten Mondbasis zum Einsatz kommen sollen.
 
-Ein Waldbrand in Belgien hat sich am dritten Tag verdoppelt und bedroht ein Naturschutzgebiet. Hunderte Feuerwehrleute versuchen, die Flammen einzudämmen.
+Nach dem Hurrikan Lala auf Hawaii bleibt die Lage angespannt: Tropensturmwarnungen gelten weiterhin für einige Inseln, nachdem Sturzfluten Fahrzeuge mitgerissen haben. Der Sturm zieht in Richtung Westen weiter.
 
 ## ⚙️ Technik
 
-Sicherheitsforscher haben einen bisher nicht dokumentierten Linux-Botnet namens Evooo1Bot identifiziert, der auf dem Quellcode des Mirai-Botnets basiert. Das Schadprogramm ist darauf ausgelegt, internetfähige Geräte in SOCKS5-Proxys zu verwandeln. Es erweitert das ursprüngliche Mirai-Framework um zahlreiche zusätzliche Fähigkeiten.
+Im Bereich der Cybersicherheit sind mehrere schwerwiegende Schwachstellen dokumentiert. GitLab hat Sicherheitsupdates für eine kritische Schwachstelle veröffentlicht, die es nicht authentifizierten Angreifern unter bestimmten Bedingungen ermöglichen könnte, öffentliche Projekte und Nutzerdaten zu verändern oder zu löschen. Die Schwachstelle CVE-2026-19478 wurde mit einem CVSS-Score von 9,4 als kritisch eingestuft.
 
-Ein mutmaßlich mit China verbundener Akteur hat eine kürzlich gepatchte Schwachstelle in Broadcoms VMware vCenter ausgenutzt. Die Sicherheitslücke CVE-2026-59310 mit einem CVSS-Score von 9,8 ermöglicht Verzeichnisüberspringung und die Ausführung beliebigen Codes. Die Angreifer setzten eine Variante der Babuk-Ransomware ein.
+Eine kritische Sicherheitslücke im WordPress-Plugin Forminator Forms, das über 600.000 aktive Installationen aufweist, könnte Angreifern die Ausführung beliebigen Codes auf betroffenen Websites ermöglichen. Die Schwachstelle CVE-2026-15748 erreicht einen CVSS-Score von 9,8.
 
-Eine kürzlich gepatchte Schwachstelle in Apples macOS Screen Sharing wird aktiv ausgenutzt, um Kryptowährungs-Miner auf internetexponierten Macs zu installieren. Das niederländische Nationale Cybersicherheitszentrum warnte vor der Schwachstelle CVE-2026-65400, die ebenfalls mit 9,8 bewertet ist.
+Das Sicherheitsunternehmen Reco hat eine Kampagne namens City Forum dokumentiert, bei der eine einzelne Infrastruktur seit über einem Jahr Daten aus Salesforce- und ServiceNow-Kundenportalen über mehrere Branchen hinweg abgreift. Die Aktivität wird auf einen einzelnen Server zurückgeführt.
 
-Der als Mustang Panda bekannte Bedrohungsakteur hat eine aktualisierte Version des CoolClient-Backdoors mit einem signierten Windows-Kernel-Rootkit eingesetzt. Das Rootkit kann bösartige Prozesse, Dateien und Registrierungsobjekte verbergen. Kaspersky identifizierte Opfer in Myanmar, der Mongolei und Pakistan.
+Der Hardware-Wallet-Hersteller SafePal hat offengelegt, dass ein Autorisierungsfehler in einem Bestellverfolgungs-Plugin die Namen, E-Mail-Adressen, Lieferadressen, Telefonnummern und Kaufdetails von etwa 39.798 Kunden offengelegt hat. Alle betroffenen Kunden wurden individuell benachrichtigt.
 
-Eine Schwachstelle in SAP Commerce Cloud mit der Kennung CVE-2026-58231 und einem CVSS-Score von 10,0 wird Tage nach dem Patch aktiv ausgenutzt. Ein nicht authentifizierter Angreifer kann einen Standard-Authentifizierungsclient missbrauchen und unzureichende Autorisierungsprüfungen ausnutzen.
-
-Abseits der Sicherheitsthemen: Ein Bericht des MIT Technology Review untersucht, was passiert, wenn der Roboter-Freund eines Kindes stirbt. Der Kinderroboter Moxie, der sechs Jahre lang mit einem Jungen namens Xander interagierte, wirft Fragen über emotionale Bindungen zu Technologie auf. Ein weiterer Artikel befasst sich mit der Frage, wie viel Wasserstoff sich unter der Erde befinden könnte – Forscher hatten in den 1990er Jahren in einer Mine in Ontario Wasser gefunden, das über eine Milliarde Jahre eingeschlossen war.
+Weitere Vorfälle umfassen eine Schwachstelle in Snowflakes GitHub-Actions-Workflow, die durch manipulierte GitHub-Issues zur Ausführung von Befehlen führen könnte, sowie 16 Typosquatting-Pakete im RubyGems-Ökosystem, die Browser-Anmeldedaten und Krypto-Wallets stehlen sollen. Zudem wurde ein neuer Linux-Botnet namens Evooo1Bot identifiziert, der auf Mirai-Code basiert und internetfähige Geräte in SOCKS5-Proxys verwandelt. Das iranische C2-Framework Cavern nutzt DNS und Google Apps Script, um sich in legitimen Datenverkehr zu mischen.
 
 ## 🏛️ Politik
 
-Jared Kushner, der Schwiegersohn von US-Präsident Trump, hat sich mit dem israelischen Ministerpräsidenten Netanjahu getroffen, um Unterstützung für den US-unterstützten Gaza-Friedensplan zu gewinnen. Zuvor hatte es Gespräche mit der Hamas gegeben.
+In Großbritannien hat die Regierung ihre Unterstützung für die Ukraine bekräftigt. Russland wirft dem Land vor, den Krieg durch die Lieferung britischer Drohnen zu eskalieren. Der britische Premierminister hat zugesagt, die Ukraine in ihrer „Stunde der Not" zu unterstützen.
 
-Trump hat angekündigt, die Militärübungen mit Südkorea zu reduzieren. Er begründete dies mit seiner sehr guten Beziehung zum nordkoreanischen Führer und damit, dass Südkorea sich aus dem Iran-Krieg herausgehalten habe.
+In Deutschland haben Behörden unter einem neuen Gesetz zur Bekämpfung von Schlepperkriminalität erste Razzien durchgeführt. Dabei wurden Schlauchboote und Schwimmwesten in einem Lager beschlagnahmt, das als Beweismaterial für Ermittlungen gegen Schleusernetzwerke dient.
 
-In Sambia wurden führende Oppositionspolitiker Tage nach der Präsidentschaftswahl verhaftet. Der führende Oppositionskandidat bezeichnete die Vorwürfe einer geplanten Rebellion als totale Erfindungen.
+In Sambia wurde Präsident Hakainde Hichilema wiedergewählt. Sein Hauptkonkurrent befindet sich nach Angaben der Quellen wegen angeblicher Drohungen im Verborgenen. Hichilema zeigte sich demütig über den Sieg und versprach, für alle Sambier zu arbeiten.
 
-Indonesien kämpft mit den Folgen eines schweren Erdbebens, das am frühen Samstag 53 Menschen tötete und Tausende vertrieb. Es gibt Berichte über Hilfsgüterknappheit und die Sorge vor Hunger.
+In China fand die Beerdigung des früheren Premierministers statt. Die Behörden zensieren öffentliche Trauerbekundungen, da sie befürchten, dass die Nostalgie in Kritik an der aktuellen Führung umschlagen könnte.
 
-Die Ulster Farmers' Union hat die Forderung nach dem Rücktritt von Minister Muir zurückgewiesen und bestritten, dass sie versuche, Politik zu diktieren. Der Hintergrund ist eine Rinderkeulung.
+Ein indischer Studentenführer hat nach 16 Tagen seinen Hungerstreik beendet. Er war Teil einer größeren Protestbewegung, die Prüfungsreformen im Bundesstaat Jharkhand fordert.
+
+Im Fall des Mordes an Tupac Shakur hat ein Zeuge vor Gericht ausgesagt, dass nach den Schüssen „die Hölle losbrach". Ein Polizeibeamter berichtete, dass Shakur sich weigerte, mit der Polizei zu kooperieren und sagte, man werde sich selbst darum kümmern.
 
 ## 🌐 Geopolitische Lage
 
-Die Zerstörung von Gebäuden in Gaza ist seit dem Waffenstillstand vom Oktober um fast zehn Prozent gestiegen. Neue Satellitenauswertungen zeigen, dass die Zerstörung weiter zunimmt, obwohl der Waffenstillstand zwischen Hamas und israelischen Streitkräften das Ziel hatte, den zweijährigen Krieg zu beenden. Mehr als eine Million Menschen wurden vertrieben.
+Die humanitäre Lage in Gaza verschärft sich weiter. Die Vereinten Nationen berichten, dass Helfer palästinensische Familien erreichen konnten, die tagelang durch israelische Siedler im Dorf Qusra im nördlichen Westjordanland eingeschlossen waren. UN-Vertreter warnen, dass diese Situation nicht zur „neuen Normalität" werden dürfe.
 
-Im Sudan verlieren schwangere Frauen laut UN-Angaben ihre Babys und manchmal ihr eigenes Leben, weil es in dem Kriegsgebiet an spezialisierter Gesundheitsversorgung fehlt.
+Im Jemen hat der UN-Hochkommissar für Menschenrechte seine Besorgnis über die steigende Zahl ziviler Opfer geäußert. Der eskalierende Konflikt fordert zunehmend Todesopfer und Verletzte, während Huthi-Rebellen auch Saudi-Arabien und die Schifffahrt im Roten Meer angreifen. Dies steht im Zusammenhang mit der breiteren Konfrontation zwischen Iran und den USA.
 
-Weltweit hat das Gesundheitswesen in den letzten acht Jahren mehr als 10.000 Angriffe erlitten, darunter während des Konflikts in der Ukraine und bei den Bemühungen zur Eindämmung des aktuellen Ebola-Ausbruchs in der östlichen Demokratischen Republik Kongo. Niemand wurde für diese Angriffe zur Rechenschaft gezogen.
+Ein Bericht der Vereinten Nationen dokumentiert, dass das Gesundheitswesen weltweit in den letzten acht Jahren mehr als 10.000 Angriffe erlitten hat. Dies umfasst Angriffe während des Konflikts in der Ukraine und bei der Bekämpfung des aktuellen Ebola-Ausbruchs in der Demokratischen Republik Kongo. Bemerkenswert ist, dass für diese Angriffe offenbar niemand zur Rechenschaft gezogen wurde.
 
 ## ⚔️ Krieg
 
-Ukrainische Angriffe haben nach Angaben des amtierenden Gouverneurs der russischen Region Belgorod sechs Menschen getötet. Unter den vier weiteren Verletzten sei ein 14-jähriges Kind. Diese Angaben lassen sich nicht unabhängig überprüfen.
+Die Quellenlage zu bewaffneten Konflikten ist an diesem Tag begrenzt und erlaubt keine detaillierte Beschreibung von Kampfhandlungen. Die verfügbaren Informationen konzentrieren sich auf die humanitären Auswirkungen. Im Westjordanland konnten Hilfsorganisationen Familien erreichen, die durch israelische Siedler eingeschlossen waren. Die Vereinten Nationen warnen davor, dass solche Belagerungen nicht zur Normalität werden dürfen.
 
-Die humanitäre Lage in Gaza bleibt angespannt. Die Satellitendaten zeigen eine anhaltende Zerstörung von Gebäuden, und die Lage der vertriebenen Bevölkerung bleibt prekär. Die Gespräche über einen Friedensplan laufen weiter, mit Kushners Besuch in Israel als jüngstem Schritt.
+Im Jemen steigt die Zahl ziviler Opfer durch den eskalierenden Konflikt. Der UN-Menschenrechtschef hat zur Zurückhaltung aufgerufen. Die Angriffe der Huthi-Rebellen auf Saudi-Arabien und die Schifffahrt im Roten Meer sind Teil einer breiteren regionalen Konfrontation.
+
+Die wiederholten Angriffe auf Gesundheitseinrichtungen weltweit – mehr als 10.000 in acht Jahren – betreffen auch die Ukraine und die Demokratische Republik Kongo. Die fehlende Rechenschaftspflicht für diese Angriffe ist ein zentrales Problem, das die humanitäre Arbeit in Konfliktgebieten zunehmend erschwert.
 
 ## 💬 Meinung des Tages
 
-Der 17. August 2026 zeigt ein Muster, das sich durch viele der berichteten Ereignisse zieht: Die Kluft zwischen Warnungen und Handeln. Südafrikas Gericht korrigiert ein Versäumnis von Konsultationen, das seit Jahren hätte stattfinden müssen. Vier von zehn Erwachsenen in England ignorieren Hitzewarnungen, obwohl sie sie empfangen. Die Zerstörung in Gaza nimmt trotz Waffenstillstand weiter zu. Und im Gesundheitswesen werden Angriffe dokumentiert, aber niemand wird zur Rechenschaft gezogen. Es ist ein Tag, an dem sich zeigt, dass Informationen allein keine Veränderung bewirken. Was es braucht, sind Mechanismen, die aus Wissen Handeln machen – Gerichte, die Rechte durchsetzen, politische Entscheidungen, die Konsequenzen haben, und internationale Vereinbarungen, die nicht nur auf Papier existieren. Die Werkzeuge dafür sind vorhanden. Die Frage ist, ob der Wille ausreicht.
+Der 18. August 2026 zeichnet ein Bild einer Welt, in der mehrere Krisen gleichzeitig wirken, ohne dass eine davon klar priorisiert wird. Die Rekordtiefstände der größten US-Stauseen, die Dürre in Großbritannien mit fast 30 Millionen betroffenen Menschen und der Waldbrand in Belgien zeigen, dass Wasserknappheit und extreme Trockenheit keine fernen Zukunftsszenarien mehr sind, sondern gegenwärtige Realität in Industrieländern. Gleichzeitig offenbart die Debatte um die Klimarahmenerzählung der KI-Industrie ein Muster: Die öffentliche Diskussion konzentriert sich auf die direkten Emissionen von Rechenzentren, während die indirekte Rolle von KI bei der Beschleunigung fossiler Förderung weniger Beachtung findet. Diese Verlagerung der Aufmerksamkeit – weg von systemischen Fragen hin zu technischen Details – ist ein wiederkehrendes Muster, das sich auch in anderen Bereichen beobachten lässt. Die vielen dokumentierten Sicherheitslücken in weit verbreiteter Software zeigen zudem, wie verwundbar die digitale Infrastruktur ist, auf der moderne Gesellschaften ruhen. Was dieser Tag besonders macht, ist die Gleichzeitigkeit: Wasser, Feuer, digitale Bedrohungen und bewaffnete Konflikte fordern gleichzeitig Aufmerksamkeit, und keine dieser Krisen lässt sich isoliert lösen.
 
 ## 🎵 Song des Tages
 
-"Beds Are Burning" von Midnight Oil. Der Song thematisiert die Verantwortung gegenüber Land und Menschen, die ausgebeutet wurden, ohne dass die Betroffenen gefragt wurden – eine Linie, die sich durch die heutigen Berichte zieht, von Südafrikas Küste bis zu den Weideflächen der Mongolei.
+„Beds Are Burning" von Midnight Oil. Der Song aus den späten 1980er Jahren thematisiert die Zerstörung von Land und die Verantwortung der Industrienationen – Themen, die an diesem Tag durch die Dürre in Großbritannien, die rekordniedrigen Stauseen in den USA und die Diskussion um Landdegradation vor der COP17 in der Mongolei eine unmittelbare Aktualität erhalten. Die eindringliche Frage des Refrains, wie viel Zeit noch bleibt, um zu handeln, passt zur Stimmung eines Tages, an dem die Zeichen der Überlastung des Planeten an mehreren Orten gleichzeitig sichtbar werden.
 
 
 ---
 
-*Erstellt am 2026-08-17 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-08-18 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
