@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-08-22T12:13:09.578802+00:00",
-  "date": "2026-08-22",
+  "generated_at": "2026-08-23T12:13:33.977174+00:00",
+  "date": "2026-08-23",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
-      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
-      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
-      "published": "2026-08-21T18:43:40+00:00",
-      "score": 13
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "published": "2026-08-22T13:13:16+00:00",
+      "score": 14
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
-      "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
-      "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
-      "published": "2026-08-21T17:06:36+00:00",
-      "score": 13
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
+      "published": "2026-08-22T21:42:42+00:00",
+      "score": 14
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.sys (Boot Time Removal Tool), is a",
-      "published": "2026-08-21T15:52:10+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
+      "published": "2026-08-23T09:37:05+00:00",
       "score": 13
     },
     {
@@ -45,55 +45,28 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-      "published": "2026-08-22T10:01:22+00:00",
+      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "published": "2026-08-23T05:46:43+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "published": "2026-08-21T15:58:57+00:00",
+      "title": "Girl, 17, killed in Swedish sword attack, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+      "published": "2026-08-23T01:34:15+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Two injured in stabbing attack at Canada Sikh temple",
-      "url": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-      "summary": "One suspect is in custody, and police have said they are still investigating if the attack was motivated by hate.",
-      "published": "2026-08-21T22:45:01+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Tornadoes touch down in New York and Delaware",
-      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
-      "published": "2026-08-21T14:35:50+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168181",
-      "summary": "Russian ballistic missile strikes killed 17 people and injured more than 40 in and around the Ukrainian capital Kyiv on Thursday, local authorities reported.",
-      "published": "2026-08-20T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
-      "published": "2026-08-21T15:41:44+00:00",
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
+      "published": "2026-08-22T13:48:06+00:00",
       "score": 12
     },
     {
@@ -108,46 +81,46 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-      "summary": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-      "published": "2026-08-21T22:36:12+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
-      "published": "2026-08-22T11:31:09+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
-      "summary": "The under-reported humanitarian crisis in South Sudan risks deepening with the real possibility of further atrocity crimes unless renewed fighting stops, a UN-backed probe said on Thursday.",
-      "published": "2026-08-20T12:00:00+00:00",
+      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
+      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
+      "published": "2026-08-23T11:50:59+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
-      "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
-      "published": "2026-08-21T17:41:00+00:00",
+      "title": "NASA Shares Views of August Solar Eclipse from Ground, Air, Space",
+      "url": "https://science.nasa.gov/science-research/heliophysics/nasa-shares-views-of-august-solar-eclipse-from-ground-air-space/",
+      "summary": "On Aug. 12, a total solar eclipse darkened skies over Greenland, Iceland, and Spain. As the Moon covered the Sun, it briefly revealed the Sun’s wispy outer atmosphere — the corona — to those in the path of totality who were lucky enough to have clear skies. NASA researchers and photographers were along the eclipse […]",
+      "published": "2026-08-21T18:43:40+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Artemis II Crew Set to Receive Congressional Space Medal of Honor",
+      "url": "https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/",
+      "summary": "President Donald J. Trump will award each of NASA’s Artemis II crew members the Congressional Space Medal of Honor at 11 a.m. EDT on Friday, Aug. 28, during a ceremony at the agency’s Johnson Space Center in Houston. NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, […]",
+      "published": "2026-08-21T17:06:36+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
-      "published": "2026-08-21T18:53:00+00:00",
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
+      "published": "2026-08-22T14:32:41+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.sys (Boot Time Removal Tool), is a",
+      "published": "2026-08-21T15:52:10+00:00",
       "score": 11
     },
     {
@@ -180,46 +153,46 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-      "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-      "published": "2026-08-22T11:21:05+00:00",
+      "title": "The hotel booking mix-up that could free mushroom murderer",
+      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
+      "published": "2026-08-22T19:03:03+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "One killed in sword attack at Swedish school",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
-      "published": "2026-08-21T21:03:24+00:00",
+      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+      "published": "2026-08-22T23:45:01+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tupac murder accused told police in 2008 his nephew fired fatal shots",
-      "url": "https://www.bbc.co.uk/news/articles/cly57kzgr0ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A recording of the interview Duane Davis conducted with detectives was played to the jury.",
-      "published": "2026-08-21T18:09:38+00:00",
+      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "published": "2026-08-23T09:42:05+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "How this 1960s ex-council house is managing to stay cool without air con",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-      "published": "2026-08-21T23:56:48+00:00",
+      "title": "How a new era of heatwaves could shake up the school calendar",
+      "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+      "published": "2026-08-22T23:16:43+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "published": "2026-08-21T15:07:37+00:00",
+      "title": "Tornadoes touch down in New York and Delaware",
+      "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+      "published": "2026-08-21T14:35:50+00:00",
       "score": 10
     },
     {
@@ -232,21 +205,21 @@
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Webb Opens Treasure Chest",
-      "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
-      "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
-      "published": "2026-08-21T17:35:11+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168181",
+      "summary": "Russian ballistic missile strikes killed 17 people and injured more than 40 in and around the Ukrainian capital Kyiv on Thursday, local authorities reported.",
+      "published": "2026-08-20T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "Unlocking hidden revenue streams with market models",
-      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
-      "published": "2026-08-20T09:47:22+00:00",
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
+      "published": "2026-08-21T15:41:44+00:00",
       "score": 10
     },
     {
@@ -259,66 +232,21 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
-      "published": "2026-08-20T14:36:27+00:00",
-      "score": 10
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "China keeps Indonesia’s battery dream afloat but future less certain",
-      "url": "https://www.climatechangenews.com/2026/08/20/china-keeps-indonesias-battery-dream-afloat-but-future-less-certain/",
-      "summary": "Chinese capital and technology turned Indonesia into the world’s top nickel supplier, but its dependence on China and the rise of nickel-free batteries could upset its battery ecosystem plans The post China keeps Indonesia’s battery dream afloat but future less certain appeared first on Climate Home News .",
-      "published": "2026-08-20T05:00:00+00:00",
-      "score": 10
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
       "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "published": "2026-08-22T08:40:49+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "url": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis.",
-      "published": "2026-08-22T03:43:26+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "url": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "published": "2026-08-22T07:53:57+00:00",
+      "published": "2026-08-22T14:35:11+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Should school holidays change to cope with extreme heat?",
-      "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
-      "published": "2026-08-21T15:23:17+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
-      "published": "2026-08-21T14:17:03+00:00",
+      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+      "published": "2026-08-22T11:31:09+00:00",
       "score": 9
     },
     {
@@ -340,20 +268,11 @@
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Flash flooding risk as heavy rain hits UK",
-      "url": "https://www.bbc.co.uk/news/videos/c2lq4lwy0z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Heavy showers and thunderstorms will continue to affect large parts of the UK.",
-      "published": "2026-08-20T14:54:55+00:00",
-      "score": 9
-    },
-    {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168180",
-      "summary": "Ninety-four cent of Gaza’s 2.1 million residents need shelter as Israeli gunfire and strikes continue inside the enclave, UN agencies and peacekeepers warned on Thursday.",
+      "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
+      "summary": "The under-reported humanitarian crisis in South Sudan risks deepening with the real possibility of further atrocity crimes unless renewed fighting stops, a UN-backed probe said on Thursday.",
       "published": "2026-08-20T12:00:00+00:00",
       "score": 9
     },
@@ -364,6 +283,24 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168171",
       "summary": "Reports of new illegal Israeli outposts in the occupied West Bank raised alarms at UN Headquarters on Wednesday while the UN rights office called on Israel to condemn its national security minister’s words that incite “violence amounting to atrocity crimes” against Palestinians.",
       "published": "2026-08-19T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+      "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]",
+      "published": "2026-08-23T07:39:28+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "TB 26-04 Updates and Modernization of NASA’s Chemical Equilibrium with Applications (CEA) Code",
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/",
+      "summary": "For more information, contact Mark K. Leader, Glenn Research Center, mark.leader@nasa.gov Download the PDF version NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity […]",
+      "published": "2026-08-21T17:41:00+00:00",
       "score": 9
     },
     {
@@ -405,11 +342,74 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+      "published": "2026-08-21T18:53:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
       "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
       "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
       "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
       "published": "2026-08-20T20:22:35+00:00",
       "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
+      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage. Nothing here needs",
+      "published": "2026-08-20T17:23:48+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
+      "published": "2026-08-20T16:59:44+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Will the world’s drying lands get relief from COP17 in Mongolia?",
+      "url": "https://www.climatechangenews.com/2026/08/13/will-the-worlds-drying-lands-get-relief-from-cop17-in-mongolia/",
+      "summary": "Governments will discuss ways to combat drought and protect herders and their pastures from land degradation in a warming world The post Will the world’s drying lands get relief from COP17 in Mongolia? appeared first on Climate Home News .",
+      "published": "2026-08-13T13:49:42+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+      "published": "2026-08-23T03:44:19+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "How this 1960s ex-council house is managing to stay cool without air con",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+      "published": "2026-08-21T23:56:48+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "published": "2026-08-21T15:07:37+00:00",
+      "score": 8
     }
   ]
 }
