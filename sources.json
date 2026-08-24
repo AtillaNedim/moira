@@ -1,90 +1,99 @@
 {
-  "generated_at": "2026-08-23T12:13:33.977174+00:00",
-  "date": "2026-08-23",
+  "generated_at": "2026-08-24T12:20:23.411346+00:00",
+  "date": "2026-08-24",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-      "published": "2026-08-22T13:13:16+00:00",
-      "score": 14
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+      "published": "2026-08-24T11:51:36+00:00",
+      "score": 16
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
+      "published": "2026-08-24T08:08:31+00:00",
+      "score": 16
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "New Zealand moves to protect business with law curtailing climate litigation",
+      "url": "https://www.climatechangenews.com/2026/08/24/new-zealand-moves-to-protect-business-with-law-curtailing-climate-litigation/",
+      "summary": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at the national level not in court The post New Zealand moves to protect business with law curtailing climate litigation appeared first on Climate Home News .",
+      "published": "2026-08-24T12:05:01+00:00",
+      "score": 15
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Syria says Israeli strike near Damascus violation of international law",
-      "url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "published": "2026-08-22T21:42:42+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "summary": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-      "published": "2026-08-23T09:37:05+00:00",
+      "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "published": "2026-08-24T10:40:22+00:00",
       "score": 13
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "As marine heat breaks records, countries seek ocean roadmap at COP31",
-      "url": "https://www.climatechangenews.com/2026/08/20/marine-heat-records-countries-ocean-roadmap-australia-turkiye-cop31/",
-      "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans The post As marine heat breaks records, countries seek ocean roadmap at COP31 appeared first on Climate Home News .",
-      "published": "2026-08-20T15:07:29+00:00",
+      "title": "Indonesia’s nickel production cuts are not enough to create a sustainable industry",
+      "url": "https://www.climatechangenews.com/2026/08/24/indonesias-nickel-production-cuts-are-not-enough-to-create-a-sustainable-industry/",
+      "summary": "The government is restricting nickel production to push up prices but producing more sustainable nickel for a premium requires addressing the industry's coal issue The post Indonesia’s nickel production cuts are not enough to create a sustainable industry appeared first on Climate Home News .",
+      "published": "2026-08-24T10:40:44+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "published": "2026-08-23T05:46:43+00:00",
+      "title": "Access to Zambian courts prevented as election petition deadline looms",
+      "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
+      "published": "2026-08-24T11:17:28+00:00",
       "score": 12
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Girl, 17, killed in Swedish sword attack, police say",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
-      "published": "2026-08-23T01:34:15+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Fourteen killed in strike on Myanmar monastery",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
-      "published": "2026-08-22T13:48:06+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+      "published": "2026-08-24T12:10:00+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. \"These clusters engage in persistent, adaptive",
-      "published": "2026-08-20T19:59:19+00:00",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+      "published": "2026-08-24T11:56:34+00:00",
       "score": 12
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
-      "url": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "No group has claimed responsibility for the attacks, which the military said \"aimed at creating unrest\".",
-      "published": "2026-08-23T11:50:59+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "France links sharp rise in drownings to heatwaves",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "published": "2026-08-23T17:39:33+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Breaking the silence over sexual violence against men and boys in war",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168150",
+      "summary": "Conflicts can expose civilians and detainees to grave abuses; the challenge is not only to document these crimes, but also to ensure all survivors are recognised, protected and able to access justice and care.",
+      "published": "2026-08-22T12:00:00+00:00",
       "score": 11
     },
     {
@@ -108,10 +117,10 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
-      "published": "2026-08-22T14:32:41+00:00",
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
+      "published": "2026-08-24T11:30:00+00:00",
       "score": 11
     },
     {
@@ -124,66 +133,48 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "published": "2026-08-21T11:21:39+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
-      "published": "2026-08-21T10:03:11+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
-      "published": "2026-08-21T07:04:25+00:00",
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "As marine heat breaks records, countries seek ocean roadmap at COP31",
+      "url": "https://www.climatechangenews.com/2026/08/20/marine-heat-records-countries-ocean-roadmap-australia-turkiye-cop31/",
+      "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans The post As marine heat breaks records, countries seek ocean roadmap at COP31 appeared first on Climate Home News .",
+      "published": "2026-08-20T15:07:29+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "The hotel booking mix-up that could free mushroom murderer",
-      "url": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "A table tennis tournament and a throat lozenge could help Erin Patterson's lawyers overturn her convictions.",
-      "published": "2026-08-22T19:03:03+00:00",
+      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
+      "published": "2026-08-24T11:25:21+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
-      "url": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
-      "published": "2026-08-22T23:45:01+00:00",
+      "title": "King of Norway's health has worsened, palace says",
+      "url": "https://www.bbc.co.uk/news/articles/c36lnekj659o?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's King Harald remains in hospital receiving antibiotics for a bloodstream bacterial infection.",
+      "published": "2026-08-24T08:31:55+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "published": "2026-08-23T09:42:05+00:00",
+      "title": "China probes use of formaldehyde to keep cabbages fresh",
+      "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Using the carcinogen to preserve food is prohibited in China, the world's largest producer of cabbages.",
+      "published": "2026-08-24T05:40:48+00:00",
       "score": 10
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "How a new era of heatwaves could shake up the school calendar",
-      "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
-      "published": "2026-08-22T23:16:43+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ex-cricket captains urge 'proper medical care' for Imran Khan",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z889l0dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former skippers say it is \"basic decency\" for Pakistan to comply with a court-ordered medical assessment.",
+      "published": "2026-08-24T03:55:35+00:00",
       "score": 10
     },
     {
@@ -193,15 +184,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
       "summary": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
       "published": "2026-08-21T14:35:50+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Thunderstorm warnings expire but rain continues to bring risk of floods for UK",
-      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
-      "published": "2026-08-20T15:02:16+00:00",
       "score": 10
     },
     {
@@ -216,6 +198,15 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+      "published": "2026-08-24T11:58:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
       "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
       "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
@@ -223,21 +214,57 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
-      "published": "2026-08-21T06:06:11+00:00",
-      "score": 10
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "published": "2026-08-24T10:39:23+00:00",
+      "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-      "url": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man had taken his two boys on the trip but is said to have left one behind when he got tired.",
-      "published": "2026-08-22T14:35:11+00:00",
+      "title": "Nearly three million Teslas recalled in China over hidden door handles",
+      "url": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss",
+      "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
+      "published": "2026-08-24T05:01:17+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Four arrested over suspected poisoning of elephants in Kenya",
+      "url": "https://www.bbc.co.uk/news/articles/c790w8wxv0do?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation is looking into whether the deaths were caused by pesticides sprayed on tomato crops.",
+      "published": "2026-08-24T11:08:27+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "New Zealand to introduce bill for under-16s social media ban",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "published": "2026-08-24T12:17:34+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Guinea rubbish landfill collapse kills 31",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+      "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+      "published": "2026-08-24T11:26:19+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Maradona's 'Hand of God' ball sells for £2.5m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cqxvj8j7gy8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The football with which Diego Maradona scored his famous 'hand of God' goal in the 1986 World Cup quarter-final victory over England is sold at auction.",
+      "published": "2026-08-24T06:55:06+00:00",
       "score": 9
     },
     {
@@ -250,48 +277,12 @@
       "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo?at_medium=RSS&at_campaign=rss",
-      "summary": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\".",
-      "published": "2026-08-21T09:02:24+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Rain to stop in time for weekend as sun returns",
-      "url": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
-      "summary": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains.",
-      "published": "2026-08-21T00:14:00+00:00",
-      "score": 9
-    },
-    {
       "source": "UN News",
       "category": "Geopolitik",
       "title": "As elections near, South Sudan risks new atrocity crimes, warns rights probe",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168173",
       "summary": "The under-reported humanitarian crisis in South Sudan risks deepening with the real possibility of further atrocity crimes unless renewed fighting stops, a UN-backed probe said on Thursday.",
       "published": "2026-08-20T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitement against Palestinians",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168171",
-      "summary": "Reports of new illegal Israeli outposts in the occupied West Bank raised alarms at UN Headquarters on Wednesday while the UN rights office called on Israel to condemn its national security minister’s words that incite “violence amounting to atrocity crimes” against Palestinians.",
-      "published": "2026-08-19T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-      "summary": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems Earth planning date: Friday, Aug. 14, 2026 This week of Curiosity Mars rover operations takes us back to our “regularly scheduled programming.” After taking a slight detour to investigate the “erosional surface” we are back on course to ascend Mount Sharp. As we transition […]",
-      "published": "2026-08-23T07:39:28+00:00",
       "score": 9
     },
     {
@@ -304,39 +295,12 @@
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "SmallSat 2026",
-      "url": "https://science.nasa.gov/earth/smallsat-2026/",
-      "summary": "SmallSat 2026 Join NASA in the Exhibit Hall (Booth # 635, 835, 641, and 940) for Storytelling by NASA experts. Full Agenda below. MONDAY, AUGUST 24, 9:00 – 10:00 AM WelcomeJose NunezBryceTech’s Smallsats by the Numbers: 2026Fletcher FranklinSupply Chain ObservationsBruce YostTechnology Shortfall Rudy de RoseeSPARCS Camera and Early Science ObservationsKaitlyn AshcroftJPL: SkyfallTim CanhamSWIFT LINK ReboostBo NaaszFlight […]",
-      "published": "2026-08-20T20:05:41+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Selects University Teams to Help Advance Aviation Research",
-      "url": "https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/",
-      "summary": "NASA has selected four university teams to help the agency transform the future of aviation through projects ranging from high-supersonic propulsion systems to low-noise routes for small aircraft flying through cities. The agency made awards through its University Leadership Initiative, which offers student teams the opportunity to contribute to real-world flight research that advances NASA’s goals in aeronautics. […]",
-      "published": "2026-08-20T14:57:01+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "When AI designs a drug, who gets the credit?",
-      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies using AI to rapidly come up with drug ideas humans might never think…",
-      "published": "2026-08-21T09:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Debates over AI consciousness are a trap",
-      "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
-      "published": "2026-08-20T15:42:39+00:00",
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
+      "published": "2026-08-22T14:32:41+00:00",
       "score": 9
     },
     {
@@ -351,28 +315,28 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
-      "published": "2026-08-20T20:22:35+00:00",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
+      "published": "2026-08-21T11:21:39+00:00",
       "score": 9
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage. Nothing here needs",
-      "published": "2026-08-20T17:23:48+00:00",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
+      "published": "2026-08-21T10:03:11+00:00",
       "score": 9
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
-      "published": "2026-08-20T16:59:44+00:00",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
+      "published": "2026-08-21T07:04:25+00:00",
       "score": 9
     },
     {
@@ -385,12 +349,21 @@
       "score": 9
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-      "summary": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-      "published": "2026-08-23T03:44:19+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "UK's rarest bird of prey rears new chicks in secret location",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Montagu Harrier successfully nested for the second year running in the same secret location.",
+      "published": "2026-08-24T08:31:48+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "How a new era of heatwaves could shake up the school calendar",
+      "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+      "published": "2026-08-22T23:16:43+00:00",
       "score": 8
     },
     {
@@ -409,6 +382,33 @@
       "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
       "summary": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
       "published": "2026-08-21T15:07:37+00:00",
+      "score": 8
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Webb Opens Treasure Chest",
+      "url": "https://www.nasa.gov/image-article/webb-opens-treasure-chest/",
+      "summary": "NASA’s James Webb Space Telescope captured this Aug. 6, 2026, infrared image of part of the Carina Nebula, a star-forming region also home to the Cosmic Cliffs. This feature, called the “Treasure Chest,” is an object known as a cometary globule. A cometary globule is an isolated cloud of gas and dust with a dense, […]",
+      "published": "2026-08-21T17:35:11+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT,…",
+      "published": "2026-08-24T09:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
+      "published": "2026-08-20T09:47:22+00:00",
       "score": 8
     }
   ]
