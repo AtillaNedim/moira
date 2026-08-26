@@ -1,20 +1,11 @@
 {
-  "generated_at": "2026-08-25T12:20:40.117922+00:00",
-  "date": "2026-08-25",
+  "generated_at": "2026-08-26T12:22:45.339428+00:00",
+  "date": "2026-08-26",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-      "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
-      "published": "2026-08-25T04:06:34+00:00",
-      "score": 14
-    },
     {
       "source": "UN News",
       "category": "Geopolitik",
@@ -27,73 +18,100 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
-      "published": "2026-08-24T17:41:11+00:00",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident",
+      "published": "2026-08-25T14:07:37+00:00",
       "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
-      "published": "2026-08-24T11:51:36+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-      "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
-      "published": "2026-08-24T08:08:31+00:00",
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode. The vulnerability, tracked",
+      "published": "2026-08-25T12:43:51+00:00",
       "score": 14
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "published": "2026-08-25T11:53:36+00:00",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "published": "2026-08-25T19:48:14+00:00",
       "score": 13
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "World's oceans hit highest temperature on record as El Niño grows",
-      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
-      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
-      "published": "2026-08-24T16:27:28+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Japan’s ‘2050 Weather Forecast’ highlights extreme heat in the future",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168197",
+      "summary": "As extreme heat becomes an increasingly visible reality across Japan, meteorologists, scientists, businesses and professional footballers are joining forces to encourage stronger climate action and raise awareness of the risks posed by global warming.",
+      "published": "2026-08-25T12:00:00+00:00",
       "score": 13
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Starstruck: NASA Research Shows How Sun’s Ancient History Shaped Earth",
-      "url": "https://science.nasa.gov/solar-system/starstruck-nasa-research-shows-how-suns-ancient-history-shaped-earth/",
-      "summary": "At the center of our solar system, the Sun influences every planet that orbits it. In two recent NASA-funded studies, scientists uncovered how ancient events in the Sun’s history may have helped create Earth’s unique climate and driven previously unexplained climatic shifts. In new research, scientists at NASA’s SHIELD (Solar Wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics) center — one of […]",
-      "published": "2026-08-24T17:53:57+00:00",
+      "title": "NASA Ames Experts Available for Roman Space Telescope Interviews",
+      "url": "https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/",
+      "summary": "NASA’s Ames Research Center in California’s Silicon Valley invites media to learn more about NASA’s Nancy Grace Roman Space Telescope, scheduled to launch Sunday, Aug. 30, 2026, from NASA’s Kennedy Space Center in Florida. The Roman telescope will provide a wide, detailed view of the universe, helping scientists study dark energy, exoplanets, and cosmic structures. […]",
+      "published": "2026-08-25T18:47:01+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "A new stamp on cyberfraud prevention",
+      "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…",
+      "published": "2026-08-25T21:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "AgeLab research inspires an A I startup",
+      "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for…",
+      "published": "2026-08-25T21:00:00+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to",
-      "published": "2026-08-25T06:12:35+00:00",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was first reported by ABC News on August 10, based on chat logs and screenshots the user supplied. He had asked an",
+      "published": "2026-08-26T10:27:23+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain Stealer) via ClearFake campaigns, which employ the ClickFix (aka FakeCaptcha)",
-      "published": "2026-08-24T12:35:36+00:00",
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the",
+      "published": "2026-08-26T06:27:07+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is credit-metered and drives lures across",
+      "published": "2026-08-26T05:47:28+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime",
+      "published": "2026-08-25T18:17:17+00:00",
       "score": 13
     },
     {
@@ -108,55 +126,109 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
-      "url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
-      "published": "2026-08-25T02:51:53+00:00",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "published": "2026-08-25T19:50:57+00:00",
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: War, hunger, flooding escalates in Sudan",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168188",
-      "summary": "Suffering in Sudan continues to grow in the world’s worst humanitarian crisis amid brutal mass killings, abductions and rape, top UN officials warned the Security Council on Monday, calling for action to end the four-year-long war. UN News app users can follow our coverage here.",
-      "published": "2026-08-24T12:00:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+      "published": "2026-08-25T17:12:21+00:00",
       "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are. Plenty to clean up. Here’s the short version. ⚡ Threat of the Week U.S.",
-      "published": "2026-08-24T14:32:10+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump says all mines cleared from Strait of Hormuz",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzw836d05o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran has closed the vital waterway since the beginning of the conflict causing wild fluctuations in oil prices worldwide.",
+      "published": "2026-08-25T21:23:41+00:00",
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "UN chief, Red Cross renew call for rules on lethal autonomous weapons",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168196",
-      "summary": "Amid unconfirmed reports that fully autonomous and AI-guided drones are now being used on the battlefield, UN chief António Guterres and the President of the Red Cross on Tuesday renewed their urgent call for stricter global controls, before it is too late.",
-      "published": "2026-08-25T12:00:00+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Radiation link in flight attendant's breast cancer, French court finds",
+      "url": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Former Air France stewardess Sophie Lainault has had her cancer recognised as an occupational disease.",
+      "published": "2026-08-26T10:29:36+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+      "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+      "summary": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+      "published": "2026-08-26T01:32:07+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
+      "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
+      "published": "2026-08-26T09:28:03+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Fires still burn in charred landscape as focus turns to wildfire prevention",
+      "url": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The RSPB is considering measures it can take to improve resilience in the wake of a five-week long fire in the Cairngorms.",
+      "published": "2026-08-26T05:25:20+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "World's oceans hit highest temperature on record as El Niño grows",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+      "summary": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
+      "published": "2026-08-24T16:27:28+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "MAIA Air Sensor at Work in Addis Ababa",
-      "url": "https://science.nasa.gov/photojournal/maia-air-sensor-at-work-in-addis-ababa/",
-      "summary": "Description This roof-mounted air sensor in Addis Ababa, the capital of Ethiopia, is one of 10 used by NASA’s Multi-Angle Imager for Aerosols (MAIA) to study the city’s air quality. MAIA’s air sensors provide a detailed look at particulate matter that is 2.5 micrometers or less in diameter, also known as PM2.5, one of the world’s deadliest forms […]",
-      "published": "2026-08-24T17:27:01+00:00",
+      "title": "NASA’s Pandora Mission Begins Study of Exoplanets, Host Stars",
+      "url": "https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/",
+      "summary": "Pandora, NASA’s newest exoplanet mission and the first satellite to launch through the agency’s Astrophysics Pioneers program, is now making unique observations of worlds beyond our solar system and the stars they orbit. The mission will determine the atmospheric make-up of at least 20 exoplanets, including the presence of hazes, clouds, and water. “Pandora’s data […]",
+      "published": "2026-08-25T17:55:02+00:00",
       "score": 11
     },
     {
-      "source": "MIT Technology Review",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Astronauts Anil Menon and Sophie Adenot on Spacewalk",
+      "url": "https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/",
+      "summary": "From left, Expedition 75 flight engineers Anil Menon of NASA (partially obscured and wearing the spacesuit with a red stripe on the legs) and Sophie Adenot of ESA (European Space Agency) work together during a six‑hour and 23‑minute spacewalk outside the International Space Station on Aug. 18, 2026. The pair will finish installing a high-speed […]",
+      "published": "2026-08-25T14:57:26+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…",
-      "published": "2026-08-25T09:00:00+00:00",
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an unsigned 64-bit Windows dynamic-link library (DLL) of 59,904 bytes, built to be side-loaded into&",
+      "published": "2026-08-26T07:12:55+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
+      "published": "2026-08-25T13:19:41+00:00",
       "score": 11
     },
     {
@@ -180,28 +252,55 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US removes Syria from list of state sponsors of terrorism",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "published": "2026-08-25T00:17:25+00:00",
+      "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+      "summary": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+      "published": "2026-08-26T11:55:05+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US firefighters say major blaze near Reno about a quarter contained",
-      "url": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
-      "published": "2026-08-25T09:49:02+00:00",
+      "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+      "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+      "summary": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
+      "published": "2026-08-26T11:02:22+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "NZ religious sect leader jailed over death of Chinese follower",
-      "url": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-      "summary": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-      "published": "2026-08-25T03:07:34+00:00",
+      "title": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+      "published": "2026-08-26T08:17:45+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Libyan who was cleared after Lockerbie bombing trial dies aged 70",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zgx6wlz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Facebook post by Libyan Airlines announced the death of Al Amin Khalifah Fhimah and expressed the company's condolences to his family.",
+      "published": "2026-08-26T08:01:56+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Bodies found on S Korean holiday island as missing persons scandal deepens",
+      "url": "https://www.bbc.co.uk/news/articles/cwyz9gjw9n9o?at_medium=RSS&at_campaign=rss",
+      "summary": "A police sergeant has been arrested following accusations that he lied to victims' families and prematurely closed missing persons cases.",
+      "published": "2026-08-26T07:01:45+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Toxic waste sites exposed in Michael Sheen documentary are 'tip of the iceberg'",
+      "url": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
+      "summary": "One scientist says there are thousands of sites across the UK that need investigating.",
+      "published": "2026-08-26T05:14:36+00:00",
       "score": 10
     },
     {
@@ -216,199 +315,100 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Mapping Air Pollution With MAIA Sensors in Addis Ababa",
-      "url": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
-      "summary": "Description This map of Addis Ababa, the capital of Ethiopia, shows the locations of 10 air sensors that NASA’s Multi-Angle Imager for Aerosols (MAIA) mission is using to provide one of the most detailed looks ever at the city’s air pollution. Over the course of three years, these sensors measured particulate matter that is 2.5 micrometers or less […]",
-      "published": "2026-08-24T17:21:28+00:00",
+      "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+      "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "summary": "NASA’s Deep Space Network facility in California is marking the addition of a brand new 34-meter-wide (114-foot-wide) radio frequency antenna to the agency’s deep space communications and navigation system. The network uses giant dish antennas located at three global facilities to support more than 40 spacecraft exploring the solar system and interstellar space. The new […]",
+      "published": "2026-08-25T22:28:34+00:00",
       "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Welcome to the spiderverse, a world measured through webs",
-      "url": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
-      "summary": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the…",
-      "published": "2026-08-25T09:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "How to encourage smarter AI use in the classroom",
-      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
-      "published": "2026-08-24T14:20:19+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
-      "published": "2026-08-24T12:10:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below - CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation",
-      "published": "2026-08-25T08:34:07+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-      "published": "2026-08-24T17:41:30+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
-      "published": "2026-08-24T11:56:34+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Lockerbie bombing trial postponed days before it was due to start",
-      "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-      "published": "2026-08-25T11:54:03+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "French tourist dies in Death Valley after car gets stuck in mud",
-      "url": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 68-year-old man was found dead in California's salt flats amid 116°F (46.6C) heat.",
-      "published": "2026-08-25T02:08:57+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "British man charged in Singapore two years after alleged theft at airport",
-      "url": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
-      "published": "2026-08-25T09:01:35+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
-      "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
-      "summary": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour.",
-      "published": "2026-08-25T06:27:24+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "More downpours and thunderstorms are heading the UK's way",
-      "url": "https://www.bbc.co.uk/news/videos/c4gdq21de29o?at_medium=RSS&at_campaign=rss",
-      "summary": "More downpours and thunderstorms are heading the UK's way",
-      "published": "2026-08-24T16:38:21+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "France links sharp rise in drownings to heatwaves",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "published": "2026-08-23T17:39:33+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Can restoring land create jobs? These young entrepreneurs are proving it",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168194",
-      "summary": "From Ecuador to Bangladesh, a new generation of entrepreneurs is turning land restoration into economic opportunity. Whether repurposing agricultural waste, building greenhouses or deploying AI-powered sensors, they are showing, with support from a United Nations-backed initiative, that restoring land can also generate income and improve livelihoods.",
-      "published": "2026-08-24T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Gaza: Children still at risk despite drop in acute hunger",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168193",
-      "summary": "Among tent cities pitched on the rubble of destroyed homes in Gaza, children are, by one measure, finally getting enough to eat. By another, however, many of them may never fully recover, according to a new study by the UN Children’s Fund (UNICEF) released on Monday.",
-      "published": "2026-08-24T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Global food supply has become ‘collateral damage’ in conflicts: Secretary-General",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168190",
-      "summary": "The disruption of maritime traffic in the Strait of Hormuz, Black Sea and Bab al-Mandab Strait has worsened hunger crises and must immediately end, UN Secretary-General António Guterres said.",
-      "published": "2026-08-24T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Sudan war: $22 million education boost to help 200,000 children",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168187",
-      "summary": "For millions of children in Sudan, the classroom remains out of reach as the country’s civil war continues to disrupt their education. To help tackle this huge problem, the UN global education fund on Monday announced a $22 million initiative to help 200,000 youngsters return to learning.",
-      "published": "2026-08-24T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Breaking the silence over sexual violence against men and boys in war",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168150",
-      "summary": "Conflicts can expose civilians and detainees to grave abuses; the challenge is not only to document these crimes, but also to ensure all survivors are recognised, protected and able to access justice and care.",
-      "published": "2026-08-22T12:00:00+00:00",
-      "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Sets Coverage for Roman Space Telescope Launch from Florida",
-      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
-      "summary": "Coverage plans are ready for NASA’s Nancy Grace Roman Space Telescope prelaunch and launch activities. Roman is NASA’s next-generation observatory designed to explore some of the universe’s biggest mysteries, including dark energy. NASA and SpaceX are targeting Roman’s liftoff for no earlier than 7:26 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket […]",
-      "published": "2026-08-24T20:44:58+00:00",
-      "score": 9
+      "title": "Integrating Model-Based Systems Engineering and Fault Management to Enable Autonomous Space Missions",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/",
+      "summary": "Fully autonomous space mission operations require the ability to detect faults and compensate for them without human intervention. To address this challenge and provide model-based support for system design and operations, it is important to connect fault management (FM) and model-based systems engineering (MBSE). This approach was successfully demonstrated with the model-based generation of a […]",
+      "published": "2026-08-25T13:00:00+00:00",
+      "score": 10
     },
     {
-      "source": "NASA Breaking News",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+      "summary": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “machine learning” was popularized in a 1959 article by the IBM computer scientist Arthur…",
+      "published": "2026-08-26T09:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Addressing a sticking point in sustainable adhesives",
+      "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers. “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
+      "published": "2026-08-25T21:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Amping up T cells to target cancer",
+      "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, however, these vaccines don’t stimulate enough of a response, and the approach some researchers have taken to strengthening it—delivering the vaccine along with immune-stimulating molecules called cytokines—can…",
+      "published": "2026-08-25T21:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "url": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human to decide if it should escalate to an investigation. Given the volume of",
+      "published": "2026-08-26T11:36:49+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn. The accounts \"were being used to promote the International Burke Institute (IBI), a",
+      "published": "2026-08-26T09:38:45+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African criminal networks – such as the Black Axe and other similar groups,\" INTERPOL said. \"These groups are",
+      "published": "2026-08-26T07:54:12+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based. Mirage2FA Campaign",
+      "published": "2026-08-25T11:56:15+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Perseverance Captures Another Phobos Transit",
-      "url": "https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/",
-      "summary": "Description NASA’s Perseverance Mars rover used its Mastcam-Z camera to capture the silhouette of Phobos, one of the two Martian moons, as it crossed in front of the Sun on Aug. 12, 2026, the 1,948th Martian day, or sol, of the mission. The animation has been tinted to simulate what a human would see if […]",
-      "published": "2026-08-24T17:56:49+00:00",
+      "title": "'Magical' and rare barn owl has bumper breeding season",
+      "url": "https://www.bbc.co.uk/news/articles/crl6r66yjklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ten chicks have been successfully reared by two breeding pairs at secret sites across Fermanagh.",
+      "published": "2026-08-26T05:43:05+00:00",
       "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-      "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
-      "published": "2026-08-24T11:30:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
-      "published": "2026-08-22T14:32:41+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Relief may be near for Indiana city after days without power",
+      "url": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+      "summary": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+      "published": "2026-08-25T16:33:34+00:00",
       "score": 9
     }
   ]
