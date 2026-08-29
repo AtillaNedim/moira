@@ -1,19 +1,28 @@
 {
-  "generated_at": "2026-08-28T21:33:02.870847+00:00",
-  "date": "2026-08-28",
+  "generated_at": "2026-08-29T15:48:58.090200+00:00",
+  "date": "2026-08-29",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-scale invasion",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168226",
-      "summary": "Since the beginning of Russia’s full-scale invasion of Ukraine, 3,205 attacks on healthcare facilities have been carried out, World Health Organization (WHO) Representative for Ukraine Jarno Habicht reported on Friday following fresh overnight strikes.",
-      "published": "2026-08-28T12:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
+      "published": "2026-08-28T21:30:52+00:00",
       "score": 15
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "published": "2026-08-29T00:56:19+00:00",
+      "score": 14
     },
     {
       "source": "BBC World",
@@ -43,21 +52,12 @@
       "score": 14
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations",
-      "url": "https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html",
-      "summary": "Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026. These campaigns, per Recorded Future Insikt Group, have led to the deployment of a previously undocumented backdoor dubbed HOOKEDGE, a lightweight Windows batch script that's distributed via",
-      "published": "2026-08-28T08:20:59+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Berlin is being blackmailed by hackers, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kai Wegner says the German capital and city-state would not cave in to a ransom demand for data stolen in a cyber-attack.",
-      "published": "2026-08-28T21:29:01+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "WHO reports more than 3,200 attacks on Ukraine’s healthcare system since full-scale invasion",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168226",
+      "summary": "Since the beginning of Russia’s full-scale invasion of Ukraine, 3,205 attacks on healthcare facilities have been carried out, World Health Organization (WHO) Representative for Ukraine Jarno Habicht reported on Friday following fresh overnight strikes.",
+      "published": "2026-08-28T12:00:00+00:00",
       "score": 13
     },
     {
@@ -79,66 +79,39 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active",
-      "published": "2026-08-28T15:27:26+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
-      "published": "2026-08-28T11:20:32+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.",
-      "published": "2026-08-28T10:58:29+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of confirmed customer incidents and is treating this matter with the highest priority.\" An",
-      "published": "2026-08-28T08:25:36+00:00",
-      "score": 13
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "published": "2026-08-29T15:27:56+00:00",
+      "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-      "published": "2026-08-28T19:45:39+00:00",
+      "title": "Canada poaches dozens of top US researchers for its universities",
+      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Researchers in fields like climate and medicine are being lured north by new research funding.",
+      "published": "2026-08-28T23:47:38+00:00",
       "score": 12
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168222",
-      "summary": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here.",
+      "title": "As the Himalayas melt, deadly floods become the new normal",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168227",
+      "summary": "A day before a wall of ice, rock and muddy water tore through Himalayan valleys along the Nepal-China border, Dipesh Chapagain was discussing with a colleague just how devastating such a disaster could be.",
       "published": "2026-08-28T12:00:00+00:00",
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168224",
-      "summary": "The recent earthquake in Colombia could increase the risk of child recruitment by armed groups in Chocó and Valle del Cauca, where thousands of children remain out of school in areas already affected by conflict, the UN warned on Friday.",
-      "published": "2026-08-28T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+      "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+      "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
+      "published": "2026-08-28T22:21:31+00:00",
       "score": 12
     },
     {
@@ -160,24 +133,6 @@
       "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
-      "published": "2026-08-28T12:07:24+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WHM. cPanel described the issue as a critical security vulnerability and said that an",
-      "published": "2026-08-28T09:45:15+00:00",
-      "score": 12
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
       "title": "Despite African walkout, fractious land COP ends without drought deal",
@@ -189,37 +144,19 @@
     {
       "source": "BBC World",
       "category": "Politik",
+      "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+      "published": "2026-08-29T15:13:42+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
       "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
       "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
       "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "published": "2026-08-28T21:01:39+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-      "url": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-      "summary": "Police are hunting two suspects they believe bought a ticket for the exhibition to get at the jewellery.",
-      "published": "2026-08-28T17:29:16+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Violence breaks out in Ceuta as migrant crisis continues",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-      "published": "2026-08-28T16:30:59+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Two-year curfew lifted in Sudan's capital",
-      "url": "https://www.bbc.co.uk/news/articles/c2076gxr0llo?at_medium=RSS&at_campaign=rss",
-      "summary": "The military authorities retook control of the city 18 months ago, but the conflict continues elsewhere.",
-      "published": "2026-08-28T14:18:53+00:00",
+      "published": "2026-08-29T00:46:02+00:00",
       "score": 11
     },
     {
@@ -229,6 +166,15 @@
       "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
       "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
       "published": "2026-08-28T17:59:31+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Four children killed as separate attacks in Gaza destroy aid supplies",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168229",
+      "summary": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
+      "published": "2026-08-28T12:00:00+00:00",
       "score": 11
     },
     {
@@ -259,6 +205,42 @@
       "score": 11
     },
     {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
+      "url": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active",
+      "published": "2026-08-28T15:27:26+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
+      "url": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
+      "summary": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted instances and provided the update to its partners and self-hosted customers, which leaves organizations that run their",
+      "published": "2026-08-28T11:20:32+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+      "url": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
+      "summary": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named SPEAKINGSTONE and DARKLANTERN by the company's zero-day research team, are tracked as CVE-2026-74232 and CVE-2026-74233.",
+      "published": "2026-08-28T10:58:29+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
+      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of confirmed customer incidents and is treating this matter with the highest priority.\" An",
+      "published": "2026-08-28T08:25:36+00:00",
+      "score": 11
+    },
+    {
       "source": "Climate Home News",
       "category": "Umwelt",
       "title": "New Zealand moves to protect business with law curtailing climate litigation",
@@ -268,48 +250,57 @@
       "score": 11
     },
     {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "published": "2026-08-29T03:54:11+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "published": "2026-08-29T07:11:04+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "published": "2026-08-29T10:51:21+00:00",
+      "score": 10
+    },
+    {
       "source": "BBC Science",
       "category": "Wissenschaft",
       "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
       "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
       "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
-      "published": "2026-08-28T20:44:07+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Bank holiday weekend to see more thunderstorms and rain",
-      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
-      "published": "2026-08-28T09:42:47+00:00",
+      "published": "2026-08-29T06:05:15+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Land models sprout as degradation threatens billions of livelihoods",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168212",
-      "summary": "Promising efforts to restore degraded land are now in the spotlight at a time when 40 per cent of the world’s land currently faces degradation and drought, threatening the livelihoods of over three billion people, the head of the UN Convention to Combat Desertification (UNCCD) said Wednesday, announcing three winners of its World Restoration Flagships awards.",
-      "published": "2026-08-26T12:00:00+00:00",
+      "title": "Security Council LIVE: Deadly gang attacks spike in Haiti",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168222",
+      "summary": "Following a deadly spate of gang attacks on civilians in Haiti and amid reports of illicit weapons slipping into the Caribbean country, the Security Council has called an emergency meeting at 3pm (local time) to hear and discuss the latest developments. UN News app users can follow our coverage here.",
+      "published": "2026-08-28T12:00:00+00:00",
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Grants",
-      "url": "https://www.nasa.gov/centers-and-facilities/grants-2/",
-      "summary": "*Notice* The Payment Management System (PMS) is currently experiencing issues affecting Federal Financial Report (FFR) generation. Impacted NASA grant recipients will not be considered noncompliant. NASA is working with PMS to resolve the issue. Updates will be posted here. Grants Status Requests To submit a request, visit NASA General Information Request Form and complete the […]",
-      "published": "2026-08-28T15:45:43+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "The Forested Floodplains of Congaree National Park",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-forested-floodplains-of-congaree-national-park/",
-      "summary": "The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.",
-      "published": "2026-08-28T04:01:00+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Risks of child recruitment by armed groups rise in post-quake Colombia",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168224",
+      "summary": "The recent earthquake in Colombia could increase the risk of child recruitment by armed groups in Chocó and Valle del Cauca, where thousands of children remain out of school in areas already affected by conflict, the UN warned on Friday.",
+      "published": "2026-08-28T12:00:00+00:00",
       "score": 10
     },
     {
@@ -322,21 +313,21 @@
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Astronaut Jonny Kim Departs Agency to Continue Military Service",
-      "url": "https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/",
-      "summary": "After nearly a decade of service to NASA, including an eight-month science expedition aboard the International Space Station, astronaut Jonny Kim’s last day at the agency is Thursday. He will continue serving as lieutenant commander in the U.S. Navy. Kim launched to the space station in April 2025 aboard the Soyuz MS‑27 spacecraft to conduct […]",
-      "published": "2026-08-27T15:10:24+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+      "url": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
+      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
+      "published": "2026-08-28T12:07:24+00:00",
       "score": 10
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "summary": "MIT Technology Review’s How To series helps you get things done. Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a collection of household devices (such…",
-      "published": "2026-08-28T09:00:00+00:00",
+      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
+      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WHM. cPanel described the issue as a critical security vulnerability and said that an",
+      "published": "2026-08-28T09:45:15+00:00",
       "score": 10
     },
     {
@@ -351,37 +342,19 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Greenland says findings on genocide allegation not final",
-      "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts examined the use of forced contraception on the Inuit community during the 1960s and 70s.",
-      "published": "2026-08-28T19:57:50+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "World's youngest reigning traditional monarch dies aged 34",
-      "url": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-      "summary": "King Oyo ascended to the throne of Uganda's Tooro kingdom when he was just three years old.",
-      "published": "2026-08-28T11:13:24+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Shootings surge as drug gangs torment Brussels",
-      "url": "https://www.bbc.co.uk/news/articles/c9w4r7e7z4ko?at_medium=RSS&at_campaign=rss",
-      "summary": "This year alone there have been more than 65 shootings in the Belgian capital, as drug crime soars.",
-      "published": "2026-08-28T13:41:18+00:00",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
+      "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
+      "published": "2026-08-29T08:48:34+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-      "published": "2026-08-28T03:23:21+00:00",
+      "title": "The race to stop England running out of water",
+      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "published": "2026-08-29T14:50:35+00:00",
       "score": 9
     },
     {
@@ -396,19 +369,46 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘Immense impact’ of Nepal flood disaster highlighted as casualties mount",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168221",
-      "summary": "The impact of the deadly flood in Nepal has been described as “immense” as the authorities there confirm that 538 bodies have been recovered from the disaster-stricken area.",
-      "published": "2026-08-28T12:00:00+00:00",
+      "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168219",
+      "summary": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young people without access to skills and training that could help shape their futures.",
+      "published": "2026-08-27T12:00:00+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168219",
-      "summary": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young people without access to skills and training that could help shape their futures.",
+      "title": "Lebanon: Civilian risks grow as military activity continues, UN says",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168215",
+      "summary": "Damaged roads, disrupted services and ongoing military activity continue to put civilians at risk in south Lebanon as strikes between Israeli forces and Hezbollah continue, according to the UN’s peacekeeping mission in the country (UNIFIL).",
       "published": "2026-08-27T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: Tracking Syria’s transition",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168214",
+      "summary": "As Damascus continues to rebuild after more than a decade of war – from the recent dissolution of the Kurdish-led Syrian Democratic Forces to the United States’ removal of Syria from its sponsors of terrorism list – a top UN official warned the Security Council on Thursday that international support can help tackle outstanding challenges. UN News app users can follow here.",
+      "published": "2026-08-27T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Shock and devastation remain, a day after Himalayan flood disaster",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168213",
+      "summary": "Amid reports that hundreds of people are still missing in Nepal and China after a floodwater surge slammed into towns and villages on Wednesday, aid teams have been working to reach communities cut off by the disaster.",
+      "published": "2026-08-27T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
+      "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
+      "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https://www.nasa.gov/roman Media contact: Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, Md.claire.andreoli@nasa.gov301-286-1940",
+      "published": "2026-08-27T17:47:11+00:00",
       "score": 9
     }
   ]
