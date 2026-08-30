@@ -1,55 +1,19 @@
 {
-  "generated_at": "2026-08-29T15:48:58.090200+00:00",
-  "date": "2026-08-29",
+  "generated_at": "2026-08-30T15:33:59.856772+00:00",
+  "date": "2026-08-30",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
-      "published": "2026-08-28T21:30:52+00:00",
-      "score": 15
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
-      "url": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
-      "published": "2026-08-29T00:56:19+00:00",
-      "score": 14
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
-      "published": "2026-08-28T19:05:23+00:00",
-      "score": 14
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
-      "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals. The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, r",
-      "published": "2026-08-28T20:30:52+00:00",
-      "score": 14
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
-      "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
-      "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]",
-      "published": "2026-08-28T17:37:01+00:00",
-      "score": 14
+      "title": "Iceland votes against restarting EU membership talks",
+      "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+      "summary": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
+      "published": "2026-08-30T14:45:05+00:00",
+      "score": 13
     },
     {
       "source": "UN News",
@@ -61,21 +25,12 @@
       "score": 13
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "President Trump Signs Executive Order to Create US Space Academy",
-      "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
-      "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
-      "published": "2026-08-28T17:21:04+00:00",
-      "score": 13
-    },
-    {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
-      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration, which could be used to execute arbitrary Java code inside the application's",
-      "published": "2026-08-28T17:12:15+00:00",
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "url": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "summary": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
+      "published": "2026-08-28T21:30:52+00:00",
       "score": 13
     },
     {
@@ -84,16 +39,16 @@
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
       "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
-      "published": "2026-08-29T15:27:56+00:00",
+      "published": "2026-08-29T20:13:16+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Canada poaches dozens of top US researchers for its universities",
-      "url": "https://www.bbc.co.uk/news/articles/c209gd5jnq1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers in fields like climate and medicine are being lured north by new research funding.",
-      "published": "2026-08-28T23:47:38+00:00",
+      "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
+      "published": "2026-08-29T17:52:42+00:00",
       "score": 12
     },
     {
@@ -108,37 +63,19 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
-      "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
-      "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
-      "published": "2026-08-28T22:21:31+00:00",
+      "title": "NASA Awards First Prize in Phase 2 of Agency’s LunaRecycle Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/",
+      "summary": "NASA named a team from the Massachusetts Institute of Technology (MIT) as the first prize winner for Phase 2 of the agency’s LunaRecycle Challenge, which focused on developing solutions for reducing waste during missions to the Moon or deep space by recycling common materials, like fabrics, plastics, foam, and metals. The Composites for Extraterrestrial Recycling By Engineering the Reuse and Upcycling of Zotek (CERBERUZ) team, comprised of undergraduate, graduate, and doctoral students at MIT, r",
+      "published": "2026-08-28T20:30:52+00:00",
       "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affected versions are < 0.6.2 and >=",
-      "published": "2026-08-28T20:38:47+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. The vulnerability, tracked as CVE-2023-49105 (CVSS score: 9.8), is a case of",
-      "published": "2026-08-28T15:56:55+00:00",
-      "score": 12
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Despite African walkout, fractious land COP ends without drought deal",
-      "url": "https://www.climatechangenews.com/2026/08/28/despite-african-walkout-fractious-land-cop-ends-without-drought-agreement/",
-      "summary": "A strong push for a drought protocol by African countries failed in contentious talks, with negotiations postponed for another two years The post Despite African walkout, fractious land COP ends without drought deal appeared first on Climate Home News .",
-      "published": "2026-08-28T16:32:26+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "President Honors NASA’s Artemis II Crew with Highest US Space Award",
+      "url": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "summary": "President Donald J. Trump awarded NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen with the Congressional Space Medal of Honor Friday for their service during the Artemis II mission. He presented the awards during a ceremony at NASA’s Johnson Space Center in Houston, honoring the first […]",
+      "published": "2026-08-28T17:37:01+00:00",
       "score": 12
     },
     {
@@ -147,25 +84,16 @@
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "summary": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-      "published": "2026-08-29T15:13:42+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-      "published": "2026-08-29T00:46:02+00:00",
+      "published": "2026-08-30T04:01:02+00:00",
       "score": 11
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "'Our parents were crossing the border an hour before the flood hit'",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
-      "published": "2026-08-28T17:59:31+00:00",
+      "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+      "published": "2026-08-30T15:28:08+00:00",
       "score": 11
     },
     {
@@ -178,30 +106,21 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
-      "summary": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
-      "published": "2026-08-27T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "President Trump Signs Executive Order to Create US Space Academy",
+      "url": "https://www.nasa.gov/news-release/president-trump-signs-executive-order-to-create-us-space-academy/",
+      "summary": "To strengthen the nation’s space workforce and develop the next generation of space leaders, President Donald J. Trump signed an Executive Order on Friday to establish the nation’s first U.S. Space Academy. The order highlights how space is a critical domain for American national security, economic growth, scientific discovery, and technological innovation. The proposed academy […]",
+      "published": "2026-08-28T17:21:04+00:00",
       "score": 11
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
-      "published": "2026-08-27T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
-      "published": "2026-08-26T19:00:00+00:00",
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "summary": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration, which could be used to execute arbitrary Java code inside the application's",
+      "published": "2026-08-28T17:12:15+00:00",
       "score": 11
     },
     {
@@ -232,15 +151,6 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions",
-      "url": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-      "summary": "PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. The company has released an emergency patch for v25 and v26 to address the issue. It said it's \"aware of confirmed customer incidents and is treating this matter with the highest priority.\" An",
-      "published": "2026-08-28T08:25:36+00:00",
-      "score": 11
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
       "title": "New Zealand moves to protect business with law curtailing climate litigation",
@@ -252,37 +162,10 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
-      "published": "2026-08-29T03:54:11+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
-      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
-      "published": "2026-08-29T07:11:04+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
-      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-      "published": "2026-08-29T10:51:21+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-      "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
-      "published": "2026-08-29T06:05:15+00:00",
+      "title": "WhatsApp chat used to send cash for crime and extremism",
+      "url": "https://www.bbc.co.uk/news/articles/cgk57lg7566o?at_medium=RSS&at_campaign=rss",
+      "summary": "The WhatsApp money launderers arranged cash transfers in the UK and around the world with no paper trail.",
+      "published": "2026-08-30T04:59:56+00:00",
       "score": 10
     },
     {
@@ -306,10 +189,46 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
+      "title": "NASA’s Dark Universe-Seeking Nancy Grace Roman Space Telescope Launches",
+      "url": "https://www.nasa.gov/news-release/nasas-dark-universe-seeking-nancy-grace-roman-space-telescope-launches/",
+      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT Sunday aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large field of […]",
+      "published": "2026-08-30T13:18:06+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s Artemis II Crew Receives Congressional Space Medal of Honor",
+      "url": "https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/",
+      "summary": "From left to right: NASA astronauts Victor Glover and Christina Koch, CSA (Canadian Space Agency) astronaut Jeremy Hansen, and NASA astronaut Reid Wiseman receive the Congressional Space Medal of Honor from President Donald J. Trump on Aug. 28, 2026, for their service during the Artemis II mission. The Congressional Space Medal of Honor was authorized […]",
+      "published": "2026-08-28T22:21:31+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
       "title": "NASA Invites Media to Turkey Artemis Accords Signing Ceremony",
       "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-turkey-artemis-accords-signing-ceremony/",
       "summary": "Turkey will sign the Artemis Accords during a ceremony at 2:30 p.m. EDT Monday, Aug. 31, at NASA Headquarters in Washington, becoming the 71st country signatory. NASA Administrator Jared Isaacman will host Turkish Minister of Industry and Technology Mehmet Fatih Kacır for the ceremony, together with U.S. Department of State officials. This event is in person only. […]",
       "published": "2026-08-27T18:42:38+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "summary": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affected versions are < 0.6.2 and >=",
+      "published": "2026-08-28T20:38:47+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. The vulnerability, tracked as CVE-2023-49105 (CVSS score: 9.8), is a case of",
+      "published": "2026-08-28T15:56:55+00:00",
       "score": 10
     },
     {
@@ -322,12 +241,12 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WHM. cPanel described the issue as a critical security vulnerability and said that an",
-      "published": "2026-08-28T09:45:15+00:00",
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Despite African walkout, fractious land COP ends without drought deal",
+      "url": "https://www.climatechangenews.com/2026/08/28/despite-african-walkout-fractious-land-cop-ends-without-drought-agreement/",
+      "summary": "A strong push for a drought protocol by African countries failed in contentious talks, with negotiations postponed for another two years The post Despite African walkout, fractious land COP ends without drought deal appeared first on Climate Home News .",
+      "published": "2026-08-28T16:32:26+00:00",
       "score": 10
     },
     {
@@ -342,19 +261,46 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
-      "summary": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
-      "published": "2026-08-29T08:48:34+00:00",
+      "title": "Canada installs large Lake Ontario sign in latest jab at US",
+      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "published": "2026-08-30T14:25:43+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Zambian opposition leader charged with treason",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "published": "2026-08-30T09:08:23+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Former Ecuadorian president imprisoned for corruption",
+      "url": "https://www.bbc.co.uk/news/articles/cvgym9rz07zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lenín Moreno denies taking bribes from a Chinese firm to secure a contract to build a hydroelectric plant.",
+      "published": "2026-08-29T19:44:54+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "The race to stop England running out of water",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "published": "2026-08-29T14:50:35+00:00",
+      "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
+      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "published": "2026-08-29T10:51:21+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "'Our parents were crossing the border an hour before the flood hit'",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
+      "published": "2026-08-28T17:59:31+00:00",
       "score": 9
     },
     {
@@ -369,47 +315,101 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168219",
-      "summary": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young people without access to skills and training that could help shape their futures.",
+      "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
+      "summary": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
       "published": "2026-08-27T12:00:00+00:00",
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Lebanon: Civilian risks grow as military activity continues, UN says",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168215",
-      "summary": "Damaged roads, disrupted services and ongoing military activity continue to put civilians at risk in south Lebanon as strikes between Israeli forces and Hezbollah continue, according to the UN’s peacekeeping mission in the country (UNIFIL).",
-      "published": "2026-08-27T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with…",
+      "published": "2026-08-27T12:10:00+00:00",
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Tracking Syria’s transition",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168214",
-      "summary": "As Damascus continues to rebuild after more than a decade of war – from the recent dissolution of the Kurdish-led Syrian Democratic Forces to the United States’ removal of Syria from its sponsors of terrorism list – a top UN official warned the Security Council on Thursday that international support can help tackle outstanding challenges. UN News app users can follow here.",
-      "published": "2026-08-27T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’…",
+      "published": "2026-08-26T19:00:00+00:00",
       "score": 9
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Shock and devastation remain, a day after Himalayan flood disaster",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168213",
-      "summary": "Amid reports that hundreds of people are still missing in Nepal and China after a floodwater surge slammed into towns and villages on Wednesday, aid teams have been working to reach communities cut off by the disaster.",
-      "published": "2026-08-27T12:00:00+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
+      "published": "2026-08-30T07:36:33+00:00",
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
+      "published": "2026-08-29T16:25:03+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Indonesia’s nickel production cuts are not enough to create a sustainable industry",
+      "url": "https://www.climatechangenews.com/2026/08/24/indonesias-nickel-production-cuts-are-not-enough-to-create-a-sustainable-industry/",
+      "summary": "The government is restricting nickel production to push up prices but producing more sustainable nickel for a premium requires addressing the industry's coal issue The post Indonesia’s nickel production cuts are not enough to create a sustainable industry appeared first on Climate Home News .",
+      "published": "2026-08-24T10:40:44+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
+      "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
+      "published": "2026-08-30T12:44:08+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "published": "2026-08-29T03:54:11+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Norway's new king remembers 'my dear father' in first speech",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy79wmv4jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Haakon VIII pays emotional tribute to his late father, Harald V, before outlining how he wishes to reign.",
+      "published": "2026-08-29T19:06:28+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "9 Things to Know About NASA’s Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/missions/roman-space-telescope/9-things-to-know-about-nasas-nancy-grace-roman-space-telescope/",
-      "summary": "NASA’s Nancy Grace Roman Space Telescope is set to launch at 7:26 a.m. EDT on Sunday, Aug. 30. While you wait to watch the launch, brush up on some key facts about this wide-view mission. To learn more about the Roman mission, visit: https://www.nasa.gov/roman Media contact: Claire AndreoliNASA’s Goddard Space Flight Center, Greenbelt, Md.claire.andreoli@nasa.gov301-286-1940",
-      "published": "2026-08-27T17:47:11+00:00",
-      "score": 9
+      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+      "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+      "published": "2026-08-29T06:05:15+00:00",
+      "score": 8
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Bank holiday weekend to see more thunderstorms and rain",
+      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
+      "published": "2026-08-28T09:42:47+00:00",
+      "score": 8
     }
   ]
 }
