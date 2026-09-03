@@ -1,28 +1,91 @@
 {
-  "generated_at": "2026-09-02T15:25:45.065969+00:00",
-  "date": "2026-09-02",
+  "generated_at": "2026-09-03T15:19:22.465284+00:00",
+  "date": "2026-09-03",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "EU and Nato vow to step up pressure on Russia after 'new escalation' in Germany",
-      "url": "https://www.bbc.co.uk/news/articles/ce9e810pg7ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia is accused of growing increasingly reckless after Berlin blamed Russia for a failed drone attack on Leipzig airport.",
-      "published": "2026-09-02T14:34:22+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and telecommunications services) early access to advanced models that help them",
+      "published": "2026-09-02T18:27:49+00:00",
+      "score": 15
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
+      "published": "2026-09-03T06:26:59+00:00",
       "score": 14
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "url": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify its own attacks on Ukraine.",
-      "published": "2026-09-02T13:16:26+00:00",
-      "score": 14
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Outside forces fuel Sudan war, new report finds",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168270",
+      "summary": "Foreign recruitment and external support networks are fuelling the brutal conflict in Sudan, independent UN human rights investigators said on Thursday in a new report, calling for accountability as fighting continues between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF).",
+      "published": "2026-09-03T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "El Niño is surging. Months of extreme heat could follow",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168265",
+      "summary": "Fuelled by exceptionally warm Pacific waters, the El Niño climate pattern is intensifying and has yet to peak. Forecasters are almost certain it will persist through February 2027 – with unusually warm conditions expected across much of the world in the coming months.",
+      "published": "2026-09-03T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and hotels since February 2026. \"The technique's appeal is that node.exe (the",
+      "published": "2026-09-03T10:43:01+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
+      "published": "2026-09-03T05:19:04+00:00",
+      "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168268",
+      "summary": "Fighting between the United States and Iran has sharply escalated after a month-long lull, with the two sides exchanging strikes as fears grow over further civilian casualties.",
+      "published": "2026-09-02T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
+      "published": "2026-09-03T10:36:39+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+      "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+      "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affecting China-based operations of multinational organizations and Chinese-speaking users,\" Microsoft",
+      "published": "2026-09-02T16:41:06+00:00",
+      "score": 12
     },
     {
       "source": "The Hacker News",
@@ -31,16 +94,16 @@
       "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
       "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
       "published": "2026-09-02T12:22:02+00:00",
-      "score": 14
+      "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets CVE-2021-31886, a stack-based buffer overflow in the Nucleus FTP server's handling of the USER command",
-      "published": "2026-09-02T07:47:13+00:00",
-      "score": 14
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
+      "url": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
+      "summary": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans The post UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency appeared first on Climate Home News .",
+      "published": "2026-09-03T08:24:14+00:00",
+      "score": 12
     },
     {
       "source": "Climate Home News",
@@ -49,7 +112,61 @@
       "url": "https://www.climatechangenews.com/2026/09/02/un-sets-out-narrow-path-back-to-1-5c-warming-after-inevitable-overshoot/",
       "summary": "Leading scientists say warming must peak at 1.8C to be able to reverse course this century, but current government climate policies are way off track The post UN sets out narrow path back to 1.5C warming after inevitable overshoot appeared first on Climate Home News .",
       "published": "2026-09-02T04:15:00+00:00",
-      "score": 14
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump $1 coin makes him first living president on US currency in a century",
+      "url": "https://www.bbc.co.uk/news/articles/c7507g9v992o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Mint special edition is stamped with a portrait of Trump alongside the words \"LIBERTY\" and \"IN GOD WE TRUST\"",
+      "published": "2026-09-03T10:25:43+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Vance's Antichrist comments are a 'common belief', his friend tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cn4kwzr8gd9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US vice-president recently mused with a Christian podcast host on whether the end of the world was nigh.",
+      "published": "2026-09-03T13:07:02+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Kenyan president orders crackdown on foreigners operating small businesses",
+      "url": "https://www.bbc.co.uk/news/articles/c9861x5pzgxo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes amid concerns over the growing number of traders from neighbouring countries.",
+      "published": "2026-09-03T10:59:14+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Widow whose husband died after falling into slurry pit warns of pressure on farmers",
+      "url": "https://www.bbc.co.uk/news/articles/cn9wv8l15ezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Margaret Owen said it seemed \"things are getting worse\" after a rise in deaths on British farms.",
+      "published": "2026-09-03T05:03:15+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Nepal floods leave 22,000 children without safe water: UNICEF",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168269",
+      "summary": "More than a week after flash floods struck the Bhotekoshi-Trishuli river basin in Nepal, at least 22,000 children urgently need safe drinking water, sanitation and hygiene support, the United Nations Children’s Fund (UNICEF) said on Thursday.",
+      "published": "2026-09-03T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "One in five children in 21 nations faced tech-facilitated sexual abuse: UNICEF",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168236",
+      "summary": "About 20 million children aged 12 to 17 – one in five across 21 countries – were sexually exploited by perpetrators using technology such as social media, according to a UN Children’s Fund (UNICEF) report released on Thursday.",
+      "published": "2026-09-03T12:00:00+00:00",
+      "score": 11
     },
     {
       "source": "UN News",
@@ -58,7 +175,34 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168240",
       "summary": "Record heat waves, deadly flooding and extreme weather reflect an ever-warming planet poised to soon breach safe temperature limits, according to a UN report released on Tuesday, but doubling down on climate action now could avoid a climate catastrophe.",
       "published": "2026-09-02T12:00:00+00:00",
-      "score": 13
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices have been on a…",
+      "published": "2026-09-03T10:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500 companies, progress toward meaningful scale remains…",
+      "published": "2026-09-03T09:30:32+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's Pegasus spyware,\" the Citizen Lab said. \"We found high-confidence indicators of",
+      "published": "2026-09-03T08:43:17+00:00",
+      "score": 11
     },
     {
       "source": "The Hacker News",
@@ -67,150 +211,6 @@
       "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
       "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting. Check Point Research said it has tracked the campaign since mid-2025. The modules",
       "published": "2026-09-02T13:44:16+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U.S. Attorney's Office for the Northern District of California",
-      "published": "2026-09-02T09:10:23+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
-      "published": "2026-09-02T06:56:30+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-      "published": "2026-09-02T11:47:11+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and without an approval prompt, and exploitation requires the repository to arrive",
-      "published": "2026-09-02T14:06:59+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-83548 (CVSS score: 10.0) - A pre-authentication SSRF vulnerability in the Appliance",
-      "published": "2026-09-02T10:53:49+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability details on August 31. GeoNetwork originated at the United Nations Food and",
-      "published": "2026-09-02T09:18:02+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog Artifactory contains an authentication weakness that, under default",
-      "published": "2026-09-01T17:53:11+00:00",
-      "score": 12
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot",
-      "url": "https://www.climatechangenews.com/2026/09/02/keeping-to-1-5c-of-warming-is-no-longer-possible-but-we-must-still-limit-the-overshoot/",
-      "summary": "We need a strategy for navigating the huge risks to ecosystems and societies The post Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot appeared first on Climate Home News .",
-      "published": "2026-09-02T09:15:59+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-      "published": "2026-09-02T11:51:46+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-      "url": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 1,000 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-      "published": "2026-09-02T13:17:43+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Met Office: Summer 2026 was UK's hottest ever",
-      "url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
-      "published": "2026-09-01T17:25:35+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Sudan: Air attack destroys food aid for families in South Kordofan",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168251",
-      "summary": "Two truckloads of food aid destined for hungry families in South Kordofan state, Sudan, were destroyed in an aerial attack over the weekend, the World Food Progamme (WFP) said on Wednesday.",
-      "published": "2026-09-02T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Facilitating AI integration with simplicity at scale",
-      "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
-      "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than…",
-      "published": "2026-09-02T14:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise. The incident window ran from approximately August 28 at 20:57",
-      "published": "2026-09-02T13:12:45+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
-      "published": "2026-09-02T07:08:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "From Belém to Antalya – gains, gaps and challenges for a new Just Transition Mechanism",
-      "url": "https://www.climatechangenews.com/2026/09/02/from-belem-to-antalya-gains-gaps-and-challenges-for-a-new-just-transition-mechanism/",
-      "summary": "Civil society wants a mechanism to be launched at COP31 but insists it must be more than a talking shop and include different social groups and a wide view of transition The post From Belém to Antalya – gains, gaps and challenges for a new Just Transition Mechanism appeared first on Climate Home News .",
-      "published": "2026-09-02T12:01:06+00:00",
       "score": 11
     },
     {
@@ -223,84 +223,48 @@
       "score": 11
     },
     {
-      "source": "Climate Home News",
+      "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "India needs climate adaptation cash to be an investment, not a quick fix",
-      "url": "https://www.climatechangenews.com/2026/08/31/india-needs-climate-adaptation-cash-to-be-an-investment-not-a-quick-fix/",
-      "summary": "As governments look towards COP31, India must push not only for more adaptation finance, but for funds to arrive in time for projects that limit disasters like Assam’s floods The post India needs climate adaptation cash to be an investment, not a quick fix appeared first on Climate Home News .",
-      "published": "2026-08-31T07:48:04+00:00",
+      "title": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
+      "url": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
+      "summary": "China’s carbon dioxide (CO2) emissions fell by 1% in the second quarter of 2026, as oil consumption plummeted amid the… The post Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use appeared first on Carbon Brief .",
+      "published": "2026-09-02T23:01:00+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US sailors arrive in Thailand's Pattaya after record 250 days at sea",
-      "url": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The USS Abraham Lincoln is docking close to Pattaya, known for its neon-lit nightlife, and for sex tourism.",
-      "published": "2026-09-02T10:04:28+00:00",
+      "title": "Palestinian teens killed during settler attack on West Bank village, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
+      "published": "2026-09-03T15:05:57+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-      "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-      "published": "2026-09-02T15:20:19+00:00",
+      "title": "Anthony Joshua's driver attempted overtake before fatal crash, trial hears",
+      "url": "https://www.bbc.co.uk/news/articles/cd68jv9d21zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Adeniyi Mobolaji Kayode is charged in Nigeria with offences including causing death by dangerous driving.",
+      "published": "2026-09-03T13:54:49+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Bus crash on Egypt's Red Sea coast kills 22",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
-      "published": "2026-09-02T12:07:32+00:00",
+      "title": "Liechtenstein MPs vote to legalise abortion despite threat of veto",
+      "url": "https://www.bbc.co.uk/news/articles/c9dwedep38po?at_medium=RSS&at_campaign=rss",
+      "summary": "Organisers of the citizens' initiative say they have popular support, even though the all-powerful monarch has said he will veto the legislation.",
+      "published": "2026-09-03T11:30:38+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Charlie Kirk murder suspect pleads not guilty as judge clears way for death penalty trial",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jn9q7evpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 23-year-old is charged with aggravated murder, a capital offence in Utah, and six other counts.",
-      "published": "2026-09-02T01:59:10+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "South Korea jails care home head for sexually assaulting disabled residents",
-      "url": "https://www.bbc.co.uk/news/articles/cn74vzl52l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man, surnamed Kim, was handed a 15-year prison term for abusing three residents at the facility near Seoul.",
-      "published": "2026-09-02T05:56:44+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "How a small island in Canada appeared, vanished, and was found again",
-      "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
-      "published": "2026-09-01T17:36:44+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "The final minutes before floodwater crashed through Nepal-China border",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
-      "published": "2026-09-01T06:02:27+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
-      "published": "2026-08-30T18:53:53+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Repression of political opposition surges in post-election Zambia",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168267",
+      "summary": "Following Zambia’s contested presidential and parliamentary elections almost three weeks ago, the crackdown on political opposition has intensified, raising concerns about the future of democracy in the country, according to a UN Human Rights Council-appointed expert.",
+      "published": "2026-09-02T12:00:00+00:00",
       "score": 10
     },
     {
@@ -322,57 +286,66 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Nepal floods: Mounting death toll and concern for women and girls",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168234",
-      "summary": "As rescue efforts continue in Nepal, humanitarians are focused on how the recent deadly flash floods have impacted women and girls, as well as access to healthcare.",
-      "published": "2026-09-01T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Igniting Roman’s Journey",
+      "url": "https://www.nasa.gov/image-article/igniting-romans-journey/",
+      "summary": "Now on a three-month, million-mile journey to its final orbit, NASA’s Nancy Grace Roman Space Telescope will soon reveal the universe’s darkest secrets. The mission launched at 7:26 a.m. EDT on Aug. 30 aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at the agency’s Kennedy Space Center in Florida. Roman pairs a large […]",
+      "published": "2026-09-03T14:24:23+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Selects Blue Origin as Mars Telecommunications Network Provider",
-      "url": "https://www.nasa.gov/news-release/nasa-selects-blue-origin-as-mars-telecommunications-network-provider/",
-      "summary": "NASA awarded Blue Origin a contract Tuesday to develop the agency’s Mars Telecommunications Network, a next-generation communications system that will enable reliable, high-bandwidth communications and navigation services for current and future Mars missions. The firm-fixed-price contract has a maximum potential value of approximately $700 million to deliver a high-performance Mars telecommunications orbiter to NASA no […]",
-      "published": "2026-09-01T21:08:37+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Historic Engines Take Their Place on Artemis III",
-      "url": "https://www.nasa.gov/image-article/historic-engines-take-their-place-on-artemis-iii/",
-      "summary": "On Aug. 24, technicians at NASA’s Kennedy Space Center in Florida began installing the four RS‑25 engines in the core stage of the agency’s Space Launch System (SLS) rocket that will carry the Artemis III crew into low Earth orbit in 2027. Each RS‑25 engine has a unique serial number that records its detailed flight […]",
-      "published": "2026-09-01T17:30:35+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: AI puzzles and a path to our nearest star system",
-      "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article…",
-      "published": "2026-09-02T12:10:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
-      "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
-      "published": "2026-09-01T19:10:36+00:00",
+      "title": "NASA Revamps Challenge Linking Community College Studies to Aerospace Careers",
+      "url": "https://www.nasa.gov/learning-resources/linking-community-college-studies-to-aerospace-careers/",
+      "summary": "Community college students across the U.S. now have another opportunity to discover how their education can lead to fulfilling roles at the forefront of aerospace, science, engineering, and technology. The updated NASA Community College Aerospace Scholars (NCAS) student challenge invites students to learn about the agency and its missions, engage with NASA experts, and explore […]",
+      "published": "2026-09-02T19:01:05+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-      "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-      "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here. The Business Reality In Sygnia’s 2026 CISO Survey Report, which",
-      "published": "2026-09-02T11:30:00+00:00",
+      "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
+      "published": "2026-09-03T11:58:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and without an approval prompt, and exploitation requires the repository to arrive",
+      "published": "2026-09-02T14:06:59+00:00",
+      "score": 10
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "More support needed to power Africa’s food systems with renewables, experts say",
+      "url": "https://www.climatechangenews.com/2026/09/03/more-support-needed-to-power-africas-food-systems-with-renewables-experts-say/",
+      "summary": "Renewable energy could help African food businesses boost productivity and competitiveness, but the upfront cost, fragmented markets and limited financing stand in the way The post More support needed to power Africa’s food systems with renewables, experts say appeared first on Climate Home News .",
+      "published": "2026-09-03T12:50:44+00:00",
+      "score": 10
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
+      "url": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
+      "summary": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects The post Loss and damage fund urged to hold crisis meeting on Nepal appeared first on Climate Home News .",
+      "published": "2026-09-02T16:53:55+00:00",
+      "score": 10
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot",
+      "url": "https://www.climatechangenews.com/2026/09/02/keeping-to-1-5c-of-warming-is-no-longer-possible-but-we-must-still-limit-the-overshoot/",
+      "summary": "We need a strategy for navigating the huge risks to ecosystems and societies The post Keeping to 1.5C of warming is no longer possible – but we must still limit the overshoot appeared first on Climate Home News .",
+      "published": "2026-09-02T09:15:59+00:00",
       "score": 10
     },
     {
@@ -382,15 +355,6 @@
       "url": "https://www.climatechangenews.com/2026/08/24/new-zealand-moves-to-protect-business-with-law-curtailing-climate-litigation/",
       "summary": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at the national level not in court The post New Zealand moves to protect business with law curtailing climate litigation appeared first on Climate Home News .",
       "published": "2026-08-24T12:05:01+00:00",
-      "score": 10
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "As marine heat breaks records, countries seek ocean roadmap at COP31",
-      "url": "https://www.climatechangenews.com/2026/08/20/marine-heat-records-countries-ocean-roadmap-australia-turkiye-cop31/",
-      "summary": "Africa and the EU are leading a push for COP31 to deliver a roadmap that lays out measures to protect fast-warming oceans The post As marine heat breaks records, countries seek ocean roadmap at COP31 appeared first on Climate Home News .",
-      "published": "2026-08-20T15:07:29+00:00",
       "score": 10
     },
     {
@@ -410,6 +374,42 @@
       "summary": "Every six to seven years, climate modelling groups around the world run a coordinated set of simulations that explore how… The post Explainer: The CMIP7 emissions scenarios – and how they explore future climate change appeared first on Carbon Brief .",
       "published": "2026-08-31T23:01:00+00:00",
       "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
+      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+      "published": "2026-09-03T06:01:54+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+      "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+      "summary": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
+      "published": "2026-09-03T11:35:52+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+      "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+      "published": "2026-09-03T13:52:18+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+      "published": "2026-09-03T05:00:04+00:00",
+      "score": 9
     }
   ]
 }
