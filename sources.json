@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:18:50.638554+00:00",
-  "date": "2026-09-10",
+  "generated_at": "2026-09-11T15:20:37.605689+00:00",
+  "date": "2026-09-11",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,55 +9,64 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from \"45.142.193[.]132,\" an IP address that has been linked to",
-      "published": "2026-09-10T11:41:53+00:00",
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in research published Thursday. The attack started with a crafted link and ended with the attacker able to do anything the logged-in user could do. Tencent, which owns",
+      "published": "2026-09-11T07:14:09+00:00",
+      "score": 15
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.",
+      "published": "2026-09-11T07:31:05+00:00",
       "score": 14
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Iran war won't end until after crucial November elections, says Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "published": "2026-09-10T10:43:53+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Adds Relativity Space’s Terran R to Launch Services Contract",
-      "url": "https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/",
-      "summary": "A NASA Launch Services (NLS) II contract has been awarded by the agency to Relativity Space Inc., and its Terran R launch service in accordance with the contract’s on-ramp provision. The Terran R launch service will be available to NASA’s launch services to use for future missions. The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts […]",
-      "published": "2026-09-09T20:11:58+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168311",
+      "summary": "The head of the UN's climate body has warned that treating global warming as a partisan issue is dangerously out of step with reality, as he set out a stark account of the economic toll climate change is already inflicting on Europe.",
+      "published": "2026-09-10T12:00:00+00:00",
       "score": 13
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pays for. That key is the gateway's administrator credential. Anyone who holds it can read every",
-      "published": "2026-09-10T07:12:55+00:00",
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available for customers to download. \"These are Regular Maintenance Releases (MR) that",
+      "published": "2026-09-11T06:46:18+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass",
+      "published": "2026-09-11T06:19:59+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
+      "published": "2026-09-10T17:47:38+00:00",
       "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "published": "2026-09-10T07:12:32+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "August joint-hottest month on record as climate change and El Niño drive heat",
-      "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
-      "published": "2026-09-10T02:05:47+00:00",
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "published": "2026-09-11T08:15:25+00:00",
       "score": 12
     },
     {
@@ -70,57 +79,30 @@
       "score": 12
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘This is not 1945’: General Assembly president gavels open new session aimed at restoring global trust",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168293",
-      "summary": "The UN General Assembly gavelled open its 81st session on Tuesday at UN Headquarters as the incoming president pledged to restore public trust in the institution during a time of war, humanitarian crises and intensifying climate change.",
-      "published": "2026-09-08T12:00:00+00:00",
-      "score": 12
-    },
-    {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "How 2 US, European Satellites Are Studying Hurricanes During El Niño",
-      "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/how-2-us-european-satellites-are-studying-hurricanes-during-el-nino/",
-      "summary": "Last November, NASA and its European partners launched the Sentinel-6B satellite to improve hurricane forecasts, help protect infrastructure, and benefit commercial industries, including shipping. The satellite now is flying 30 seconds behind its predecessor, Sentinel-6 Michael Freilich. Both satellites are providing precise sea level height measurements during what oceanographers expect to be a historic El […]",
-      "published": "2026-09-09T16:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing…",
-      "published": "2026-09-10T11:00:00+00:00",
+      "title": "Dust and Water in Sagittarius A*",
+      "url": "https://www.nasa.gov/image-article/dust-and-water-in-sagittarius-a/",
+      "summary": "A brilliant concentration of stars takes center stage in this Aug. 11, 2026, image taken by NASA’s James Webb Space Telescope. Webb observed IRS 3, a star near the end of its life cycle, located within this starfield. Webb’s mid-infrared data revealed the clear signature of oxygen-rich silicate dust, as well as, for the first […]",
+      "published": "2026-09-10T16:14:03+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-      "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-      "summary": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI agents. The AI company said the incident dates back to January 2026 and involved an early version of Claude Opus 4.6 that breached \"",
-      "published": "2026-09-10T07:04:01+00:00",
+      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from \"45.142.193[.]132,\" an IP address that has been linked to",
+      "published": "2026-09-10T11:41:53+00:00",
       "score": 12
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "The world doesn’t need a Paris Agreement for plastics",
-      "url": "https://www.climatechangenews.com/2026/09/09/the-world-doesnt-need-a-paris-agreement-for-plastics/",
-      "summary": "As governments prepare for new talks, ambitious countries must reject a framework that locks in the wrong response to the plastic crisis, before the crisis outpaces diplomacy The post The world doesn’t need a Paris Agreement for plastics appeared first on Climate Home News .",
-      "published": "2026-09-09T16:35:36+00:00",
-      "score": 12
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "UK aviation emissions to be 50% higher than thought by 2050, government admits",
-      "url": "https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits",
-      "summary": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green… The post UK aviation emissions to be 50% higher than thought by 2050, government admits appeared first on Carbon Brief .",
-      "published": "2026-09-10T10:42:50+00:00",
+      "title": "Türkiye says it has “final decision” at COP31 despite Australia running negotiations",
+      "url": "https://www.climatechangenews.com/2026/09/11/turkiye-says-it-has-final-decision-at-cop31-despite-australia-running-negotiations/",
+      "summary": "COP31 President-Designate Murat Kurum told journalists that, while the two countries have been working well together, Türkiye has the final say over the Antalya summit The post Türkiye says it has “final decision” at COP31 despite Australia running negotiations appeared first on Climate Home News .",
+      "published": "2026-09-11T10:52:01+00:00",
       "score": 12
     },
     {
@@ -135,37 +117,28 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-      "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
-      "published": "2026-09-10T13:23:37+00:00",
+      "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
+      "published": "2026-09-11T10:50:04+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "published": "2026-09-09T21:23:45+00:00",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "summary": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "published": "2026-09-10T16:31:30+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
-      "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
-      "published": "2026-09-09T21:21:13+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
-      "published": "2026-09-10T08:44:19+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "El Niño likely to cause wetter and warmer-than-normal autumn",
+      "url": "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "A warmer and wetter-than-normal autumn is in store for the UK, according to the latest Met Office forecasts.",
+      "published": "2026-09-11T06:27:20+00:00",
       "score": 11
     },
     {
@@ -187,66 +160,48 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "AI datacentres pose growing threat to electricity systems worldwide",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168296",
-      "summary": "Use of data-intensive technologies – in particular artificial intelligence (AI) data centres – is growing faster than electricity infrastructure can handle, the UN’s economic commission for Europe has warned, raising concerns about the future reliability and resilience of energy systems worldwide.",
-      "published": "2026-09-08T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
+      "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
+      "published": "2026-09-11T14:56:25+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s Chandra Unveils Mysterious X-Ray Objects",
-      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/",
-      "summary": "Using NASA’s Chandra X-ray Observatory, scientists have discovered a new class of objects behaving unlike any they have seen before. Astronomers suggest these newly spotted objects in other galaxies may help solve not one, but two long-standing questions in astrophysics. These mysterious objects give off unusually low-energy X-rays but intense levels of ultraviolet radiation. This […]",
-      "published": "2026-09-09T18:11:24+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Healthcare AI’s next test is integration",
-      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who…",
-      "published": "2026-09-10T08:58:01+00:00",
+      "title": "NASA Answers President’s Call to Establish United States Space Academy",
+      "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
+      "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy […]",
+      "published": "2026-09-10T20:26:52+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. A work profile is a separate space that Android typically reserves for employer apps, and what's inside it is kept separate from everything in the personal space. That",
-      "published": "2026-09-10T11:33:43+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "url": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and deploying the Scam Center Strike Force to Madagascar to help disrupt 13 scam compounds run by Chinese organized crime",
-      "published": "2026-09-09T18:26:05+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "summary": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed? For many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs, repositories, and application data to build enough context to act. As AI accelerates vulnerability discovery and research, that delay matters more",
-      "published": "2026-09-09T11:57:36+00:00",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "url": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "summary": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers it pays for. That key is the gateway's administrator credential. Anyone who holds it can read every",
+      "published": "2026-09-10T07:12:55+00:00",
       "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "Foreign minister: Nepal needs “meaningful” international support to face climate threats",
-      "url": "https://www.climatechangenews.com/2026/09/09/foreign-minister-nepal-meaningful-international-support-climate-flood-glacier/",
-      "summary": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger global solidarity\" The post Foreign minister: Nepal needs “meaningful” international support to face climate threats appeared first on Climate Home News .",
-      "published": "2026-09-09T21:00:00+00:00",
+      "title": "Made in Nigeria: The race to build an African solar industry from scratch",
+      "url": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
+      "summary": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy The post Made in Nigeria: The race to build an African solar industry from scratch appeared first on Climate Home News .",
+      "published": "2026-09-11T13:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "With multilateralism in crisis, what’s next for climate philanthropy?",
+      "url": "https://www.climatechangenews.com/2026/09/11/with-multilateralism-in-crisis-whats-next-for-climate-philanthropy/",
+      "summary": "Climate philanthropy must do more than fill the gaps left by retreating governments and find new ways to support climate action in a fragmented global landscape The post With multilateralism in crisis, what’s next for climate philanthropy? appeared first on Climate Home News .",
+      "published": "2026-09-11T11:46:17+00:00",
       "score": 11
     },
     {
@@ -259,138 +214,165 @@
       "score": 11
     },
     {
-      "source": "Climate Home News",
+      "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "Industry and NGOs lobby to weaken UN carbon credit rules in “coordinated” push",
-      "url": "https://www.climatechangenews.com/2026/09/08/industry-and-ngos-lobby-to-weaken-un-carbon-credit-rules-in-coordinated-push/",
-      "summary": "In copycat submissions and a private briefing to government officials, the groups have opposed a proposal to tighten safeguards for emissions offsets The post Industry and NGOs lobby to weaken UN carbon credit rules in “coordinated” push appeared first on Climate Home News .",
-      "published": "2026-09-08T12:56:26+00:00",
+      "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
+      "url": "https://www.carbonbrief.org/factcheck-reform-uks-45-false-or-misleading-claims-about-climate-and-energy",
+      "summary": "Reform UK, led by Nigel Farage, has emerged as a major force in UK politics in recent years – pushing… The post Factcheck: Reform UK’s 45 false or misleading claims about climate and energy appeared first on Carbon Brief .",
+      "published": "2026-09-11T10:12:49+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "url": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
-      "published": "2026-09-09T19:09:13+00:00",
+      "title": "Six Nigerians accused of romance scams to be extradited to the US",
+      "url": "https://www.bbc.co.uk/news/articles/cj3dy704l71o?at_medium=RSS&at_campaign=rss",
+      "summary": "The six will face wire fraud and money-laundry charges in the US, South African police say.",
+      "published": "2026-09-11T09:54:51+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Man loses case to claw back $369,000 he spent on lavish gifts for ex-girlfriend",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxgzynk7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Singapore's High Court rules in the woman's favour, with the judge saying the man \"willingly\" showered her with gifts, even before they got together.",
+      "published": "2026-09-11T07:59:26+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "August joint hottest month on record globally",
-      "url": "https://www.bbc.co.uk/news/videos/ckgw3ngep09o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Weather Presenter Simon King explains the figures.",
-      "published": "2026-09-10T12:04:49+00:00",
+      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The National Trust warns species are on the brink of extinction in a valley of Eryri - Snowdonia - National Park.",
+      "published": "2026-09-11T05:00:16+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "August joint-hottest month on record as climate change and El Niño drive heat",
+      "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+      "published": "2026-09-10T02:05:47+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Human cost of violence in South Sudan ‘continues to grow’",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168307",
-      "summary": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan’s political transition following their latest fact-finding mission to the world’s youngest nation – their 14th in a decade.",
+      "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168312",
+      "summary": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrator Alexander De Croo told reporters via video link from Kyiv on Thursday.",
+      "published": "2026-09-10T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168309",
+      "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
+      "published": "2026-09-10T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+      "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
+      "summary": "NASA is bringing artificial intelligence to the study of the Moon, helping researchers transform how they analyze the Moon’s surface. In an ongoing collaboration with IBM Research and several academic institutions, NASA has launched the NASA-IBM Lunar Foundation Model, among the first open-source AI models built specifically for lunar science. The model, trained primarily on […]",
       "published": "2026-09-10T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-      "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No…",
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+      "summary": "A San Francisco nonprofit has published a detailed road map of the experiments, studies, and infrastructure that it says would be needed to make informed decisions about the use of solar geoengineering, MIT Technology Review can reveal. Scientists have now spent half a century exploring the possibility that we could counteract climate change by releasing…",
       "published": "2026-09-10T11:00:00+00:00",
       "score": 10
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "Can the US battery market untangle from China?",
-      "url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-      "summary": "The US is hitting records for the rapid growth of its energy storage market. That’ll go a long way to shoring up the grid, increasing reliability and also cutting emissions, since batteries can help store energy from intermittent renewables like wind and solar. Crucially, this is all happening with the help of cheap Chinese batteries,…",
-      "published": "2026-09-10T10:00:00+00:00",
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanner report, but if it sits behind strong segmentation, identity controls, and other defenses that prevent an attacker",
+      "published": "2026-09-11T11:30:00+00:00",
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
-      "url": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
-      "summary": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user feedback for new applications or features they may be working on before their",
-      "published": "2026-09-10T14:36:47+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "summary": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described. One flaw affects Check Point's Security Gateways, its firewall appliances. The other affects those gateways and the Security",
-      "published": "2026-09-10T11:45:05+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the patches by September 12, 2026. The vulnerabilities are listed below - CVE-2026-20079 (CVSS score: 10.0) - An authentication",
-      "published": "2026-09-10T10:36:46+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-      "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
-      "published": "2026-09-09T16:34:05+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-      "url": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-      "summary": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers like Lumma Stealer or Vidar are equipped to harvest a wide range of data from compromised systems. This can include credential, session tokens, and API",
-      "published": "2026-09-09T14:23:55+00:00",
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "The world doesn’t need a Paris Agreement for plastics",
+      "url": "https://www.climatechangenews.com/2026/09/09/the-world-doesnt-need-a-paris-agreement-for-plastics/",
+      "summary": "As governments prepare for new talks, ambitious countries must reject a framework that locks in the wrong response to the plastic crisis, before the crisis outpaces diplomacy The post The world doesn’t need a Paris Agreement for plastics appeared first on Climate Home News .",
+      "published": "2026-09-09T16:35:36+00:00",
       "score": 10
     },
     {
       "source": "Carbon Brief",
       "category": "Umwelt",
-      "title": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
-      "url": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
-      "summary": "Extreme heat is one of the deadliest climate hazards, but no two heatwaves are the same. Heat extremes that happen… The post Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring appeared first on Carbon Brief .",
-      "published": "2026-09-10T13:00:00+00:00",
+      "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+      "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+      "summary": "Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the… The post El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century appeared first on Carbon Brief .",
+      "published": "2026-09-11T14:06:49+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "UK aviation emissions to be 50% higher than thought by 2050, government admits",
+      "url": "https://www.carbonbrief.org/uk-aviation-emissions-to-be-50-higher-than-thought-by-2050-government-admits",
+      "summary": "The UK government has slashed its hopes for electric planes and “sustainable aviation fuels” (SAFs), ahead of giving the green… The post UK aviation emissions to be 50% higher than thought by 2050, government admits appeared first on Carbon Brief .",
+      "published": "2026-09-10T10:42:50+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-      "published": "2026-09-10T06:30:19+00:00",
+      "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+      "published": "2026-09-11T05:41:54+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Twenty-five dead after fire on cargo ship in eastern China",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
-      "published": "2026-09-10T12:24:54+00:00",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "published": "2026-09-11T14:46:28+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-      "published": "2026-09-09T16:30:28+00:00",
+      "title": "Princess Diana's 'revenge dress' goes up for auction",
+      "url": "https://www.bbc.co.uk/news/articles/c0lrk7d7j0no?at_medium=RSS&at_campaign=rss",
+      "summary": "Auction house Sotheby's expects the dress to sell for up to $300,000 (£220,000) when it goes under the hammer on 9 December.",
+      "published": "2026-09-11T12:04:46+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Man jailed after threatening to behead son's teacher in French village",
+      "url": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The father had threatened to kill a female primary school teacher for disciplining his son in class.",
+      "published": "2026-09-11T06:28:42+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Sheen says he was snubbed by FM over pollution claims",
+      "url": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss",
+      "summary": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
+      "published": "2026-09-11T10:29:19+00:00",
       "score": 9
     },
     {
@@ -405,10 +387,28 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Ships and seafarers increasingly caught in the crossfire of unrelated wars",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168297",
-      "summary": "The global shipping industry is facing a \"genuinely unprecedented\" convergence of maritime crises, with vessels and seafarers increasingly used as “leverage” in conflicts that have nothing to do with them.",
-      "published": "2026-09-08T12:00:00+00:00",
+      "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "summary": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
+      "published": "2026-09-10T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Monterrey Amid Mountains",
+      "url": "https://science.nasa.gov/earth/earth-observatory/monterrey-amid-mountains/",
+      "summary": "Mexico’s second-largest metropolitan area borders on folded rock layers of the Sierra Madre Oriental.",
+      "published": "2026-09-11T04:01:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Invites Media to Djibouti Artemis Accords Signing Ceremony",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-djibouti-artemis-accords-signing-ceremony/",
+      "summary": "The Republic of Djibouti will sign the Artemis Accords during a ceremony at 11 a.m. EDT, Monday, Sept. 14, at NASA Headquarters in Washington, becoming the 72nd country signatory. NASA Deputy Administrator Matt Anderson will host Ambassador of Djibouti to the United States Mohamed Siad Douale for the ceremony, together with U.S. State Department Assistant […]",
+      "published": "2026-09-10T21:11:32+00:00",
       "score": 9
     }
   ]
