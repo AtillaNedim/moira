@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T15:09:17.357092+00:00",
-  "date": "2026-09-13",
+  "generated_at": "2026-09-14T17:06:45.807451+00:00",
+  "date": "2026-09-14",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,29 +9,11 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "url": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "published": "2026-09-12T20:27:25+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
-      "url": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
-      "published": "2026-09-13T06:12:26+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
-      "published": "2026-09-13T10:11:48+00:00",
-      "score": 13
+      "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+      "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+      "published": "2026-09-14T12:18:13+00:00",
+      "score": 14
     },
     {
       "source": "The Hacker News",
@@ -43,48 +25,12 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial",
-      "published": "2026-09-11T14:29:47+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "summary": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in research published Thursday. The attack started with a crafted link and ended with the attacker able to do anything the logged-in user could do. Tencent, which owns",
-      "published": "2026-09-11T07:14:09+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "published": "2026-09-13T14:53:40+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Turkish police detain dozens in raids on gay bars and homes of LGBTQ+ activists",
-      "url": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
-      "summary": "Human rights groups in Turkey have accused the government of using a family- values campaign to target the LGBTQ+ community.",
-      "published": "2026-09-13T14:25:56+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russians seek answers over hundreds missing after Ukraine's 2024 incursion",
-      "url": "https://www.bbc.co.uk/news/articles/c62ene9kr71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say more than 300 Russians remain missing after the 2024 Kursk offensive, but no-one really knows the true figure.",
-      "published": "2026-09-12T23:51:05+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "South Sudan: UNICEF reaches communities cut off by conflict in Jonglei state",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168324",
+      "summary": "The UN Children’s Fund (UNICEF) and partners have delivered lifesaving assistance to families in conflict-affected communities in South Sudan’s Jonglei state, many of whom had gone months without humanitarian support.",
+      "published": "2026-09-14T12:00:00+00:00",
       "score": 12
     },
     {
@@ -97,21 +43,39 @@
       "score": 12
     },
     {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in…",
+      "published": "2026-09-14T16:00:00+00:00",
+      "score": 12
+    },
+    {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.",
-      "published": "2026-09-11T07:31:05+00:00",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "url": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "summary": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually deserve their action. In the first half of 2026, a whopping 35,853 CVEs were published, roughly 49% more than in the",
+      "published": "2026-09-14T11:58:00+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "published": "2026-09-12T21:16:47+00:00",
+      "title": "China criticises idea it is in 'malicious competition' over AI",
+      "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+      "published": "2026-09-14T11:31:39+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
+      "url": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
+      "published": "2026-09-13T06:12:26+00:00",
       "score": 11
     },
     {
@@ -124,75 +88,111 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as follows - CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
-      "published": "2026-09-12T15:54:45+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
+      "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive and rigorous training program since the agency introduced them to the public on Sept. 22, 2025, from NASA’s Johnson Space Center […]",
+      "published": "2026-09-14T15:00:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
-      "published": "2026-09-11T16:15:29+00:00",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems, weak defaults, and simple paths that should have been harder to abuse. A few of",
+      "published": "2026-09-14T14:40:34+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight",
-      "published": "2026-09-11T14:10:20+00:00",
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
+      "published": "2026-09-13T10:11:48+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-      "summary": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development company said PaperCut NG/MF versions 26.0.5, 25.0.13 and 24.1.10 are now available for customers to download. \"These are Regular Maintenance Releases (MR) that",
-      "published": "2026-09-11T06:46:18+00:00",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial",
+      "published": "2026-09-11T14:29:47+00:00",
+      "score": 11
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Revealed: England’s June 2026 heatwave sparked record demand for ambulances",
+      "url": "https://www.carbonbrief.org/revealed-englands-june-2026-heatwave-sparked-record-demand-for-ambulances",
+      "summary": "All the ambulance services in England experienced some of their busiest-ever days during this summer’s record-breaking June heatwave, according to… The post Revealed: England’s June 2026 heatwave sparked record demand for ambulances appeared first on Carbon Brief .",
+      "published": "2026-09-14T07:00:00+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Afghan woman deported from US in first use of 'alien terrorist' court",
-      "url": "https://www.bbc.co.uk/news/articles/c3eqpd9zgl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The legal US resident was never charged with a crime, but was deported due to her family links to terrorism.",
-      "published": "2026-09-12T21:19:11+00:00",
+      "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+      "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+      "published": "2026-09-14T08:36:09+00:00",
       "score": 10
     },
     {
-      "source": "BBC Science",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Culiacán has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "published": "2026-09-14T11:28:36+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Hyrox apologises for allowing race to continue after athlete soils herself",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z5y37p90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Some raised concerns around hygiene while others praised the competitor's resolve to finish the race and push through adversity.",
+      "published": "2026-09-14T11:20:07+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump says he will remove all Irish whiskey tariffs as he ends two-day visit",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Whiskey distilled in the Republic of Ireland faces the standard 15% tariff which applies to EU goods entering the US.",
+      "published": "2026-09-13T19:34:36+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
-      "url": "https://www.bbc.co.uk/news/articles/c20917w25n4o?at_medium=RSS&at_campaign=rss",
-      "summary": "A curious online row over this summer's heatwaves points to a wider - and worrying - shift in climate science.",
-      "published": "2026-09-08T23:11:52+00:00",
+      "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/",
+      "summary": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first set of practical principles aimed at enhancing transparency, safety, and coordination among nations as they explore the Moon, Mars, and beyond. “Djibouti joins […]",
+      "published": "2026-09-14T16:46:07+00:00",
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168318",
-      "summary": "The Security Council met to mark 25 years since the 9/11 attacks with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers highlighted militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning.",
-      "published": "2026-09-11T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Roundtables: could AI really kill us all? Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is…",
+      "published": "2026-09-14T12:10:00+00:00",
       "score": 10
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Türkiye says it has “final decision” at COP31 despite Australia running negotiations",
-      "url": "https://www.climatechangenews.com/2026/09/11/turkiye-says-it-has-final-decision-at-cop31-despite-australia-running-negotiations/",
-      "summary": "COP31 President-Designate Murat Kurum told journalists that, while the two countries have been working well together, Türkiye has the final say over the Antalya summit The post Türkiye says it has “final decision” at COP31 despite Australia running negotiations appeared first on Climate Home News .",
-      "published": "2026-09-11T10:52:01+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "summary": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and has the following identifiers on the Google Chrome Web Store and Mozilla Firefox Add-Ons store - Chrome -",
+      "published": "2026-09-14T07:24:39+00:00",
       "score": 10
     },
     {
@@ -207,73 +207,100 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Iran war reshapes Brics ties but also exposes divisions",
-      "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
-      "published": "2026-09-13T11:23:42+00:00",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "published": "2026-09-14T14:08:12+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "url": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.",
-      "published": "2026-09-12T21:25:28+00:00",
+      "title": "Africa's richest man launches continent's biggest share sale",
+      "url": "https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.",
+      "published": "2026-09-14T16:23:42+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+      "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+      "published": "2026-09-14T11:35:08+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "El Niño likely to cause wetter and warmer-than-normal autumn",
-      "url": "https://www.bbc.co.uk/weather/articles/cqxv4wj8jxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "A warmer and wetter-than-normal autumn is in store for the UK, according to the latest Met Office forecasts.",
-      "published": "2026-09-11T06:27:20+00:00",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "url": "https://www.bbc.co.uk/news/videos/cqdj48mpw8mro?at_medium=RSS&at_campaign=rss",
+      "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "published": "2026-09-14T16:53:26+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "published": "2026-09-14T15:01:28+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+      "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+      "summary": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+      "published": "2026-09-13T22:07:22+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168313",
-      "summary": "Terrorist groups are recruiting, raising money and even planning operations through propaganda that is now “embedded” in every stage of their work, a new UN report warns – and governments are struggling to keep pace.",
-      "published": "2026-09-11T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Flood-ravaged Nepal calls for climate justice",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168305",
-      "summary": "Nepal’s call for financial compensation following recent deadly floods underlines the need to help countries that contribute the least to climate change – but are increasingly grappling with its most lethal consequences, the top UN official in the country said on Wednesday.",
-      "published": "2026-09-09T12:00:00+00:00",
+      "title": "Guterres: Old global order must change as power shifts to emerging economies",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168323",
+      "summary": "UN Secretary-General António Guterres told leaders of a bloc of major emerging economies in New Delhi on Sunday that a more balanced global order requires an overhaul of the institutions built after the Second World War, including the UN Security Council.",
+      "published": "2026-09-13T12:00:00+00:00",
       "score": 9
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s SpaceX Crew-12 to Discuss Station Mission, Upcoming Return",
-      "url": "https://www.nasa.gov/news-release/nasas-spacex-crew-12-to-discuss-station-mission-upcoming-return/",
-      "summary": "Media are invited to hear from NASA’s SpaceX Crew-12 astronauts during a news conference beginning at 2:45 p.m. EDT, Wednesday, Sept. 16, from the International Space Station. NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev will discuss their upcoming return to Earth. Learn where […]",
-      "published": "2026-09-11T15:05:20+00:00",
+      "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+      "url": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
+      "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, Pennsylvania. NASA’s engagement at NFL games is part of the agency’s Inspiration Tour, aimed at strengthening connections between NASA and its […]",
+      "published": "2026-09-14T16:00:11+00:00",
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Boosts Open Science, Data Sharing with Artemis Accords",
-      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-boosts-open-science-data-sharing-with-artemis-accords/",
-      "summary": "The science from every Moon rock sample, lunar dataset, and discovery produced through NASA’s Artemis program will be shared by the agency with the global scientific community. That commitment is upheld by all 71 countries that have signed the Artemis Accords, a set of principles for safe and transparent civil space exploration. NASA put those […]",
-      "published": "2026-09-11T14:56:25+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Donated livers can be made biologically younger",
+      "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that has been growing…",
+      "published": "2026-09-14T16:11:42+00:00",
       "score": 9
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Answers President’s Call to Establish United States Space Academy",
-      "url": "https://www.nasa.gov/news-release/nasa-answers-presidents-call-to-establish-united-states-space-academy/",
-      "summary": "Less than two weeks after an Executive Order was signed to create the first United States Space Academy, NASA-led work is in full swing to make the academy a reality and shape the future of America’s aerospace workforce and leadership. NASA Administrator Jared Isaacman chaired the first Presidential Commission on the United States Space Academy […]",
-      "published": "2026-09-10T20:26:52+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates ship continuously after that,\" David Perez, WordPress Official Plugin",
+      "published": "2026-09-14T16:00:04+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as follows - CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
+      "published": "2026-09-12T15:54:45+00:00",
       "score": 9
     },
     {
@@ -288,28 +315,19 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
-      "published": "2026-09-11T16:30:18+00:00",
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
+      "published": "2026-09-11T16:15:29+00:00",
       "score": 9
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Made in Nigeria: The race to build an African solar industry from scratch",
-      "url": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
-      "summary": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy The post Made in Nigeria: The race to build an African solar industry from scratch appeared first on Climate Home News .",
-      "published": "2026-09-11T13:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "With multilateralism in crisis, what’s next for climate philanthropy?",
-      "url": "https://www.climatechangenews.com/2026/09/11/with-multilateralism-in-crisis-whats-next-for-climate-philanthropy/",
-      "summary": "Climate philanthropy must do more than fill the gaps left by retreating governments and find new ways to support climate action in a fragmented global landscape The post With multilateralism in crisis, what’s next for climate philanthropy? appeared first on Climate Home News .",
-      "published": "2026-09-11T11:46:17+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight",
+      "published": "2026-09-11T14:10:20+00:00",
       "score": 9
     },
     {
@@ -331,57 +349,30 @@
       "score": 9
     },
     {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Factcheck: Reform UK’s 45 false or misleading claims about climate and energy",
-      "url": "https://www.carbonbrief.org/factcheck-reform-uks-45-false-or-misleading-claims-about-climate-and-energy",
-      "summary": "Reform UK, led by Nigel Farage, has emerged as a major force in UK politics in recent years – pushing… The post Factcheck: Reform UK’s 45 false or misleading claims about climate and energy appeared first on Carbon Brief .",
-      "published": "2026-09-11T10:12:49+00:00",
-      "score": 9
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-      "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
-      "published": "2026-09-13T13:30:38+00:00",
+      "title": "Body of missing runner found in South Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cxyvzggzd5jgo?at_medium=RSS&at_campaign=rss",
+      "summary": "A nationwide appeal was launched after Elizabeth Moselakgomo went missing last week. Four other women's bodies have been found nearby.",
+      "published": "2026-09-14T14:58:48+00:00",
       "score": 8
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "They lost their jobs after posting about Charlie Kirk, but some have no regrets",
-      "url": "https://www.bbc.co.uk/news/articles/cj06jgl9qzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some people fired in the wake of Kirk's assassination have won big settlements from employers, others have had to start over from scratch.",
-      "published": "2026-09-13T00:49:08+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Legendary Canadian boxer George Chuvalo dies aged 89",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zv8v1z7zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The heavyweight champion took on the likes of Muhammad Ali and Joe Frazier, and was known for never once getting knocked out or knocked down.",
-      "published": "2026-09-13T14:01:44+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Fire at nursing home in Chile kills 16 residents",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ten people were evacuated from the home in Araucanía region in central Chile.",
-      "published": "2026-09-12T19:36:50+00:00",
+      "title": "Malaysian boy acquitted for murder of schoolgirl on grounds of insanity",
+      "url": "https://www.bbc.co.uk/news/articles/ce87qzrz7p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The killing of the 16-year-old nearly a year ago had shocked Malaysia and sparked debate about social media.",
+      "published": "2026-09-14T08:58:27+00:00",
       "score": 8
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Five night sky events to look out for this autumn",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
-      "published": "2026-09-12T23:53:07+00:00",
+      "title": "Meteor showers and supermoons: Autumn's night sky highlights",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meteor showers and supermoons: night sky phenomenons you won't want to miss",
+      "published": "2026-09-14T14:42:29+00:00",
       "score": 8
     },
     {
@@ -403,12 +394,21 @@
       "score": 8
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Species 'at risk of vanishing' from area of Wales' largest national park",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy04v7rkjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The National Trust warns species are on the brink of extinction in a valley of Eryri - Snowdonia - National Park.",
-      "published": "2026-09-11T05:00:16+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "IAEA chief underscores commitment to nuclear safety and verification",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168325",
+      "summary": "The Director General of the UN nuclear watchdog, IAEA, opened its 70th General Conference on Monday in Vienna with a message full of optimism, stressing that despite the many difficulties and tensions the world is witnessing a “common spirit of dedication” which still guides their work.",
+      "published": "2026-09-14T12:00:00+00:00",
+      "score": 8
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168320",
+      "summary": "Ola Ishtiwi sits with her children in front of the remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from a series of painted cement blocks Israel has placed to mark what has become known as the “yellow line”.",
+      "published": "2026-09-12T12:00:00+00:00",
       "score": 8
     }
   ]
