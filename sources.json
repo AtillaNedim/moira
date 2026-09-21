@@ -1,11 +1,56 @@
 {
-  "generated_at": "2026-09-20T14:58:12.051714+00:00",
-  "date": "2026-09-20",
+  "generated_at": "2026-09-21T17:15:58.811773+00:00",
+  "date": "2026-09-21",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+      "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+      "summary": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
+      "published": "2026-09-21T00:05:11+00:00",
+      "score": 14
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "COP31 presidency announces AI pledge as UN climate chief says Big Tech ‘on thin ice’",
+      "url": "https://www.climatechangenews.com/2026/09/21/cop31-presidency-announces-ai-pledge-as-un-climate-chief-says-big-tech-on-thin-ice/",
+      "summary": "Turkish minister Murat Kurum said AI companies should be transparent about their energy use and power their data centres with clean energy The post COP31 presidency announces AI pledge as UN climate chief says Big Tech ‘on thin ice’ appeared first on Climate Home News .",
+      "published": "2026-09-21T13:54:48+00:00",
+      "score": 14
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "summary": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for…",
+      "published": "2026-09-21T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary",
+      "published": "2026-09-21T14:15:40+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
+      "published": "2026-09-21T06:06:44+00:00",
+      "score": 13
+    },
     {
       "source": "The Hacker News",
       "category": "Technik",
@@ -13,7 +58,52 @@
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
       "published": "2026-09-19T18:36:53+00:00",
-      "score": 15
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "summary": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+      "published": "2026-09-21T15:58:53+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A report says the attacks, of which there have been at least 68, were not self-defence.",
+      "published": "2026-09-21T12:08:56+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Why climate action now comes down to speed, finance and cooperation",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168382",
+      "summary": "Temporarily exceeding the 1.5°C global warming goal set in Paris is widely considered inevitable. The challenge now is to keep that overshoot as small and short as possible by cutting emissions faster, unlocking finance and strengthening international cooperation.",
+      "published": "2026-09-21T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Google hit with €403m fine by Irish data watchdog over GDPR violations",
+      "url": "https://www.bbc.co.uk/news/articles/ck1e52v16ngxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The penalty follows an inquiry launched into the tech giant six years ago, following complaints from several European consumer rights organisations.",
+      "published": "2026-09-21T12:30:54+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Which emergency foods should you stock up on?",
+      "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+      "published": "2026-09-21T05:22:09+00:00",
+      "score": 11
     },
     {
       "source": "BBC Science",
@@ -22,78 +112,60 @@
       "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
       "summary": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
       "published": "2026-09-19T21:01:56+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
-      "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
-      "published": "2026-09-20T13:50:51+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
-      "published": "2026-09-18T16:56:19+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-      "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
-      "published": "2026-09-20T10:45:39+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "published": "2026-09-19T23:49:26+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-      "summary": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-      "published": "2026-09-19T23:01:38+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-      "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-      "published": "2026-09-19T23:00:27+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Google's Gemini AI hacked three companies in security test",
-      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
-      "published": "2026-09-19T13:39:32+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
-      "summary": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
-      "published": "2026-09-18T12:00:00+00:00",
+      "title": "The right to development: Why equity, not charity, is a human right",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168367",
+      "summary": "Compare two children born in the same year: one in a country with functioning schools, social services, fair elections and a dynamic economy and the other in a nation devastated by poverty, conflict, climate change or corruption.",
+      "published": "2026-09-20T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Widely Attended Gatherings (WAGs) Determinations",
+      "url": "https://www.nasa.gov/organizations/nasa-ethics-advice-for-widely-attended-gatherings-wags/",
+      "summary": "2026 NAHF Enshrinement Ceremony 9.24.26.pdf An Evening with the Stars EWTS 9.16.26.pdf Maryland Space Business Roundtable 9.9.26 Virginia Aerospace Business Association (VASBA) Gala 9.24.26.pdf Roman Space Telescope Event 8.28.26.pdf The Planetary Society_Celebrating Viking 7.20.26.pdf Farnborough Airshow Events 7.18-19.26 University of Maryland Acres 7.14.26.pdf Smithsonian National Air and Space Museum_Blue Origin 7.14.26.pdf Space Business Roundtable_MSBR 7.22.2026.pdf […]",
+      "published": "2026-09-21T12:59:26+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in April 2024, the day before…",
+      "published": "2026-09-21T12:20:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera, a collaboration between MIT Technology Review and Times of San Diego. Journalists in both newsrooms spent the past…",
+      "published": "2026-09-21T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not",
+      "published": "2026-09-21T14:24:13+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
+      "published": "2026-09-21T08:39:38+00:00",
       "score": 11
     },
     {
@@ -115,15 +187,6 @@
       "score": 11
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
-      "published": "2026-09-18T12:47:04+00:00",
-      "score": 11
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
       "title": "International trade linked to 20% of global emissions – but imports ignored",
@@ -135,10 +198,19 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Cultural treasures are being destroyed worldwide - so why is no-one being punished?",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy1q2k2z0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A cauldron of conflicts is bubbling across the world, with cultural monuments being destroyed. These people are fighting against it.",
-      "published": "2026-09-19T23:18:18+00:00",
+      "title": "Seven Ethiopian rebel groups form new alliance",
+      "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
+      "summary": "The groups have been active in Ethiopia's most populous regions for years and now say they will work together.",
+      "published": "2026-09-21T17:02:47+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Airlines criticise air traffic control as second glitch causes more disruption in UK",
+      "url": "https://www.bbc.co.uk/news/articles/cqp80p78mxx5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Airlines are angry about the delays, with EasyJet saying the latest incident \"once again calls into question the resilience\" of the system.",
+      "published": "2026-09-21T16:39:16+00:00",
       "score": 10
     },
     {
@@ -153,10 +225,19 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "UN Crime Congress: Technology is transforming crime – and the response to it",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168370",
-      "summary": "Sitting in her Vienna office ahead of a pivotal UN gathering in Abu Dhabi, Monica Juma is focused on a simple reality: crime has evolved faster than many of the institutions designed to combat it.",
-      "published": "2026-09-18T12:00:00+00:00",
+      "title": "Ebola vaccine trial begins in DR Congo",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168381",
+      "summary": "An Ebola vaccine trial is underway in the Democratic Republic of the Congo (DRC), involving frontline health workers and others involved in the response.",
+      "published": "2026-09-21T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Johnson Space Center Sparks Curiosity at Houston’s 33rd Annual Japan Festival",
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/johnson-space-center-sparks-curiosity-at-houstons-33rd-annual-japan-festival/",
+      "summary": "On Sept. 12-13, NASA’s Johnson Space Center employees brought the excitement and wonder of space exploration to Houston’s Japan Festival at Hermann Park. For more than 30 years, the festival has immersed guests in traditional Japanese culture through food, dance, martial arts, music, and more, Johnson has supported the festival as an exhibitor for the […]",
+      "published": "2026-09-21T11:11:42+00:00",
       "score": 10
     },
     {
@@ -169,12 +250,21 @@
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-      "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
-      "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida […]",
-      "published": "2026-09-17T20:37:09+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed…",
+      "published": "2026-09-21T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "summary": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying…",
+      "published": "2026-09-21T12:00:00+00:00",
       "score": 10
     },
     {
@@ -196,39 +286,75 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
-      "summary": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not affected. But the exploit code is now public, and any machine still running an older kernel should be updated. The flaws",
-      "published": "2026-09-18T18:02:24+00:00",
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Why the global electrification agenda misses the point on Africa’s energy crisis",
+      "url": "https://www.climatechangenews.com/2026/09/21/why-the-global-electrification-agenda-misses-the-point-on-africas-energy-crisis/",
+      "summary": "With hundreds of millions of Africans still lacking electricity access, global electrification goals must reflect the continent’s realities and deliver development alongside connections The post Why the global electrification agenda misses the point on Africa’s energy crisis appeared first on Climate Home News .",
+      "published": "2026-09-21T08:53:49+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-      "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-      "published": "2026-09-20T04:49:11+00:00",
+      "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
+      "published": "2026-09-21T14:14:16+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "German elections under way which could decide fate of Chancellor Merz",
-      "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
-      "published": "2026-09-20T07:57:32+00:00",
+      "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+      "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+      "summary": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
+      "published": "2026-09-21T16:54:56+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Journalists denied White House access after Trump banned some media outlets",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-      "summary": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
-      "published": "2026-09-19T19:13:49+00:00",
+      "title": "First UK charges brought over 1994 Rwanda genocide",
+      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
+      "published": "2026-09-21T17:01:28+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+      "summary": "The country's meteorological agency had warned of an \"imminent threat to life,\" but this has now been downgraded in most areas.",
+      "published": "2026-09-21T14:06:12+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Xhaka under investigation over Covid-19 certificate",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Switzerland captain Granit Xhaka is being investigated over an issue with his Covid-19 vaccination certificate.",
+      "published": "2026-09-21T15:24:51+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Two charged with woman's murder as South Africa police investigate eight other body finds",
+      "url": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
+      "published": "2026-09-21T17:06:16+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN panel calls for stronger safeguards as AI agents advance",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168380",
+      "summary": "The world's first scientific body on Artificial Intelligence called on Monday for AI safeguards to be adapted as current firewalls are “unravelling”.",
+      "published": "2026-09-21T12:00:00+00:00",
       "score": 9
     },
     {
@@ -236,34 +362,16 @@
       "category": "Geopolitik",
       "title": "Why the UN General Assembly still matters",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168361",
-      "summary": "More than eight decades on, the UN General Assembly remains the place where the UN’s 193 Member States come together to debate the defining challenges of the day, from war and peace – to development, climate change and human rights.",
+      "summary": "More than eight decades on from its founding, the UN General Assembly remains the place where the UN’s 193 Member States come together to debate the defining challenges of the day, from war and peace – to development, climate change and human rights.",
       "published": "2026-09-19T12:00:00+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168375",
-      "summary": "Khalilur Rahman took the gavel as President of the UN General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served – in one capacity or another – for 35 years.",
-      "published": "2026-09-18T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Nepal floods: ‘Apocalyptic’ destruction signals wider climate threat across Himalayas",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168365",
-      "summary": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change.",
-      "published": "2026-09-18T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168364",
-      "summary": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
+      "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
+      "summary": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
       "published": "2026-09-18T12:00:00+00:00",
       "score": 9
     },
@@ -286,24 +394,6 @@
       "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
-      "published": "2026-09-18T15:24:16+00:00",
-      "score": 9
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Fossil fuel expansion threatens COP31 hosts’ credibility, experts warn",
-      "url": "https://www.climatechangenews.com/2026/09/18/fossil-fuel-expansion-threatens-cop31-hosts-credibility-experts-warn/",
-      "summary": "Türkiye and Australia are pushing coal, oil and gas at home with no national timeline for their own fossil fuel phase-out The post Fossil fuel expansion threatens COP31 hosts’ credibility, experts warn appeared first on Climate Home News .",
-      "published": "2026-09-18T12:54:41+00:00",
-      "score": 9
-    },
-    {
       "source": "Climate Home News",
       "category": "Umwelt",
       "title": "Nepal flood destruction shows “limits to adaptation”, scientists say",
@@ -320,96 +410,6 @@
       "summary": "On the morning of 26 August, flash floods surged through a Himalayan border region of Nepal and the Chinese region… The post Q&A: What can – and cannot – be said about global warming’s role in the 2026 Himalayan floods appeared first on Carbon Brief .",
       "published": "2026-09-08T16:03:25+00:00",
       "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
-      "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
-      "published": "2026-09-18T22:03:40+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
-      "url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
-      "summary": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
-      "published": "2026-09-18T12:01:08+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Part-human part-mouse brain developed in science breakthrough",
-      "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
-      "published": "2026-09-16T15:53:27+00:00",
-      "score": 8
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
-      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
-      "published": "2026-09-16T00:05:51+00:00",
-      "score": 8
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Less than 4 years from development goals deadline, progress shows what’s possible",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168371",
-      "summary": "For Benin, making progress on the UN’s Sustainable Development Goals (SDGs) has meant finding new ways to finance development.",
-      "published": "2026-09-18T12:00:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
-      "url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/",
-      "summary": "APOD Science APOD APOD: 2026 September 20 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Analemma over the […]",
-      "published": "2026-09-20T04:05:00+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-      "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-      "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-      "published": "2026-09-18T16:02:31+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Hubble Spots an Out-of-Sync Galaxy",
-      "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/",
-      "summary": "Though the spiral galaxy in this new image from the NASA/ESA Hubble Space Telescope seems serene, it hides a chaotic secret. This galaxy is NGC 4698, and it lies about 55 million light-years away in the constellation Virgo. It’s one of over a thousand galaxies in the Virgo Cluster, the nearest large cluster of galaxies bound together by […]",
-      "published": "2026-09-18T13:38:12+00:00",
-      "score": 8
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/",
-      "summary": "Media accreditation is open for the next cargo launch that will deliver NASA science investigations, supplies, and equipment to the International Space Station. The 35th SpaceX commercial resupply services mission to the orbital laboratory for NASA will lift off on a Falcon 9 rocket. NASA and SpaceX are targeting no earlier than October to launch […]",
-      "published": "2026-09-17T18:32:30+00:00",
-      "score": 8
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question many seem to be asking right now: could…",
-      "published": "2026-09-18T12:10:00+00:00",
-      "score": 8
     }
   ]
 }
