@@ -1,11 +1,92 @@
 {
-  "generated_at": "2026-09-25T16:00:10.052105+00:00",
-  "date": "2026-09-25",
+  "generated_at": "2026-09-26T15:11:47.294323+00:00",
+  "date": "2026-09-26",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "published": "2026-09-25T20:47:49+00:00",
+      "score": 17
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "The Takeaway: UN General Assembly debate Day 4",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168454",
+      "summary": "From the Caribbean to the Pacific, leaders from small island States demanded climate justice, ocean protection and greater solidarity at the UN General Assembly on Friday. They warned that rising seas are already redrawing national boundaries, while the ripple effects of faraway wars are being felt on their shores. This edition of The Takeaway summarizes key points made during the fourth day of the annual high-level debate.",
+      "published": "2026-09-26T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168441",
+      "summary": "Nepal’s Prime Minister Balendra Shah brought a stark warning from the Himalayas to the UN General Assembly on Thursday, saying catastrophic floods that killed at least 1,400 people in his country laid bare the human cost of climate change, and the failure of the international system to protect those least responsible for it.",
+      "published": "2026-09-25T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "summary": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security flaw that could result in unauthenticated remote code execution. The vulnerability was first exploited as a zero-day",
+      "published": "2026-09-26T11:46:40+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "OpenAI bots meddled with multiple US government agency sites",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
+      "published": "2026-09-26T02:50:56+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Brazil's Lula bans online gambling ahead of presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "published": "2026-09-26T03:22:17+00:00",
+      "score": 12
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/",
+      "summary": "Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer […]",
+      "published": "2026-09-25T19:36:10+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "summary": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF) vulnerability, which has yet to be assigned a CVE identifier, carries a CVSS score of 8.8 out of 10.0. It only affects versions",
+      "published": "2026-09-26T09:55:22+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint",
+      "published": "2026-09-26T08:49:53+00:00",
+      "score": 12
+    },
     {
       "source": "The Hacker News",
       "category": "Technik",
@@ -13,7 +94,7 @@
       "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
       "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1. The issue stems from a preg_replace() backslash",
       "published": "2026-09-25T10:14:02+00:00",
-      "score": 14
+      "score": 12
     },
     {
       "source": "The Hacker News",
@@ -22,213 +103,51 @@
       "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
       "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare. The company",
       "published": "2026-09-25T04:49:22+00:00",
-      "score": 14
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android phone. OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not",
-      "published": "2026-09-24T18:10:18+00:00",
-      "score": 14
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Australia urges global cooperation on climate, AI checks and international law",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168435",
-      "summary": "Australian Prime Minister Anthony Albanese underlined the need for countries to work together to address the climate crisis, emerging technologies such as AI, and the breakdown of international rules, at the United Nations General Assembly on Thursday.",
-      "published": "2026-09-25T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Practicing for Safe Landings on the Moon and Beyond",
-      "url": "https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/",
-      "summary": "In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as the Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California. Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and […]",
-      "published": "2026-09-24T16:29:19+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
-      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
-      "summary": "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain. The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the lure and the delivery method. \"Where earlier variants embedded their payload key material",
-      "published": "2026-09-25T13:18:06+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-      "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-      "summary": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
-      "published": "2026-09-25T03:57:09+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-      "summary": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
-      "published": "2026-09-24T23:45:08+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Rising tide of forced displacement",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168438",
-      "summary": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees will brief the Security Council on Friday.",
-      "published": "2026-09-25T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Israeli leader at UN: ‘We’re going to win. We have no other choice’",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168431",
-      "summary": "Prime Minister Benjamin Netanyahu used his address to the UN General Assembly to defend Israel’s strikes against Iran as a matter of national survival and described the violence in the West Bank as the work of a few “juvenile delinquents” and rejected accusations of genocide in Gaza as “the greatest lie of the century.”",
-      "published": "2026-09-24T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: ‘New intensity’ to Russian attacks on Ukraine, Yemen, Gaza and Colombia updates",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168427",
-      "summary": "Russian armed forces have carried out repeated attacks across Ukraine over the past several days, killing and injuring civilians and damaging homes, hospitals, shops and workplaces, UN human rights monitors said on Thursday.",
-      "published": "2026-09-24T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously…",
-      "published": "2026-09-25T09:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
-      "published": "2026-09-23T09:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "The SOC Doesn't Need to Start Over with Every Alert",
-      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere. That dead end used to cost hours of documentation reading,",
-      "published": "2026-09-25T11:30:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
-      "published": "2026-09-25T10:35:55+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in WSO2 API Control Plane,",
-      "published": "2026-09-25T04:46:34+00:00",
-      "score": 12
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Push for cooking to be part of COP31’s electrification agenda",
-      "url": "https://www.climatechangenews.com/2026/09/24/push-for-cooking-to-be-part-of-cop31s-electrification-agenda/",
-      "summary": "The President of Kenya and the British climate envoy said Africa should use the global electrification push to roll out clean cooking The post Push for cooking to be part of COP31’s electrification agenda appeared first on Climate Home News .",
-      "published": "2026-09-24T16:51:36+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Special agents' blood and urine test results stolen in FBI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-      "published": "2026-09-25T13:56:16+00:00",
+      "title": "White House bars CNN from travelling with Trump on Air Force One",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "published": "2026-09-26T05:09:09+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Senior Kazakh officials detained after 14 service members swept out to sea",
-      "url": "https://www.bbc.co.uk/news/articles/cm0reew1591zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Seventeen service members were swept out to the Caspian Sea during military exercises.",
-      "published": "2026-09-25T15:29:48+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
-      "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
-      "published": "2026-09-25T09:48:33+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "published": "2026-09-24T18:06:40+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Yemen violence deepens concerns over child hunger crisis",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168436",
-      "summary": "Aid agencies in Yemen highlighted the growing hunger emergency sparked by renewed fighting between Houthi opposition forces and Government troops, after mobile health clinics reported that hundreds of children displaced by the violence are suffering from the most deadly form of malnutrition.",
-      "published": "2026-09-25T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Haitians can’t wait to return home and vote in elections says Prime Minister",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168429",
-      "summary": "“There is a people. A people who can wait no longer. A people waiting to regain security, to return home to work, to send their children to school, and to freely choose their leaders.” Those are the words of the Haitian Prime Minister, Alix Didier Fils-Aimé, who spoke at a special UN meeting on the future of security in Haiti.",
-      "published": "2026-09-24T12:00:00+00:00",
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "published": "2026-09-25T23:05:40+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Unveils Winning Designs for Mars Space Food Systems Challenge",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/",
-      "summary": "NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals […]",
-      "published": "2026-09-24T18:01:45+00:00",
+      "title": "NASA Welcomes San Marino Signing the Artemis Accords",
+      "url": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/",
+      "summary": "The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present. “San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator […]",
+      "published": "2026-09-25T19:53:03+00:00",
       "score": 11
     },
     {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $30.3 million over the next five years on an improved lie detector, according to…",
-      "published": "2026-09-25T12:10:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "2026-2027 DWU: Middle School Design Challenge",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/",
+      "summary": "2026-2027 DWU: Middle School Design Challenge Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make […]",
+      "published": "2026-09-25T17:20:51+00:00",
+      "score": 11
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "2026-2027 DWU: High School Engineering Challenge",
+      "url": "https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/",
+      "summary": "2026-2027 DWU: High School Engineering Challenge Challenge Materials Overview The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.” As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, […]",
+      "published": "2026-09-25T17:19:42+00:00",
       "score": 11
     },
     {
@@ -241,93 +160,138 @@
       "score": 11
     },
     {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "summary": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems,\" said Frank Balonis, Chief",
+      "published": "2026-09-26T07:48:33+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
+      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "summary": "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain. The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the lure and the delivery method. \"Where earlier variants embedded their payload key material",
+      "published": "2026-09-25T13:18:06+00:00",
+      "score": 11
+    },
+    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Pope warns against 'losing humanity' to AI machines",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-      "summary": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
-      "published": "2026-09-25T15:06:41+00:00",
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "published": "2026-09-26T05:03:09+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-      "url": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A gunman shot Jim Copenhaver twice while also killing another man and grazing Trump's ear with a bullet.",
-      "published": "2026-09-25T13:23:33+00:00",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "published": "2026-09-26T12:47:25+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
-      "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-      "published": "2026-09-25T11:44:44+00:00",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "published": "2026-09-26T07:21:30+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
-      "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "summary": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
-      "published": "2026-09-25T14:44:16+00:00",
+      "title": "South African white genocide does not exist, new ambassador to US tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l8qv7zppko?at_medium=RSS&at_campaign=rss",
+      "summary": "Roelf Meyer tells the BBC that being a white Afrikaner gives him legitimacy to challenge Trump's claim of a genocide.",
+      "published": "2026-09-25T23:20:48+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Black woman found hanging from tree was dead before body was 'staged', police say",
+      "url": "https://www.bbc.co.uk/news/articles/cwp933nzpp9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Tasia Fortune's body was found hanging from a tree on the grounds of an abandoned home in Jackson in August.",
+      "published": "2026-09-26T01:24:31+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-      "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
-      "summary": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
-      "published": "2026-09-25T11:06:38+00:00",
+      "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+      "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+      "summary": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
+      "published": "2026-09-24T23:45:08+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "LIVE: Six years on from COVID-19, is the world ready for the next pandemic?",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168437",
-      "summary": "COVID-19 killed millions, shattered health systems and brought the global economy to a virtual standstill. World leaders are meeting Friday to review the lessons learned and cement a new approach to prevention and preparation for the next pandemic. Hopes are high that a World Health Organization-led international agreement can move forward.",
+      "title": "Countries adopt global blueprint to tackle fast-evolving crime in digital age",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168455",
+      "summary": "Countries adopted on Saturday a new global blueprint for tackling rapidly evolving forms of crime, as the UN’s largest gathering on crime prevention and criminal justice opened in Abu Dhabi with a call for stronger international cooperation.",
+      "published": "2026-09-26T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Haiti at ‘watershed moment’, Prime Minister tells UN, urging full backing for security force",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168453",
+      "summary": "Haiti is at a “watershed moment” in its struggle against gang violence and needs sustained international support alongside stronger national security institutions, Prime Minister Alix Didier Fils-Aimé told the UN General Assembly on Friday.",
       "published": "2026-09-25T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "The Takeaway: UN General Assembly debate Day 3",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168434",
-      "summary": "As the high-level debate enters a fourth day, The Takeaway looks back at key highlights on Thursday, with Israeli and Palestinian leaders presenting divergent views on the Middle East conflict and their counterparts from across the world weighing in on the far-reaching impacts of the ongoing crisis in Gaza and the occupied West Bank.",
+      "title": "UN voices grave concern as fighting spreads across northern Ethiopia",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168450",
+      "summary": "The UN said on Friday it remains gravely concerned by the continued deterioration of the security situation across northern Ethiopia, as fighting spreads across multiple fronts and increasingly disrupts humanitarian operations.",
+      "published": "2026-09-25T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Tuvalu urges decisive global action as rising seas threaten its future",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168449",
+      "summary": "Climate change remains the greatest existential threat to Tuvalu, Prime Minister Feleti Teo told the UN General Assembly on Friday, warning that the pace and scale of international action are still falling far short of what vulnerable island nations need.",
       "published": "2026-09-25T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "TB 26-07 Aluminum Alloy 2219 Material Guidance",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/",
-      "summary": "For more information, contact Donald S. Parker, Kennedy Space Center, donald.s.parker@nasa.gov Download the PDF version Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of […]",
-      "published": "2026-09-25T14:45:51+00:00",
+      "title": "NASA, Boeing to Provide Update on Starliner Development",
+      "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+      "summary": "During a news conference at 3 p.m. EDT on Monday, Sept. 28, NASA and Boeing leadership will discuss Starliner’s development and plans for regular crew flights to and from the International Space Station. Learn where to watch online: https://www.nasa.gov/live The briefing participants include: Media already credentialed for Crew-13 may participate in person at NASA’s Kennedy […]",
+      "published": "2026-09-25T22:06:50+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s Machines for Mars Make Beer Bubbly",
-      "url": "https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/",
-      "summary": "Carbon-capture technology repurposed for breweries spreads and finds new applications",
-      "published": "2026-09-24T16:41:01+00:00",
+      "title": "Hubble Spots Chaotic Secret in Galaxy",
+      "url": "https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/",
+      "summary": "A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms […]",
+      "published": "2026-09-25T15:54:10+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which…",
-      "published": "2026-09-25T09:16:25+00:00",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments of biotechnology, human organs can be continuously…",
+      "published": "2026-09-25T09:00:00+00:00",
       "score": 10
     },
     {
@@ -340,75 +304,111 @@
       "score": 10
     },
     {
-      "source": "The Hacker News",
+      "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
-      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just",
-      "published": "2026-09-24T17:52:43+00:00",
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s…",
+      "published": "2026-09-23T09:00:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "summary": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM. According to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to distribute an Android Package Kit (APK) file that's dressed up as a system service. The delivered app has the package name \"com.corp.mdm\" Corp MDM",
-      "published": "2026-09-24T12:05:27+00:00",
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere. That dead end used to cost hours of documentation reading,",
+      "published": "2026-09-25T11:30:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
+      "published": "2026-09-25T10:35:55+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in WSO2 API Control Plane,",
+      "published": "2026-09-25T04:46:34+00:00",
       "score": 10
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "COP31 attendees told not to interfere in Türkiye’s “internal affairs”",
-      "url": "https://www.climatechangenews.com/2026/09/25/cop31-attendees-told-not-to-interfere-in-turkiyes-internal-affairs/",
-      "summary": "Amnesty International says the provision in the hosting agreement could have a \"chilling effect\" on free expression in Antalya The post COP31 attendees told not to interfere in Türkiye’s “internal affairs” appeared first on Climate Home News .",
-      "published": "2026-09-25T07:22:25+00:00",
-      "score": 10
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "COP31 electrification pledge leaves out clean power commitment",
-      "url": "https://www.climatechangenews.com/2026/09/22/cop31-electrification-pledge-leaves-out-clean-power-commitment/",
-      "summary": "Campaigners and experts say the goal's effectiveness in reducing emissions may be limited unless countries agree to meet it using only clean energy The post COP31 electrification pledge leaves out clean power commitment appeared first on Climate Home News .",
-      "published": "2026-09-22T18:46:13+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
-      "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
-      "summary": "Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals.… The post ‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak appeared first on Carbon Brief .",
-      "published": "2026-09-25T12:45:39+00:00",
+      "title": "Push for cooking to be part of COP31’s electrification agenda",
+      "url": "https://www.climatechangenews.com/2026/09/24/push-for-cooking-to-be-part-of-cop31s-electrification-agenda/",
+      "summary": "Kenya's president and Britain's climate envoy said Africa should use the global electrification push to roll out clean cooking The post Push for cooking to be part of COP31’s electrification agenda appeared first on Climate Home News .",
+      "published": "2026-09-24T16:51:36+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Jay-Z rape accuser says her allegation was false",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g53547wygo?at_medium=RSS&at_campaign=rss",
-      "summary": "A woman who accused Jay-Z of raping her when she was 13 now says she has never met the rap superstar.",
-      "published": "2026-09-25T10:51:28+00:00",
+      "title": "Huge crowds greet Pope in Paris for open-air Mass",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+      "summary": "More than half a million people are expected to attend the event in the heart of the French capital.",
+      "published": "2026-09-26T13:23:59+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
-      "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
-      "published": "2026-09-25T14:24:19+00:00",
+      "title": "Republic of Ireland confirm rescheduled news conference before controversial Israel game",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.",
+      "published": "2026-09-26T10:44:37+00:00",
       "score": 9
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Italy ministers agree to ban burqa and niqab in school and cap foreigners in class",
-      "url": "https://www.bbc.co.uk/news/articles/cw99d8g48873o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Giorgia Meloni described the measures as \"common-sense tools that do not divide but really help to integrate\".",
-      "published": "2026-09-24T19:32:59+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "published": "2026-09-25T22:12:48+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Waste sector crisis could see rubbish piling up on streets, experts warn",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+      "summary": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
+      "published": "2026-09-24T05:13:18+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Did El Niño turn Hurricane Polo into the most powerful storm of the season?",
+      "url": "https://www.bbc.co.uk/news/videos/cm93v2zz4w7qo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Courtney Sargent explains how El Niño could have rapidly turned Hurricane Polo into one of the Pacific season's most powerful storms.",
+      "published": "2026-09-23T17:33:39+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168452",
+      "summary": "Pakistani Prime Minister Shehbaz Sharif told the UN General Assembly on Friday that any attempt by India to stop, impede or divert Pakistan’s share of the Indus River waters “will be treated as an act of war”.",
+      "published": "2026-09-25T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: West Bank demolitions accelerate, urgent support for Sudan, Haiti diplacement, AI hub to boost gender equality",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168447",
+      "summary": "The situation in the occupied West Bank continues to deteriorate, the UN human rights office has said, pointing to the “mass destruction” of Palestinian villages and forcible transfer of residents in Msafer Yatta, South Hebron Hills.",
+      "published": "2026-09-25T12:00:00+00:00",
       "score": 9
     }
   ]
