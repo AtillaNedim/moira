@@ -1,56 +1,84 @@
-# Moira — 2026-10-07
+# Moira — 2026-10-08
 
 ## 🌍 Umwelt
-Die Europäische Union sieht sich mit einem ersten größeren Test ihrer Klimahandelsregeln konfrontiert: Eine Umweltorganisation wirft Neuseeland vor, verbindliche Umweltbestimmungen des Freihandelsabkommens mit der EU verletzt zu haben, indem das Land klimapolitische Maßnahmen zurückgenommen hat. Der Fall ist bemerkenswert, weil er zeigt, dass Handelsverträge zunehmend als Hebel für Klimapolitik verstanden werden — ob dieser Hebel tatsächlich greift, ist allerdings noch offen, da es sich um eine erstmals erhobene Beschwerde handelt.
+Im Mittelpunkt der Umweltberichterstattung steht heute der Pazifik. Der COP31-Präsident Murat Kurum hat nach einem Besuch in Tuvalu das 1,5-Grad-Ziel als „Überlebensfrage" für die Region bezeichnet. Das ist eine politische Aussage, keine neue wissenschaftliche Erkenntnis, aber sie fällt in eine Phase, in der die Vorbereitungen für die nächste Klimakonferenz an Fahrt aufnehmen. Bemerkenswert ist, dass die Aufmerksamkeit für die pazifischen Inselstaaten offenbar gezielt auf die internationale Agenda gesetzt wird.
 
-Im Vorfeld der COP31 zeichnet sich ab, dass Australien als Co-Vorsitz gemeinsam mit den Partnerstaaten an einer Abschlusserklärung arbeiten will. Der australische Klimaminister deutete an, dass ein solcher Text auch das unvermeidliche Überschreiten der 1,5-Grad-Schwelle anerkennen könnte — ein bemerkenswerter sprachlicher Schritt, der die politische Realität zunehmend an die wissenschaftliche angleicht. Ob das Ziel der Elektrifizierung in den Text aufgenommen wird, ist noch unklar.
+Ein zweiter Umweltstrang betrifft die Handelspolitik: Eine Umweltorganisation wirft Neuseeland vor, mit klimapolitischen Rückschritten gegen verbindliche Umweltbestimmungen des EU-Handelsabkommens zu verstoßen. Es handelt sich um den ersten größeren Test dieser Art für die Klimahandelsregeln der EU. Da die Anschuldigung von einer Nichtregierungsorganisation erhoben wurde und ein formales Verfahren offenbar noch nicht abgeschlossen ist, bleibt die Bewertung vorläufig.
 
-Parallel läuft die Bewerbung um den Sitz des Sekretariats des Hochseeabkommens, wobei Chile seine Kandidatur bekräftigt hat. Chiles Meeresschutzbilanz wird dabei gegen Bedenken hinsichtlich der Umweltpolitik der aktuellen Regierung abgewogen, und auch eine konkurrierende chinesische Bewerbung spielt eine Rolle. Der UN-Klimachef warnte beim Vorbereitungstreffen in Fidschi vor den gesundheitlichen Gefahren von Hitze für Mütter und Neugeborene — ein Thema, das auf der Agenda der pazifischen Gastgeber weit oben steht.
+Daneben läuft die Diskussion um den Sitz des Hochseeabkommens weiter. Chile hat sein Angebot bekräftigt, steht aber im Wettbewerb mit einem chinesischen Gegenkandidaten. Die Entscheidung hat symbolische und praktische Bedeutung für den künftigen Schutz der Weltmeere, ist aber noch offen.
 
 ## 🔬 Wissenschaft
-Der Tropensturm Isaias entwickelt sich voraussichtlich zum ersten atlantischen Hurrikan des Jahres 2026. Bemerkenswert ist der Kontext: El Niño hat bislang zu einer ungewöhnlich ruhigen Saison geführt, was die späte Bildung des ersten Hurrikans erklärt. Der Sturm wird den Süden der USA treffen.
+Die Nachricht des Tages ist der Tod von Margaret Hamilton im Alter von 90 Jahren. Sie leitete die Entwicklung der Software, die Apollo 11 zur Mondlandung führte, und wurde dafür mit der Presidential Medal of Freedom ausgezeichnet. Hamilton steht für einen Wendepunkt: die Etablierung von Software als eigenständige, sicherheitskritische Ingenieurdisziplin. Ihr Werk wirkt bis in heutige Systeme hinein.
 
-Die NASA bereitet die Abkopplung des Cygnus-XL-Raumschiffs von der Internationalen Raumstation vor, das über 11.000 Pfund Nachschub, wissenschaftliche Experimente und Fracht geliefert hat. Der Marsrover Curiosity hat unterdessen einen Höhenmeilenstein erreicht und dabei Aufnahmen vom Grund des Gale-Kraters sowie von windgeformten Yardang-Strukturen gemacht, die Wissenschaftler besser verstehen wollen.
+Die NASA meldet mehrere Entwicklungen. Die SpaceX-Crew-12 ist nach mehr als sieben Monaten auf der ISS sicher im Pazifik vor Los Angeles gelandet. Ein Briefing ist für den 15. Oktober angesetzt. Parallel bereitet die NASA den 35. Start eines SpaceX-Versorgungsflugs zur Station vor, unter anderem mit dem letzten Satz ausrollbarer Solararrays. Beide Meldungen sind Routine, aber sie zeigen, dass der Betrieb der Station trotz aller politischen Spannungen weiterläuft.
 
-Zwei ökologische Studien verdienen Aufmerksamkeit: Die weltweit größte Pinguinkolonie verzeichnet einen alarmierenden Rückgang der Chinstrap-Pinguine auf einer abgelegenen Vulkaninsel, wofür der Klimawandel verantwortlich gemacht wird. Und der Himalaya-Monal, ein auffälliger Gebirgsvogel, verändert einer Studie zufolge seine Stimme als Reaktion auf zunehmende menschliche Aktivität — ein Hinweis darauf, wie tiefgreifend menschliche Störungen in empfindliche Ökosysteme reichen. In Schottland stoßen Pläne für mindestens 23 große Rechenzentren auf erhebliche Bedenken von Umweltaktivisten, was den wachsenden Zielkonflikt zwischen digitaler Infrastruktur und Ressourcenverbrauch verdeutlicht.
+Bemerkenswerter ist die Ankündigung, dass NASA und das US-Energieministerium gemeinsam nukleare Antriebs- und Energie-Technologien für den Weltraum vorantreiben wollen. Die Sprache der Mitteilung ist ungewöhnlich ambitioniert („Nuclear NASA-era"), was auf eine politisch gewollte Prioritätensetzung hindeutet. Konkrete technische Meilensteine werden in der Quelle nicht genannt, daher bleibt die Einordnung vorsichtig.
+
+Aus der Erdbeobachtung kommt ein leiser, aber praktisch relevanter Bericht: NASA-Wissenschaftler haben mit Farmern in den texanischen High Plains über Dürre und einen sinkenden Grundwasserleiter gesprochen. Solche Regionen zeigen, wie Klimafolgen und Wassermanagement unmittelbar zusammenfallen.
+
+In der Biologie gibt es eine positive Meldung: Der Blauflossen-Thunfisch kehrt in britische Gewässer zurück. Der WWF nennt ihn in einem neuen Bericht als Beispiel dafür, dass sich Natur erholen kann, wenn Belastungen reduziert werden. Das ist ein ermutigendes Signal, aber es bleibt ein Einzelfall unter vielen belasteten Arten.
 
 ## ⚙️ Technik
-Die Sicherheitslage im Softwarebereich ist angespannt. Eine kritische, bislang ungepatchte Schwachstelle in LMCache, einer Open-Source-Software zur Beschleunigung von LLM-Servern, erlaubt es Angreifern, ohne Anmeldung Code auf dem Cache-Server auszuführen — eine feste Version gibt es noch nicht. Diese Art von Lücke ist besonders heikel, weil sie genau die Infrastruktur trifft, auf der KI-Dienste aufbauen.
+Die Cybersicherheitslage ist heute dicht und ernst. Mehrere unabhängige Meldungen betreffen unterschiedliche Regionen und Angriffsarten, was auf eine breite, anhaltende Bedrohungslage hindeutet.
 
-Eine weitere kritische Schwachstelle in Atlassian-Data-Center-Produkten wurde innerhalb von nur zwei Stunden nach Veröffentlichung der Details aktiv ausgenutzt. Die Lücke mit einem CVSS-Wert von 9,3 erlaubt unter bestimmten Bedingungen Zugriff auf sensible Dateien. Die Geschwindigkeit der Ausnutzung unterstreicht, wie kurz das Zeitfenster zwischen Offenlegung und Angriff inzwischen ist.
+Ein russlandnaher Akteur mit der Bezeichnung UAC-0099 zielt auf ukrainisches Regierungspersonal. Zum Einsatz kommt ein bislang nicht dokumentierter Schadcode namens ASHVEIN, der Befehle in HTML versteckt. Die Zuordnung stammt von einem Sicherheitsunternehmen und ist plausibel, aber nicht staatlich bestätigt.
 
-Im Umfeld der KI-Sicherheit meldet Anthropic, dass sein Projekt Glasswing zwischen April und Juli 2026 mindestens 129.000 verifizierte Software-Schwachstellen aufgedeckt hat, und erweitert den Zugang zu Claude für geprüfte Cybersicherheitsteams. Eine Malware-Kampagne namens PoeLLM hat über 3.400 Server infiziert, um Kryptomining-Botnets zu erweitern — ein Muster, das zeigt, dass exponierte KI- und LLM-Infrastruktur zunehmend zum Ziel finanziell motivierter Angreifer wird. Acht bösartige npm-Pakete wurden über 40.000 Mal heruntergeladen und verbreiteten RAT- und Stealer-Malware. Das FBI warnt zudem, dass die FortiBleed-Kampagne weiterhin aktiv ist und bereits über 86.000 Fortinet-Gerätezugangsdaten erbeutet hat. Linux-Backdoors in Südkorea und Taiwan tarnen sich als E-Mail-Sicherheitswerkzeuge, um der Entdeckung zu entgehen.
+In Südkorea wurden Finanzunternehmen mit einem KI-gestützten Penetrationstest-Werkzeug namens ARTEX angegriffen, was zu Datenabfluss führte. Der Zeitraum wird auf Ende September bis Anfang Oktober 2026 datiert. Bemerkenswert ist hier, dass ein legitimes Sicherheitswerkzeug zweckentfremdet wurde.
+
+Japan meldet einen deutlichen Anstieg von Datenlecks, die auf Missbrauch mobiler APIs und bekannte Softwarelücken zurückgehen. Die nationale CERT-Stelle hat eine Warnung veröffentlicht, nennt aber weder Täter noch betroffene Organisationen. Das ist ein Hinweis auf ein strukturelles Problem, nicht auf einen einzelnen Vorfall.
+
+Hinzu kommen ein kompromittiertes npm-Paket („tensorlake"), das einen Credential-stehlenden Wurm verbreitet, sowie ein neues Phishing-Baukasten namens Wazza, das gezielt Banken, Behörden und Industrie in den USA, Europa und Australien angreift. Beide Fälle zeigen, wie sehr die Lieferkette und die Werkzeuge selbst zum Angriffsvektor werden.
+
+Besonders beunruhigend ist eine ungepatchte kritische Schwachstelle in LMCache, einer Open-Source-Komponente zur Beschleunigung von LLM-Servern. Angreifer können ohne Anmeldung Code auf dem Cache-Server ausführen, und es gibt noch keine korrigierte Version. Das betrifft direkt die Infrastruktur, auf der viele KI-Anwendungen laufen.
+
+Ein rechtlicher Fall rundet das Bild ab: Der Betreiber von MonsterCloud wird beschuldigt, Ransomware-Opfer um mehr als 19 Millionen Dollar betrogen zu haben, indem er heimlich Lösegeld zahlte, aber vorgab, eigene Wiederherstellungswerkzeuge zu nutzen. Die Anklage kommt vom US-Justizministerium. Das ist ein Beispiel dafür, wie das Vertrauen in den Sicherheitsmarkt selbst untergraben wird.
+
+Auf der konstruktiven Seite steht ein Beitrag aus dem Umfeld industrieller KI: Der Text argumentiert, dass autonome industrielle KI neue Sicherheitsarchitekturen braucht, weil sie direkt in physische Systeme eingreift. Das ist keine Produktankündigung, sondern eine Einordnung der Risikolage.
 
 ## 🏛️ Politik
-Frankreich hat den Einsatz von Blendgranaten ausgesetzt, nachdem einem Jungen bei Studentenprotesten die Hand abgerissen wurde. Der Schritt folgt auf Beschwerden mehrerer Gruppen über unverhältnismäßige Polizeigewalt gegen Jugendliche — ein Fall, der die Spannung zwischen staatlicher Ordnung und dem Schutz junger Menschen sichtbar macht.
+In Italien hat die Regierung von Giorgia Meloni eine Wahlrechtsreform durchgesetzt. Meloni begründet sie mit stabileren Regierungen, die Opposition spricht von einem „Betrug" und unterstellt das Ziel, an der Macht zu bleiben. Die Reform ist beschlossen, ihre Auswirkungen auf künftige Wahlen sind aber noch nicht absehbar.
 
-In Israel fordern Bürger drei Jahre nach den Angriffen vom 7. Oktober Rechenschaft über das Versagen der Sicherheitskräfte. Ministerpräsident Netanyahu hat jede persönliche Verantwortung abgelehnt und keine staatliche Untersuchung angeordnet — ein Umgang mit Aufarbeitung, der die politische Landschaft des Landes weiter belastet.
+Zambia hat ein Gesundheitsabkommen mit den USA unterzeichnet, das 1,5 Milliarden Dollar umfasst. Es wurde nach der Kürzung der USAID-Mittel ausgehandelt und war offenbar von Streitigkeiten über Datenweitergabe begleitet. Das zeigt, wie sich Entwicklungshilfe zunehmend in bilaterale, konditionierte Vereinbarungen verschiebt.
 
-In Russland ist ein Laborarbeiter gestorben, der in einer Einrichtung forschte, die sich mit Pest befasst. Die Sorge, dass der Tod durch Lungenpest verursacht worden sein könnte, hat Forderungen nach mehr Transparenz ausgelöst. US-Präsident Trump will mit Putin über den Fall sprechen. Die WHO verfolgt die Situation und hat begonnen, Tests und Überwachung durchzuführen.
+In den USA sorgt ein Vorfall im Wahlkampf für Aufmerksamkeit: Eine Kongresskandidatin in Arizona gibt an, beim Reparieren eines Wahlkampfschilds vergewaltigt worden zu sein. Sie beschreibt ihre Erinnerung als lückenhaft. Die Meldung ist menschlich schwer, aber die Quellenlage bleibt begrenzt, da es sich um eine persönliche Aussage handelt.
 
-In Japan wurden die Brauereiriesen Asahi, Kirin und Suntory von den Wettbewerbsbehörden durchsucht, wegen des Verdachts auf ein Preisabsprachekartell. In Kalifornien wurden zwei Personen angeklagt, mindestens 14 leihmutterschaftlich geborene Kinder misshandelt zu haben, nachdem im Vorjahr 21 Kinder aus ihrer Obhut genommen worden waren.
+Ein weiterer US-Fall betrifft die Hinrichtung von Christa Pike, die zwei Giftinjektionen überlebt hat und sich laut ihrer Anwältin inzwischen wieder bewegt. Das wirft Fragen zur Durchführung der Todesstrafe auf, ist aber ein Einzelfall und kein systematisches Muster.
+
+In Chile mussten Bewohner nach schweren Regenfällen und einem über die Ufer getretenen Fluss ausgeflogen werden. Das ist ein konkretes Klimafolgenereignis, das in derselben Woche stattfindet, in der Chile sich um den Sitz des Hochseeabkommens bewirbt.
+
+Menschenrechtsorganisationen kritisieren die Abschiebung von mehr als 500 Migranten aus den USA in afrikanische Länder als rechtswidrig und ausbeuterisch. Die Zahl stammt aus US-Daten, die Bewertung von Human Rights Watch. Die Praxis selbst ist durch offizielle Angaben gestützt, die rechtliche Einordnung bleibt umstritten.
 
 ## 🌐 Geopolitische Lage
-Ein „Super-El-Niño" mit Pazifik-Temperaturen, die bereits die Werte der historischen Ereignisse von 1997 und 2015 übertreffen, entfaltet seine Wirkung. In Papua-Neuguinea trocknen Wasserquellen aus, Ernten fallen aus und Lebensmittelpreise steigen — Monate bevor die schlimmsten landwirtschaftlichen Auswirkungen erwartet werden. Das Muster zeigt, wie klimatische Extremereignisse geopolitische Verwundbarkeit verstärken, insbesondere in Regionen mit begrenzter Anpassungskapazität.
+Die Vereinten Nationen melden mehrere Entwicklungen, die zusammen ein Bild wachsender Belastung ergeben.
 
-Die UN steht unter Druck, sich zu reformieren. Bei der Generalversammlung in New York im vergangenen Monat forderten Regierungen aus unterschiedlichsten Mitgliedstaaten, dass die Organisation die Welt so widerspiegeln müsse, wie sie ist — ein bemerkenswerter Konsens über die Grenzen der gegenwärtigen Struktur. UN-Generalsekretär Guterres rief in Islamabad zur Beendigung des US-Iran-Kriegs auf und verwies auf die Belastung des globalen Handels. In Dschibuti führen gleichzeitige Notlagen — ankommende Jemen-Flüchtlinge und in die Gegenrichtung ziehende Migranten — zu einer Überlastung der dortigen Kapazitäten.
+In Myanmar hat sich laut UNDP die Versorgung mit Unterkunft, Gesundheit, Bildung und Lebensgrundlagen „gleichzeitig" aufgelöst. Millionen Menschen sind betroffen. Die Formulierung „simultaneous collapse" ist ungewöhnlich deutlich für eine UN-Agentur und deutet auf eine humanitäre Lage hin, die sich nicht mehr in einzelnen Sektoren beschreiben lässt.
+
+In Afghanistan werden Frauen und Mädchen erneut wegen Verstößen gegen Kleidungsvorschriften verhaftet, während gleichzeitig Rekordzahlen von Rückkehrern das Land erreichen. Die Taliban-Politik und die Rückkehrerwelle verstärken sich gegenseitig.
+
+Im Jemen warnt die WHO vor einer kritischen Finanzierungslücke, die die Gesundheitsversorgung gefährdet. Das ist ein wiederkehrendes Muster: Konflikt plus Unterfinanzierung gleich zusammenbrechende Basisversorgung.
+
+Ein UN-Experte weist darauf hin, dass ältere Frauen weltweit Gewalt, Ausbeutung und Vernachlässigung ausgesetzt sind, aber in Gesetzen, Daten und Diensten weitgehend unsichtbar bleiben. Das ist eine strukturelle Beobachtung, keine Einzelmeldung.
+
+In Ost-Jerusalem wurden 69 Palästinenser, mehr als die Hälfte davon Kinder, nach einem israelischen Abrissbeschluss obdachlos. Die Zahl stammt von OCHA.
+
+Schließlich diskutiert die UN-Generalversammlung über Reformen. Der Tenor: Die Organisation müsse die Welt widerspiegeln, wie sie heute ist, oder Vertrauen verlieren. Das ist eine Debatte, die seit Jahren läuft, aber die Dichte der Forderungen scheint zuzunehmen.
 
 ## ⚔️ Krieg
-Der ukrainische Präsident Selenskyj verurteilte großangelegte russische Angriffe, bei denen 24 Menschen getötet wurden. Rettungskräfte suchen weiterhin nach Bewohnern, nachdem ein Wohngebäude in Pryluky zerstört wurde. Die Angaben zu den Opferzahlen stammen aus einer einzelnen Quelle und sind nicht unabhängig bestätigt.
+In der Ukraine hat ein russischer Angriff auf zwei Busse in der Frontstadt Kramatorsk nach Angaben ukrainischer Behörden mindestens 30 Menschen getötet. Die Ukraine wirft Russland vor, gezielt zivile Fahrzeuge attackiert zu haben. Die Zahl stammt von offiziellen Stellen und ist nicht unabhängig bestätigt. Der UN-Humanitätskoordinator für die Ukraine verurteilte am Vortag weitere Angriffe, bei denen mindestens 19 Menschen in der Region Tschernihiw getötet wurden. Die Angriffe auf zivile Ziele häufen sich, und die UN ruft wiederholt zum Schutz der Zivilbevölkerung auf.
 
-Im Jemen verschärft sich die humanitäre Lage: Die WHO warnt vor einer kritischen Finanzierungslücke, die die Gesundheitsversorgung bedroht, während der Konflikt eskaliert und die Bedürfnisse steigen. In Kenia hat der erste Ebola-Todesfall eine fieberhafte Kontaktverfolgung ausgelöst, bei der die WHO und Partner das Land unterstützen. Die Kombination aus Konflikt, Krankheitsausbrüchen und Unterfinanzierung zeigt, wie fragil die humanitäre Infrastruktur in mehreren Regionen gleichzeitig ist.
+In Gaza dauern israelische Angriffe trotz eines Waffenstillstands an, während der US-Plan zur Beendigung des Krieges weitgehend stockt. Viele Palästinenser leben weiter in provisorischen Zeltstädten. Die Berichterstattung beschreibt eine Lage, in der ein formeller Waffenstillstand und anhaltende Gewalt nebeneinander bestehen. Genaue Opferzahlen werden in den Quellen nicht durchgängig genannt und daher hier nicht wiedergegeben.
 
 ## 💬 Meinung des Tages
-Dieser Tag zeigt ein Muster, das sich durch fast alle Bereiche zieht: Die Systeme, auf die wir uns verlassen, geraten gleichzeitig unter Druck — und die Reaktionen darauf sind oft reaktiv statt vorausschauend. Die EU versucht, Klimapolitik über Handelsverträge durchzusetzen, während Australien bereits eingesteht, dass 1,5 Grad nicht mehr zu halten sind. Die Cybersicherheit wird von einer Welle kritischer Schwachstellen überrollt, deren Ausnutzung in Stunden erfolgt, während die Verteidigung Monate braucht. Und die humanitären Krisen — von der Ukraine über den Jemen bis nach Kenia — überlagern sich, während die Finanzierung nicht Schritt hält.
+Der heutige Tag zeigt zwei Bewegungen gleichzeitig. Auf der einen Seite stehen Zeichen von Kontinuität und Erholung: eine Raumfahrtmission kehrt sicher zurück, ein Fischbestand kommt zurück, eine Versorgungsmission wird vorbereitet. Auf der anderen Seite steht eine Verdichtung von Bedrohungen: Cyberangriffe auf Regierungen und Finanzsysteme, eine ungepatchte Schwachstelle in zentraler KI-Infrastruktur, anhaltende Angriffe auf Zivilisten, humanitäre Systeme, die gleichzeitig kollabieren.
 
-Bemerkenswert ist auch, was fehlt: verlässliche, unabhängig bestätigte Informationen. Die Opferzahlen in der Ukraine stammen aus einer Quelle, die Umstände des Pest-Todes in Russland sind unklar, und die humanitäre Lage im Jemen ist nur grob umrissen. In einer Welt, in der Ereignisse sich überlagern, wird die Frage, was tatsächlich belegt ist, selbst zur wichtigsten Information.
+Bemerkenswert ist, dass viele der ernsten Meldungen nicht von einzelnen Katastrophen handeln, sondern von strukturellen Schwächen: Lieferketten, Vertrauen in Sicherheitsfirmen, Finanzierungslücken, unsichtbare Gruppen in Daten und Gesetzen. Das sind keine lauten Ereignisse, aber sie bestimmen, wie widerstandsfähig Gesellschaften sind.
+
+Vielleicht ist die wichtigste Beobachtung des Tages, dass Margaret Hamilton gestorben ist. Sie hat gezeigt, dass Sorgfalt, Klarheit und Verantwortung in komplexen Systemen möglich sind. Genau diese Haltung fehlt an vielen Stellen, die heute in den Quellen auftauchen.
 
 ## 🎵 Song des Tages
-**„The Sound of Silence" — Simon & Garfunkel**
-
-Der Tag ist geprägt von Ereignissen, die laut sind und Aufmerksamkeit fordern — Angriffe, Durchsuchungen, Warnungen. Doch darunter liegt ein anderes Muster: das Schweigen über Verantwortung, das Fehlen transparenter Informationen, die unausgesprochene Anerkennung, dass bestimmte Schwellen bereits überschritten sind. Der Song fängt diese Spannung zwischen äußerem Lärm und innerer Leere ein, ohne sie aufzulösen.
+„The Blue" von David Gilmour. Ein ruhiges, wehmütiges Stück, das von Verlust und Hoffnung zugleich handelt. Es passt zu einem Tag, an dem eine Pionierin gegangen ist, ein Meerestier zurückkehrt und die Welt gleichzeitig an vielen Stellen unter Druck steht.
 
 
 ---
 
-*Erstellt am 2026-10-07 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
+*Erstellt am 2026-10-08 um 12:00 MEZ — [Archiv](/moira/archive/) · © 2026 Atilla. All rights reserved.*
