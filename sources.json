@@ -1,29 +1,11 @@
 {
-  "generated_at": "2026-10-09T17:36:19.687369+00:00",
-  "date": "2026-10-09",
+  "generated_at": "2026-10-10T16:26:48.187412+00:00",
+  "date": "2026-10-10",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "FBI Says China-Linked Hackers Ran Portal Giving Third Parties Access to Stolen Emails",
-      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
-      "summary": "Hackers tied to a Chinese cybersecurity company stole email from government organizations, law enforcement agencies, healthcare systems, and religious institutions in Southeast Asia, the FBI and agencies in 6 other countries said on October 8. The company, Integrity Technology Group, has been sanctioned by the U.S. and the UK. The hackers scanned websites for flaws using a tool containing more",
-      "published": "2026-10-08T18:32:21+00:00",
-      "score": 17
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
-      "url": "https://www.bbc.co.uk/news/articles/c68xzqqn4ekro?at_medium=RSS&at_campaign=rss",
-      "summary": "Often dubbed \"Russia's Google\", the tech firm admits customers may experience disruption to digital services due to the attacks.",
-      "published": "2026-10-09T17:14:44+00:00",
-      "score": 15
-    },
     {
       "source": "The Hacker News",
       "category": "Technik",
@@ -36,19 +18,10 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
-      "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The European Union described the move against the International Criminal Court as \"deeply regrettable\".",
-      "published": "2026-10-09T17:12:03+00:00",
-      "score": 14
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Amid heartache of Nepal flooding disaster, fear remains",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168561",
-      "summary": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.",
-      "published": "2026-10-09T12:00:00+00:00",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "published": "2026-10-10T14:24:14+00:00",
       "score": 14
     },
     {
@@ -61,155 +34,110 @@
       "score": 14
     },
     {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "published": "2026-10-10T14:49:32+00:00",
+      "score": 13
+    },
+    {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Ukraine: UN condemns latest attacks and calls for civilian protection",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168548",
-      "summary": "The UN Humanitarian Coordinator for Ukraine on Wednesday called for an end to attacks against civilians following further overnight strikes by Russian forces that reportedly killed at least 19 in the Chernihiv Region.",
-      "published": "2026-10-07T12:00:00+00:00",
-      "score": 14
+      "title": "Security Council LIVE: Cycle of escalating attacks on civilians in Ukraine ‘must end now’",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168564",
+      "summary": "Escalating violence and human rights violations in the four-year-old Russia-Ukraine war are in the spotlight in the Security Council on Friday following a spate of Russian attacks against civilian targets and infrastructure in recent days.",
+      "published": "2026-10-09T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude - Claude Mythos",
+      "published": "2026-10-10T09:18:45+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
+      "published": "2026-10-09T19:14:28+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Flydubai attacker began a 'drift towards extremism and terrorism' in Australia, UAE says",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dj5n538jpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The United Arab Emirates' attorney-general also alleges the co-pilot was trying to crash the plane into Tel Aviv's airport.",
+      "published": "2026-10-10T04:34:55+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168567",
+      "summary": "A suspected drone strike has left at least 40 dead in Sudan’s Blue Nile State – near the Ethiopian border - according to initial reports from the ground, according to UN Spokesperson Stéphane Dujarric. Most of the casualties were women and girls.",
+      "published": "2026-10-09T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Amid heartache of Nepal flooding disaster, fear remains",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168561",
+      "summary": "Six weeks after Nepal’s deadly flooding disaster, communities are still struggling to rebuild their lives, but they will need sustained help as global warming increases the risk of another Himalayan catastrophe, the UN Children’s Fund (UNICEF) said on Friday.",
+      "published": "2026-10-09T12:00:00+00:00",
+      "score": 12
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
-      "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology […]",
-      "published": "2026-10-08T19:40:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
-      "published": "2026-10-09T12:47:28+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (CVSS score: 10.0) - An improper access control vulnerability in ProFTPD that could allow",
-      "published": "2026-10-09T12:21:51+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Age must never diminish rights,’ UN independent expert warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168553",
-      "summary": "Older women around the world face violence, exploitation and neglect, yet remain largely invisible in the laws, policies, data and services designed to protect women overall, a UN independent human rights expert said on Thursday.",
-      "published": "2026-10-08T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Myanmar: Poverty deepens as families face multiple shocks with limited resources",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168550",
-      "summary": "Years of conflict, displacement, economic disruption and climate shocks in Myanmar have led to the “simultaneous collapse” of shelter, healthcare, schooling and livelihoods affecting millions of people, the UN Development Programme (UNDP) said in a report issued on Thursday.",
-      "published": "2026-10-08T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
-      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
-      "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
-      "published": "2026-10-08T18:56:25+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
-      "published": "2026-10-09T12:47:26+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "summary": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions. \"CVE-2026-107406 is a memory overflow vulnerability that may lead to remote code execution or denial-of-service under specific configuration conditions,\" Citrix said. The vulnerability",
-      "published": "2026-10-09T08:11:33+00:00",
+      "title": "NASA Seeks US Industry Plans for Commercial Space Stations",
+      "url": "https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/",
+      "summary": "NASA is advancing American leadership in space by taking the next step toward a future where commercial space stations lead the way in low Earth orbit. On Friday, the agency released its final Request for Proposals inviting industry to submit plans for the next generation of commercial space stations. “In alignment with the President’s National […]",
+      "published": "2026-10-09T18:11:44+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
-      "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
-      "published": "2026-10-09T15:24:43+00:00",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+      "published": "2026-10-10T14:16:50+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US immigration officials defend ICE agents who shot man in same car as child",
-      "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said.",
-      "published": "2026-10-09T17:20:20+00:00",
+      "title": "Several injured as Saudi capital airport reportedly hit again",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport.",
+      "published": "2026-10-10T16:05:18+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Suspect linked to Monaco bomb attack on millionaire speaks to BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Vitalii Zhykovych gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev.",
-      "published": "2026-10-08T23:11:10+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "published": "2026-10-09T13:50:25+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Hurricane Isaias strengthens as it heads towards land",
-      "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
-      "published": "2026-10-09T14:23:57+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Hurricane Isaias strengthens to a major category three storm",
-      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-      "published": "2026-10-09T12:54:28+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-      "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
-      "published": "2026-10-08T19:39:32+00:00",
+      "title": "US country music star Ella Langley cancels show due to 'security threat'",
+      "url": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\".",
+      "published": "2026-10-10T02:02:54+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
-      "summary": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings updates, go here.",
+      "title": "Global trade reaches record $35 trillion despite conflicts",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168566",
+      "summary": "World trade reached a record $35 trillion in 2025 – but developing countries were held back from greater participation in the global economy because of new technological and policy barriers, the UN trade and development agency UNCTAD said on Friday.",
       "published": "2026-10-09T12:00:00+00:00",
       "score": 11
     },
@@ -220,15 +148,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168556",
       "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
       "published": "2026-10-08T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168547",
-      "summary": "Health authorities in Russia say there is “no plague case” in Siberia following reports last week that a lab technician had died of pneumonia of an unknown origin in the region, World Health Organization (WHO) officials said on Wednesday.",
-      "published": "2026-10-07T12:00:00+00:00",
       "score": 11
     },
     {
@@ -243,91 +162,46 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Cosmic House of Mirrors",
-      "url": "https://www.nasa.gov/image-article/cosmic-house-of-mirrors/",
-      "summary": "Galaxies warp and multiply as if in a house of mirrors in this image from NASA’s James Webb Space Telescope released on Sept. 29, 2026. The brilliant golden galaxies seen here are part of a galaxy cluster called MACS J0454.1-0300. The orange galaxies bunched together on one side of the image, however, are not actually […]",
-      "published": "2026-10-09T13:57:24+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Crew-12 Returns to Earth",
-      "url": "https://www.nasa.gov/image-article/crew-12-returns-to-earth/",
-      "summary": "The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent […]",
-      "published": "2026-10-08T18:52:27+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s SPHEREx Telescope Sees Menagerie of Brown Dwarfs",
-      "url": "https://www.nasa.gov/missions/spherex/nasas-spherex-telescope-sees-menagerie-of-brown-dwarfs/",
-      "summary": "NASA’s SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization, and Ices Explorer) space telescope is shedding light on brown dwarfs, celestial objects that blur the line between stars and exoplanets. New findings published in The Astrophysical Journal show that these dark and cloudy worlds have chemically rich atmospheres not unlike the giant […]",
-      "published": "2026-10-08T18:22:48+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Webb Measures Distance to Farthest Fast Radio Burst, Suggesting Origin",
-      "url": "https://science.nasa.gov/missions/webb/webb-measures-distance-to-farthest-fast-radio-burst-suggesting-origin/",
-      "summary": "First discovered in 2007, fast radio bursts are enigmatic, millisecond-long flashes of radio emission from the distant universe. Their origin remains uncertain, particularly since most are seen once and never again. Astronomers using NASA’s James Webb Space Telescope have pinpointed the host galaxy of the most distant fast radio burst (FRB) seen to date. Their […]",
-      "published": "2026-10-08T18:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
-      "published": "2026-10-09T12:10:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t…",
-      "published": "2026-10-09T09:00:00+00:00",
+      "title": "NASA Announces Bold Science Initiatives for America’s Golden Age Summit",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-bold-science-initiatives-for-americas-golden-age-summit/",
+      "summary": "Editor’s note: This release was updated Oct. 8, 2026 with the formal name of the summit. NASA is launching two new science and technology initiatives to deepen scientific understanding and accelerate the innovation that will shape America’s future in space. The initiatives are announced in conjunction with the White House Office of Science and Technology […]",
+      "published": "2026-10-08T19:40:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China. TP-Link denies the claims and says it will fight them in court. TP-Link Systems is based in",
-      "published": "2026-10-09T13:22:53+00:00",
+      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
+      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
+      "summary": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an identity stack can only govern what authenticates through it, and most agents never do. That gap is the clearest",
+      "published": "2026-10-10T11:00:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "summary": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection. AnyDesk patched the flaw in version 8.0.3 in June, but its changelog described the fix only as \"fixed a bug that could lead to a crash,\" with no CVE assigned and no security",
-      "published": "2026-10-09T12:59:22+00:00",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public. The",
+      "published": "2026-10-09T17:45:26+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which disclosed the flaw on October 8, says an attacker who recovers the key can redirect the site's visitors to a copy of the site they control.",
-      "published": "2026-10-09T09:03:24+00:00",
+      "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "summary": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). \"It's an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,\" Anthropic said. \"Projects that join will receive thorough, periodic security scans by our strongest models at no cost.\"",
+      "published": "2026-10-09T12:47:28+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon. To that end, the agencies seized several domains and blocked access to platforms that were used to scan, and in some cases infiltrate, U.S. critical infrastructure. The list of seized",
-      "published": "2026-10-09T06:39:29+00:00",
+      "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed below - CVE-2015-3306 (CVSS score: 10.0) - An improper access control vulnerability in ProFTPD that could allow",
+      "published": "2026-10-09T12:21:51+00:00",
       "score": 11
     },
     {
@@ -349,21 +223,75 @@
       "score": 11
     },
     {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "published": "2026-10-10T12:29:31+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Woman injures three people in third Poland school knife attack in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Polish police had already deployed to schools after a female caretaker was killed and several others injured in two earlier attacks in two days.",
+      "published": "2026-10-10T14:58:55+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
+      "published": "2026-10-10T15:23:47+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "published": "2026-10-10T10:06:23+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
+      "summary": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.",
+      "published": "2026-10-10T12:28:51+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+      "published": "2026-10-10T11:55:12+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "How drones are hunting fires hidden beneath the Cairngorms",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+      "published": "2026-10-10T09:31:14+00:00",
+      "score": 10
+    },
+    {
       "source": "BBC Science",
       "category": "Wissenschaft",
       "title": "Isaias becomes major category three storm before landfall",
       "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
       "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
       "published": "2026-10-09T16:46:32+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
-      "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
-      "summary": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
-      "published": "2026-10-09T13:01:57+00:00",
       "score": 10
     },
     {
@@ -378,19 +306,10 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Floodwaters Overwhelm Thailand",
-      "url": "https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/",
-      "summary": "Heavy rains since mid-September have caused widespread flooding that has affected millions of people across the country.",
-      "published": "2026-10-09T04:01:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter…",
-      "published": "2026-10-09T00:08:24+00:00",
+      "title": "NASA’s SSPICY Mission to Demonstrate In-Space Inspection Technologies",
+      "url": "https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/",
+      "summary": "A new NASA-supported spacecraft will get up close to satellites that are no longer in service, demonstrating technologies that could support future in-space repairs and reduce orbital debris. The Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission launched Oct. 1 from Vandenberg Space Force Base in California. The mission is a technology demonstration where an […]",
+      "published": "2026-10-08T18:56:25+00:00",
       "score": 10
     },
     {
@@ -405,11 +324,92 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest in AI-speed business operations while continuing to rely on human-speed security controls, creating a",
-      "published": "2026-10-09T11:30:00+00:00",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "summary": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper authentication vulnerability in the checkSysPwd() function in the \"com/ahsay/obs/api/ApiStructsAction.java\"",
+      "published": "2026-10-09T12:47:26+00:00",
       "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Christa Pike discharged from hospital and returned to prison, her lawyers say",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The convicted murderer was left in a critical condition after she survived two lethal injections.",
+      "published": "2026-10-10T15:58:06+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Hundreds protest over data centre plans",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
+      "published": "2026-10-10T13:40:03+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "'People don't think recycling at work is part of their job description'",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+      "published": "2026-10-09T19:11:27+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Hurricane Isaias strengthens as it heads towards land",
+      "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
+      "published": "2026-10-09T14:23:57+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Hurricane Isaias strengthens to a major category three storm",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+      "published": "2026-10-09T12:54:28+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Livestreaming US execution would breach prohibition of torture, UN rights office warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168565",
+      "summary": "The UN human rights office (OHCHR) on Friday warned that livestreaming a planned execution by firing squad in the United States would amount to a public execution and breach the absolute prohibition on torture.",
+      "published": "2026-10-09T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Serious blow’: Guterres condemns new US sanctions on International Criminal Court",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168562",
+      "summary": "The United States has imposed sanctions on the International Criminal Court (ICC) as an institution, with Secretary of State Marco Rubio vowing on Friday to “dismantle the ICC, brick by brick” unless it ends what Washington regards as a “threat” to its citizens.",
+      "published": "2026-10-09T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: Yemen has fallen back into full-scale war, warns UN envoy",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168559",
+      "summary": "The Security Council met to discuss the crisis in Yemen Friday, where a Houthi offensive launched in September has sharply escalated the 12-year-long war for control of the country and spillover from the US-Iran war has provoked a new displacement crisis. Live coverage below and for full meetings updates, go here.",
+      "published": "2026-10-09T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168554",
+      "summary": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
+      "published": "2026-10-08T12:00:00+00:00",
+      "score": 9
     }
   ]
 }
