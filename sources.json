@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T18:34:06.177554+00:00",
-  "date": "2026-10-13",
+  "generated_at": "2026-10-14T16:01:57.185190+00:00",
+  "date": "2026-10-14",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,73 +9,145 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
-      "summary": "In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.",
-      "published": "2026-10-13T05:02:34+00:00",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "published": "2026-10-14T13:41:51+00:00",
+      "score": 14
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "published": "2026-10-14T13:11:17+00:00",
       "score": 13
     },
     {
-      "source": "MIT Technology Review",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes as the prime minister meets President Zelensky at Downing Street.",
+      "published": "2026-10-14T15:56:57+00:00",
+      "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
+      "summary": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
+      "published": "2026-10-14T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
+      "published": "2026-10-14T11:19:02+00:00",
+      "score": 13
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Carbon capture industry faces tough future, as UK raids green spending",
+      "url": "https://www.climatechangenews.com/2026/10/14/carbon-capture-industry-faces-tough-future-as-uk-raids-green-spending/",
+      "summary": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink The post Carbon capture industry faces tough future, as UK raids green spending appeared first on Climate Home News .",
+      "published": "2026-10-14T14:22:08+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "published": "2026-10-14T10:50:11+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+      "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+      "published": "2026-10-13T23:55:49+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168585",
+      "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
       "published": "2026-10-13T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires",
-      "published": "2026-10-13T08:48:41+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD",
-      "published": "2026-10-13T08:43:37+00:00",
-      "score": 13
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
-      "published": "2026-10-13T10:00:00+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data",
-      "published": "2026-10-13T10:30:00+00:00",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
+      "published": "2026-10-14T11:08:22+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-      "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in MarkLogic 11.3.7 and MarkLogic 12.1.0. Affected",
-      "published": "2026-10-13T08:44:01+00:00",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+      "published": "2026-10-13T18:20:57+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "summary": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
-      "published": "2026-10-13T14:51:59+00:00",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "published": "2026-10-14T13:35:29+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
+      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
+      "published": "2026-10-14T14:18:18+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Saudi employee charged with planting recording device in OpenAI office",
+      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
+      "published": "2026-10-13T21:42:49+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "published": "2026-10-14T11:24:25+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "WHO calls for urgent health action across the Eastern Mediterranean",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
+      "summary": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
+      "published": "2026-10-14T12:00:00+00:00",
       "score": 11
     },
     {
@@ -90,82 +162,73 @@
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL",
-      "url": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
-      "summary": "1 min read Preparations for Next Moonwalk Simulations Underway (and Underwater) View all current NASA job openings at USAJobs Vacancy Announcement for Chief Counsel at NASA Glenn Research Center Return to OGC Homepage",
-      "published": "2026-10-13T17:16:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Voyager Technologies’ Griffin-1 Completes Environmental Testing at NASA JPL",
-      "url": "https://science.nasa.gov/photojournal/voyager-technologies-griffin-1-completes-environmental-testing-at-nasa-jpl/",
-      "summary": "Description A lunar lander from Voyager Technologies completed nearly three months of environmental testing at NASA’s Jet Propulsion Laboratory in Southern California in late September 2026. The tests demonstrate that the spacecraft is prepared to face the harsh conditions of launch, its journey to the Moon, and landing on the surface. Its final trial was […]",
-      "published": "2026-10-13T17:11:11+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
-      "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
-      "summary": "NASA experiments focused on human and plant health and drug-resistant organisms will travel to the International Space Station aboard SpaceX’s 35th Commercial Resupply Services mission for the agency from Cape Canaveral Space Force Station in Florida, advancing research that benefits life on Earth and future exploration. This research supports astronaut health during long-duration missions through […]",
-      "published": "2026-10-12T17:45:27+00:00",
+      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
+      "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
+      "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
+      "published": "2026-10-14T13:32:25+00:00",
       "score": 11
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around…",
-      "published": "2026-10-13T09:00:00+00:00",
+      "title": "The Download: faking blood and the future of batteries",
+      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.…",
+      "published": "2026-10-14T12:10:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack…",
+      "published": "2026-10-13T12:00:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "summary": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your configuration becomes validated and exempt from expiry after its first successful publish,\" the Microsoft-owned subsidiary",
-      "published": "2026-10-13T16:18:18+00:00",
+      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
+      "published": "2026-10-14T12:30:42+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised account that looks legitimate at first could become the starting point for a much",
-      "published": "2026-10-13T11:57:06+00:00",
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
+      "published": "2026-10-14T12:13:36+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12. The chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware",
-      "published": "2026-10-13T11:09:10+00:00",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature. The work was done in a lab as a proof of",
+      "published": "2026-10-14T05:52:28+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa. The preinstalled",
-      "published": "2026-10-13T06:00:11+00:00",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
+      "published": "2026-10-13T18:03:18+00:00",
       "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "SE Asia speeds up plan for connected clean power grid after oil shock",
-      "url": "https://www.climatechangenews.com/2026/10/13/se-asia-speeds-up-plan-for-connected-clean-power-grid-after-oil-shock/",
-      "summary": "Countries are doubling down on plans to connect their grids to bolster energy security and reduce their dependence on fossil fuels — but many challenges remain The post SE Asia speeds up plan for connected clean power grid after oil shock appeared first on Climate Home News .",
-      "published": "2026-10-13T15:34:59+00:00",
+      "title": "Global deforestation slowed in 2025 but Brazil’s election could undo “fragile” gains",
+      "url": "https://www.climatechangenews.com/2026/10/14/global-deforestation-slowed-in-2025-but-brazils-election-could-undo-fragile-gains/",
+      "summary": "Countries remain 70% off track to meet a goal to end deforestation by 2030, as progress in Latin America offset by failures in Africa The post Global deforestation slowed in 2025 but Brazil’s election could undo “fragile” gains appeared first on Climate Home News .",
+      "published": "2026-10-14T15:45:50+00:00",
       "score": 11
     },
     {
@@ -180,91 +243,73 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police say preliminary information suggests the man who died at the Georgia amusement park fell from a ride.",
-      "published": "2026-10-13T17:10:50+00:00",
+      "title": "US inflation rises more than expected - here's what is happening with prices",
+      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "published": "2026-10-14T15:26:14+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Watch: Emergency calls from botched Christa Pike execution released",
-      "url": "https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.",
-      "published": "2026-10-13T12:03:51+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Hungarian MPs scrap Orbán's anti-LGBTQ measures",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss",
-      "summary": "LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.",
-      "published": "2026-10-13T13:23:45+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ex-president named leader of new DR Congo rebel coalition",
-      "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.",
-      "published": "2026-10-13T13:40:45+00:00",
+      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
+      "published": "2026-10-13T19:23:28+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Disasters cost $228 billion in housing losses every year",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168583",
-      "summary": "$228 billion is a staggering amount of money to find, but that’s exactly what communities around the world are faced with every year, to rebuild housing after disaster strikes.",
+      "title": "Yemen: Houthi siege, cholera outbreak and aid cuts put civilians in the crosshairs",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168589",
+      "summary": "Yemen’s southwestern city of Taiz is facing a “devastating” humanitarian crisis as escalating tensions are dramatically driving up food prices and causing shortages of supplies, the UN Spokesperson said on Tuesday.",
       "published": "2026-10-13T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Sudan: Drought and war push Darfur and Kordofan towards famine",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168577",
-      "summary": "The risk of famine is growing in parts of Sudan already torn apart by war, as a severe El Niño drought makes life even harder in Greater Darfur and Greater Kordofan, the UN-backed global hunger monitor warned on Monday.",
-      "published": "2026-10-12T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Sustaining livelihoods amid crisis in Gaza",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168569",
-      "summary": "Nidaa, Hanaa and Hanin have different stories, but share a common thread: the determination to build something of their own and keep it going despite extraordinary challenges facing them in war-ravaged Gaza.",
-      "published": "2026-10-11T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘These attacks must cease immediately’: Guterres condemns deadly Houthi strike on Riyadh airport",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168572",
-      "summary": "UN Secretary-General António Guterres has condemned a Houthi missile attack on Riyadh’s main airport that Saudi authorities say killed 12 people and wounded more than 300.",
-      "published": "2026-10-11T12:00:00+00:00",
+      "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168587",
+      "summary": "Fewer people from West Africa are reaching Europe by sea, but the journey has not become safer, the UN migration agency (IOM) said on Tuesday.",
+      "published": "2026-10-13T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems: A Two-Mode Interaction Perspective",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
-      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov Download the PDF version Complex mode shapes can emerge in a linear structure even when overall damping is low. This behavior can occur when two structural modes are closely spaced in frequency and are coupled through nonproportional damping. As the damping interaction increases, the […]",
-      "published": "2026-10-13T15:02:21+00:00",
+      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
+      "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
+      "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
+      "published": "2026-10-14T15:18:38+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
-      "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
-      "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful launch, the SpaceX Dragon spacecraft will […]",
-      "published": "2026-10-13T11:12:18+00:00",
+      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
+      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
+      "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
+      "published": "2026-10-14T14:41:21+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Hurricane Simon Lurks Off the Mexican Coast",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+      "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
+      "published": "2026-10-14T04:01:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the…",
+      "published": "2026-10-13T10:00:00+00:00",
       "score": 10
     },
     {
@@ -279,64 +324,64 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine because of the \"very serious\" nature of the breach. The infringements",
-      "published": "2026-10-13T13:12:32+00:00",
+      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes",
+      "published": "2026-10-14T11:50:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.",
-      "published": "2026-10-12T15:16:26+00:00",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
+      "published": "2026-10-14T11:00:00+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
-      "published": "2026-10-13T17:36:43+00:00",
-      "score": 9
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
+      "published": "2026-10-14T07:46:57+00:00",
+      "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Pope's surgery to remove lump on lung 'concluded successfully', Vatican says",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Pope Leo has said the growth is \"contained\" and had been found \"at a very early stage\".",
-      "published": "2026-10-13T18:24:03+00:00",
-      "score": 9
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code",
+      "published": "2026-10-14T04:34:43+00:00",
+      "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "BBC FM radio transmissions suspended in Afghanistan",
-      "url": "https://www.bbc.co.uk/news/articles/cm8ezp4g7p6po?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC programming is still reaching audiences on shortwave, medium wave, via satellite and online.",
-      "published": "2026-10-13T12:13:57+00:00",
-      "score": 9
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
+      "published": "2026-10-14T01:59:25+00:00",
+      "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-      "summary": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
-      "published": "2026-10-13T11:18:44+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
+      "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
+      "published": "2026-10-14T14:13:37+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.",
-      "published": "2026-10-12T22:01:43+00:00",
+      "title": "More tea? How Scotland's crops of the future could be set to change",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+      "published": "2026-10-14T05:02:27+00:00",
       "score": 9
     },
     {
@@ -351,9 +396,9 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Global action to end violence against children is lagging behind risks: UN expert",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168582",
-      "summary": "The UN Special Representative on Violence Against Children has called for stronger global action to protect boys and girls caught up in a growing number of crises, as current efforts fall short.",
+      "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168586",
+      "summary": "Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.",
       "published": "2026-10-13T12:00:00+00:00",
       "score": 9
     },
@@ -364,51 +409,6 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168580",
       "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
       "published": "2026-10-12T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "UN aid operation underway in Nepal following fresh floods",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168576",
-      "summary": "The United Nations has rushed to assist Nepal following new flash floods in the central Gorkha district on Sunday that swept away homes and bridges just weeks after catastrophic flooding in the north.",
-      "published": "2026-10-12T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Transporter-18 SmallSats Encapsulation",
-      "url": "https://www.nasa.gov/image-article/transporter-18-smallsats-encapsulation/",
-      "summary": "Three NASA-supported small spacecraft, along with many commercial payloads, are shown before being encapsulated in a SpaceX Falcon 9 ahead of launch on Oct. 1, 2026. The ASCENT Propulsion Dual Mode CubeSat, the Supernova Remnants and Proxies for ReIonization Testbed Experiment (SPRITE) CubeSat, and the Small Spacecraft Propulsion and Inspection Capability (SSPICY) mission will demonstrate […]",
-      "published": "2026-10-13T17:38:37+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
-      "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-      "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern California. The tests simulated the extreme temperatures and vacuum of space, as well as the intense shaking and ear-splitting […]",
-      "published": "2026-10-13T13:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
-      "summary": "APODScienceAPODAPOD: 2026 October 13 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. OriginalAnnotated Desert Stairway to Heaven Explanation: This stairway in Chile brings you only a little bit closer […]",
-      "published": "2026-10-13T04:05:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "An Impact Structure With Legs",
-      "url": "https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/",
-      "summary": "If the thought of extraterrestrial objects crashing into Earth weren’t creepy enough, behold Australia’s Spider Crater.",
-      "published": "2026-10-13T04:01:00+00:00",
       "score": 9
     }
   ]
