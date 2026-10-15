@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T16:01:57.185190+00:00",
-  "date": "2026-10-14",
+  "generated_at": "2026-10-15T15:50:13.070187+00:00",
+  "date": "2026-10-15",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,29 +9,101 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-      "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
-      "published": "2026-10-14T13:41:51+00:00",
-      "score": 14
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "published": "2026-10-15T15:09:15+00:00",
+      "score": 15
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
+      "summary": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council is holding an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory.",
+      "published": "2026-10-15T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168596",
+      "summary": "The UN and its partners are stepping up preparations in Gaza for the approaching cold and rainy season, even as attacks affecting civilians continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Wednesday.",
+      "published": "2026-10-14T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance",
+      "url": "https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/",
+      "summary": "NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface. Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected. In particular, NASA measured whether the thermal protection […]",
+      "published": "2026-10-15T14:57:21+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
+      "published": "2026-10-15T11:46:49+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM. The vulnerability in question is CVE-2026-105740 (CVSS score: 9.9), a case of",
+      "published": "2026-10-15T07:07:05+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,",
+      "published": "2026-10-14T18:38:56+00:00",
+      "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "published": "2026-10-14T13:11:17+00:00",
-      "score": 13
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. .",
+      "published": "2026-10-15T10:51:53+00:00",
+      "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-      "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as the prime minister meets President Zelensky at Downing Street.",
-      "published": "2026-10-14T15:56:57+00:00",
-      "score": 13
+      "title": "North Korea and China open new bridge after 12-year delay",
+      "url": "https://www.bbc.co.uk/news/articles/ck1exgw3j115o?at_medium=RSS&at_campaign=rss",
+      "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
+      "published": "2026-10-15T06:24:45+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+      "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+      "published": "2026-10-14T23:32:11+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168600",
+      "summary": "Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.",
+      "published": "2026-10-15T12:00:00+00:00",
+      "score": 11
     },
     {
       "source": "UN News",
@@ -40,141 +112,24 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168591",
       "summary": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
       "published": "2026-10-14T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
-      "published": "2026-10-14T11:19:02+00:00",
-      "score": 13
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Carbon capture industry faces tough future, as UK raids green spending",
-      "url": "https://www.climatechangenews.com/2026/10/14/carbon-capture-industry-faces-tough-future-as-uk-raids-green-spending/",
-      "summary": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink The post Carbon capture industry faces tough future, as UK raids green spending appeared first on Climate Home News .",
-      "published": "2026-10-14T14:22:08+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Turkish police raid opposition TV station, halting live broadcasts",
-      "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
-      "published": "2026-10-14T10:50:11+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
-      "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
-      "published": "2026-10-13T23:55:49+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168585",
-      "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
-      "published": "2026-10-13T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
-      "published": "2026-10-14T11:08:22+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
-      "published": "2026-10-13T18:20:57+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-      "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
-      "published": "2026-10-14T13:35:29+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-      "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government.",
-      "published": "2026-10-14T14:18:18+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Saudi employee charged with planting recording device in OpenAI office",
-      "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.",
-      "published": "2026-10-13T21:42:49+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Mauritius reels from worst riots in decades after woman shot by police",
-      "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
-      "published": "2026-10-14T11:24:25+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "WHO calls for urgent health action across the Eastern Mediterranean",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
-      "summary": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
-      "published": "2026-10-14T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168578",
-      "summary": "The Security Council met to debate Syria's thorny transition Monday as it faces pressure on several fronts. Economic hardship is fuelling unrest, Israeli incursions continue in the south and sectarian tensions persist in Sweida, even as Damascus reports progress on its chemical weapons programme and talks about future elections. Millions, meanwhile, remain displaced. Follow live below and go here for full meetings coverage.",
-      "published": "2026-10-12T12:00:00+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions",
-      "url": "https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/",
-      "summary": "NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida. Learn where to watch online: https://www.nasa.gov/live Participants in the briefing include: The update will include details about NASA’s Artemis III […]",
-      "published": "2026-10-14T13:32:25+00:00",
+      "title": "Chandra Finds Possible Origin of ‘Treble Clef’ Waves",
+      "url": "https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/",
+      "summary": "A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image from NASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters. Read more about this discovery. […]",
+      "published": "2026-10-15T14:19:06+00:00",
       "score": 11
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "The Download: faking blood and the future of batteries",
-      "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US military’s race to make fake blood In February 2007, a US military helicopter carrying blood to a field hospital was shot down in Iraq, killing all seven crew members.…",
-      "published": "2026-10-14T12:10:00+00:00",
+      "title": "Six wild ideas for perpetuating your mind",
+      "url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down precisely where that…",
+      "published": "2026-10-15T09:00:00+00:00",
       "score": 11
     },
     {
@@ -189,73 +144,100 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
-      "published": "2026-10-14T12:30:42+00:00",
+      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "summary": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the open-source library Next.js uses through the sharp package to handle SVG images. The fixes are in",
+      "published": "2026-10-15T12:28:13+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
-      "published": "2026-10-14T12:13:36+00:00",
+      "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.",
+      "published": "2026-10-15T12:07:20+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature. The work was done in a lab as a proof of",
-      "published": "2026-10-14T05:52:28+00:00",
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving US businesses, which accounted for 16% of country-attributed targets. Similar attacks",
+      "published": "2026-10-15T11:46:59+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
-      "published": "2026-10-13T18:03:18+00:00",
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
+      "published": "2026-10-15T08:45:10+00:00",
       "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "Global deforestation slowed in 2025 but Brazil’s election could undo “fragile” gains",
-      "url": "https://www.climatechangenews.com/2026/10/14/global-deforestation-slowed-in-2025-but-brazils-election-could-undo-fragile-gains/",
-      "summary": "Countries remain 70% off track to meet a goal to end deforestation by 2030, as progress in Latin America offset by failures in Africa The post Global deforestation slowed in 2025 but Brazil’s election could undo “fragile” gains appeared first on Climate Home News .",
-      "published": "2026-10-14T15:45:50+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Governments that support climate science must stand firm against naysayers",
-      "url": "https://www.climatechangenews.com/2026/10/12/governments-that-support-climate-science-must-stand-firm-against-naysayers/",
-      "summary": "The IPCC is meeting to decide the timing of its next major report, as some countries try to delay it and weaken the case for faster emissions cuts The post Governments that support climate science must stand firm against naysayers appeared first on Climate Home News .",
-      "published": "2026-10-12T08:53:51+00:00",
+      "title": "Carbon capture industry faces tough future, as UK raids green spending",
+      "url": "https://www.climatechangenews.com/2026/10/14/carbon-capture-industry-faces-tough-future-as-uk-raids-green-spending/",
+      "summary": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink The post Carbon capture industry faces tough future, as UK raids green spending appeared first on Climate Home News .",
+      "published": "2026-10-14T14:22:08+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US inflation rises more than expected - here's what is happening with prices",
-      "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
-      "published": "2026-10-14T15:26:14+00:00",
+      "title": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said some would \"rather not watch\" the execution of Nidal Hasan, the first military execution in over 60 years.",
+      "published": "2026-10-15T15:17:21+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "url": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Guilfoyle said the allegations of improper conduct were false and that being ambassador was the \"honour of a lifetime\".",
-      "published": "2026-10-13T19:23:28+00:00",
+      "title": "Brazil's Congress approves shorter working week in win for Lula",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days.",
+      "published": "2026-10-15T10:05:17+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Australian woman charged with lacing colleague's curry with snail poison",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3gnep35gko?at_medium=RSS&at_campaign=rss",
+      "summary": "The alleged victim, who was in a relationship with the woman, had spotted bright green pellets in the meal.",
+      "published": "2026-10-15T04:17:45+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+      "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
+      "published": "2026-10-13T23:55:49+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Haiti sanctions renewed: Starving the gangs of bullets",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168598",
+      "summary": "Haiti is living through one of the world’s most acute security crises. Armed gangs control large parts of the capital, Port-au-Prince, and are pushing into rural areas, terrorising communities, killing people, committing rape and other sexual assaults, kidnapping for ransom and extorting individuals and businesses.",
+      "published": "2026-10-14T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "DR Congo: Cholera cases spike amid fight against Ebola",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168595",
+      "summary": "The cholera epidemic continues to spread in the Democratic Republic of Congo (DRC), where more than 125,000 suspected cases and 3,644 suspected deaths were recorded between January 2025 and the end of September 2026, the World Health Organization (WHO) warned on Wednesday.",
+      "published": "2026-10-14T12:00:00+00:00",
       "score": 10
     },
     {
@@ -268,39 +250,30 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: West African migrant crossings, Argentina takes UK to maritime tribunal, farming in Gaza, mental health update",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168587",
-      "summary": "Fewer people from West Africa are reaching Europe by sea, but the journey has not become safer, the UN migration agency (IOM) said on Tuesday.",
-      "published": "2026-10-13T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
+      "url": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
+      "summary": "NASA will preview two upcoming spacewalks to complete solar array installation and power augmentation of the International Space Station during a news conference at 2 p.m. EDT, Tuesday, Oct. 20, from NASA’s Johnson Space Center in Houston. NASA will stream the event through a variety of platforms. Learn where to watch online: https://www.nasa.gov/live NASA participants […]",
+      "published": "2026-10-14T20:13:29+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA’s Space X CRS-35 Launch Jellyfish",
-      "url": "https://www.nasa.gov/image-article/nasas-space-x-crs-35-launch-jellyfish/",
-      "summary": "Sunlight illuminates the exhaust plumes of a SpaceX Falcon 9 rocket carrying the company’s Dragon spacecraft on Oct. 13, 2026. This visual phenomenon is known as a “jellyfish”; it happens near sunrise or sunset when the exhaust plume from the rocket becomes brightly illuminated, creating a glowing shape resembling a jellyfish. The mission lifted off […]",
-      "published": "2026-10-14T15:18:38+00:00",
+      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "summary": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef” because its distinct shape strongly resembles the musical symbol. The researchers discovered the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision […]",
+      "published": "2026-10-14T16:46:58+00:00",
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Develops Batteries to Power Humanity’s Return to Moon",
-      "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-develops-batteries-to-power-humanitys-return-to-moon/",
-      "summary": "If you’ve ever had your car start sluggishly, or not at all, on a particularly frigid winter morning, you know standard batteries do not like extreme cold. That’s why NASA researchers are working to develop a battery that could function in the brutal cold of the Moon’s South Pole, where nighttime temperatures plunge to minus […]",
-      "published": "2026-10-14T14:41:21+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Hurricane Simon Lurks Off the Mexican Coast",
-      "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
-      "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
-      "published": "2026-10-14T04:01:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like state, in one…",
+      "published": "2026-10-15T08:43:24+00:00",
       "score": 10
     },
     {
@@ -313,102 +286,129 @@
       "score": 10
     },
     {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on the moon, with NASA hoping to establish a small…",
-      "published": "2026-10-12T12:10:00+00:00",
+      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
+      "published": "2026-10-15T14:11:36+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes",
-      "published": "2026-10-14T11:50:00+00:00",
+      "title": "Why AI Confidence Is Not Validation",
+      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an",
+      "published": "2026-10-15T11:04:35+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
-      "published": "2026-10-14T11:00:00+00:00",
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems. In a report published earlier",
+      "published": "2026-10-15T06:43:08+00:00",
       "score": 10
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
-      "published": "2026-10-14T07:46:57+00:00",
-      "score": 10
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "published": "2026-10-15T15:26:16+00:00",
+      "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "summary": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint Server, and 22 in SQL Server. Of these, more than 670 relate to privilege escalation, followed by over 300 remote code",
-      "published": "2026-10-14T04:34:43+00:00",
-      "score": 10
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "published": "2026-10-15T10:05:29+00:00",
+      "score": 9
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
-      "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
-      "published": "2026-10-14T01:59:25+00:00",
-      "score": 10
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "published": "2026-10-15T14:51:30+00:00",
+      "score": 9
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
-      "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
-      "summary": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
-      "published": "2026-10-14T14:13:37+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "White House defends new press secretary over her legal credentials",
+      "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived.",
+      "published": "2026-10-15T08:41:04+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "At the Brooklyn shop in 'surreal' row with Kelly Clarkson over mechanical bird",
+      "url": "https://www.bbc.co.uk/news/articles/cxvgdneplgzeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Art of Play says its staff have been threatened after the singer complained online about how she was treated.",
+      "published": "2026-10-14T22:19:13+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Actor Imran Khan ordered to leave India after participating in protest",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
+      "published": "2026-10-15T08:17:07+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "More tea? How Scotland's crops of the future could be set to change",
-      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
-      "published": "2026-10-14T05:02:27+00:00",
+      "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "summary": "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban.",
+      "published": "2026-10-15T15:42:37+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-      "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away.",
-      "published": "2026-10-11T23:13:51+00:00",
+      "title": "£15m for zero-emission testing at Belfast Harbour",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after a £15m investment from UK Research and Innovation's Local Innovation Partnerships Fund.",
+      "published": "2026-10-15T14:55:03+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+      "published": "2026-10-15T03:26:36+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
+      "published": "2026-10-14T23:35:40+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘Need for UN has never been greater,’ UN chief says, proposing slimmer $3.3 billion budget for 2027",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168586",
-      "summary": "Amid climate disruption, an AI revolution, war and growing hunger, “the need for the United Nations has never been greater,” Secretary-General António Guterres said on Tuesday, presenting a $3.3 billion programme budget proposal for next year – a cut of $40.8 million.",
-      "published": "2026-10-13T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Colombia peace deal must endure as insecurity grows, Security Council hears",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168580",
-      "summary": "Nearly 10 years after Colombia signed a historic peace agreement to end a decades-long insurgency, the deal is under strain from growing insecurity – and the UN’s top official in the country says it cannot be allowed to falter.",
-      "published": "2026-10-12T12:00:00+00:00",
+      "title": "Health workers tackle taboos over drinking with new AI tool",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168594",
+      "summary": "A new AI-powered hub for health professionals aims to help identify alcohol-related risks and launch discussions with patients, including the link between drinking and cancer, the World Health Organization (WHO) announced on Wednesday.",
+      "published": "2026-10-14T12:00:00+00:00",
       "score": 9
     }
   ]
