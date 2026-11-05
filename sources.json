@@ -1,91 +1,100 @@
 {
-  "generated_at": "2026-11-04T18:56:13.860043+00:00",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05T19:07:32.119967+00:00",
+  "date": "2026-11-05",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
-      "published": "2026-11-04T05:43:11+00:00",
-      "score": 15
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
-      "published": "2026-11-04T17:00:38+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "published": "2026-11-05T17:40:40+00:00",
       "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
-      "published": "2026-11-04T14:27:52+00:00",
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
+      "published": "2026-11-05T07:06:33+00:00",
       "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
+      "published": "2026-11-05T05:17:04+00:00",
+      "score": 14
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore […]",
+      "published": "2026-11-05T01:43:21+00:00",
+      "score": 13
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s…",
+      "published": "2026-11-05T13:10:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates",
+      "published": "2026-11-05T12:25:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
+      "published": "2026-11-05T10:06:19+00:00",
+      "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
-      "published": "2026-11-04T17:45:58+00:00",
-      "score": 13
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "published": "2026-11-05T17:39:48+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "published": "2026-11-05T03:47:56+00:00",
+      "score": 12
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168725",
-      "summary": "Although global warming is set to exceed 1.5°C, financing to help communities adapt to climate change falls far short of needs, the UN Environment Programme (UNEP) said in a report published on Wednesday.",
+      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+      "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
       "published": "2026-11-04T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
-      "summary": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
-      "published": "2026-11-03T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
-      "published": "2026-11-04T16:52:43+00:00",
-      "score": 13
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Hubble Reveals Cosmic Mystery",
-      "url": "https://www.nasa.gov/image-article/hubble-reveals-cosmic-mystery/",
-      "summary": "This photo released on Nov. 2, 2026, showcases NGC 4449, a dwarf irregular. Researchers using NASA’s Hubble Space Telescope studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — including NGC 4449 and found that much of the oxygen they expected to see is missing. Read […]",
-      "published": "2026-11-04T15:59:36+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
-      "published": "2026-11-04T16:06:43+00:00",
-      "score": 13
+      "score": 12
     },
     {
       "source": "UN News",
@@ -97,102 +106,93 @@
       "score": 12
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]",
-      "published": "2026-11-04T18:00:02+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
+      "published": "2026-11-05T08:42:03+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are \"suspected of embezzling funds from the",
-      "published": "2026-11-04T08:17:11+00:00",
+      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
+      "published": "2026-11-04T17:00:38+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules. As of November 4, Google's bulletin did not report",
-      "published": "2026-11-04T07:46:15+00:00",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
+      "published": "2026-11-04T14:27:52+00:00",
       "score": 12
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "India builds deep-sea capacity in bet on critical minerals future",
-      "url": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
-      "summary": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for a precautionary pause The post India builds deep-sea capacity in bet on critical minerals future appeared first on Climate Home News .",
-      "published": "2026-11-04T12:53:31+00:00",
-      "score": 12
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-      "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-      "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.… The post CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes appeared first on Carbon Brief .",
-      "published": "2026-11-04T10:40:52+00:00",
+      "title": "COP31 Briefing: What to expect from the Antalya climate summit?",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/",
+      "summary": "Electrification, the fossil fuel transition, adaptation to rising impacts, climate science and trade are key themes as governments gather for COP31 in Türkiye The post COP31 Briefing: What to expect from the Antalya climate summit? appeared first on Climate Home News .",
+      "published": "2026-11-05T14:09:45+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
-      "published": "2026-11-04T13:33:30+00:00",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "published": "2026-11-05T15:44:49+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "'Most difficult days of my life' for keeper Owono",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o?at_medium=RSS&at_campaign=rss",
-      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
-      "published": "2026-11-04T16:40:38+00:00",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "published": "2026-11-05T13:51:03+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Israel's president begins consultations with parties after election deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
-      "published": "2026-11-04T16:18:21+00:00",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "published": "2026-11-05T02:09:23+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
-      "published": "2026-11-04T16:59:15+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
+      "published": "2026-11-05T12:00:00+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "ANC under pressure to reverse South Africa decline",
-      "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
-      "published": "2026-11-04T11:47:44+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168737",
+      "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
+      "published": "2026-11-04T12:00:00+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "url": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.",
-      "published": "2026-11-04T12:34:33+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168725",
+      "summary": "Although global warming is set to exceed 1.5°C, financing to help communities adapt to climate change falls far short of needs, the UN Environment Programme (UNEP) said in a report published on Wednesday.",
+      "published": "2026-11-04T12:00:00+00:00",
       "score": 11
     },
     {
@@ -205,84 +205,57 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ukraine: WFP provides hot meals to Oleshky evacuees as UN pushes to restore power before winter",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168722",
-      "summary": "The UN World Food Programme (WFP) is providing emergency food assistance to more than 400 people who were able to leave the Russian-occupied city of Oleshky, in Ukraine’s Kherson region, during a brief local ceasefire.",
-      "published": "2026-11-02T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Ethiopia: Violence in the north is pushing health system to the brink, WHO chief warns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168720",
-      "summary": "The head of the World Health Organization (WHO) called on Monday for greater protection for civilians caught in conflict in northern Ethiopia following deadly drone strikes this past weekend.",
-      "published": "2026-11-02T12:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago. …",
-      "published": "2026-11-04T17:08:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our…",
-      "published": "2026-11-02T13:10:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control payload completed simulated lunar descent and landing maneuvers Aug. 27. The flight took place […]",
+      "published": "2026-11-04T16:52:43+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
-      "published": "2026-11-04T12:07:04+00:00",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+      "published": "2026-11-05T12:08:54+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory on November 3. All Xen versions from 4.6 onward are vulnerable,",
-      "published": "2026-11-04T11:46:27+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and",
-      "published": "2026-11-04T11:24:31+00:00",
+      "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The phenomenon has been codenamed prompt adware by Check Point Research. Called Haiou (meaning Seagull in Chinese), the jailbreak modifies OpenAI Codex's configuration",
+      "published": "2026-11-04T16:06:43+00:00",
       "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "COP30 adaptation pledge would meet under a third of poorer nations’ needs, UN warns",
-      "url": "https://www.climatechangenews.com/2026/11/04/cop30-adaptation-pledge-would-meet-under-a-third-of-poorer-nations-needs-un-warns/",
-      "summary": "Even tripled by 2035, adaptation finance would reach $85-120bn a year against $420bn in needs – and rich nations’ real contribution could barely grow The post COP30 adaptation pledge would meet under a third of poorer nations’ needs, UN warns appeared first on Climate Home News .",
-      "published": "2026-11-04T18:20:24+00:00",
+      "title": "Turkey must make COP31 a turning point for global climate action",
+      "url": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
+      "summary": "Turkey, which bridges developed and developing economies, is well placed to build consensus and partnerships at the Antalya summit - but it can set a better example at home too The post Turkey must make COP31 a turning point for global climate action appeared first on Climate Home News .",
+      "published": "2026-11-05T17:25:01+00:00",
       "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
-      "url": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
-      "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for themselves The post The great disaster divide: How the super-rich are profiting from global climate suffering appeared first on Climate Home News .",
-      "published": "2026-11-04T17:29:57+00:00",
+      "title": "Governments must embrace Fossil Free Zones as they head to COP31",
+      "url": "https://www.climatechangenews.com/2026/11/05/governments-colombia-vanuatu-fossil-free-zone-cop31-antalya-turkiye-australia/",
+      "summary": "Colombia and Vanuatu share their experiences of creating new fossil fuel-free zones as a tool to transition away from coal, oil and gas The post Governments must embrace Fossil Free Zones as they head to COP31 appeared first on Climate Home News .",
+      "published": "2026-11-05T11:19:29+00:00",
+      "score": 11
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Clean power shields China from oil shock more than any other country",
+      "url": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
+      "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts say The post Clean power shields China from oil shock more than any other country appeared first on Climate Home News .",
+      "published": "2026-11-05T01:00:00+00:00",
       "score": 11
     },
     {
@@ -297,37 +270,10 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
-      "published": "2026-11-04T18:01:31+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
-      "published": "2026-11-04T16:26:15+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Secret police files released in Hungary, 37 years after fall of communism",
-      "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko?at_medium=RSS&at_campaign=rss",
-      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
-      "published": "2026-11-04T15:28:18+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "published": "2026-11-04T06:11:43+00:00",
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "published": "2026-11-05T14:28:21+00:00",
       "score": 10
     },
     {
@@ -342,74 +288,128 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "World News in Brief: healthcare crisis in Yemen’s Taiz and Afghanistan, Western Sahara mission's phased closure",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168723",
-      "summary": "The humanitarian crisis in Yemen is worsening, particularly in the southwestern city of Taiz, which is being encircled by paramilitary Iran-backed Houthi forces.",
-      "published": "2026-11-02T12:00:00+00:00",
+      "title": "Two new Ebola vaccines to join DR Congo clinical trial",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168742",
+      "summary": "Two new Ebola vaccine candidates will be added to a clinical trial in the Democratic Republic of the Congo (DRC) as the country continues to battle a deadly outbreak caused by the Bundibugyo species of the virus.",
+      "published": "2026-11-05T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168735",
+      "summary": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
+      "published": "2026-11-04T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168741",
+      "summary": "The UN’s peacekeeping chief warned on Wednesday that the withdrawal of “Blue Helmets” from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
+      "published": "2026-11-04T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168738",
+      "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.",
+      "published": "2026-11-04T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brought students into the heart of the action. In Iowa, NASA Administrator Jared […]",
-      "published": "2026-11-04T16:16:41+00:00",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s Artemis III test flight in 2027 and Artemis IV Moon […]",
+      "published": "2026-11-04T21:04:10+00:00",
       "score": 10
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "summary": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov. Download PDF here Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due […]",
-      "published": "2026-11-03T15:35:14+00:00",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will aim to acquire end-to-end solutions that include space, ground, launch, operations, and integration […]",
+      "published": "2026-11-04T18:00:02+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring possible paths to keep your mind going, including gradual…",
-      "published": "2026-11-04T18:21:40+00:00",
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally…",
+      "published": "2026-11-05T10:00:00+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Securing the agentic enterprise with data lineage",
-      "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-      "published": "2026-11-04T13:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
-      "published": "2026-11-04T17:00:46+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation",
-      "published": "2026-11-04T11:34:20+00:00",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
+      "published": "2026-11-04T18:50:55+00:00",
       "score": 10
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "COP31 must deliver finance for Africa or there will be no implementation",
-      "url": "https://www.climatechangenews.com/2026/11/04/cop31-must-deliver-finance-for-africa-or-there-will-be-no-implementation/",
-      "summary": "Without real progress in Antalya on finance for adaptation and energy transition, next year's Africa-hosted COP will inherit the same unmet promises The post COP31 must deliver finance for Africa or there will be no implementation appeared first on Climate Home News .",
-      "published": "2026-11-04T15:46:23+00:00",
+      "title": "When the oil companies leave, who pays?",
+      "url": "https://www.climatechangenews.com/2026/11/05/when-the-oil-companies-leave-who-pays/",
+      "summary": "Across the world, communities facing the decline of fossil fuel industries are demanding a Just Transition that gives them a say in what comes next. Establishing a strong mechanism at COP31 could help them secure it The post When the oil companies leave, who pays? appeared first on Climate Home News .",
+      "published": "2026-11-05T16:22:25+00:00",
       "score": 10
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "India builds deep-sea capacity in bet on critical minerals future",
+      "url": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
+      "summary": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for a precautionary pause The post India builds deep-sea capacity in bet on critical minerals future appeared first on Climate Home News .",
+      "published": "2026-11-04T12:53:31+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Interactive: Tracking negotiating texts at the COP31 climate summit",
+      "url": "https://www.carbonbrief.org/interactive-tracking-negotiating-texts-at-the-cop31-climate-summit",
+      "summary": "The centrepiece of every UN climate summit is for countries to negotiate the wording of a large number of legal… The post Interactive: Tracking negotiating texts at the COP31 climate summit appeared first on Carbon Brief .",
+      "published": "2026-11-05T14:13:38+00:00",
+      "score": 10
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
+      "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
+      "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.… The post CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes appeared first on Carbon Brief .",
+      "published": "2026-11-04T10:40:52+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "published": "2026-11-05T17:59:53+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Manhunt in western Turkey after eight killed in series of shootings",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Eight people have been killed and one seriously injured in a series of shootings in western Turkey.",
+      "published": "2026-11-05T18:48:53+00:00",
+      "score": 9
     }
   ]
 }
