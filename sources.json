@@ -1,91 +1,28 @@
 {
-  "generated_at": "2026-11-06T18:35:05.966024+00:00",
-  "date": "2026-11-06",
+  "generated_at": "2026-11-07T17:02:58.324496+00:00",
+  "date": "2026-11-07",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
   ],
   "articles": [
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
-      "published": "2026-11-06T14:58:32+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "published": "2026-11-07T16:50:06+00:00",
       "score": 14
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
-      "published": "2026-11-06T16:43:30+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "What is net zero and is the UK on track to achieve it?",
-      "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
-      "published": "2026-11-06T16:22:51+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168751",
-      "summary": "Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.",
-      "published": "2026-11-06T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
-      "summary": "The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.",
-      "published": "2026-11-06T12:00:00+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
-      "published": "2026-11-06T16:08:38+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
-      "published": "2026-11-06T15:21:49+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
-      "published": "2026-11-06T12:06:35+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
-      "published": "2026-11-06T08:04:49+00:00",
-      "score": 13
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "published": "2026-11-07T12:49:36+00:00",
+      "score": 14
     },
     {
       "source": "The Hacker News",
@@ -97,57 +34,21 @@
       "score": 13
     },
     {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "A really simple guide to climate change",
-      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
-      "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
-      "published": "2026-11-06T16:40:51+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
-      "summary": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs.",
-      "published": "2026-11-06T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
-      "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
-      "published": "2026-11-04T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "MIT Technology Review",
+      "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
-      "published": "2026-11-06T13:10:00+00:00",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+      "published": "2026-11-07T06:44:17+00:00",
       "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
-      "published": "2026-11-06T05:58:54+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
-      "published": "2026-11-06T05:39:10+00:00",
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
+      "published": "2026-11-06T14:58:32+00:00",
       "score": 12
     },
     {
@@ -160,66 +61,48 @@
       "score": 12
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
-      "url": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
-      "summary": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used The post European nations signal support for fossil fuel roadmap, says COP30 president appeared first on Climate Home News .",
-      "published": "2026-11-06T12:44:50+00:00",
-      "score": 12
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Four midterms takeaways for 2028 White House race",
-      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-      "published": "2026-11-06T16:12:22+00:00",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "published": "2026-11-06T23:24:15+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "published": "2026-11-06T12:51:38+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
+      "published": "2026-11-06T16:43:30+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "published": "2026-11-06T09:57:04+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Somalia's top court rejects president's term extension amid political crisis",
-      "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
-      "published": "2026-11-06T08:18:10+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "What is net zero and is the UK on track to achieve it?",
+      "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say.",
+      "published": "2026-11-06T16:22:51+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Syria’s undocumented children ‘pay the price’ of war and a law that shuts out mothers",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168737",
-      "summary": "Many children born in Syria since the war began in 2011 have no legal identity because nationality passes only through fathers – many of whom are dead or missing – a member of the independent UN commission investigating rights violations in the country said on Wednesday.",
-      "published": "2026-11-04T12:00:00+00:00",
+      "title": "From a ship frozen into Arctic ice, a warning to world leaders: Trust the science",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168751",
+      "summary": "Drifting through the polar darkness, a team of scientists is documenting a rapidly changing Arctic. As sea ice retreats and oil tankers move in, a conversation with the UN chief reveals why the battle for climate science matters far beyond the North Pole.",
+      "published": "2026-11-06T12:00:00+00:00",
       "score": 11
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies. The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore […]",
-      "published": "2026-11-05T01:43:21+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘No Escape’ for refugees on the frontlines of the climate crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168752",
+      "summary": "The climate emergency is an immediate crisis for refugees, with three in four – nearly 90 million people – living in countries facing high to severe exposure to hazards such as drought, floods and extreme heat.",
+      "published": "2026-11-06T12:00:00+00:00",
       "score": 11
     },
     {
@@ -234,20 +117,83 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
-      "published": "2026-11-06T12:06:43+00:00",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
+      "published": "2026-11-06T16:08:38+00:00",
       "score": 11
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
-      "url": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
-      "summary": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks The post Nepal seeks stronger recognition of mountain issues in UN climate process appeared first on Climate Home News .",
-      "published": "2026-11-06T14:57:02+00:00",
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+      "published": "2026-11-06T15:21:49+00:00",
       "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
+      "published": "2026-11-06T12:06:35+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
+      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we removed access to Reactor and Data Solutions,\" the company said. \"At this time we continue to have no evidence that any investigations data has been accessed",
+      "published": "2026-11-06T08:04:49+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "No clear winner after tight New Zealand general election",
+      "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "published": "2026-11-07T15:56:28+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "published": "2026-11-07T07:20:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Pope in 'pretty good health' as he starts Latin America tour",
+      "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+      "published": "2026-11-07T06:59:48+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "published": "2026-11-07T07:27:44+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "published": "2026-11-07T08:15:55+00:00",
+      "score": 10
     },
     {
       "source": "BBC World",
@@ -255,88 +201,52 @@
       "title": "AI stocks climb after trillions wiped from market values",
       "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
       "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-      "published": "2026-11-06T17:03:02+00:00",
+      "published": "2026-11-06T21:06:25+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "New wave of bomb threats hit European airlines",
-      "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-      "published": "2026-11-06T15:25:35+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "published": "2026-11-06T16:51:01+00:00",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "published": "2026-11-06T17:44:02+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
-      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-      "summary": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
-      "published": "2026-11-06T01:22:39+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-      "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough.",
-      "published": "2026-11-05T23:16:53+00:00",
+      "title": "A really simple guide to climate change",
+      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+      "summary": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
+      "published": "2026-11-06T16:40:51+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168735",
-      "summary": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
-      "published": "2026-11-04T12:00:00+00:00",
+      "title": "Sudan’s suffering is plain for all to see say aid teams, as brutal war continues",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168753",
+      "summary": "Aid teams working to help millions of people uprooted by the ongoing war in Sudan appealed on Friday for more international assistance amid desperate funding shortages, empty warehouses and overwhelming needs.",
+      "published": "2026-11-06T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168741",
-      "summary": "The UN’s peacekeeping chief warned on Wednesday that the withdrawal of “Blue Helmets” from Lebanon and Western Sahara risks leaving a dangerous security vacuum, while the Security Council remains divided over what, if anything, should replace them.",
+      "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
+      "summary": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
       "published": "2026-11-04T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Fuel price shock: Why developing economies are paying the most at the pump",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168738",
-      "summary": "When war shut the Strait of Hormuz in February, oil prices soared everywhere. But the pain at the pump has been far from equal, and the world’s developing economies are paying the heaviest price, according to a new report from UNCTAD, the UN trade and development agency.",
-      "published": "2026-11-04T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "M30’s Sparkling Stars",
-      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about […]",
-      "published": "2026-11-06T16:23:41+00:00",
       "score": 10
     },
     {
       "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
-      "published": "2026-11-06T10:00:00+00:00",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot cleaning service in…",
+      "published": "2026-11-06T13:10:00+00:00",
       "score": 10
     },
     {
@@ -351,10 +261,28 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "The Flood is Coming And The Pipes Were Already Full",
-      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
-      "published": "2026-11-06T11:30:00+00:00",
+      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those requests never appear in its access logs. Installing it takes root access, so the attackers must already control the server.",
+      "published": "2026-11-06T05:58:54+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
+      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
+      "published": "2026-11-06T05:39:10+00:00",
+      "score": 10
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
+      "url": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
+      "summary": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used The post European nations signal support for fossil fuel roadmap, says COP30 president appeared first on Climate Home News .",
+      "published": "2026-11-06T12:44:50+00:00",
       "score": 10
     },
     {
@@ -367,48 +295,120 @@
       "score": 10
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "India builds deep-sea capacity in bet on critical minerals future",
-      "url": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
-      "summary": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for a precautionary pause The post India builds deep-sea capacity in bet on critical minerals future appeared first on Climate Home News .",
-      "published": "2026-11-04T12:53:31+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid",
-      "url": "https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid",
-      "summary": "China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to… The post Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid appeared first on Carbon Brief .",
-      "published": "2026-11-06T00:01:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes",
-      "url": "https://www.carbonbrief.org/cb-live-carbon-briefs-team-at-cop17-on-the-nature-talks-key-outcomes",
-      "summary": "Following this year’s UN COP17 biodiversity conference, Carbon Brief’s journalists hosted a livestream to explain what happened at the summit.… The post CB Live: Carbon Brief’s team at COP17 on the nature talks’ key outcomes appeared first on Carbon Brief .",
-      "published": "2026-11-04T10:40:52+00:00",
-      "score": 10
-    },
-    {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Two dead after bus crashes in France, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "published": "2026-11-06T15:33:52+00:00",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "published": "2026-11-07T15:19:35+00:00",
       "score": 9
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "published": "2026-11-06T14:46:03+00:00",
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168758",
+      "summary": "Afghanistan stands at a “difficult crossroad” more than five years after the Taliban returned to power, a senior UN official said on Friday. Relative stability and security are being undercut by a fragile economy, sweeping curbs on rights and acute humanitarian need.",
+      "published": "2026-11-06T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168749",
+      "summary": "Drone strikes that killed at least 30 people in Abyei last month have added “a new and concerning dimension” to security in the disputed area, the UN’s peacekeeping chief told the Security Council on Thursday.",
+      "published": "2026-11-05T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
+      "published": "2026-11-05T12:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "What’s next for US energy policy after the midterm elections?",
+      "url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
+      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory two years ago. …",
+      "published": "2026-11-04T17:08:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
+      "published": "2026-11-06T12:06:43+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
+      "url": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
+      "summary": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks The post Nepal seeks stronger recognition of mountain issues in UN climate process appeared first on Climate Home News .",
+      "published": "2026-11-06T14:57:02+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Turkey must make COP31 a turning point for global climate action",
+      "url": "https://www.climatechangenews.com/2026/11/05/turkey-must-make-cop31-a-turning-point-for-global-climate-action/",
+      "summary": "Turkey, which bridges developed and developing economies, is well placed to build consensus and partnerships at the Antalya summit - but it can set a better example at home too The post Turkey must make COP31 a turning point for global climate action appeared first on Climate Home News .",
+      "published": "2026-11-05T17:25:01+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Governments must embrace Fossil Free Zones as they head to COP31",
+      "url": "https://www.climatechangenews.com/2026/11/05/governments-colombia-vanuatu-fossil-free-zone-cop31-antalya-turkiye-australia/",
+      "summary": "Colombia and Vanuatu share their experiences of creating new fossil fuel-free zones as a tool to transition away from coal, oil and gas The post Governments must embrace Fossil Free Zones as they head to COP31 appeared first on Climate Home News .",
+      "published": "2026-11-05T11:19:29+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Clean power shields China from oil shock more than any other country",
+      "url": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
+      "summary": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts say The post Clean power shields China from oil shock more than any other country appeared first on Climate Home News .",
+      "published": "2026-11-05T01:00:00+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "COP30 adaptation pledge would meet under a third of poorer nations’ needs, UN warns",
+      "url": "https://www.climatechangenews.com/2026/11/04/cop30-adaptation-pledge-would-meet-under-a-third-of-poorer-nations-needs-un-warns/",
+      "summary": "Even tripled by 2035, adaptation finance would reach only $85-120bn a year against $305bn in estimated needs, the new Adaptation Gap Report shows The post COP30 adaptation pledge would meet under a third of poorer nations’ needs, UN warns appeared first on Climate Home News .",
+      "published": "2026-11-04T18:20:24+00:00",
+      "score": 9
+    },
+    {
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
+      "url": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
+      "summary": "New research from Oxfam shows the wealthiest 0.1% are making money from the climate crisis their pollution has caused, while buying protection for themselves The post The great disaster divide: How the super-rich are profiting from global climate suffering appeared first on Climate Home News .",
+      "published": "2026-11-04T17:29:57+00:00",
+      "score": 9
+    },
+    {
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "UK climate minister Katie White: COP31 must respond to ‘really scary’ science",
+      "url": "https://www.carbonbrief.org/uk-climate-minister-katie-white-cop31-must-respond-to-really-scary-science",
+      "summary": "The upcoming COP31 climate talks in Antalya, Turkey need to respond to the latest science on global warming, which is… The post UK climate minister Katie White: COP31 must respond to ‘really scary’ science appeared first on Carbon Brief .",
+      "published": "2026-11-03T16:50:09+00:00",
       "score": 9
     }
   ]
