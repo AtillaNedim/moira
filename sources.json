@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T19:14:25.537336+00:00",
-  "date": "2026-11-12",
+  "generated_at": "2026-11-13T18:50:53.706625+00:00",
+  "date": "2026-11-13",
   "source_count": 45,
   "failed_sources": [
     "ReliefWeb: no element found: line 1, column 0"
@@ -9,118 +9,145 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "url": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the details with The Hacker News, said the recovered attacker toolkit exploits CVE-2026-84869 (CVSS score: 9.9), an",
-      "published": "2026-11-12T13:08:28+00:00",
-      "score": 16
+      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
+      "published": "2026-11-13T11:10:40+00:00",
+      "score": 15
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-      "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It has been described as a case of improper input validation and deserialization of untrusted data that could result in",
-      "published": "2026-11-12T11:33:15+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "published": "2026-11-13T16:40:31+00:00",
       "score": 14
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "published": "2026-11-12T18:28:59+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "published": "2026-11-12T13:02:46+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "published": "2026-11-12T16:54:12+00:00",
-      "score": 13
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be recognized for their…",
+      "published": "2026-11-13T10:00:00+00:00",
+      "score": 14
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This delivery pattern has been codenamed TypoPrompting by Island. \"AI-app lookalikes that turn an attempt to reach a familiar tool into a prompt to verify,",
-      "published": "2026-11-12T15:15:40+00:00",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+      "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the signed report confirming which software it runs. Both need control of the server's hypervisor, and Mior also needs control of the server's BIOS. Researchers",
+      "published": "2026-11-13T15:27:05+00:00",
       "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+      "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+      "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+      "published": "2026-11-13T11:43:27+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "published": "2026-11-13T15:40:08+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+      "summary": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.",
+      "published": "2026-11-13T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "COP31: New initiative targets AI and reliable climate change information",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168798",
+      "summary": "New guidance has been issued to ensure that people everywhere can obtain credible climate change information from artificial intelligence (AI) and understand how the technology impacts the environment.",
+      "published": "2026-11-13T12:00:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
+      "published": "2026-11-12T20:16:24+00:00",
+      "score": 12
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws may let an attacker with code on the same processor core infer data from other processes or the kernel. The affected",
-      "published": "2026-11-12T12:09:14+00:00",
-      "score": 13
+      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
+      "published": "2026-11-13T10:55:03+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
+      "published": "2026-11-13T08:05:49+00:00",
+      "score": 12
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "Push for ocean roadmap that informs next global stocktake grows at COP31",
-      "url": "https://www.climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya/",
-      "summary": "A group of countries including African nations, European Union, and small island states wants COP31 to deliver an ocean roadmap towards 2028 The post Push for ocean roadmap that informs next global stocktake grows at COP31 appeared first on Climate Home News .",
-      "published": "2026-11-12T16:02:21+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-      "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-      "published": "2026-11-12T13:58:49+00:00",
+      "title": "COP31 Bulletin Day 5: Cover decision wishlist issued as China bows out of COP33 hosting",
+      "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/",
+      "summary": "Governments must start narrowing down what a political decision could look like in Antalya, while the conversation buzzes around who will host 2028's important COP The post COP31 Bulletin Day 5: Cover decision wishlist issued as China bows out of COP33 hosting appeared first on Climate Home News .",
+      "published": "2026-11-13T10:28:21+00:00",
       "score": 12
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-      "url": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-      "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security spotted the campaign and has since taken down hundreds of attacker domains in an effort the team calls Operation CloudFire.",
-      "published": "2026-11-12T11:51:31+00:00",
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "We must strengthen trade cooperation to deliver on global climate goals",
+      "url": "https://www.climatechangenews.com/2026/11/13/we-must-strengthen-trade-cooperation-to-deliver-on-global-climate-goals/",
+      "summary": "As governments turn to trade-related measures to deliver on their climate targets, cooperation is vital to reduce fragmentation, costs and build more resilient economies The post We must strengthen trade cooperation to deliver on global climate goals appeared first on Climate Home News .",
+      "published": "2026-11-13T04:00:00+00:00",
       "score": 12
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "published": "2026-11-12T15:18:20+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "published": "2026-11-11T22:07:37+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "What could El Niño mean for winter weather in the US and Canada?",
+      "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+      "summary": "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex.",
+      "published": "2026-11-13T18:50:15+00:00",
       "score": 11
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-      "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
-      "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
-      "published": "2026-11-12T11:03:53+00:00",
+      "title": "Summer heatwave put bin crews lives at risk, says council worker",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+      "published": "2026-11-13T12:03:04+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "DR Congo Ebola outbreak: Unrest fuelled by armed groups holds back response",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168797",
+      "summary": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) continues to spread amid repeated and ongoing deadly attacks on civilians and frontline health workers by armed groups that are obstructing efforts to stop transmission, UN responders said on Friday.",
+      "published": "2026-11-13T12:00:00+00:00",
       "score": 11
     },
     {
@@ -133,129 +160,66 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Security Council LIVE: South Sudan’s first elections loom amid rising violence",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168774",
-      "summary": "With South Sudan just six weeks away from its first national elections since independence, the Security Council meets in New York Tuesday amid deepening political uncertainty and worsening violence. Ambassadors are expected to press for an inclusive process and credible polls, while civilians bear the brunt of fighting, hunger and displacement.",
-      "published": "2026-11-10T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
+      "url": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
+      "summary": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also spurring the development of […]",
+      "published": "2026-11-13T16:05:54+00:00",
       "score": 11
     },
     {
       "source": "NASA Breaking News",
       "category": "Wissenschaft",
-      "title": "Curiosity Blog, Sols 5063-5069 Rocks and Chips",
-      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5063-5069-rocks-and-chips/",
-      "summary": "Written by William Farrand, Senior Research Scientist, Space Science Institute Earth planning date: Friday, Nov. 6, 2026 This week Curiosity has been completing its drill campaign at the “Nazca” drill hole. This is an area characterized by bedrock containing disk-shaped (or in a liberal interpretation, potato chip shaped … see linked image) crystal forms. A […]",
-      "published": "2026-11-12T00:41:35+00:00",
-      "score": 11
-    },
-    {
-      "source": "MIT Technology Review",
-      "category": "Technik",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the annual UN climate talks. But this year’s negotiations…",
-      "published": "2026-11-12T13:10:00+00:00",
+      "title": "Heart in the Sky at NASA Kennedy",
+      "url": "https://www.nasa.gov/image-article/heart-in-the-sky-at-nasa-kennedy/",
+      "summary": "The U.S. Air Force Thunderbirds create a heart-shaped smoke trail during a flight maneuver near NASA’s Vehicle Assembly Building during the agency’s MAX POWER expo and air show on Sunday, Nov. 8, 2026, at NASA’s Kennedy Space Center in Florida. NASA’s MAX POWER is an aerospace festival celebrating the past, present, and future of flight […]",
+      "published": "2026-11-12T19:12:49+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API call could come from a machine account. Or an AI agent might be accessing sensitive systems using permissions nobody",
-      "published": "2026-11-12T18:07:15+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right there. Attackers are using fake websites, stolen access, and trusted tools to get into places they shouldn't be. AI is helping them build attacks faster, while",
-      "published": "2026-11-12T18:02:51+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no account. When it is off, anyone with a valid account can still exploit the flaw, Red Hat said yesterday. The company has released fixed builds for eight Quay",
-      "published": "2026-11-12T16:27:01+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities that impact NetScaler ADC and NetScaler Gateway are listed below - CVE-2026-120868 (CVSS score: 9.3) - A memory overflow vulnerability in Packet",
-      "published": "2026-11-12T15:38:49+00:00",
-      "score": 11
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the database, released fixed versions earlier this week. The affected servers are members of a replica",
-      "published": "2026-11-12T09:25:00+00:00",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+      "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language extensions installed on the server. The flaw, tracked as CVE-2026-6460, has a CVSS score of 8.8. Any code run this way has the rights of the operating",
+      "published": "2026-11-13T16:53:08+00:00",
       "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "COP31’s electrification pledge wins support, with caveats on clean power and finance",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31s-electrification-pledge-wins-support-with-caveats-on-clean-power-and-finance/",
-      "summary": "At least 14 countries have endorsed the voluntary pledge so far, but island nations warn it must not distract from the shift away from fossil fuels The post COP31’s electrification pledge wins support, with caveats on clean power and finance appeared first on Climate Home News .",
-      "published": "2026-11-12T12:08:10+00:00",
-      "score": 11
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "COP31 Bulletin Day 4: Emerging economies question need for COP31 cover decision",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
-      "summary": "Russia, Saudi Arabia and others are questioning the legitimacy of the Australian-Turkish push for an overarching COP31 agreement The post COP31 Bulletin Day 4: Emerging economies question need for COP31 cover decision appeared first on Climate Home News .",
-      "published": "2026-11-12T08:33:44+00:00",
+      "title": "Push for ocean roadmap that informs next global stocktake grows at COP31",
+      "url": "https://www.climatechangenews.com/2026/11/12/push-ocean-roadmap-informs-next-global-stocktake-grows-cop31-antalya/",
+      "summary": "A group of countries including African nations, European Union, and small island states wants COP31 to deliver an ocean roadmap towards 2028 The post Push for ocean roadmap that informs next global stocktake grows at COP31 appeared first on Climate Home News .",
+      "published": "2026-11-12T16:02:21+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "published": "2026-11-12T12:56:55+00:00",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "published": "2026-11-13T18:36:57+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
-      "published": "2026-11-12T18:47:35+00:00",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "published": "2026-11-13T15:48:07+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from.",
-      "published": "2026-11-12T07:45:52+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-      "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says.",
-      "published": "2026-11-12T06:02:55+00:00",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "published": "2026-11-13T02:48:29+00:00",
       "score": 10
     },
     {
@@ -270,6 +234,24 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
+      "title": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+      "summary": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.",
+      "published": "2026-11-12T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168793",
+      "summary": "The World Food Programme’s (WFP) new Executive Director has warned that funding cuts are worsening Sudan’s hunger crisis following his first field mission to the country, where he met families displaced by conflict and struggling to feed their children.",
+      "published": "2026-11-12T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
       "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
       "summary": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging governments to tax fossil fuel companies to help countries bearing the brunt of a crisis they did little to cause. His appeal came as world leaders gathered in Antalya amid unresolved questions over climate finance and the future of fossil fuels.",
@@ -277,48 +259,57 @@
       "score": 10
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168778",
-      "summary": "Six journalists who make up the entire newsroom of the Egyptian fact-checking website Matsadash remain in detention, the UN human rights office (OHCHR) said on Tuesday, warning of proliferating assaults on press freedom by the Government.",
-      "published": "2026-11-10T12:00:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a tech communications consultant and a former executive at Square The self-styled visionaries…",
+      "published": "2026-11-13T13:10:00+00:00",
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Ames Stars of the Month: November 2026",
-      "url": "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-november-2026/",
-      "summary": "The NASA Ames Science Directorate recognizes the outstanding contributions of (pictured left to right) Alyssa Villanueva, Steve Howell, and Samuel LeBlanc. Their commitment to the NASA mission represents the entrepreneurial spirit, technical expertise, and collaborative disposition needed to explore this world and beyond. Space Biosciences Star: Alyssa Villanueva Alyssa Villaneuva is an engineer at Blue […]",
-      "published": "2026-11-12T17:54:32+00:00",
-      "score": 10
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/",
-      "summary": "As a new exhibit opens showcasing NASA’s space shuttle Endeavour, NASA photographers look back at the final mission. These photographers documented the iconic images shared around the world on Sept. 21, 2012, while millions watched space shuttle Endeavour fly on top of the agency’s 747 Shuttle Carrier Aircraft for the last time. Endeavour’s new home […]",
-      "published": "2026-11-12T13:00:00+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investors before its public offering that it was unconcerned…",
+      "published": "2026-11-13T10:00:00+00:00",
       "score": 10
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the driver last year. It abuses how clfs.sys creates companion files when a privileged process opens a prepared log, using path redirection to take control of",
-      "published": "2026-11-12T17:50:27+00:00",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinated set of actions announced by the U.S. government, the cloud-based",
+      "published": "2026-11-13T14:28:58+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other",
+      "published": "2026-11-13T13:54:20+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the",
+      "published": "2026-11-13T05:43:28+00:00",
       "score": 10
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "Pacific leaves empty handed from COP31 “pledging event” for new fund",
-      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/",
-      "summary": "With developed countries only re-announcing old pledges, the facility remains $300 million away from meeting its 2026 target of $500m for resilience projects The post Pacific leaves empty handed from COP31 “pledging event” for new fund appeared first on Climate Home News .",
-      "published": "2026-11-12T17:01:43+00:00",
+      "title": "Nepal’s climate suffering should pave the way for a safe and fair future",
+      "url": "https://www.climatechangenews.com/2026/11/13/nepals-climate-suffering-must-pave-the-way-for-a-safe-and-fair-future/",
+      "summary": "Young people in Nepal are seeking international solidarity from COP31 to help our nation tackle the worsening climate disasters knocking at all of our doors The post Nepal’s climate suffering should pave the way for a safe and fair future appeared first on Climate Home News .",
+      "published": "2026-11-13T12:33:06+00:00",
       "score": 10
     },
     {
@@ -342,72 +333,81 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "published": "2026-11-12T12:39:39+00:00",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "published": "2026-11-13T15:42:52+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Five new miniature frog species found in eastern Himalayas",
-      "url": "https://www.bbc.co.uk/news/articles/c8kgkw7dr5rko?at_medium=RSS&at_campaign=rss",
-      "summary": "Scientists say the frogs evolved as the Himalayas rose and the Asian monsoon took shape.",
-      "published": "2026-11-12T11:07:19+00:00",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "published": "2026-11-13T18:34:45+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "British woman missing from cruise ship in Atlantic",
-      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
-      "published": "2026-11-12T10:13:35+00:00",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "published": "2026-11-13T11:38:54+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "African Miss Universe beauty queens in limbo as US visa restrictions bite",
+      "url": "https://www.bbc.co.uk/news/articles/cklyw3neqg2wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hall has been seeking a US visa in South Africa as other African beauty queens face similar hurdles.",
+      "published": "2026-11-13T07:01:43+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Nigerian university in mourning after four students die at post-exam party",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2dvw0355o?at_medium=RSS&at_campaign=rss",
+      "summary": "The university has banned all parties, while investigations are underway to find the cause of the students' deaths.",
+      "published": "2026-11-13T11:37:08+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-      "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The decline has been put down to severe restrictions placed on the substances' use.",
-      "published": "2026-11-12T00:12:59+00:00",
+      "title": "How many sewage spills have happened in your part of Scotland?",
+      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+      "published": "2026-11-13T06:31:51+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
-      "published": "2026-11-10T15:10:20+00:00",
+      "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+      "published": "2026-11-13T06:05:49+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-      "published": "2026-11-10T00:08:28+00:00",
+      "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+      "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+      "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
+      "published": "2026-11-12T11:03:53+00:00",
       "score": 9
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Kenya begins countdown towards end of Ebola after last patient discharged",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168790",
-      "summary": "Kenya began a 42-day countdown to the end of its Ebola outbreak on Thursday, a day after the last patient being treated for the disease went home and 11 people were released from quarantine.",
-      "published": "2026-11-12T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
-      "summary": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
+      "title": "New platform aims to get money moving before disaster strikes",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168794",
+      "summary": "UN agencies on Thursday launched a joint platform at COP31 in Antalya, Türkiye, that aims to secure access to more than $3 billion in risk financing to protect 75 million people and their livelihoods from climate shocks and natural hazards by 2030.",
       "published": "2026-11-12T12:00:00+00:00",
       "score": 9
     }
