@@ -1,45 +1,11 @@
 {
-  "generated_at": "2026-11-18T19:39:54.172455+00:00",
-  "date": "2026-11-18",
+  "generated_at": "2026-11-19T19:40:14.336794+00:00",
+  "date": "2026-11-19",
   "source_count": 45,
-  "failed_sources": [],
+  "failed_sources": [
+    "ReliefWeb: no element found: line 1, column 0"
+  ],
   "articles": [
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "MSF Myanmar: Statement ahead of the ICJ ruling on Myanmar and genocide against the Rohingya",
-      "url": "https://reliefweb.int/report/myanmar/msf-myanmar-statement-ahead-icj-ruling-myanmar-and-genocide-against-rohingya",
-      "summary": "Countries: Myanmar, Bangladesh, Malaysia Source: Médecins Sans Frontières Tomorrow’s ruling by the International Court of Justice (ICJ) will be the first time a judicial body will deliver judgment on whether Myanmar committed genocide against the Rohingya people. This is a moment of special importance that has been long anticipated by Rohingya communities we have supported across the region for decades, including patients, colleagues, and our partners from Rohingya civil society in the diaspora.",
-      "published": "2026-11-18T12:53:55+00:00",
-      "score": 24
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "UNHCR Ukraine Operational Update - 18 November 2026",
-      "url": "https://reliefweb.int/report/ukraine/unhcr-ukraine-operational-update-18-november-2026",
-      "summary": "Country: Ukraine Source: UN High Commissioner for Refugees Please refer to the attached file. OPERATIONAL CONTEXT & HIGHLIGHTS: • Throughout October, the Russian Federation (RF) continued large-scale aerial attacks across Ukraine, increasingly targeting energy and other critical infrastructure as temperatures dropped and the winter season approached. Repeated attacks damaged energy facilities and disrupted electricity and water provision and other essential services, increasing risks for civilia",
-      "published": "2026-11-18T14:03:11+00:00",
-      "score": 22
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "WFP Ukraine Country Brief, November 2026 [EN/UK]",
-      "url": "https://reliefweb.int/report/ukraine/wfp-ukraine-country-brief-november-2026-enuk",
-      "summary": "Country: Ukraine Source: World Food Programme Please refer to the attached files. HIGHLIGHTS: WFP assisted an estimated 504,300 people across its activities in Ukraine in October, including 298,500 people provided with emergency food and cash assistance in frontline areas. As Russian forces continued attacks across Ukrainian frontline and urban areas, October saw multiple incidents of hostilities impacting WFP and cooperating partner staff, assets, and infrastructure. WFP and UNICEF have begun t",
-      "published": "2026-11-18T14:01:10+00:00",
-      "score": 21
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Somalia: Climate change pushing Somali farmers off their land, fuelling hunger crisis",
-      "url": "https://reliefweb.int/report/somalia/climate-change-pushing-somali-farmers-their-land-fuelling-hunger-crisis",
-      "summary": "Country: Somalia Source: Islamic Relief Climate change is pushing farmers in Somalia off their land and into poverty, hunger and urban displacement camps, irrevocably changing traditional livelihoods. With the El Niño climate phenomenon forecast to bring severe floods over the coming months, Islamic Relief is calling on world leaders at COP31, the annual global climate summit, to invest in protecting local agriculture and help farmers stay on their land. Islamic Relief has interviewed farmers an",
-      "published": "2026-11-18T12:03:09+00:00",
-      "score": 21
-    },
     {
       "source": "UN News",
       "category": "Geopolitik",
@@ -50,49 +16,112 @@
       "score": 16
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "A study of 26 due diligence systems in Ukraine shows how donors can reduce duplicate checks for civil society organisations",
-      "url": "https://reliefweb.int/report/ukraine/study-26-due-diligence-systems-ukraine-shows-how-donors-can-reduce-duplicate-checks-civil-society-organisations",
-      "summary": "Country: Ukraine Source: Philanthropy in Ukraine Please refer to the attached file. Philanthropy in Ukraine compared 26 due diligence systems used by international donors and organisations. In 193 of 650 comparisons, one donor’s assessment already covers more than 80% of another donor’s requirements. This creates opportunities for donors to recognise each other’s assessments and reduce the administrative burden on Ukrainian civil society organisations. Ukrainian civil society organisations worki",
-      "published": "2026-11-18T12:36:24+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "published": "2026-11-19T19:16:21+00:00",
       "score": 15
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-      "url": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-      "summary": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines. \"When attackers are exposed, the cheap response is to rotate,\" Bitdefender said in a technical report shared with The Hacker News. \"A file hash changes with every recompile, a domain costs a few",
-      "published": "2026-11-18T14:11:28+00:00",
-      "score": 14
+      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below -",
+      "published": "2026-11-19T08:00:00+00:00",
+      "score": 15
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-      "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-      "summary": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise. Google's Mandiant and Threat Intelligence Group (GTIG) said it investigated a 2026 compromise at a U.S.-based organization in which the adversary leveraged",
-      "published": "2026-11-18T05:58:04+00:00",
-      "score": 14
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "World: How AI is helping to reinforce polio surveillance in Africa",
-      "url": "https://reliefweb.int/report/world/how-ai-helping-reinforce-polio-surveillance-africa",
-      "summary": "Country: World Source: Global Polio Eradication Initiative **Brazzaville—** Every week, the polio eradication programme at the World Health Organization (WHO) Regional Office for Africa receives surveillance and operational data from the region’s 47 countries. From poliovirus detections and laboratory results to vaccination campaign coverage and health facility visits, this information is essential to guiding outbreak response and reaching every child. But with growing volumes of data spread acr",
-      "published": "2026-11-18T12:33:10+00:00",
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "published": "2026-11-19T16:55:57+00:00",
       "score": 14
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "published": "2026-11-18T17:00:40+00:00",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+      "published": "2026-11-19T13:07:35+00:00",
+      "score": 14
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
+      "summary": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.",
+      "published": "2026-11-19T12:00:00+00:00",
       "score": 13
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168836",
+      "summary": "The International Court of Justice, the principal judicial organ of the UN, delivered its judgment on Thursday in the case of The Gambia v. Myanmar on the application of the Genocide Convention, finding Myanmar responsible for the crime against the country’s ethnic Rohingya, the first such ruling against a State.",
+      "published": "2026-11-19T12:00:00+00:00",
+      "score": 13
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "published": "2026-11-19T17:03:23+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific",
+      "published": "2026-11-19T15:18:07+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday. The Drupal Security Team disclosed",
+      "published": "2026-11-19T14:33:06+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "summary": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. \"We have taken steps to mitigate the threat and are continuing to harden our services to reduce the risk of recurrence,\" N-able said. \"The investigation is ongoing, but at this time we",
+      "published": "2026-11-19T09:31:26+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
+      "published": "2026-11-19T13:31:23+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Torrential rain causes widespread flooding in South Florida",
+      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+      "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+      "published": "2026-11-18T20:29:18+00:00",
+      "score": 11
     },
     {
       "source": "BBC Science",
@@ -101,158 +130,23 @@
       "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
       "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
       "published": "2026-11-18T12:13:32+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-      "url": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-      "summary": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF) The vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8), is a case of unauthenticated deserialization in the XML-RPC endpoint that could lead to remote code execution. \"Deserialization of Untrusted",
-      "published": "2026-11-18T17:10:45+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-      "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs only on x86-64 Intel and AMD chips that support the AVX-512 VBMI feature. Tracked as",
-      "published": "2026-11-18T11:55:49+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-      "url": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-      "summary": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security testing has to keep up with both. AI pentesting has emerged as a way to run in-depth tests whenever teams need them, instead of waiting for the",
-      "published": "2026-11-18T11:03:57+00:00",
-      "score": 13
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
-      "published": "2026-11-18T17:00:04+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-      "published": "2026-11-18T13:04:48+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Dozens more children killed in Yemen amid escalating hostilities",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
-      "summary": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
-      "published": "2026-11-18T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Space Apps Challenge Breaks Global Hackathon Records",
-      "url": "https://science.nasa.gov/open-science/nasa-space-apps-challenge-breaks-global-hackathon-records/",
-      "summary": "On Nov. 14 and 15, NASA held the annual Space Apps Challenge with a record-breaking 181,835 registered participants taking part in 593 events around the world. The annual hackathon invites participants to use NASA’s open data to address one of 14 challenges focused on space exploration or Earth science. This year, the hackathon drew 59% […]",
-      "published": "2026-11-17T21:50:34+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent. F5, which makes BIG-IP, disclosed the flaws today and says they",
-      "published": "2026-11-18T18:15:39+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabilities (KEV) catalog, citing reports of active exploitation. The vulnerability, tracked as CVE-2026-115731 (CVSS score: 9.4), is a case of",
-      "published": "2026-11-18T08:24:31+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-service (DoS) or remote code execution under certain conditions. \"This critical memory-corruption",
-      "published": "2026-11-18T08:24:23+00:00",
-      "score": 12
-    },
-    {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
-      "url": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
-      "summary": "The COP31 cover decision draft text include a controversial goal to increase carbon dioxide removal, which ocean advocates say could impact ecosystems The post Ocean advocates warn COP31 agreement should not be read as geoengineering boost appeared first on Climate Home News .",
-      "published": "2026-11-18T14:21:23+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Central African Republic: Overview of population movements (August 2026)",
-      "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-overview-population-movements-august-2026",
-      "summary": "Country: Central African Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file.",
-      "published": "2026-11-18T17:18:35+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Ecuador | Severe weather, floods and landslides - DG ECHO Daily Map | 18/11/2026",
-      "url": "https://reliefweb.int/map/ecuador/ecuador-severe-weather-floods-and-landslides-dg-echo-daily-map-18112026",
-      "summary": "Country: Ecuador Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
-      "published": "2026-11-18T17:17:27+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Yemen: Yémen : au moins 64 enfants ont été tués et 64 autres blessés depuis l’intensification des hostilités il y a près de trois mois",
-      "url": "https://reliefweb.int/report/yemen/yemen-au-moins-64-enfants-ont-ete-tues-et-64-autres-blesses-depuis-lintensification-des-hostilites-il-y-pres-de-trois-mois",
-      "summary": "Country: Yemen Source: UN Children's Fund NEW YORK, le 18 novembre 2026 – Au moins 64 enfants ont été tués et 64 autres blessés au Yémen depuis l’intensification des hostilités le 3 septembre dernier. Ce bilan devrait encore s’alourdir alors que les combats se poursuivent aux abords de zones densément peuplées, notamment à Taëz et à Lahj. « L’augmentation du nombre d’enfants tués et blessés au Yémen est bouleversante. Cela doit cesser », a déclaré Catherine Russell, Directrice générale de l’UNIC",
-      "published": "2026-11-18T12:33:07+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "La escalada del conflicto en Yemen, que se adentra ya en su tercer mes, deja al menos 64 niños y niñas muertos y otros 64 heridos",
-      "url": "https://reliefweb.int/report/yemen/la-escalada-del-conflicto-en-yemen-que-se-adentra-ya-en-su-tercer-mes-deja-al-menos-64-ninos-y-ninas-muertos-y-otros-64-heridos",
-      "summary": "Country: Yemen Source: UN Children's Fund NUEVA YORK, 18 de noviembre de 2026 – Desde que se intensificaron las hostilidades en Yemen el pasado 3 de septiembre, al menos 64 niños y niñas han muerto y otros 64 han resultado heridos. Es probable que el número de víctimas aumente a medida que continúan los combates en zonas densamente pobladas, especialmente en Taiz y Lahj. “El aumento del número de niños y niñas muertos y heridos en Yemen es devastador. Hay que poner fin a esta situación cuanto an",
-      "published": "2026-11-18T12:03:07+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-      "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns",
-      "published": "2026-11-18T00:44:48+00:00",
       "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Patients running out of options as antibiotics stop working against common infections",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168832",
-      "summary": "Common bacteria are becoming highly resistant to front-line and even “last-resort” antibiotics, the UN World Health Organization (WHO) said on Wednesday, warning that the situation today is worse than it was in 2019.",
+      "title": "No government approval needed to form or join a group, UN rights committee says",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168837",
+      "summary": "People do not need their government’s permission to form or join an association, the UN Human Rights Committee said on Thursday, issuing new guidance as civic space shrinks around the world.",
+      "published": "2026-11-19T12:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "COP31 deadlock persists as countries launch new ‘climate reality check’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168833",
+      "summary": "With the clock running down at COP31 in Antalya, countries on Wednesday launched a new global check on whether climate promises are being kept, even as ministers remained deadlocked over some of the summit’s toughest questions: who pays, how fast the world moves away from fossil fuels and whether a greener future can be called “just” if poorer countries cannot afford it.",
       "published": "2026-11-18T12:00:00+00:00",
       "score": 11
     },
@@ -284,130 +178,238 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Lebanon leading the way in mental health support",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
-      "summary": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
-      "published": "2026-11-16T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "summary": "NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds). While this developmental engine will not be used in flight, the hot […]",
+      "published": "2026-11-19T14:44:39+00:00",
       "score": 11
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Data Clinches First-of-Its-Kind Stellar Merger",
-      "url": "https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/",
-      "summary": "Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb […]",
-      "published": "2026-11-18T16:00:00+00:00",
-      "score": 11
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA Launches Nuclear Power Systems Student Contest",
-      "url": "https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/",
-      "summary": "NASA’s Power to Explore Student Challenge kicked off Tuesday, Nov. 17. The science, engineering, technology, and mathematics (STEM) challenge invites kindergarten through 12th grade students in the United States to learn about space nuclear power systems and illustrate how these nuclear “batteries” could help power their lunar exploration vision. Students are also invited to write […]",
-      "published": "2026-11-17T22:02:48+00:00",
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
+      "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life support outside the body…",
+      "published": "2026-11-19T13:10:00+00:00",
       "score": 11
     },
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-      "summary": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz. The malicious versions, 1.26.1 and 1.26.2, were published 33 minutes apart on November 17, 2026, and are designed to run a credential stealer on every Python start. As of",
-      "published": "2026-11-18T06:45:26+00:00",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the flaw, called phpAfterShell. The flaw is tracked as CVE-2026-126714 and rated",
+      "published": "2026-11-19T16:59:56+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines. The",
+      "published": "2026-11-19T15:11:06+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Everything Is a Web Application, Including Your Firewall",
+      "url": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+      "summary": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both flaws let anyone execute code on the web server without authentication. The disclosure itself went a little wrong.",
+      "published": "2026-11-19T11:52:23+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+      "summary": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. \"We are aware of PoCs that prove some of them can be used to trigger remote code execution,\" the maintainers said. The project released fixed versions",
+      "published": "2026-11-19T08:42:11+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+      "summary": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL. The exploits, published yesterday, are the researcher's proofs of concept against PostgreSQL, MySQL and ClickHouse, plus a separate Oracle chain that needs no",
+      "published": "2026-11-19T08:14:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+      "summary": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws. The release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC. \"These releases are part of PHP's regular four-week release cycle and will address security vulnerabilities affecting all supported PHP versions,\" the maintainers said.",
+      "published": "2026-11-19T04:33:46+00:00",
       "score": 11
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "COP31 Bulletin Day 9: Crunch ministerial talks planned for Wednesday evening",
-      "url": "https://www.climatechangenews.com/2026/11/18/cop31-bulletin-day-9-crunch-ministerial-talks-planned-for-wednesday-evening/",
-      "summary": "With a draft cover text still untrimmed, the presidency is holding a “Divan\" meeting to make progress towards a \"balanced package\" The post COP31 Bulletin Day 9: Crunch ministerial talks planned for Wednesday evening appeared first on Climate Home News .",
-      "published": "2026-11-18T09:10:54+00:00",
+      "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
+      "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
+      "summary": "Bangladesh cannot bear rising climate costs alone - the UN summit in Antalya must show how timely, accessible finance will be delivered at the scale needed The post Bangladesh needs COP31 to deliver clarity on climate finance appeared first on Climate Home News .",
+      "published": "2026-11-19T01:00:00+00:00",
       "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "published": "2026-11-19T17:38:22+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "published": "2026-11-19T00:49:19+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "published": "2026-11-19T17:23:34+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+      "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
+      "published": "2026-11-19T09:21:54+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Florida pastor found guilty over role in assassination of Haitian president",
+      "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
+      "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Moïse.",
+      "published": "2026-11-19T11:44:57+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "published": "2026-11-18T23:42:07+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Dozens more children killed in Yemen amid escalating hostilities",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+      "summary": "The UN child rights agency, UNICEF, on Wednesday called for warring parties in Yemen to protect children as renewed conflict between Houthi rebels and Government forces approaches the three-month mark.",
+      "published": "2026-11-18T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "Challenge: Public Input on Life and the World in 2075",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/",
+      "summary": "NASA’s Transformational Tools and Technologies (TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics. Ideas should explore how future aviation or aerospace systems could: Ideas should be conceptual rather than technical. Award: $20,000 in […]",
+      "published": "2026-11-19T19:34:20+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "summary": "Open data from NASA’s Fermi mission helped an international team of scientists develop a method for finding pulsars about a million times faster than before.",
+      "published": "2026-11-19T15:33:55+00:00",
+      "score": 10
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch",
+      "url": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/",
+      "summary": "NASA, Northrop Grumman, and SpaceX are targeting no earlier than 10:47 a.m. EST, Sunday, Nov. 29, for the next launch delivering science investigations, supplies, and equipment to the International Space Station. The agency also will hold a prelaunch media teleconference on Monday, Nov. 23. Filled with approximately 11,000 pounds of cargo, the Northrop Grumman Cygnus […]",
+      "published": "2026-11-18T22:19:17+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "A human liver has been kept alive outside the body for a record seven weeks",
+      "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor Carlo Pulitano connected a donated liver to a…",
+      "published": "2026-11-19T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "What a billion-dollar deal says about the US battery market",
+      "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+      "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batteries. It’s a deal that Sila says could be worth more than…",
+      "published": "2026-11-19T11:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+      "url": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+      "summary": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts. Each flaw needs a specific setup on a virtual server: an iRule that uses a particular command, or an APM policy that includes two particular kinds of agent. F5, which makes BIG-IP, disclosed the flaws today and says they",
+      "published": "2026-11-18T18:15:39+00:00",
+      "score": 10
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "COP31 Bulletin Day 7: Incoming ministers set to battle over cover text",
-      "url": "https://www.climatechangenews.com/2026/11/16/cop31-bulletin-day-7-sharp-divisions-lower-expectations-for-cop-outcome/",
-      "summary": "A first draft of the Antalya summit's main political outcome includes a wide range of asks from 160 countries and must be whittled down amid divisions over science, finance and energy transition The post COP31 Bulletin Day 7: Incoming ministers set to battle over cover text appeared first on Climate Home News .",
-      "published": "2026-11-16T10:37:01+00:00",
-      "score": 11
+      "title": "Ocean advocates warn COP31 agreement should not be read as geoengineering boost",
+      "url": "https://www.climatechangenews.com/2026/11/18/ocean-advocates-warn-cop31-agreement-geoengineering-cdr-removal-marine/",
+      "summary": "The COP31 cover decision draft text include a controversial goal to increase carbon dioxide removal, which ocean advocates say could impact ecosystems The post Ocean advocates warn COP31 agreement should not be read as geoengineering boost appeared first on Climate Home News .",
+      "published": "2026-11-18T14:21:23+00:00",
+      "score": 10
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "CAR: République centrafricaine: Aperçu des mouvements de population (août 2026)",
-      "url": "https://reliefweb.int/report/central-african-republic/republique-centrafricaine-apercu-des-mouvements-de-population-aout-2026",
-      "summary": "Country: Central African Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file.",
-      "published": "2026-11-18T17:16:43+00:00",
-      "score": 11
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "Minerals for the planet or for war and AI? COP31 must make clear what we prioritise",
+      "url": "https://www.climatechangenews.com/2026/11/17/minerals-for-the-planet-or-for-war-and-ai-cop31-must-make-clear-what-we-prioritise/",
+      "summary": "As demand for minerals soars, intensifying pressure for new mining, meeting demand for the energy transition must come first The post Minerals for the planet or for war and AI? COP31 must make clear what we prioritise appeared first on Climate Home News .",
+      "published": "2026-11-17T04:00:00+00:00",
+      "score": 10
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Cameroon: Humanitarian Dashboard (as of 30 September 2026)",
-      "url": "https://reliefweb.int/report/cameroon/cameroon-humanitarian-dashboard-30-september-2026",
-      "summary": "Countries: Cameroon, Central African Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
-      "published": "2026-11-18T16:40:57+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-      "published": "2026-11-18T16:10:44+00:00",
+      "source": "Carbon Brief",
+      "category": "Umwelt",
+      "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+      "url": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+      "summary": "Russia, Saudi Arabia and COP31 co-president Australia are the largest exporters of carbon dioxide (CO2) emissions in history, reveals Carbon… The post Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time appeared first on Carbon Brief .",
+      "published": "2026-11-17T05:00:00+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
-      "published": "2026-11-18T15:39:57+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Ghana's new $60m presidential jet sparks public outrage",
-      "url": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-      "published": "2026-11-18T09:27:51+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-      "published": "2026-11-18T17:34:23+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
-      "published": "2026-11-18T16:33:16+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-      "published": "2026-11-18T10:23:57+00:00",
-      "score": 10
+      "title": "US consortium wins huge Kenya mining deal, beating Chinese rivals",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).",
+      "published": "2026-11-19T12:56:30+00:00",
+      "score": 9
     }
   ]
 }
