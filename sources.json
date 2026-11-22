@@ -1,17 +1,53 @@
 {
-  "generated_at": "2026-11-21T18:20:08.917494+00:00",
-  "date": "2026-11-21",
+  "generated_at": "2026-11-22T18:44:34.126374+00:00",
+  "date": "2026-11-22",
   "source_count": 45,
   "failed_sources": [],
   "articles": [
     {
       "source": "ReliefWeb",
       "category": "Krieg",
+      "title": "Yemen Market and Trade Bulletin October 2026 - Issued on 21st November 2026",
+      "url": "https://reliefweb.int/report/yemen/yemen-market-and-trade-bulletin-october-2026-issued-21st-november-2026",
+      "summary": "Country: Yemen Source: Food and Agriculture Organization of the United Nations Please refer to the attached file. SHORT-TERM OUTLOOK AND IMPLICATIONS ON FOOD SECURITY: While Yemen’s acute food security crisis—with roughly 18.7 million people (over half the population) facing acute food insecurity (IPC Phase 3 or worse)—remains driven by heavy import dependency, rising food and fuel prices, severe humanitarian funding deficits, and climate and rainfall shocks, conditions have deteriorated sharply",
+      "published": "2026-11-21T18:57:28+00:00",
+      "score": 18
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is supposed to mean a prompt is never stored. OpenRouter, a gateway that routes customers' AI requests to a pool of",
+      "published": "2026-11-22T05:06:55+00:00",
+      "score": 15
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Statement by the United Nations Resident and Humanitarian Coordinator in Sudan, Denise Brown, on drone strikes in Khartoum",
+      "url": "https://reliefweb.int/report/sudan/statement-united-nations-resident-and-humanitarian-coordinator-sudan-denise-brown-drone-strikes-khartoum",
+      "summary": "Country: Sudan Source: UN Resident and Humanitarian Coordinator in Sudan Please refer to the attached file. Drones targeted Khartoum early this morning. A UN premises, with UN colleagues in the building, was damaged. This occurred in a civilian neighborhood. Civilians are not a legitimate target in a war. UN humanitarian personnel are in Sudan to assist the people wherever they are in the country. It is unacceptable that we are put at such risk. Under international humanitarian law, humanitarian",
+      "published": "2026-11-22T09:00:07+00:00",
+      "score": 15
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
       "title": "Ecuador: Latin America & The Caribbean Weekly Situation Update as of 20 November 2026",
       "url": "https://reliefweb.int/report/ecuador/latin-america-caribbean-weekly-situation-update-20-november-2026",
-      "summary": "Countries: Ecuador, Bolivia (Plurinational State of), El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama, Peru, United States of America Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. KEY FIGURES 7.9K people displaced in Haiti since mid-October 3.2M people could face crisis-level food insecurity in Guatemala 93K people affected by El Niño-related rains in Ecuador HAITI: VIOLENCE & DISPLACEMENT Escalating armed violence across the cou",
+      "summary": "Countries: Ecuador, Bolivia (Plurinational State of), El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama, Peru, United States of America Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. KEY FIGURES 7.9K people displaced in Haiti since mid-October 3.2M people could face crisis-level food insecurity in Guatemala 62K people affected by El Niño-related rains in Ecuador HAITI: VIOLENCE & DISPLACEMENT Escalating armed violence across the cou",
       "published": "2026-11-20T18:55:46+00:00",
-      "score": 17
+      "score": 15
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "published": "2026-11-22T17:18:26+00:00",
+      "score": 14
     },
     {
       "source": "The Hacker News",
@@ -20,25 +56,7 @@
       "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in",
       "published": "2026-11-21T08:49:13+00:00",
-      "score": 16
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "summary": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score: 9.8), is a case of authentication bypass in the VMware Directory Service that could be exploited to gain unauthorized",
-      "published": "2026-11-20T09:38:15+00:00",
-      "score": 16
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Central African Republic: Situation Report No. 94, as of 17 November 2026",
-      "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-situation-report-no-94-17-november-2026",
-      "summary": "Country: Central African Republic Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Despite a still volatile context, some humanitarian movements have resumed around Zémio. Infrastructure has been installed in Ouham-Pendé to help prevent agro-pastoral conflicts and reduce tensions between herders and farmers. 3,900 students received school kits in Kaga-Bandoro and M’brès. GENERAL CONTEXT Haut-Mbomou Prefecture – South-East The security s",
-      "published": "2026-11-20T15:14:28+00:00",
-      "score": 16
+      "score": 14
     },
     {
       "source": "BBC World",
@@ -47,7 +65,7 @@
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "published": "2026-11-21T13:17:38+00:00",
-      "score": 15
+      "score": 13
     },
     {
       "source": "The Hacker News",
@@ -56,33 +74,6 @@
       "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
       "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
       "published": "2026-11-21T11:03:17+00:00",
-      "score": 15
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Lebanon: Inter-Agency Response Update - (15 November 2026)",
-      "url": "https://reliefweb.int/report/lebanon/lebanon-inter-agency-response-update-15-november-2026",
-      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Limited alternatives for IDPs amid ongoing consolidation of collective shelters. Some 1200 IDPs moved out of collective shelters during the first two weeks of the month, underscoring limited alternatives available for those unable to return home. Planned shelter closures continue, requiring coordinated efforts to identify suitable relocation options and ensure that IDPs c",
-      "published": "2026-11-21T08:20:09+00:00",
-      "score": 15
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "oPt: Gaza Strip | Learning Spaces Assessment Report (November 2026)",
-      "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-strip-learning-spaces-assessment-report-november-2026",
-      "summary": "Country: occupied Palestinian territory Source: Education Cluster Please refer to the attached file. The assessment covered 962 learning spaces across Gaza’s five governorates between 21 May and 12 August 2026, reporting 581,111 enrolments and 15,709 teachers. In the absence of permanent education infrastructure, Temporary learning spaces, community-led initiatives and private learning spaces have sustained education despite severe disruption. Most learning spaces reported being fully functional",
-      "published": "2026-11-20T22:27:27+00:00",
-      "score": 14
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
-      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
-      "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed […]",
-      "published": "2026-11-20T20:46:14+00:00",
       "score": 13
     },
     {
@@ -104,40 +95,40 @@
       "score": 13
     },
     {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "summary": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS score: 9.8), a vulnerability that could allow an unauthenticated, remote attacker with network access to a Cisco Expressway",
-      "published": "2026-11-20T10:32:50+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Ukraine Health Cluster Partner Emergency Response to Attacks, as of 31 October 2026",
+      "url": "https://reliefweb.int/report/ukraine/ukraine-health-cluster-partner-emergency-response-attacks-31-october-2026",
+      "summary": "Country: Ukraine Source: Health Cluster Please refer to the attached file.",
+      "published": "2026-11-22T14:17:18+00:00",
       "score": 13
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "DR Congo: Evaluation conjointe des besoins en matière d’Education et Protection RDC-2026",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/evaluation-conjointe-des-besoins-en-matiere-deducation-et-protection-rdc-2026",
-      "summary": "Country: Democratic Republic of the Congo Sources: Education Cluster, Save the Children, UN Children's Fund Please refer to the attached file. Le rapport de l’évaluation conjointe des besoins d’Education et de Protection menée en collaboration avec le secteur de la Protection met en évidence les résultats suivants : Taux d’abandon de 12,5 % au cours de l’année scolaire 2025-2026, principalement lié aux difficultés socio-économiques des ménages, aux déplacements forcés, aux travaux domestiques, a",
-      "published": "2026-11-21T15:57:32+00:00",
+      "title": "Lebanon: Inter-Agency Response Update - (15 November 2026)",
+      "url": "https://reliefweb.int/report/lebanon/lebanon-inter-agency-response-update-15-november-2026",
+      "summary": "Country: Lebanon Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. HIGHLIGHTS Limited alternatives for IDPs amid ongoing consolidation of collective shelters. Some 1200 IDPs moved out of collective shelters during the first two weeks of the month, underscoring limited alternatives available for those unable to return home. Planned shelter closures continue, requiring coordinated efforts to identify suitable relocation options and ensure that IDPs c",
+      "published": "2026-11-21T08:20:09+00:00",
       "score": 13
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "oPt: WFP Palestine External Situation Report, 21 November (Reporting Period: 1- 31 October 2026)",
-      "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-external-situation-report-21-november-reporting-period-1-31-october-2026",
-      "summary": "Country: occupied Palestinian territory Source: World Food Programme Please refer to the attached file. HIGHLIGHTS More than three years into the crisis in Gaza, and one year into the ceasefire, displaced families are facing a fourth winter in tents. Although humanitarian assistance and commercial supplies increased following the October 2025 ceasefire, they remain insufficient against the scale of needs, and the crisis is far from over. Some 1.4 million people, or two-thirds of the population, ",
-      "published": "2026-11-21T00:52:50+00:00",
-      "score": 13
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "published": "2026-11-22T17:16:47+00:00",
+      "score": 12
     },
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Ecuador: Latinoamérica y El Caribe Resumen de Situación Semanal al 20 de noviembre 2026",
-      "url": "https://reliefweb.int/report/ecuador/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-20-de-noviembre-2026",
-      "summary": "Countries: Ecuador, Bolivia (Plurinational State of), El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama, Peru, United States of America Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. CIFRAS CLAVE 7,9K personas desplazadas en Haití desde mediados de octubre 3,2M personas podrían enfrentar inseguridad alimentaria de nivel Crisis en Guatemala 62K personas afectadas por lluvias asociadas a El Niño en Ecuador HAITÍ: VIOLENCIA Y DESPLAZAM",
-      "published": "2026-11-20T18:55:38+00:00",
-      "score": 13
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "published": "2026-11-22T09:20:45+00:00",
+      "score": 12
     },
     {
       "source": "BBC World",
@@ -145,16 +136,7 @@
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "published": "2026-11-21T16:35:15+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
-      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
-      "published": "2026-11-21T12:00:00+00:00",
+      "published": "2026-11-22T00:10:44+00:00",
       "score": 12
     },
     {
@@ -169,46 +151,73 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
-      "published": "2026-11-21T11:05:53+00:00",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other formats, often without the application calling it directly. Security firm pwn.ai showed this week that ordinary upload,",
+      "published": "2026-11-22T05:03:41+00:00",
       "score": 12
     },
     {
-      "source": "Climate Home News",
-      "category": "Umwelt",
-      "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
-      "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
-      "summary": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition The post COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels appeared first on Climate Home News .",
-      "published": "2026-11-21T10:18:17+00:00",
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Ukraine Health Cluster - Safeguarding Health Facility Equipment and Supplies through Relocation in Frontline Areas of Ukraine November 2026",
+      "url": "https://reliefweb.int/report/ukraine/ukraine-health-cluster-safeguarding-health-facility-equipment-and-supplies-through-relocation-frontline-areas-ukraine-november-2026",
+      "summary": "Country: Ukraine Source: Health Cluster Please refer to the attached file.",
+      "published": "2026-11-22T17:44:57+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "oPt: Gaza Strip | Learning Spaces Assessment Report (November 2026)",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-strip-learning-spaces-assessment-report-november-2026",
+      "summary": "Country: occupied Palestinian territory Source: Education Cluster Please refer to the attached file. The assessment covered 962 learning spaces across Gaza’s five governorates between 21 May and 12 August 2026, reporting 581,111 enrolments and 15,709 teachers. In the absence of permanent education infrastructure, Temporary learning spaces, community-led initiatives and private learning spaces have sustained education despite severe disruption. Most learning spaces reported being fully functional",
+      "published": "2026-11-20T22:27:27+00:00",
       "score": 12
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "published": "2026-11-20T22:37:09+00:00",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "published": "2026-11-21T22:01:19+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
-      "published": "2026-11-21T10:26:36+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "What's next after no deal at COP31 climate summit?",
+      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "published": "2026-11-22T18:28:48+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "published": "2026-11-21T09:40:55+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "published": "2026-11-22T06:54:06+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Will COP31 end with a new global climate deal?",
+      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+      "published": "2026-11-21T22:44:52+00:00",
+      "score": 11
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+      "summary": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.",
+      "published": "2026-11-22T12:00:00+00:00",
       "score": 11
     },
     {
@@ -221,22 +230,49 @@
       "score": 11
     },
     {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
-      "summary": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.",
-      "published": "2026-11-19T12:00:00+00:00",
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "New NASA Seed Funding Primes Small Businesses for Innovation",
+      "url": "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/",
+      "summary": "Awards to small businesses around the country are addressing some of NASA’s most crucial technology needs for exploration of the Moon and Mars while fueling the U.S. space economy. NASA’s Small Business Innovation Research/Small Business Technology Transfer (SBIR/STTR) program recently selected 302 innovative projects, for a total investment of up to $171 million in seed […]",
+      "published": "2026-11-20T20:46:14+00:00",
       "score": 11
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "published": "2026-11-20T22:42:47+00:00",
-      "score": 10
+      "source": "Climate Home News",
+      "category": "Umwelt",
+      "title": "COP31 Bulletin Day 13: Talks fail as many countries reject main deal",
+      "url": "https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/",
+      "summary": "The EU, the AILAC group of Latin American states and the Least Developed Countries (LDCs) said they could not accept the draft \"Antalya Pact\" The post COP31 Bulletin Day 13: Talks fail as many countries reject main deal appeared first on Climate Home News .",
+      "published": "2026-11-22T05:59:32+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "DR Congo: Evaluation conjointe des besoins en matière d’Education et Protection RDC-2026",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/evaluation-conjointe-des-besoins-en-matiere-deducation-et-protection-rdc-2026",
+      "summary": "Country: Democratic Republic of the Congo Sources: Education Cluster, Save the Children, UN Children's Fund Please refer to the attached file. Le rapport de l’évaluation conjointe des besoins d’Education et de Protection menée en collaboration avec le secteur de la Protection met en évidence les résultats suivants : Taux d’abandon de 12,5 % au cours de l’année scolaire 2025-2026, principalement lié aux difficultés socio-économiques des ménages, aux déplacements forcés, aux travaux domestiques, a",
+      "published": "2026-11-21T15:57:32+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "oPt: WFP Palestine External Situation Report, 21 November (Reporting Period: 1- 31 October 2026)",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-external-situation-report-21-november-reporting-period-1-31-october-2026",
+      "summary": "Country: occupied Palestinian territory Source: World Food Programme Please refer to the attached file. HIGHLIGHTS More than three years into the crisis in Gaza, and one year into the ceasefire, displaced families are facing a fourth winter in tents. Although humanitarian assistance and commercial supplies increased following the October 2025 ceasefire, they remain insufficient against the scale of needs, and the crisis is far from over. Some 1.4 million people, or two-thirds of the population, ",
+      "published": "2026-11-21T00:52:50+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Ecuador: Latinoamérica y El Caribe Resumen de Situación Semanal al 20 de noviembre 2026",
+      "url": "https://reliefweb.int/report/ecuador/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-20-de-noviembre-2026",
+      "summary": "Countries: Ecuador, Bolivia (Plurinational State of), El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama, Peru, United States of America Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic. CIFRAS CLAVE 7,9K personas desplazadas en Haití desde mediados de octubre 3,2M personas podrían enfrentar inseguridad alimentaria de nivel Crisis en Guatemala 62K personas afectadas por lluvias asociadas a El Niño en Ecuador HAITÍ: VIOLENCIA Y DESPLAZAM",
+      "published": "2026-11-20T18:55:38+00:00",
+      "score": 11
     },
     {
       "source": "BBC World",
@@ -244,34 +280,25 @@
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
       "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "published": "2026-11-21T13:15:21+00:00",
+      "published": "2026-11-22T01:25:03+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-      "published": "2026-11-20T23:08:57+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "COP31 climate talks fail to reach major deal amid deep divisions",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "summary": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "published": "2026-11-22T18:17:59+00:00",
       "score": 10
     },
     {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-      "published": "2026-11-21T00:01:39+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Trafalgar Square Christmas tree felled in Norway",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
-      "published": "2026-11-21T08:10:03+00:00",
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "published": "2026-11-22T10:44:12+00:00",
       "score": 10
     },
     {
@@ -286,6 +313,24 @@
     {
       "source": "UN News",
       "category": "Geopolitik",
+      "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+      "summary": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.",
+      "published": "2026-11-22T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168834",
+      "summary": "Years of insecurity, violence perpetrated by murderous armed gangs and economic instability, combined with displacement, poor agricultural performance and climate shocks, have left millions of Haitians struggling to meet their food needs.",
+      "published": "2026-11-21T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
       "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
       "summary": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
@@ -295,28 +340,19 @@
     {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-      "url": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-      "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials Muse stores for the user's connected accounts. The work was a laboratory demonstration, not an attack on real users, and it stayed inside the individual user's",
-      "published": "2026-11-21T11:53:07+00:00",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+      "published": "2026-11-21T11:05:53+00:00",
       "score": 10
     },
     {
       "source": "Climate Home News",
       "category": "Umwelt",
-      "title": "COP31 Bulletin Day 12: “High Ambition Coalition” march into presidency offices",
-      "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
-      "summary": "A group of developed and developing countries demand to see the COP31 presidency after a chaotic afternoon of consultations angered negotiators The post COP31 Bulletin Day 12: “High Ambition Coalition” march into presidency offices appeared first on Climate Home News .",
-      "published": "2026-11-21T07:46:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Jamaica: IOM Hurricane Melissa Situation Report #20",
-      "url": "https://reliefweb.int/report/jamaica/iom-hurricane-melissa-situation-report-20",
-      "summary": "Country: Jamaica Source: International Organization for Migration Please refer to the attached file. IOM’s Situation Report No. 20 covers the Hurricane Melissa response in Jamaica from November 2025 to October 2026. While emergency debris-removal, cash-for-work, non-food-item and psychosocial support activities have concluded, shelter recovery continues: 4,105 households have received repair assistance, and four community centres have been repaired to support emergency shelter capacity. The repo",
-      "published": "2026-11-20T18:46:12+00:00",
+      "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
+      "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
+      "summary": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition The post COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels appeared first on Climate Home News .",
+      "published": "2026-11-21T10:18:17+00:00",
       "score": 10
     },
     {
@@ -331,28 +367,37 @@
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "published": "2026-11-21T14:54:24+00:00",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "published": "2026-11-22T07:12:41+00:00",
       "score": 9
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "published": "2026-11-21T04:34:00+00:00",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "published": "2026-11-21T09:40:55+00:00",
+      "score": 9
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "published": "2026-11-21T10:26:36+00:00",
       "score": 9
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-      "published": "2026-11-20T22:57:26+00:00",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "published": "2026-11-21T22:19:43+00:00",
       "score": 9
     },
     {
@@ -362,51 +407,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
       "summary": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
       "published": "2026-11-20T10:24:52+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Torrential rain causes widespread flooding in South Florida",
-      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-      "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
-      "published": "2026-11-18T20:29:18+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Stormont department failing to protect wild birds, investigation finds",
-      "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas.",
-      "published": "2026-11-18T12:13:32+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
-      "summary": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.",
-      "published": "2026-11-20T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "Battle to control GPS and radio signals raises civilian safety concerns",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168843",
-      "summary": "From aid convoys in conflict zones to passenger jets and cargo ships far out at sea, safe journeys depend on GPS, satellite navigation and old-fashioned radio transmissions. But these signals are increasingly being blocked or faked – and civilians are paying the price.",
-      "published": "2026-11-19T12:00:00+00:00",
-      "score": 9
-    },
-    {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "Curiosity Spots Drifting Twilight Clouds",
-      "url": "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/",
-      "summary": "Description NASA’s Curiosity Mars rover captured these drifting clouds on Oct. 31, 2026, the 5,061st Martian day, or sol, of the mission. The rover uses its navigation cameras to capture post-sunset clouds, called twilight clouds, which appear for only a short time each fall over Gale Crater, which it has been exploring for more than […]",
-      "published": "2026-11-20T22:27:05+00:00",
       "score": 9
     }
   ]
