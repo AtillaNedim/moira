@@ -1,46 +1,73 @@
 {
-  "generated_at": "2026-11-26T20:36:51.466406+00:00",
-  "date": "2026-11-26",
+  "generated_at": "2026-11-27T20:23:03.862243+00:00",
+  "date": "2026-11-27",
   "source_count": 45,
   "failed_sources": [
     "Climate Home News: 403 Client Error: Forbidden for url: https://www.climatechangenews.com/feed/"
   ],
   "articles": [
     {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "oPt: Humanitarian Situation Report | 26 November 2026\\",
-      "url": "https://reliefweb.int/report/occupied-palestinian-territory/opt-humanitarian-situation-report-26-november-2026",
-      "summary": "Country: occupied Palestinian territory Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached file. Key Highlights At least 600 aid workers have been killed in Gaza since October 2023, including 13 since the ceasefire was announced, following the killing of an UNRWA staff member in an Israeli strike on 23 November. The World Health Organization reports 692 suspected meningitis cases between 1 October and 23 November, following a sharp increase in cases in mi",
-      "published": "2026-11-26T14:01:46+00:00",
-      "score": 21
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "summary": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated not only when users downloaded the programs directly from the official download page but also during the update process of previously installed",
+      "published": "2026-11-27T09:29:30+00:00",
+      "score": 16
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "published": "2026-11-27T18:00:40+00:00",
+      "score": 15
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "url": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set, detailed by SOCRadar, has been codenamed WeaveLotus. The activity is assessed to have comprised five intrusions in Thailand",
+      "published": "2026-11-27T16:36:11+00:00",
+      "score": 14
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Yemen: Calling for Collective Action and Resource Mobilization to Scale Up the Urgent Humanitarian Response",
-      "url": "https://reliefweb.int/report/yemen/calling-collective-action-and-resource-mobilization-scale-urgent-humanitarian-response",
-      "summary": "Country: Yemen Source: Life for Relief and Development 369,000 internally displaced people need essential humanitarian assistance to survive. Taiz and Lahj are among the leading governorates of origin for displaced families, requiring intensified relief efforts. Women and children are among the groups most severely affected by the conflict. Internal displacement continues across Yemen amid the escalating consequences of the conflict and mounting humanitarian pressures on affected families. Accor",
-      "published": "2026-11-26T14:31:34+00:00",
-      "score": 19
+      "title": "Angola: Southern Africa and Indian Ocean (SAIO) region | Food insecurity (October 2026 – May 2027) - DG ECHO Daily Map | 27/11/2026",
+      "url": "https://reliefweb.int/map/angola/southern-africa-and-indian-ocean-saio-region-food-insecurity-october-2026-may-2027-dg-echo-daily-map-27112026",
+      "summary": "Countries: Angola, Lesotho, Madagascar, Mozambique, Malawi, Eswatini, Zambia, Zimbabwe Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
+      "published": "2026-11-27T16:17:25+00:00",
+      "score": 14
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "World: Mixed Migration Review 2026 - Migration in the age of polycrisis",
-      "url": "https://reliefweb.int/report/world/mixed-migration-review-2026-migration-age-polycrisis",
-      "summary": "Countries: World, Bangladesh, Burkina Faso, Burundi, Chad, Colombia, Costa Rica, Ecuador, Egypt, Ethiopia, Iran (Islamic Republic of), Kenya, Lebanon, Libya, Mali, Morocco, Niger, occupied Palestinian territory, Panama, Peru, Somalia, South Sudan, Syrian Arab Republic, Tunisia, Venezuela (Bolivarian Republic of), Yemen Source: Mixed Migration Centre Please refer to the attached file. In late February 2026, war between the United States and Iran displaced millions within weeks, in a country that ",
-      "published": "2026-11-26T13:26:06+00:00",
-      "score": 19
+      "title": "Sudan FaSER - Alert Summary Report: conflict-induced Displacement, Al Ferdous Locality, East Darfur (18 November 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-faser-alert-summary-report-conflict-induced-displacement-al-ferdous-locality-east-darfur-18-november-2026",
+      "summary": "Country: Sudan Source: Solidarités International Please refer to the attached file. This alert report provides basic, initial information in relation to an alert raised by a member of the ECHOfunded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these ",
+      "published": "2026-11-27T14:19:35+00:00",
+      "score": 14
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "Libya Launches National Integrated Project to Reduce Violence Against Children",
-      "url": "https://reliefweb.int/report/libya/libya-launches-national-integrated-project-reduce-violence-against-children",
-      "summary": "Country: Libya Source: UN Children's Fund Please refer to the attached file. Libya Launches National Integrated Project to Reduce Violence Against Children. Government-led project brings together families, schools, services and communities around a shared national approach to prevention and protection. TRIPOLI, 26 November 2026 – The Government of Libya today launched the National Integrated Project for Reducing Violence Against Children, marking an important step towards strengthening preventio",
-      "published": "2026-11-26T19:01:37+00:00",
-      "score": 18
+      "title": "Ukraine: Meaning-Making Workshop Outcome Document: Cross-Cutting Demographic Realities for 2027 HNRP Planning",
+      "url": "https://reliefweb.int/report/ukraine/meaning-making-workshop-outcome-document-cross-cutting-demographic-realities-2027-hnrp-planning",
+      "summary": "Country: Ukraine Sources: CARE, NGO Girls, Protection Cluster, Ukraine Gender in Humanitarian Action Working Group, UN Women Please refer to the attached file. Single-layer vulnerability classifications obscure the dynamic, intersectional realities of the current crisis. Moving beyond status-based or geographic targeting to needs-based response requires anchoring interventions in actual socio-economic and demographic profiles derived from the latest assessments (MSNA, COD-PS, DTM, Rapid Gender A",
+      "published": "2026-11-27T14:12:29+00:00",
+      "score": 14
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+      "url": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT. The intrusion, according to eSentire, begins with a redirection to a bogus site for a sniping tool (\"snipp.codes-team[.]com\"), from where a Microsoft-signed installer called \"Snipping-Tool.exe\" is",
+      "published": "2026-11-27T11:49:34+00:00",
+      "score": 13
     },
     {
       "source": "The Hacker News",
@@ -49,159 +76,186 @@
       "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
       "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
       "published": "2026-11-26T10:57:25+00:00",
-      "score": 15
+      "score": 13
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "The Persecution Continues: Minority Communities Under Sustained Attack in Bangladesh (January - October 2026)",
-      "url": "https://reliefweb.int/report/bangladesh/persecution-continues-minority-communities-under-sustained-attack-bangladesh-january-october-2026",
-      "summary": "Country: Bangladesh Source: Human Rights Congress for Bangladesh Minorities Please refer to the attached file. Between 1 January and 31 October 2026, the Human Rights Congress for Bangladesh Minorities (HRCBM) documented 1,445 incidents affecting religious, ethnic, and Indigenous minority communities across all 64 districts and eight administrative divisions of Bangladesh . The Persecution Continues combines national and district-level statistics with representative cases to examine recurring vi",
-      "published": "2026-11-26T13:33:19+00:00",
-      "score": 15
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "DR Congo: Ebola disease survivors share their stories",
-      "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-disease-survivors-share-their-stories",
-      "summary": "Country: Democratic Republic of the Congo Source: Médecins Sans Frontières Christine and her ten-year-old son, Jérémie, fell sick with Ebola disease after attending a funeral in September. “Soon after getting home, I started to get headaches,” says Christine. “The next day, it got worse.” The pair visited a local hospital, but as their symptoms – vomiting and diarrhoea – got worse, they were eventually transferred to the Médecins Sans Frontières (MSF) Ebola treatment centre (ETC) in Beni, North ",
-      "published": "2026-11-26T14:20:09+00:00",
-      "score": 14
+      "title": "Sudan FaSER - Alert Summary Report: Displacement Blue Nile, Ar Rusayris, Al-Azaza (31st October 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-faser-alert-summary-report-displacement-blue-nile-ar-rusayris-al-azaza-31st-october-2026",
+      "summary": "Country: Sudan Source: Solidarités International Please refer to the attached file. This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these",
+      "published": "2026-11-27T15:24:53+00:00",
+      "score": 13
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.",
-      "published": "2026-11-26T10:25:51+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
-      "published": "2026-11-26T07:02:34+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-      "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a technical write-up. \"In the versions we analyzed, building or running a",
-      "published": "2026-11-26T03:48:52+00:00",
-      "score": 13
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-      "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score: 8.6) - An arbitrary file read vulnerability that could enable an attacker to access local text files readable by the GeoServer process or fetch",
-      "published": "2026-11-25T12:48:54+00:00",
-      "score": 13
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "published": "2026-11-27T20:09:09+00:00",
+      "score": 12
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
-      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
-      "published": "2026-11-26T09:27:44+00:00",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "published": "2026-11-27T05:15:26+00:00",
       "score": 12
+    },
+    {
+      "source": "NASA Breaking News",
+      "category": "Wissenschaft",
+      "title": "NASA’s NG-25 Mission to Launch Pioneering Space Crops Research",
+      "url": "https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/",
+      "summary": "NASA experiments, including a first-of-its-kind space crop production system, will travel to the International Space Station aboard Northrop Grumman’s 25th Commercial Resupply Services mission for the agency. Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health. Groundbreaking […]",
+      "published": "2026-11-27T14:22:00+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "summary": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually happening across the environment that week. Someone pulls them together the week before, cleans them up, and presents a picture of a program that is,",
+      "published": "2026-11-27T10:32:18+00:00",
+      "score": 12
+    },
+    {
+      "source": "The Hacker News",
+      "category": "Technik",
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "summary": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday. Three of the attacks targeted critical infrastructure operators, and two of those succeeded, with no major disruptions reported. The victims have not been named, and it is not known who is",
+      "published": "2026-11-27T06:04:20+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan FaSER - Alert Summary Report: Displacement Gubo Camp, Sharg aj Jabal, South Darfur (6 October 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-faser-alert-summary-report-displacement-gubo-camp-sharg-aj-jabal-south-darfur-6-october-2026",
+      "summary": "Country: Sudan Source: Solidarités International Please refer to the attached file. This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these",
+      "published": "2026-11-27T15:36:48+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan FaSER - Alert Summary Report: Displacement - Gerieda, South Darfur (20 October 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-faser-alert-summary-report-displacement-gerieda-south-darfur-20-october-2026",
+      "summary": "Country: Sudan Source: Solidarités International Please refer to the attached file. This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these",
+      "published": "2026-11-27T15:29:18+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan FaSER - Alert Summary Report: Dengue Fever, El Geneina, West Darfur (18 November 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-faser-alert-summary-report-dengue-fever-el-geneina-west-darfur-18-november-2026",
+      "summary": "Country: Sudan Source: Solidarités International Please refer to the attached file. This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence International, Triangle Generation Humanitarian, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these",
+      "published": "2026-11-27T14:26:30+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan FaSER - Alert Summary Report: New Arrivals from Mershing in Tawila (18 November 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-faser-alert-summary-report-new-arrivals-mershing-tawila-18-november-2026",
+      "summary": "Country: Sudan Source: Solidarités International Please refer to the attached file. This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these",
+      "published": "2026-11-27T14:22:07+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Sudan FaSER - Alert Summary Report: Displacement As Salam West Kordofan (18 November 2026)",
+      "url": "https://reliefweb.int/report/sudan/sudan-faser-alert-summary-report-displacement-salam-west-kordofan-18-november-2026",
+      "summary": "Country: Sudan Source: Solidarités International Please refer to the attached file. This alert report provides basic, initial information in relation to an alert raised by a member of the ECHO funded Sudan First and Second Line Emergency Response (FaSER), led by Solidarités International in partnership with Première Urgence Internationale, Triangle Generation Humanitaire, Aid for Impact and development Organization, Norwegian Refugee Council and Danish Refugee Council. Due to the nature of these",
+      "published": "2026-11-27T14:16:24+00:00",
+      "score": 12
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "World: Leadership in Humanitarian Action: Handbook for Humanitarian Coordinators, November 2026",
+      "url": "https://reliefweb.int/report/world/leadership-humanitarian-action-handbook-humanitarian-coordinators-november-2026",
+      "summary": "Country: World Source: Inter-Agency Standing Committee Please refer to the attached file. The Handbook provides guidance to Resident Coordinators and Humanitarian Coordinators in leading and coordinating principled and effective humanitarian action. It brings together key policies, normative frameworks, coordination arrangements, operational tools and services that support humanitarian leadership. The 2026 edition has been updated to reflect developments in humanitarian policy and practice, incl",
+      "published": "2026-11-27T14:00:34+00:00",
+      "score": 12
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "published": "2026-11-27T18:42:50+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
+      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "published": "2026-11-27T15:54:15+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "published": "2026-11-27T16:53:46+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC World",
+      "category": "Politik",
+      "title": "Clashes mar European games as Macron condemns violence",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+      "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
+      "published": "2026-11-27T10:24:24+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "New satellite data shows how fast some African cities are sinking",
+      "url": "https://www.bbc.co.uk/news/articles/cq074p95z4llo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cities including Lagos and Alexandria are sinking faster than previously thought, a new study shows.",
+      "published": "2026-11-27T19:03:18+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "published": "2026-11-27T18:45:05+00:00",
+      "score": 11
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "published": "2026-11-27T16:46:47+00:00",
+      "score": 11
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Maritime trade stagnates amid geopolitical uncertainty",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168884",
-      "summary": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.",
-      "published": "2026-11-26T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
-      "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
-      "published": "2026-11-24T12:00:00+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-      "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what it does. Checking whether software works as expected only tells you so much. Then there’s the question of who gets to use what. Stolen logins are opening",
-      "published": "2026-11-26T19:39:57+00:00",
-      "score": 12
-    },
-    {
-      "source": "The Hacker News",
-      "category": "Technik",
-      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and",
-      "published": "2026-11-26T06:44:46+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Afghanistan: ES/NFI Cluster Winterization Capacity (as of 15 November 2026)",
-      "url": "https://reliefweb.int/report/afghanistan/afghanistan-esnfi-cluster-winterization-capacity-15-november-2026",
-      "summary": "Country: Afghanistan Sources: International Organization for Migration, Shelter Cluster, UN High Commissioner for Refugees Please refer to the attached Infographic. The document provides a detailed overview of the winterization capacity of the Shelter, Land and Site Coordination (SLSC) Cluster in Afghanistan as of 15 November 2026. It presents partner commitments by region, province and district, including coverage within the 102 priority districts targeting 28.4K households. The figures and map",
-      "published": "2026-11-26T13:38:57+00:00",
-      "score": 12
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Afghanistan: Winterization Response Dashboard (As of 15 November 2026)",
-      "url": "https://reliefweb.int/report/afghanistan/afghanistan-winterization-response-dashboard-15-november-2026",
-      "summary": "Country: Afghanistan Sources: International Organization for Migration, Shelter Cluster, UN High Commissioner for Refugees Please refer to the attached Infographic. Afghanistan Winterization Response Dashboard Summary (as of 15 November 2026) This dashboard provides an overview of the 2026–2027 winterization response across Afghanistan, highlighting commitments and progress reported by the Shelter, Land and Site Coordination (SLSC) Cluster and its partners. Households in Need: 61.1K HH identifie",
-      "published": "2026-11-26T13:35:44+00:00",
-      "score": 12
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "published": "2026-11-26T15:17:18+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-      "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
-      "published": "2026-11-26T14:44:26+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Second court defeat for Trump's deep-sea mining ambitions",
-      "url": "https://www.bbc.co.uk/news/articles/c6y4jyx2m172o?at_medium=RSS&at_campaign=rss",
-      "summary": "Second judge rules against Trump administration's plans to lease areas of ocean floor and survey for mining.",
-      "published": "2026-11-26T18:22:28+00:00",
-      "score": 11
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "California warns of flooding as King Tides peak over Thanksgiving",
-      "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
-      "published": "2026-11-26T01:22:55+00:00",
+      "title": "Putting survivors at the centre of gender-based violence services",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168885",
+      "summary": "Reaching out for help can be an enormous step for survivors of gender-based violence (GBV), and what happens after walking through the doors of a support service can shape the path towards recovery and safety",
+      "published": "2026-11-27T12:00:00+00:00",
       "score": 11
     },
     {
@@ -214,92 +268,128 @@
       "score": 11
     },
     {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Our 2027 Innovators Under 35 competition is now open Every year, MIT Technology Review honors 35 of the world’s brightest young scientists, entrepreneurs, and inventors in our Innovators Under 35 list.…",
+      "published": "2026-11-27T13:00:00+00:00",
+      "score": 11
+    },
+    {
+      "source": "MIT Technology Review",
+      "category": "Technik",
+      "title": "Our 2027 Innovators Under 35 competition is now open",
+      "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "summary": "Every year, the editors at MIT Technology Review select 35 of the world’s top young scientists, entrepreneurs, and inventors to honor as our newest class of Innovators Under 35. And starting today, our 2027 competition is officially open for nominations. We’re on the hunt for researchers and founders who are engineering solutions to some of…",
+      "published": "2026-11-27T10:48:47+00:00",
+      "score": 11
+    },
+    {
       "source": "The Hacker News",
       "category": "Technik",
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user. How an",
-      "published": "2026-11-26T10:57:55+00:00",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
+      "published": "2026-11-26T07:02:34+00:00",
       "score": 11
     },
     {
       "source": "ReliefWeb",
       "category": "Krieg",
-      "title": "World: Asia and the Pacific | DG ECHO Civil Protection and Humanitarian Aid Operations from January 2026 to November 2026 - DG ECHO Daily Map | 26/11/2026",
-      "url": "https://reliefweb.int/map/world/asia-and-pacific-dg-echo-civil-protection-and-humanitarian-aid-operations-january-2026-november-2026-dg-echo-daily-map-26112026",
-      "summary": "Country: World Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations Please refer to the attached Map.",
-      "published": "2026-11-26T15:17:31+00:00",
+      "title": "Venezuela: Humanitarian Response - Who does what, where, when and for whom? (As of 31 October 2026)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-humanitarian-response-who-does-what-where-when-and-whom-31-october-2026",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "published": "2026-11-27T15:41:19+00:00",
+      "score": 11
+    },
+    {
+      "source": "ReliefWeb",
+      "category": "Krieg",
+      "title": "Venezuela 5W - Presencia Operativa Humanitaria 2026 - ¿Quién hace qué, dónde, cuándo y para quién? (Al 31 de octubre de 2026)",
+      "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-5w-presencia-operativa-humanitaria-2026-quien-hace-que-donde-cuando-y-para-quien-al-31-de-octubre-de-2026",
+      "summary": "Country: Venezuela (Bolivarian Republic of) Source: UN Office for the Coordination of Humanitarian Affairs Please refer to the attached Infographic.",
+      "published": "2026-11-27T15:39:40+00:00",
       "score": 11
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
-      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
-      "published": "2026-11-26T19:26:16+00:00",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "published": "2026-11-27T20:06:31+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
-      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
-      "summary": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
-      "published": "2026-11-26T05:00:27+00:00",
+      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "published": "2026-11-27T11:44:40+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "published": "2026-11-26T20:35:39+00:00",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "summary": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+      "published": "2026-11-27T07:28:10+00:00",
       "score": 10
     },
     {
       "source": "BBC World",
       "category": "Politik",
-      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
-      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
-      "published": "2026-11-26T11:00:39+00:00",
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "published": "2026-11-27T08:13:43+00:00",
       "score": 10
     },
     {
       "source": "BBC Science",
       "category": "Wissenschaft",
-      "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
-      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-      "summary": "Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.",
-      "published": "2026-11-26T17:38:56+00:00",
+      "title": "Watch: Truck hangs in the balance after losing control in wet conditions",
+      "url": "https://www.bbc.co.uk/news/videos/cq9vwdjp7kw3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A semi-truck carrying mail was left straddling an off-ramp and an overpass in Toledo, Ohio on Thanksgiving Day during severe weather in the US.",
+      "published": "2026-11-27T04:43:49+00:00",
+      "score": 10
+    },
+    {
+      "source": "BBC Science",
+      "category": "Wissenschaft",
+      "title": "Inside the control room feeding your weather app",
+      "url": "https://www.bbc.co.uk/weather/videos/c6y0xq8y757ko?at_medium=RSS&at_campaign=rss",
+      "summary": "BBC Weather's Matt Taylor takes us on a tour of the Met Office control room.",
+      "published": "2026-11-27T00:09:30+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "‘Come right now’: How a crisis centre in Samarkand helps women escape violence",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168878",
-      "summary": "Irina* paced the apartment. Her husband had come home drunk again, and she knew the beatings would follow.",
+      "title": "16 Days of Activism: UNHCR warns over deep funding cuts to vital protection work",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168888",
+      "summary": "Serious funding cuts are severely weakening protection for refugee and stateless women and girls and others at risk of gender-based violence (GBV), like Mariam, who survived a decade of captivity and rape at the hands of Boko Haram militia.",
+      "published": "2026-11-27T12:00:00+00:00",
+      "score": 10
+    },
+    {
+      "source": "UN News",
+      "category": "Geopolitik",
+      "title": "Maritime trade stagnates amid geopolitical uncertainty",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168884",
+      "summary": "Seaborne trade that underpins the global economy continues to slow, while disruption from conflict and climate-related factors is hitting least-developed economies and small island nations hardest, UN economists said on Thursday.",
       "published": "2026-11-26T12:00:00+00:00",
       "score": 10
     },
     {
       "source": "UN News",
       "category": "Geopolitik",
-      "title": "Decades of gains against AIDS could unravel as HIV funding dries up",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168869",
-      "summary": "Decades of progress against AIDS, one of the greatest public health achievements in history, could go into reverse as international HIV funding is cut and campaigns against human rights and gender equality gain ground, the UN agency devoted to ending the pandemic warned Tuesday in a new report.",
-      "published": "2026-11-24T12:00:00+00:00",
-      "score": 10
-    },
-    {
-      "source": "UN News",
-      "category": "Geopolitik",
-      "title": "‘Far too much failure’: UN deputy chief’s final call to end violence against women",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168868",
-      "summary": "UN Deputy Secretary-General Amina Mohammed warned on Tuesday that another woman or girl would be killed by a partner or family member before she finished speaking, as she called for justice for survivors and consequences for perpetrators.",
+      "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168871",
+      "summary": "More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.",
       "published": "2026-11-24T12:00:00+00:00",
       "score": 10
     },
@@ -313,103 +403,13 @@
       "score": 10
     },
     {
-      "source": "NASA Breaking News",
-      "category": "Wissenschaft",
-      "title": "NASA’s Hubble Views Ocean of Stars in Groundwork for Roman",
-      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-views-ocean-of-stars-in-groundwork-for-roman/",
-      "summary": "These Hubble observations are part of a survey that will help researchers better interpret upcoming Nancy Grace Roman Space Telescope observations as they seek to characterize the stars and search for exoplanets in this busy region of our galaxy.",
-      "published": "2026-11-25T14:56:54+00:00",
-      "score": 10
-    },
-    {
-      "source": "The Hacker News",
+      "source": "MIT Technology Review",
       "category": "Technik",
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as CVE-2026-132165 aka Fail2Install (CVSS score: 9.8), is a case of remote code execution (RCE) impacting Drupal core. \"Drupal Core",
-      "published": "2026-11-25T11:23:26+00:00",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "summary": "Over the last few weeks, I’ve been talking to Alexander (Avi) Davidson. There are a lot of remarkable things about Avi. He sustained a horrific injury as a teenager, which left him paralyzed and without a left hand. Today, he uses his own experience to guide his practice as a trauma therapist. He’s also taking…",
+      "published": "2026-11-27T10:00:00+00:00",
       "score": 10
-    },
-    {
-      "source": "Carbon Brief",
-      "category": "Umwelt",
-      "title": "COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya",
-      "url": "https://www.carbonbrief.org/cop31-key-outcomes-for-food-forests-oceans-and-nature-at-the-un-climate-talks-in-antalya",
-      "summary": "The COP31 climate talks in Antalya, Turkey, failed to agree on a “pact” that – despite making no clear reference… The post COP31: Key outcomes for food, forests, oceans and nature at the UN climate talks in Antalya appeared first on Carbon Brief .",
-      "published": "2026-11-24T16:33:18+00:00",
-      "score": 10
-    },
-    {
-      "source": "ReliefWeb",
-      "category": "Krieg",
-      "title": "Haiti | Cluster Nutrition | Tableau de bord 2026 | Aperçu de la réponse humanitaire (octobre 2026)",
-      "url": "https://reliefweb.int/report/haiti/haiti-cluster-nutrition-tableau-de-bord-2026-apercu-de-la-reponse-humanitaire-octobre-2026",
-      "summary": "Country: Haiti Sources: Nutrition Cluster, UN Children's Fund Please refer to the attached file.",
-      "published": "2026-11-26T15:30:57+00:00",
-      "score": 10
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
-      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
-      "published": "2026-11-26T05:00:24+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
-      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
-      "published": "2026-11-26T14:35:22+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC World",
-      "category": "Politik",
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-      "published": "2026-11-26T12:33:23+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
-      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say no lead has been detected in the surrounding area, which continues to be tested following concerns from locals.",
-      "published": "2026-11-26T10:38:35+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "What UK season changes mean for you",
-      "url": "https://www.bbc.co.uk/weather/videos/c804wd3wwqpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Frosts will become less common and hot summer days more frequent in the UK, the Met Office says.",
-      "published": "2026-11-26T00:14:16+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
-      "url": "https://www.bbc.co.uk/weather/articles/cr3eg1py3gv5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Changing seasons are affecting wildlife and leading some farmers to grow different crops.",
-      "published": "2026-11-26T00:08:07+00:00",
-      "score": 9
-    },
-    {
-      "source": "BBC Science",
-      "category": "Wissenschaft",
-      "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
-      "url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
-      "published": "2026-11-25T14:41:42+00:00",
-      "score": 9
     }
   ]
 }
